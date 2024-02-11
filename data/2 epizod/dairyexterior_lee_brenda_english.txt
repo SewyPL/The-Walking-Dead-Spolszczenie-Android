@@ -1,0 +1,185 @@
+1) BRENDA
+Sittin' out here, looking over the farm, I can pretend that things are like they used to be.
+2) BRENDA
+[pickup2]That's the world we're living in now, I guess.
+3) LEE
+{normald}I'd still like to check on him.
+4) BRENDA
+[pickup2]{sada}You're gonna have to trust me on this one, Lee.  {normala}I've helped stitch my share of wounds...I know what I'm talking about.
+5) BRENDA
+Just you wait, Lee, things are gonna seem so much nicer once you've all had supper and a good night's rest.
+6) BRENDA
+[pickup2][friendly]Please! After what we've been through...you can call me Brenda!
+7) LEE
+[pickup2][initiating conversation]{normalA}Mrs. St. John...
+8) LEE
+[pickup2][initiating conversation] {normalA}Pardon me, Brenda...
+90) LEE
+[pickup2][initiating conversation] {normalA}Pardon me, Brenda...
+9) BRENDA
+[pickup2][friendly]{normalA}What's on your mind, Lee?
+50) BRENDA
+[pickup2][friendly]{normalA}What's on your mind, Lee?
+91) BRENDA
+[pickup2][friendly]{normalA}What's on your mind, Lee?
+10) LEE
+[pickup2]{sadA}How's Mark doing in there?
+52) 
+How's Mark doing in there?
+11) BRENDA
+[pickup2]{normalA}Best patient I ever had. My boys get so much as a scratch and start hollerin'. {happya}He could definitely teach them a thing or two about being tough.
+12) LEE
+[pickup2]Not to be rude, ma'am, how come you're out here instead of, you know...
+13) LEE
+[pickup2] No no, I didn't mean for it to sound like that.
+14) BRENDA
+[pickup2][jovial]Ha, you wanna know why I'm not slaving away in the kitchen, is that it?
+15) BRENDA
+[pickup2]It's okay, darlin'. Got it slow cookin' in the oven. Should be ready before too long!
+16) BRENDA
+[pickup2]It's nothin' interesting, I can promise you that much. Just some odds and ends. Takes a lot to run a farm, you know.
+17) BRENDA
+[pickup2]Well, someone's gettin' a little curious, aren't they?
+18) LEE
+[pickup2]I don't mean to pry.
+19) LEE
+[pickup2]So, what do y'all keep in that barn back there? Besides cows, I mean.
+20) BRENDA
+[pickup2]I was just glad you two weren't hurt. Those bandits just don't know when to quit. But my boys... they can hold their own.
+21) LEE
+[pickup2]We ran into some trouble out there.
+48) 
+We ran into some trouble out there.
+22) LEE
+[pickup2]{normald}You been getting along with Larry?
+23) BRENDA
+[pickup2]{happya}He's just a big ol' sweetheart, ain't he?
+24) LEE
+[pickup2]{thinkinga}Don't know if I would have used those words, exactly.
+25) BRENDA
+[pickup2]{normala}Don't judge, honey. This world is bringin' out the worst in people. But if you really look, you'll catch a glimpse of humanity every now and then.
+26) BRENDA
+[pickup2]Kinda peaceful out here, ain't it? Enjoy it while you can. You'll probably start hearing those monsters fryin' against the fence before too long.
+27) LEE
+[pickup2]Think I'll go have a look around.
+28) BRENDA
+[pickup2]Don't wander too far. Dinner will be ready before you know it.
+29) LEE
+[pickup2] I can't believe Mark is dead. One second we're talking about your place here, the next he's got an arrow in him.
+30) BRENDA
+[pickup2] Oh child, I'm so sorry. We've seen some horrible violence here. But I promise ya'll are safe.
+31) 
+Why are you out here instead of cooking?
+32) 
+What do guys keep in the barn?
+33) 
+Your boy is nuts.
+34) 
+Why do you deal with bandits?
+35) 
+We met a woman at the camp...
+36) LEE
+[pickup2] He seemed to enjoy this woman's death.
+37) LEE
+[pickup2] Your boy Danny is nuts.
+38) BRENDA
+[pickup2] That's not a very nice thing to say, Lee.
+39) BRENDA
+[pickup2] I'm sure he didn't. He is sensitive and willing to do whatever it takes to protect this place.
+40) LEE
+[pickup2] Why did you make a deal with those people?
+41) BRENDA
+[pickup2] We got a thread of humanity left, Lee. We can do more good without them in our hair by placatin' em, so that's what we do.
+42) LEE
+[pickup2] What does that have to do with anything?
+43) BRENDA
+[pickup2] Means you can't trust 'em. Any of 'em.
+44) LEE
+[pickup2] She wasn't one of the "bandits." It sounds like they did something pretty bad to her and your marauders are still out there.
+45) LEE
+[pickup2] Before she died, we met a woman out there, at her camp.
+51) LEE
+[pickup2] Before she died, we met a woman out there, at her camp.
+46) BRENDA
+[pickup2] I think all them folks out in the woods had drug problems.
+47) BRENDA
+[pickup2] Them folks in the woods are no good, Lee. I know it was tough, but I'm glad you a
+49) LARRY
+[pickup3][reluctantly leaving Brenda as lee approaches]{normalB}We'll, uh... We'll finish talking later.
+53) BRENDA
+[pickup3]{happyA}Well, hi there Lee!  What can I do for ya, sweetie?
+54) 
+How many rooms in this house?
+55) BRENDA
+[pickup3]{happyA}I think with Danny's help I've got things pretty well squared away in the kitchen, but feel free to check with Andy. He's got a lot of weight on his shoulders these days so I'm sure he'd love any help he can get.
+56) LEE
+[pickup3]{normalA}Can I help you with anything around the house.
+57) BRENDA
+[pickup3]{happya}It'll be a while still, but it'll we worth it, trust me!
+58) LEE
+[pickup3]{normalA}When will dinner be ready?
+84) 
+When will dinner be ready?
+89) LEE
+[pickup3]{normalA}When will dinner be ready?
+59) LEE
+[pickup3]{normalA}How many rooms does this house have?
+60) BRENDA
+[pickup3]{normalb}Rooms?  Why do you ask?
+61) 
+Just curious.
+62) 
+It looks custom built.
+63) 
+Sorry, that was rude.
+64) LEE
+[pickup3][flustered, as if caught] {surprisea}Uh... {thinkinga}Just curious I guess.
+65) BRENDA
+[pickup3]{normala}Well, don't you worry about it, Lee. {happya}We've got a great big dining room that will fit your whole group.
+66) BRENDA
+[pickup3][slightly offended]{angrya}Let's not start thinking too far ahead now.  {happya}[then friendly]Let's just focus on gettin' y'all a good home cooked meal tonight.
+67) BRENDA
+[pickup3][happy nostalgic]{happyc}Nice of you to notice.  My husband put a lot of work into this old house.
+68) LEE
+[pickup3]{happya}Well, he did a fantastic job.
+69) LEE
+[pickup3][admiring]{happya}It looks custom built.
+70) LEE
+[pickup3]{sadA}I'm sorry.  That was rude of me.
+71) LEE
+[pickup3][flustered]{feara}Uhhh....
+72) BRENDA
+[pickup3]{happyb} I believe in making a house a home.
+73) LEE
+[pickup3] {happya}Your family has done an amazing job of keeping this place up.
+74) BRENDA
+[pickup3] {happyb}Well now aren't you sweet, thank you Lee. The boys and I have tried to adapt as best we can, but we still keep some of our old routines to help remind us of better times.
+75) LEE
+[pickup3] {normalB}What happened to the rest of your staff?
+���������������������������������������������������������������������������������������������������������������
+76) BRENDA
+[pickup3][feeling tragic] {sadA}We've had our share of tragedy here... just like everyone else I'm sure.
+77) BRENDA
+[pickup3][feeling tragic] {sadb}Some of our staff took off to find their families soon as they heard the news.
+78) BRENDA
+[pickup3] {sadA}The few that stuck around... well... {sadc}we lost most of 'em the first night those things showed up here.  It was... a tough night.
+79) LEE
+[pickup3] {normalC}How has your family been holding up since ...you know?
+80) BRENDA
+[pickup3]{normalA}I think it was hardest on Andy.  Dan was always more of a mama's boy, {happya}but don't tell him I said that!  [chuckles]
+81) BRENDA
+[pickup3] {normalB}My boys have been my saving grace. They both left their jobs and came home to help out after the attacks started happening.
+82) 
+The place looks amazing.
+83) 
+What happened to your staff?
+85) 
+How is your family holding up?
+86) LEE
+[pickup3] �{normalA}Well if anything comes up that I can help with, feel free to let me know.
+87) BRENDA
+[pickup3] �{happya}Well, Lee, I sure appreciate it.
+88) LEE
+[pickup3] {happyA}No problem.
+92) BRENDA
+Should be ready before too long!

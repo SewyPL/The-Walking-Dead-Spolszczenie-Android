@@ -1,0 +1,672 @@
+1) 
+a TELLTALE GAMES production
+2) 
+based on the comic book by ROBERT KIRKMAN,
+TONY MOORE, and CHARLIE ADLARD
+3) 
+DIRECTED BY
+Sean Ainsworth
+
+WRITTEN BY
+Sean Ainsworth
+Nick Breckon
+Mark Darin
+Sean Vanaman
+Gary Whitta
+
+STORY BY
+Sean Ainsworth
+Mark Darin
+Jake Rodkin
+Sean Vanaman
+Gary Whitta
+
+DESIGNED BY
+Sean Ainsworth
+Mark Darin
+Harrison G. Pink
+
+LEAD PROGRAMMER
+Randy Tudor
+
+ART DIRECTOR
+Leif Estes
+
+LEAD ANIMATOR
+Jessica Brezzo
+
+LEAD CINEMATIC ARTIST
+Graham Ross
+
+LEAD ENVIRONMENT ARTIST
+Erik Ose
+
+STORY CONSULTANT
+Gary Whitta
+
+PROGRAMMING
+David T. Potter
+
+ANIMATION
+Mike Hollander
+Justin Rosenthal-Kambic
+Michael Tjosvold
+Peter Tsaykel
+
+CINEMATIC ARTISTS
+Vahram Antonian
+Airyque Ervin
+Javier J. Espinoza
+Scott Hammack
+Daniel Farjam Herrera
+Dennis Lenart
+Nick Mastroianni
+Jolie Menzel
+Martin Montgomery
+Eric Parsons
+Graham Ross
+Ryan Weatherall
+Ryann Lynn Weller
+
+CONCEPT ARTISTS
+Jesse Maccabe
+Gray Rogers
+Derek Stratton
+
+ENVIRONMENT ART 
+Jonathon Banks
+Drew Di Domenico
+Paul Nelson
+Erik Ose
+
+CHARACTER ART
+Steven Moore
+Megan Gritzfeld
+Derek Sakai
+Jason Findley
+
+CHARACTER LIGHTING
+Leif Estes
+
+TECHNICAL ART AND EFFECTS
+Brian Eby
+Nora Magyar
+Michael Perretta
+
+USER INTERFACE
+Crystal Langley
+David Reed Monroe
+Jake Rodkin
+
+EXECUTIVE PRODUCERS
+Dan Connors
+Kevin Bruner
+
+PRODUCER
+Kirsten Kennedy 
+
+ASSISTANT PRODUCERS
+Bryan Roth
+Juan Vaca
+
+DIRECTOR OF DESIGN
+Ryan Kaufman
+
+TECHNICAL DIRECTOR
+Zacariah Litton
+
+DIRECTOR OF ART
+Dave Bogan
+
+DIRECTOR OF PRODUCTION TECHNOLOGIES
+Jonathan Sgro
+
+RELEASE AND SUBMISSIONS MANAGER
+Matt Tomczek
+
+DIRECTOR OF PRODUCTION SERVICES
+Dave Felton
+
+SENIOR LEAD TESTER
+Emmy Bautista
+
+QA PROJECT LEAD
+Arthur von Nagel
+
+QA TESTING
+Ben Knoll
+Brendin Christolear
+Calvin Huang
+Jason Pimentel
+Kelly Robertson
+Matthew Paris
+Mike Sherak
+Will Wheeler
+Helena Norton
+Christopher Donnelley
+Andrew Schnieder
+David Ramirez Ch. 
+Ben Vizcaino
+Evan Koepf
+
+LOCALIZATION LEAD
+Max Ince
+
+LOCALIZATION SERVICES BY
+SDI Media
+Tony Cheng
+Agnes Yoshida
+
+LANGUAGE SPECIALISTS
+Vincent Vidal
+Nicolas Gurney
+Michaela Loose
+Beatriz Covarrubias
+Alejandro Moreno S.
+
+PRODUCT SUPPORT
+Matthew Pedonti
+Evan Koepf
+
+ADDITIONAL DIRECTION BY
+Mark Darin
+
+ADDITIONAL WRITING BY
+Gary Whitta
+
+ADDITIONAL DESIGN BY
+Aaron Casillas
+Jake Rodkin
+
+ADDITIONAL PROGRAMMING BY
+Jason Kim
+Tulley Rafferty
+
+ADDITIONAL ANIMATION BY
+SuperGenius
+Alon Helman
+Adia Entertainment
+
+ADDITIONAL CINEMATIC ARTISTS
+Rebekah Gamin
+Christopher Rieser
+Grady Standard
+Jonathan Stauder
+
+ADDITIONAL ART BY
+Paolo Asuncion 
+Calvin Huang
+John Douglas Joy
+Crystal Langley
+Graham Ross
+Mark Sheppard
+Mike Sherak
+
+ADDITIONAL ENVIRONMENT LIGHTING
+Leif Estes
+Derek Sakai
+
+ADDITIONAL TECHNICAL ART AND EFFECTS SUPPORT
+Matthew Paris
+Mike Sherak
+
+ADDITIONAL PRODUCTION BY
+Sara Guinness
+
+ADDITIONAL QA SERVICES BY
+VMC Game Labs
+
+ADDITIONAL PLATFORM ENGINEERING BY
+Ben Ingram
+Carl Muckenhoupt
+Chris Bauer
+David Brady
+David Potter
+Jason Kim
+Mark Gabby
+Tim Ingram
+Tulley Rafferty
+
+ADDITIONAL PLATFORM UI ART BY
+Crystal Langley
+D. Reed Monroe (update elsewhere)
+Hain Lee
+
+ADDITIONAL PLATFORM PRODUCTION BY
+Bryan Roth
+Juan Vaca
+Sara Guinness
+
+ADDITIONAL PLATFORM QA BY
+Andrew Schnieder
+Arthur Von Nagel
+Ben Knoll
+Ben Vizcaino
+Brendin Christolear
+Calvin Huang
+Christopher Donnelley
+David Ramirez
+Emmy Bautista
+Evan Koepf
+Helena Norton
+Jason Pimentel
+Jessica Watkins
+Matthew Paris
+Max Ince
+Mike Sherak
+Will Wheeler
+
+ADDITIONAL PLATFORM TESTING SERVICES BY
+Pole To Win
+
+LEAD SOUND DESIGNER
+Lazar Levine
+
+SOUND DESIGN
+Jack Fusting
+
+AUDIO IMPLEMENTATION
+Jack Fusting
+Lazar Levine 
+
+ADDITIONAL VOICE RECORDING AND DIRECTION BY
+Jack Fusting
+Lazar Levine
+
+ADDITIONAL AUDIO IMPLEMENTATION
+Nick Mastroianni
+
+ZOMBIE VOCAL DIRECTION
+Jack Fusting
+Lazar Levine
+Nick Mastroianni
+
+ZOMBIE VOICES
+Sean Ainsworth
+Mark Barbolak 
+Susan DeMerit
+Nat Dart
+James A. I. Dzierwa 
+Javier J. Espinoza
+Shaun Finney
+Jack Fusting
+Rebekah Gamin
+Alan Johnson
+John Douglas Joy
+Ryan Kaufman
+Ben Knoll
+Andrew Langley
+Crystal Langley
+Lazar Levine
+Clarence Lum
+Nora Magyar
+Nick Mastroianni
+Jolie Menzel
+Eric Parsons
+Graham Ross
+Grady Standard
+Mary Stark
+Jonathan "JD" Straw
+Chris Waltner
+Ryann Lynn Weller
+Ryan Wetherall
+Will Wheeler
+
+
+
+Bay Area Sound, Inc.
+ 
+MUSIC BY
+Jared Emerson-Johnson
+ 
+VOICE PRODUCER
+Julian Kwasneski
+ 
+VOICE DIRECTION
+Jared Emerson-Johnson
+Julian Kwasneski
+ 
+DIALOG RECORDING
+Jory K. Prum
+Larry Winer
+Paul Luke
+ 
+DIALOG EDITING
+Peter Drescher
+Jory K. Prum
+Amanda Rose Smith
+Julian Kwasneski
+
+
+
+PUBLISHING
+
+SENIOR VICE PRESIDENT
+Steve Allison
+
+SENIOR DIRECTOR OF MARKETING
+Richard Iggo
+
+SENIOR MARKETING AND RELEASE MANAGER
+Jonathan "JR" Rosales
+
+SENIOR PUBLIC RELATIONS MANAGER
+Job J. Stauffer
+
+COMMUNITY AND PR SPECIALIST
+Laura Perusco
+
+SENIOR CREATIVE SERVICES MANAGER
+Paolo Asuncion
+
+MARKETING MEDIA PRODUCER
+Shaun Finney
+
+ASSISTANT VIDEO EDITOR
+Mary Stark
+
+VICE PRESIDENT ONLINE
+David Fox
+ 
+WEB PRODUCER
+Paul Zabierek
+
+SENIOR SERVER ENGINEER
+Michael Lindsay
+
+LEAD WEB ARCHITECT
+John Gamble
+ 
+WEB DEVELOPMENT
+Joshua LeBeau
+Jesse Wagstaff
+Todd Stritter
+
+IT DIRECTOR
+Stan Shambaugh
+
+IT SUPPORT
+Kelly Robertson
+
+BUILD & DISTRIBUTION ENGINEERING
+Tim Ingram
+
+OPERATIONS
+Rhoda Gravador
+Kathy McElwee
+Sarah Roth
+Serena Sinn
+
+LEGAL
+Mark Barbolak
+
+
+
+CAST
+
+BECCA
+Brett Pels
+
+BENNETT
+Will Beckman
+
+BONNIE
+Erin Yvette
+
+BOYD
+Mark Barbolak
+
+CLIVE
+Donovan Corneetz
+
+CLYDE
+J.S. Gilbert
+
+DANNY
+Erik Braa
+
+DEE
+Cissy Jones
+
+EDDIE
+Brandon Bales
+
+JEAN
+Rhoda Gravador
+
+JERRY
+Adam Harrington
+
+JOYCE
+Amy Ingersoll
+
+JUSTIN
+Trevor Hoffman
+
+LELAND
+Adam Harrington
+
+MARCUS
+Benjie Ross
+
+NATE 
+Jefferson Arca
+
+ROBERT
+Jason Pimentel
+
+ROMAN
+Kid Beyond
+
+RUSSELL
+Vegas Trip
+
+SHEL
+Cissy Jones
+
+STEPHANIE
+Dana Bauer
+
+SURVIVOR RADIO
+Julian Kwasneski
+
+TAVIA
+Rashida Clendening
+
+TINY CARLOS
+Sean Ainsworth
+
+VINCE
+Anthony Lam
+
+WALT
+Mark Barbolak
+
+WYATT
+Jace Smykel
+
+
+
+DESIGN CONTRIBUTIONS BY
+The Telltale Gang
+
+CREATED WITH THE TELLTALE TOOL
+Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Chris Bauer
+David Brady
+Ben Ingram
+Tim Ingram
+Romain Killian
+Alex Montgomery
+Guy Somberg
+Randy Tudor
+
+
+Portions Copyright
+Firelight Technologies
+Portions Copyright
+(C) 2002 Jean-Marc Valin
+
+
+
+FOCUS TESTERS
+Alex Dudley
+Amber von Nagel
+Gregory Schram
+Ryan Thompson
+Mary Lavilla 
+Brian Tombo
+Scott Sanchez 
+Sam Haves
+Keith Ha
+Adam Ramirez
+Lydia White 
+Dan Morris
+Susan Kim
+
+
+
+SPECIAL APPEARANCE BY 
+Chris Rebbert
+
+EXTRA SPECIAL THANKS 
+TS
+
+SPECIAL THANKS
+Robert Kirkman
+Tony Moore
+Charlie Adlard
+David Alpert
+Sean Mackiewicz
+Matt Lenart
+Mark Wesley
+Melon Mushmouse
+Marco Brezzo
+Elisa, Nick, Justice & Liberty Tudor
+Chrissy Darin
+Tia & Jae
+Sabrina Cecchini
+Amanda Ross-Gomez
+Carlos Gomez
+Marcus Gomez
+Marc and Judith Ross
+Owen and Luke Sgro
+Nick and Kaidan Falcon
+Bill, Loretta, Janet, Sarah Ose & Dae Spering
+Ron Fricke 
+Matthew Willcocks 
+Ikumi Sato
+Andrew Pink
+Donna Pink
+Nick and Kaidan Falcon
+Amber von Nagel
+Yohanna Weller
+Rashelle & Jeff Wilson
+Roman Terenzini
+xAdam & Mishauno
+Ron "AAlgar" Watt
+Jason Ellis
+Steffi Uhr
+Tony  & Keri 
+Eleanor Lin
+Leah & Griffin Rosenthal-Kambic
+Ikumi
+Alex Dudley
+Katie O.
+Sal "Ruthless" Go
+Deena Mustin
+Peter Canada
+Dustin Garza
+Jung Won Cho and Cho Co
+Anthony and Dawn Perretta
+Faranak Farjamrad Herrera
+Lia Farjam Herrera
+David & Cherie Herrera
+Cristina Herrera & Gustavo De Lafore
+Hassan & Zahra Farjamrad
+Bobby Farjamrad & Sahba Motallebi
+Kaela PerLee 
+Rachel Foster
+Michelle Steranko
+Mindy and Ethan Shambaugh 
+to my wife, al
+Danielle Bysouth 
+
+
+
+and You
+
+
+
+
+TELLTALE PETS
+Mighty Pete, Zeus - god of cats, Nugget, Torgo & Cabot,
+Mr. Bix, Sammy & Willow, Adonis and Aphrodite, Chai & Mocha,
+Penny & Desmond, Patches, Wiki, Peek-a-Boo the Cat 
+Kensey the Dog, Bofurd, Princess Melody Bell Fluffybottom,
+Yoshi and Milani, Odo and Lemmy Kilmister, Max the Dog,
+Terra Linda Zabierek, Momo, Mia & Brendan Q. Ferguson
+
+
+
+ "Walk Among the Cobras" performed by Dan Sartain licensed 
+courtesy of One Little Indian Records
+
+Baltic Sea 
+Performed by Orphanette
+(words and music by Itch)
+Vocals and rhythm guitar: Itch
+Lead guitar: Alex Chaffon
+Produced by Alex Chaffon and Buddy Gibbons
+�2012
+
+One Little Sip
+Performed by Orphanette
+(words and music by Itch)
+Vocals and rhythm guitar: Itch
+Lead guitar and backing vocals: Alex Chaffon
+Bass: Dregs
+Drums: Chris Rebbert
+Produced by Buddy Gibbons and Alex Chaffon
+�2012
+
+
+
+� 2012-14 Telltale, Inc. THE WALKING DEAD is TM and � 2014 Robert Kirkman, LLC.
+Based on the Comic Book by Robert Kirkman, Tony Moore and Charlie Adlard.
+Telltale and the Telltale Games logo are trademarks of Telltale, Inc.
+All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(C) 2012-2014 Telltale, Inc.
+All rights reserved
+4) 
+400 DAYS

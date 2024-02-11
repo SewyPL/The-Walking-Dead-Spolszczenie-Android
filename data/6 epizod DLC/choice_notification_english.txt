@@ -1,0 +1,76 @@
+1) 
+You escaped the Prison Bus with Danny.
+2) 
+You escaped the Prison Bus with Justin
+3) 
+You ditched the evidence.
+4) 
+You held on to the evidence.
+5) 
+Eddie appreciates that.
+6) 
+Eddie noted that.
+7) 
+You chose to try to save the cop.
+8) 
+You left the cop behind.
+9) 
+You left Eddie behind.
+10) 
+You denied your guilt.
+11) 
+You confided in them.
+12) 
+You came across as a tough guy.
+13) 
+You were honest with the stranger.
+14) 
+You stood your ground.
+15) 
+You hid from the approaching truck.
+16) 
+You threatened Nate.
+17) 
+Nate noted your choice.
+18) 
+You stood up to Nate and walked away.
+19) 
+Nate kept you around.
+20) 
+You lied to Leland.
+21) 
+You were honest with Leland
+22) 
+Dee will remember that.
+23) 
+Leland will remember that.
+24) 
+Leland noticed that.
+25) 
+Roman took notice of that.
+26) 
+Stephanie paid attention to that.
+27) 
+Becca will remember this.
+28) 
+That affected Becca.
+29) 
+Dee noticed that.
+30) 
+Nate noticed that.
+31) 
+Justin noticed that.
+32) 
+Danny noticed that.
+33) 
+Danny and Justin noticed that.
+34) 
+Stephanie will remember that.
+35) 
+Stephanie noticed that.
+36) 
+You made a hard choice.
+37) 
+You chose to accept this way of life to keep Becca safe.
+38) 
+You chose to take Becca away from this.

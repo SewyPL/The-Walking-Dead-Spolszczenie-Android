@@ -1,0 +1,658 @@
+1) LEE
+{NormalD}Nitro pills?
+2) MARK
+[weakly] Lee...
+3) LARRY
+{ThinkingA}How on {HappyB}earth did y'all {HappyC}get barbecue meat?
+4) DUCK
+[excited] {HappyB}Barbecue! Wow...
+5) ANDY
+{HappyA}Excuse the mess. {DisgustA}We had to {ThinkingA}block the back door after {AngryA}a walker got upstairs.
+6) ANDY
+{HappyB}Don't worry, {NormalB}that was a while ago and {ThinkingA}they ain't been back inside since.
+7) LEE
+[to himself]{ThinkingA}Looks unused.  {ThinkingB}Maybe a guest bed.
+8) LEE
+[to himself]{NormalC}Getting late.  {HappyB}No sign of bandits, though.
+9) LEE
+[to himself]{ThinkingB}I guess someone needed {SadA}some first aid recently.
+10) LEE
+[to himself: Seeing bloody tools and bandages in a trash can]{DisgustA}Yuck.  {DisgustB}What is this stuff?
+11) LEE
+[to himself]{FearA}Is that blood?
+12) LEE
+[to himself: this blood is fresh.] {DisgustB}It's fresh.
+13) LEE
+[to himself; following a blood trail]{ThinkingA}...blood stops here.
+14) LEE
+[to himself: Observing a the extensioncord in the hallway ]{ThinkingB}Hmmm.
+15) ANDY
+[ambient conversation]What do you do for a living, Ken?
+16) KENNY
+[ambient conversation]I.. uh... I was a fisherman down in Fort Lauderdale.
+17) DANNY
+[ambient conversation]If we were lucky we'd bring in a Sturgeon or two, but man... Never been out in the deep sea.
+18) DANNY
+[ambient conversation]Man, that sounds nice! Daddy used to take us out for largemouth bass when we were kids.
+19) KENNY
+[ambient conversation]Commercially, Snapper and Yellowfin mostly. But in the summers I'd take tourists out for some sailfish!
+20) KENNY
+[ambient conversation]I tell ya, there ain't nothing like fresh tuna straight from the sea - to the grill - to the plate!!  Especially the way Kat cooks it up!
+21) KATJAA
+[ambient conversation]I met Ken after I opened my Veterinary office. He came in with a sick octopus!
+22) KENNY
+[ambient conversation]What?  Where else was i gonna take it?
+23) DANNY
+[ambient conversation]Where ya from Katjaa?  That accent sure ain't from Georgia!
+24) KATJAA
+[ambient conversation][friendly]No, definitely not!  My family is from Latvia, but we moved to Florida when I was in my teens.
+25) KENNY
+[ambient conversation]Dan, did you always work here at the dairy?
+26) DANNY
+[ambient conversation]Me?  No, that was Daddy's business.  I ran an insurance company over in Decatur.
+27) KENNY
+[ambient conversation]I hear that.
+28) DANNY
+[ambient conversation]Yeah, anyway, it was good business.  But then all this shit went down, and I had to come home.  Family's more important, ya know?
+29) ANDY
+[ambient conversation]Yeah, well Dan felt it would be best to get away from Macon for a while. Had some... trouble.
+30) LILLY
+[ambient conversation]Decatur?
+31) ANDY
+[ambient conversation]Well, I took over as business manager eventually. Put that college degree to work.
+32) KATJAA
+[ambient conversation]What did you do before that?
+33) ANDY
+[ambient conversation]	I had a real estate business, but, you know... in this economy...
+34) DANNY
+[ambient conversation]Yeah, Daddy always wanted you to take over anyway.
+35) ANDY
+[ambient conversation]Just worked out that way, Dan.
+36) LARRY
+[ambient conversation]How long ya had this Dairy?
+37) ANDY
+[ambient conversation]Long as I can remember.  We grew up here.  Dan and I helped out where we could, but really this was a Mom and Pop business.
+38) LILLY
+[ambient conversation]So you two didn't work here?
+39) ANDY
+[ambient conversation]	So how long you been a vet?
+40) DANNY
+[ambient conversation]You work with many farm animals?
+41) KATJAA
+[ambient conversation][trying to think back] Ooh... well... a long time now.
+42) KATJAA
+[ambient conversation]Early in my training I did, but then mostly it was household pets.
+43) KATJAA
+[ambient conversation]I started working in a vet's office in my twenties, then got my license a few years later.
+44) KATJAA
+[ambient conversation]Oh, yes. Wildlife Rescue Center was always bringing their injured alligators to me to get patched up before releasing them.
+45) DUCK
+[ambient conversation]And alligators!
+46) CLEMENTINE
+[ambient conversation]Nu uh!
+47) LILLY
+[ambient conversation]So that fence does a good job of keeping the walkers out?
+48) DUCK
+[ambient conversation]Once, my dad smashed one in the face with a TV!
+49) DUCK
+[ambient conversation]Sorry.
+50) ANDY
+[ambient conversation]Yeah. Unfortunately we lost most of our livestock before we managed to get the thing rigged up.
+51) KATJAA
+[ambient conversation]Kenny Jr!  That is not appropriate talk at the dinner table.
+52) DANNY
+[ambient conversation][mumbled]Damned walkers.
+53) KENNY
+[ambient conversation]Our hunting trips have turned up nothing. The walkers are eating anything living they can get their teeth into.
+54) DANNY
+[ambient conversation]	Well, ya just have to know what to hunt.  There's meat out there that'll keep you alive if ya know what to look for.
+55) KATJAA
+[ambient conversation]Thanks again for this meal.  You have no idea how long it's been!
+56) KENNY
+[ambient conversation]How've you folks managed to find food?
+57) ANDY
+[ambient conversation]And what do you do Miss Lilly?
+58) LARRY
+[ambient conversation]	Lilly's a military woman.  Takes after her old man.
+59) DANNY
+[ambient conversation]That right?  Ever see any action?
+60) LILLY
+[ambient conversation][blunt, emotionless]I have.
+61) LARRY
+[ambient conversation]	Son, you don't ever ask a soldier that question, ya got it?
+62) LARRY
+[ambient conversation]All you need to know is that you don't wanna fuck with her. Period.
+63) LILLY
+[ambient conversation]Dad...
+64) DANNY
+[ambient conversation]Yeah, I'm sorry.
+65) ANDY
+[ambient conversation]	Don't pay my brother no mind.  I swear he makes a hobby of chewing his own foot.
+66) ANDY
+[ambient conversation]So did ya'all know each other before the outbreak?
+67) LILLY
+[ambient conversation]No. We just sort of found ourselves thrown together.
+68) LILLY
+[ambient conversation]But now we've gotta stick together if we're gonna survive.
+69) ANDY
+[ambient conversation]	I hear ya.  Ya gotta know when to make sacrifices for the greater good, ya know.
+70) KENNY
+[ambient conversation]It ain't right, though.  No kid should have to see the things they've seen.
+71) KATJAA
+[ambient conversation]Kids are resilient, you know?  I hate that this is the way they have to grow up, but under the circumstances, I think they're doing well.
+72) DANNY
+[ambient conversation]How the kids been dealing with... everything?
+73) DANNY
+[ambient conversation]Maybe I should check on him?
+74) KATJAA
+[ambient conversation]Let the man clean up. He'll be done in a minute.
+75) DUCK
+[ambient conversation]Are we gonna eat soon, momma?
+76) LARRY
+[ambient conversation]How long does it take to wash your damn hands?
+77) KATJAA
+[ambient conversation]As soon as Lee gets back.
+78) ANDY
+[ambient conversation]Yeah, Maybelle is the only one we have left.
+79) DANNY
+[ambient conversation][cont.] She provides the milk.
+80) CLEMENTINE
+[ambient conversation]I like your cow.  She's pretty.
+81) DANNY
+[ambient conversation]That's why we need Katjaa's help.
+82) DANNY
+[ambient conversation]We'd love to have another healthy calf, but we mostly want to make sure Maybelle's okay.
+83) LEE
+[pickup1][to himself looking at a St. John family portrait]{ThinkingB}This must be Terry.
+84) LEE
+[pickup1][to himself - Look at]{HappyA}I could use a shave... [but not right now]
+85) LEE
+[pickup1][to himself - Look at]Looks old.  The label's worn off.
+86) LEE
+[pickup1][to himself - Look at]No idea what that is.
+87) LEE
+[pickup1][to himself - Look at]Some kind of lotion.
+88) LEE
+[pickup1][to himself - Look at]Gauze pads.
+89) LEE
+[pickup1][to himself - Look at]Empty.
+90) DANNY
+[pickup1][casual but creepy as Lee snoops through the medicine cabinet]{NormalB}What are ya looking for?
+91) LEE
+[pickup1] [after caught looking through the medicine cabinet] {FearA}Nothing.  {AngryA}Can I get a little privacy?
+92) BRENDA
+[pickup1][calling out to danny from off screen]Danny, where'd ya go?  I could use a hand.
+93) DANNY
+[pickup1][calling into the next room] {ThinkingA}Coming, Momma.
+94) LEE
+[pickup1][hushed but shocked!] {FearC}Mark?!  {FearB}What the hell happened?!!
+95) MARK
+[pickup1][weakly..drugged, trying to tell Lee what happened] {SadA}... brothers...
+96) DANNY
+[Pickup1]Maybe I should check up on him?
+97) ANDY
+[pickup1][annoyed - offscreen]How long's it take to wash his hands?
+98) LEE
+[pickup1][calling back - having found the bathroom]{AngryA}Yep. Can't miss it.
+99) DANNY
+[pickup1][calling out from offscreen]You find the bathroom okay, Lee?
+100) LEE
+[pickup1][looking with minimal interest at portraits of the Brothers] {thinkingB}Hm.
+101) LEE
+[pickup1][to himself, looking at a large cabinet blocking the hallway]{ThinkingB}Walkers aren't getting through that thing.
+102) 
+Photo of Brenda
+103) 
+Nitroglycerine
+104) 
+Bottle
+105) 
+Box
+106) 
+Scratches
+107) 
+Sink
+108) 
+Medicine Cabinet
+109) 
+Shaving Cream
+110) 
+Look At
+273) 
+Look At
+111) 
+Push
+112) 
+Bed
+113) 
+Closet Door
+114) 
+Bedroom Door
+115) 
+Stains
+116) 
+Bookshelf
+117) 
+Door
+118) 
+Nightstand
+119) 
+Window
+120) BRENDA
+[pickup1]Give him one more minute.
+121) MARK
+[pickup1][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can] Help!
+122) MARK
+[pickup1][process - Super muffled, Upstairs locked in another room][Drugged out, but calling out as best as he can]Somebody...
+123) KATJAA
+[pickup1][ambient pleading with Brenda] Please...
+124) KATJAA
+[pickup1][ambient pleading with Brenda] Just let me go...
+125) KATJAA
+[pickup1][ambient pleading with Brenda] Don't do this...
+126) KATJAA
+[pickup1][ambient pleading with Brenda] Brenda, please...
+127) BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Stop![Brenda:][pickup1][ambient  - with Katjaa as a hostage on the stairs] I mean it!
+128) BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Get back!
+129) BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll kill her, Lee!
+130) BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] Just stop!
+131) BRENDA
+[pickup1][ambient  - with Katjaa as a hostage on the stairs] I'll do it!
+132) LEE
+[pickup1][quiet, searching the house, having heard a noise?  -3- ] Hello?
+316) LEE
+[pickup1][quiet, searching the house, having heard a noise?  -3- ] Hello?
+133) LEE
+[pickup1][quiet- to himself, searching the house, having heard a noise?  ] What the hell?
+315) LEE
+[pickup1][quiet- to himself, searching the house, having heard a noise?  ] What the hell?
+134) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Help me...
+313) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Help me...
+135) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Please....
+314) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Please....
+136) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Unnggh...
+312) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Unnggh...
+137) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Oh God...
+327) MARK
+[pickup1][process- Muffled, behind closed doors][heavily drugged, barely concious]Oh God...
+138) MARK
+[pickup2] {SadB}Don't... eat.... dinner...
+145) DAVID
+[pickup2] Don't... eat.... dinner...
+139) BRENDA
+[pickup2] Lee, did ya fall in?! Dinner's on the table an everyone's havin' at!
+140) LEE
+[pickup2] [to himself, hushed, super urgent] Clementine!
+141) LEE
+[pickup2][hushed, super urgent, wtf] {SadA}What the hell {SadB}happened to your legs, man?!
+142) DAVID
+[pickup2][weakly, drugged, out of it] Who...who's there...stay away... don't take any more of me...
+143) DAVID
+[pickup2][out of it, drugged]...trap....
+144) LEE
+[pickup2][hushed, super panicked]How did you lose both of your legs?
+146) LEE
+[pickup2][hushed but totally in shock]{FearC}Holy shit! {SadA}What happened to you? {FearA}We left you with...
+147) 
+DON'T EAT THAT!
+150) LEE
+[pickup2] {FearC}Don't eat that!
+148) 
+IT'S PEOPLE!
+157) 
+It's people!
+149) 
+CLEMENTINE, NO!
+158) 
+Clementine, NO!
+151) BRENDA
+[pickup2] {HappyB}Sit down, {FearA}your supper's getting cold.
+152) LEE
+[pickup2] {FearB}It's... {FearC}people!
+153) BRENDA
+[pickup2] {NormalB}Yes, Lee {HappyE}it's all people in here.
+154) LEE
+[pickup2] {FearB}Clementine, {FearC}NO!
+155) BRENDA
+[pickup2] {SadB}Lee, what's wrong? {FearB}You look pale.
+156) 
+Spit that out!
+159) LEE
+[pickup2][horrified, urgent] {FearC}Spit that out!
+160) 
+You are eating HUMAN meat.
+161) 
+This woman is fucking INSANE!
+162) LARRY
+[pickup2] {HappyB}Sit your ass down, Lee. {AngryB}This[with revelry for her] lady has made you a meal.
+163) DANNY
+[pickup2] {NormalC}It didn't have to be this way.
+164) LARRY
+[pickup2] {AngryB}He could use {AngryC}some goddamn manners.
+165) BRENDA
+[pickup2] {HappyC}He just had a start.
+166) LILLY
+[pickup2] {NormalB}Yeah, Lee, {HappyC}what's gotten into you?
+167) LILLY
+[pickup2] {AngryA}That's {HappyD}crazy!
+168) BRENDA
+[pickup2] [trying to settle folks down]{NormalB}Now, now...
+169) LEE
+[pickup2] {AngryC}Mark is upstairs with his fucking legs cut off! {AngryD}You're EATING him.
+170) KENNY
+[pickup2] {AngryA}You're scaring the kids, Lee.
+171) LEE
+[pickup2] [panicked]{FearA}That guy from the woods, {SadB}Kenny, you remember him. {FearB}The guy we left in the trap! {AngryB}He's upstairs {AngryC}with his fucking legs cut off! {AngryD}You're EATING him.
+172) LEE
+[pickup2] {FearA}You're {FearB}eating {FearC}HUMAN {FearD}meat!
+173) LARRY
+[pickup2] {AngryB}This woman made you a homecooked meal, {AngryD}you ungrateful shit! {AngryC}Show some respect!
+174) BRENDA
+[pickup2] {AngryB}Thank you, Larry.
+175) DUCK
+[picku2] Mom, I was eating that!
+176) KATJAA
+[pickup2] [grave]{FearB}Quiet, honey.
+177) LILLY
+[pickup2] {AngryC}What is going on?!
+178) LARRY
+[pickup2] {HappyA}Don't indulge him, Lilly. {AngryA}It's always something {AngryB}with this guy.
+179) DANNY
+[pickup2] {DisgustA}Everything coulda turned out okay for you folks.
+180) 
+They're picking us off to trade as meat.
+181) 
+Go upstairs and have a look!
+182) 
+We need to get the kids out of here!
+183) LARRY
+[pickup2] {HappyC}You're out of {AngryA}your skull!
+184) LEE
+[pickup2][huge] {AngryC}MARK is UPSTAIRS right now with {AngryD}NO LEGS.
+185) LEE
+[pickup2] {AngryB}They're picking us off {AngryC}to trade as meat.
+186) BRENDA
+[pickup2] {AngryB}It's true.
+187) LEE
+[pickup2][super angry] {AngryC}This woman, right here, is {AngryD}fucking INSANE.
+188) 
+That woman is running a slaughterhouse.
+189) 
+That woman just fed you a man's legs!
+190) 
+Fuck you, Larry. Eat up.
+191) LARRY
+[pickup2] {AngryB}I will, {HappyB}and I'll enjoy {DisgustA}every last bite!
+192) LEE
+[pickup2] {DisgustA}You know what? {AngryC}Fuck you, Larry. Eat up.
+193) LEE
+[pickup2] {AngryB}She's running {AngryC}a slaughterhouse. {ThinkingB}They kill people {AngryB}and pass it off as meat for gas {AngryC}to keep this place running.
+194) LARRY
+[pickup2] {AngryB}You don't even have the {AngryD}DECENCY {AngryC}to take a handout when you're offered one.
+195) LARRY
+[pickup2] {AngryB}It just makes me sick, {AngryA}it really does. [his perception of lee's disrespect]
+196) LARRY
+[pickup2] {DisgustA}You'd probably {AngryB}bitch about the FREE meal they use to give {AngryC}people like you in the joint.
+197) BRENDA
+[pickup2] [appreciates him standing up for her, but tries to calmly cool him down]{HappyC}That's enough, Larry.
+198) LEE
+[pickup2] {AngryB}That woman {AngryC}just fed you a man's legs!
+199) LARRY
+[pickup2] {HappyA}And {HappyC}SHE'S the insane one? {AngryB}Ha!
+200) LEE
+[pickup2] [big and angry]{AngryA}BRENDA, {AngryC}tell me he's {DisgustA}NOT being eaten right now.
+201) LEE
+[pickup2][big] {AngryC}The man Kenny and I found trapped in the woods is upstairs, right now, {AngryD}with NO LEGS.
+202) LEE
+[pickup2] {DisgustB}The bear traps {DisgustA}we found in the woods? {AngryB}Well, they match the ones in the barn. {AngryA}And they're using them to trap {AngryC}PEOPLE.
+203) LEE
+[pickup2] {AngryB}This is a dairy, {SadA}not a ranch. {AngryD}Think about it.
+204) LEE
+[pickup2] {AngryB}Go upstairs and look! {AngryC}You'll find a guy with {AngryD}both of his legs hacked off!
+205) LARRY
+[pickup2] {AngryB}Lee, sit down and eat {AngryA}your goddamn dinner.
+206) LEE
+[pickup2] {AngryB}We need to get the kids, {FearA}everyone, {AngryC}out of here. {AngryB}We need to go. {AngryC}NOW.
+207) ANDY
+[pickup2] {SadA}He woulda' died anyway! {NormalB}We gotta think about {AngryA}LIVIN'!
+208) BRENDA
+[pickup2] {FearB}Settle down, honey.
+209) BRENDA
+[pickup2] {NormalB}By the shock on your face, Lee,{DisgustB} it looks as if {AngryC}you've been upstairs.
+210) BRENDA
+[pickup2] {AngryA}Andy is right; {FearA}we go after folks who were gonna die anyways, {DisgustA}one way or another.
+211) DANNY
+[pickup2] [the big ultra creepy punctuation of the scene. previous "these were people who were gonna die ANYWAY]{NormalA}Like ya'll.
+212) LILLY
+[pickup2] {SadB}Uh... I'm gonna puke.
+213) BRENDA
+[pickup2] {AngryC}Now, {AngryB}you got monsters roamin' around {AngryD}that do nothin' but eat people. {DisgustB}And for what? {AngryB}To continue to rot til' they {AngryD}eat some more.
+214) BRENDA
+[pickup2] {ThinkingA}We think we can put that meat {DisgustB}to better use.
+215) BRENDA
+[pickup2] {AngryC}It's how I was raised and {AngryB}how I raised my boys.
+216) BRENDA
+[pickup2] {NormalC}Growin' up in rural Georgia, {AngryB}you're taught not to waste.
+217) 
+You're all sick.
+218) 
+Just let us go.
+222) LEE
+[pickup2] {FearA}Just let us go.
+219) 
+We outnumber you.
+223) LEE
+[pickup2] {AngryB}We outnumber you.
+220) LEE
+[pickup2] {AngryB}You're all sick...{SadA}sick in the head.
+221) BRENDA
+[pickup2] {AngryB}Lee, {FearA}that's not a very nice thing to imply.
+224) 
+Kenny, get your gun!
+227) LEE
+[pickup2] {FearB}Kenny, get your gun!
+225) 
+Clementine, run!
+226) 
+Lilly, grab a knife!
+229) LEE
+[pickup2] {FearB}Lilly, grab a knife!
+228) LEE
+[pickup2] {FearA}Clementine, {FearB}run!
+230) ANDY
+[pickup2]{angryD}Nobody's going anywhere!
+320) ANDY
+[pickup2]{angryD}Nobody's going anywhere!
+322) ANDY
+[pickup2]{angryD}Nobody's going anywhere!
+231) DANNY
+[pickup2] {HappyB}We got lots of use for ya'll {AngryB}right here.
+321) DANNY
+[pickup2] {HappyB}We got lots of use for ya'll {AngryB}right here.
+323) DANNY
+[pickup2] {HappyB}We got lots of use for ya'll {AngryB}right here.
+232) KENNY
+[pickup2] {AngryC}You don't go near {AngryD}my fucking family!
+233) CLEMENTINE
+[pickup2][yelp of pain]
+234) LILLY
+[pickup2] {AngryD}Put your guns down! We're walking out of here!
+235) DUCK
+[pickup2] [crying] I don't wanna die...mommy what did I eat...
+236) DANNY
+[pickup2] I GOT PLANS FOR THIS ONE!
+237) LARRY
+[pickup2] {SurprisedA}What..the..{ThinkingA}what...{AngryB}the fucking...{FearA}what...{AngryD}fuck!
+238) 
+I'LL KILL YOU!!!
+239) 
+LET GO OF HER!!!
+240) 
+YOU FUCKER!!!
+241) LEE
+[pickup2] {AngryD}[rage growl of uncontrolled anger, villain grabs clementine by the hair]
+242) LEE
+[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}I'll kill you!!!
+243) LEE
+[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}Let go of her, you son of a bitch!!!
+244) LEE
+[pickup2][uncontrolled anger, villain grabs clementine by the hair] {AngryD}You fucker!!! I'll tear you apart!
+245) 
+Everything will be okay!
+246) 
+Somebody do something!
+247) 
+We're screwed!
+259) LEE
+[pickup2] {AngryA}We're screwed.
+248) CLEMENTINE
+[pickup2] [in a horrific argument scene]{FearB}Lee! {CryingB}Lee...![half crying half in shock]
+249) LEE
+[pickup2] [trying to calm the group]{NormalC}Everyone! {SadA}Everything will be okay!
+250) LEE
+[pickup2][panicked, in an argument] {FearC}Somebody do something!
+251) ANDY
+[pickup2][hyper aggressive snarl, about to deal with a guy] Fucking hell...
+252) KATJAA
+[pickup2] [horrified gasp]
+253) LILLY
+[pickup2] [horrified gasp]
+255) LARRY
+[pickup2] [horrified gasp]
+256) KENNY
+[pickup2] [horrified gasp]
+257) DUCK
+[pickup2] [horrified gasp]
+254) MARK
+[pickup2] PLLLEEEASE...SOMEONE...!
+258) DAVID
+[pickup2] PLLLEEEASE...SOMEONE...Helll...!
+260) BRENDA
+[pickup2] {HappyD}Everybody sit down and {HappyA}I'll go get the meal! {HappyB}Ooh, this is a delight!
+261) DUCK
+[pickup2] Oh boy!
+262) KENNY
+[pickup2] {HappyB}I could eat a horse.
+263) LARRY
+[pickup2] {HappyC}Brenda, you are an angel.
+264) LILLY
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Huh?
+265) LARRY
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Hupf![whatever!]
+266) KENNY
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]..ehh??
+267) KATJAA
+[pickup2][ambient-mumbleld. confused (not shocked) When Lee shouts about eating people]Ugh?
+268) DANNY
+[pickup2][ambient-mumbleld grunt When Lee shouts about eating people]Hrmm.
+269) ANDY
+[pickup2][ambient-mumbleld grunt  When Lee shouts about eating people]Pfft.
+270) DUCK
+[pickup2] Biscuits, wow!
+271) 
+Baseball Trophy
+272) LEE
+[pickup 2b] [discovering an odd room] [to himself] {DisgustB}What the hell?
+274) LEE
+[pickup2b] [curious, confused] {ThinkingB}Where's that cord going?
+275) 
+Use
+276) LEE
+[pickup 2b] {DisgustA}Man, {DisgustB}it's the rough stuff.
+277) LEE
+[pickup 2b] {DisgustA}Musty as hell.
+278) LEE
+[pickup 2b] {NormalD}That is a {HappyB}lot of tampons.
+279) LEE
+[pickup 2b] {AngryA}Candles. Smart.
+280) LEE
+[pickup 2b] [seeing hemorrhoid cream] [to himself]{DisgustA}Hemorrhoid cream.
+281) LEE
+[pickup 2b][alt] That's a lot of gauze.
+282) 
+Box of Candles
+283) 
+Power Cord
+284) 
+Towel
+285) LILLY
+[pickup3][reacting to lee freaking out at dinner]Lee? [As in "come on, you're not serious"]
+286) KENNY
+[pickup3][reacting to lee  freaking out at dinner]What the hell?
+287) KATJAA
+[pickup3][reacting to lee  freaking out at dinner]That's ridiculous!
+288) KATJAA
+[pickup3][reacting to lee  freaking out at dinner]What's going on?
+289) KATJAA
+[pickup3][PANIC -reacting to brothers getting their guns]Kenny, no!!
+290) LEE
+[pickup3][to himself - looking at objects while snooping around the house]High school diploma.
+291) LEE
+[pickup3][to himself - looking at objects while snooping around the house]Andy's college degree.  These boys aren't stupid.
+292) LEE
+[pickup3][to himself - looking at objects (Dairly Blue Ribbon) while snooping around the house]This dairy must've meant a lot to em, before the walkers destroyed everything.
+293) LEE
+[pickup3][to himself - looking at objects (sports trophy) while snooping around the house]Hmf. Seems like it's been years since kids were playing sports for fun...
+294) LEE
+[pickup3][Lee, VERY SUSPICIOUS of the family, excuses himself so he can get a moment to snoop around.]Mind if I wash my hands first?
+295) LEE
+[dupliacte of line 310415796]{DisgustA}Where's Mark?
+296) BRENDA
+[dupliacte of line 310415797]{HappyB}Now don't you {HappyA}worry about him.  {HappyC}I've already brought some food up. {AngryA}You just let him rest.
+297) LEE
+[pickup3][to himself while snooping around the house][alt]Where does this go?
+298) LEE
+[pickup3][to himself while snooping around the house.  Looking at the window]Feels like there's a storm coming.
+299) LEE
+[pickup3][to himself while snooping around the house]Where the hell is Mark?  I thought Brenda said he was up here resting?
+300) LEE
+[pickup3][to himself while snooping around the house]Farm books. Cookbooks. Nothing out of the ordinary here.
+301) LEE
+[pickup3][to himself while snooping around the house]What do they need so much morphine for?
+302) LEE
+[pickup2]  [to himself]Looks like a bunch of medical waste in here. IV tubes, saline...
+303) LEE
+[pickup2] [to himself]What would dairy farmers need with this kind of stuff?
+304) KENNY
+[pickup3][springing into action at the dinner tabe when everyone else fails to react]All right, screw this!  We're getting the hell outta here!
+305) BRENDA
+[pickup3][allowing Lee to excuse himself to wash up before dinner]Bathroom's right outside in the hall.  And be sure to get under your nails, you've been muckin' around in the dirt all day.
+306) LILLY
+[pickup3][responding to Lee freaking out and claiming everyone is eating people] Lee, what the hell is wrong with you?!
+307) KENNY
+[pickup3][Reacting to Lee screaming at Clementine to spit out her food]Lee, Jesus, man! Did you find something?
+308) ANDY
+[pickup3]][Reacting to Lee screaming at Clementine to spit out her food]Hey, why don't you settle down,man.
+309) KENNY
+[pickup3][Quiet but firm- trying to keep Kat & Duck from panicinking while Lee shouts about eating people]Hang on Kat.  just keep Duck close.
+310) KATJAA
+[pickup3][at the dinner table whit Lee trying to warn people]...Ken, maybe we should-
+311) LEE
+[pickup3][to himself - looking at objects (sports trophy) while snooping around the house]Danny's baseball trophy...
+317) 
+College Diploma
+318) 
+High School Diploma
+319) 
+Mark is upstairs, LEGLESS!
+324) 
+Morphine
+325) 
+Medical Supplies
+326) 
+Trashcan
+328) LEE
+Clementi--
+329) 
+Blue Ribbon

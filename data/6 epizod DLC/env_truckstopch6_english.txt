@@ -1,0 +1,30 @@
+1) TAVIA
+[pickup2][into a walkie talkie][excited !]{HappyB}{Body-A}We were right! There are survivors out here.
+2) RADIO
+[pickup2][excited]Still alive?! Ah, they're gonna be happy to get rescued! So how many are we talking about?
+3) TAVIA
+[pickup2]{NormalA}{Body-A}They left a note, so at least we know they WANT to be found. {ThinkingA}And I can see smoke in the distance... probably a camp. {AngryA}I'm gonna try to make contact tonight.
+4) RADIO
+[pickup2][excited]Great! Well, just be careful, and use your best judgment. We're building a good community here, we want to keep it that way.
+5) TAVIA
+[pickup2]{ThinkingB}Of course.
+6) 
+Around five, I think.
+7) TAVIA
+[pickup2]{HappyA}{Body-A}Around five, I think.
+8) 
+I'm not sure.
+9) TAVIA
+[pickup2]{NormalA}{Body-A}I won't know for sure until I find them.
+10) RADIO
+[pickup2][still excited]Sure, sure.
+11) 
+Does it matter?
+12) TAVIA
+[pickup2]{DisgustB}{Body-A}Does it matter?
+13) RADIO
+[pickup2][still excited]'Course not.
+14) RADIO
+[pickup2][still excited][didn't hear any reply]Hello? I didn't catch that. Radio must have cut out. You still there?
+15) TAVIA
+[pickup2]{ThinkingA}{Body-A}Yeah, I'm still here.

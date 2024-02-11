@@ -1,0 +1,86 @@
+1) 
+[Give Half an Apple]
+2) 
+[Give Piece of Jerky]
+3) 
+[Give Crackers and Cheese]
+4) 
+[Give Crackers and Cheese]
+31) 
+[Keep the last piece of food for yourself]
+33) 
+[Save the last piece of food for someone else]
+41) 
+[Exit]
+5) LEE
+[pickup 2] Hey, Duck, how about a little food?
+43) LEE
+[pickup 2] Hey, Duck, how about a little food?
+6) DUCK
+[pickup 2] Oh, heck yes! Is there peanut butter?
+7) DUCK
+[pickup 2] Yeah! Oh, man, I'm so hungry!
+8) LEE
+[pickup 2] I'm sorry Duck, I'd give you something to eat, but I'm all out.
+9) DUCK
+[pickup 2] Whaaat? But my stomach's all grumpy...
+10) LEE
+[pickup 2] Catch you later, Duck.
+11) DUCK
+[pickup 2] Bye bye, Lee.
+12) LEE
+[pickup2]How are ya doing, Duck?
+13) CLEMENTINE
+[to ben; quizzing him about her drawing] {normalC}Guess what it is?
+14) BEN
+[still a little out of sorts; guessing what clems picture is of]{sadA} I don't know... a dog?
+15) DUCK
+{happyA}Okay.  Me and Clementine are coloring.
+16) CLEMENTINE
+{happyB}Nope.
+17) DUCK
+{happyB}Oh, I know!  It's a goat, right?
+18) DUCK
+[pickup2]That's 'cause I know Mom can fix him.
+19) LEE
+[pickup2][talking to Duck]You were pretty brave when we brought those people in here.
+20) KENNY
+[pickup2]Here ya go, Duck.[disapointed that Lee gave Kenny food and not duck] What is wrong with you, Lee? [as in "you have no idea what you're doing, do you?"]
+21) CLEMENTINE
+[pickup2] [fed up sigh] No!
+22) LEE
+[pickup2] What do you think, Duck?
+23) DUCK
+[pickup2][ashamed, answering a question] No... Probably not...
+24) 
+How are ya doing?
+25) 
+You're a pretty brave kid.
+26) 
+Talk To
+27) 
+Give Food To
+28) LEE
+[pickup 2] [giving some junk food]{normalC}Here.
+29) LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]One more piece of food to give out, then it's all gone for today.
+30) LEE
+[pickup3][knowing there is only one more piece of food left]Hm.  Maybe I should keep this for myself?
+32) LEE
+[pickup3][to himself - keeping the last bit of food for himself]I need to keep up my strength, too.
+34) LEE
+[pickup3][to himself - choosing to save the food for someone else]Nah.  Some of these people have gone longer than me without food.  They're the ones that need it.
+35) 
+Sorry Duck, I'm out of food.
+36) 
+Want some food? [Give Food]
+37) BEN
+[pickup3]Looks like you've made that guy happy...
+38) BEN
+[pickup3]...But, I don't think the lady on the RV is so thrilled.
+39) LEE
+[pickup3]I suppose she wants me to feed her dad.  But it's up to me.  She put me in charge.
+40) LEE
+[pickup3]Yeah, and I already gave Larry food, so that should keep Lilly happy too.
+42) LEE
+Sorry.

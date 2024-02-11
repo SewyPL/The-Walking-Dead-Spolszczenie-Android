@@ -1,0 +1,284 @@
+1) 
+I found your note.
+2) 
+I followed the smoke.
+3) 
+It's what I do.
+4) BECCA
+[pickup2][considering not going with the stranger to a new settlement]{ThinkingA}{Body-A}Shel, why are we even listening to her? {DisgustB}She's obviously lying.
+5) SHEL
+[pickup2][considering not going with the stranger to a new settlement]{ThinkingA}Staying in one place makes you an easy target. {SadA}I don't care how safe you think it is.
+6) SHEL
+[pickup2][considering going with the stranger to a new settlement]{FearA}{Body-A}Look, I know it's a risk, but {FearB}what else is there?  {FearA}If you guys are going, then so are we.
+7) SHEL
+[pickup2][considering not going with the stranger to a new settlement]{FearA}{Body-A}Even if she's not, I think it's better to just keep on the move.
+8) SHEL
+[pickup2][Contemplating going with the stranger]{AngryA}{Body-A}Can you promise my sister will be safe?
+9) SHEL
+[pickup2][Contemplating going with the stranger]{SadA}...Okay, if it means that much to you.
+10) BONNIE
+[pickup2]{FearB}{Body-A}[startled gasp as Someone approaches the group]
+11) TAVIA
+[pickup2][carefully revealing herself to the group]{FearB}My name is Tavia.
+12) TAVIA
+[pickup2][carefully revealing herself to the group]{FearA}Hey, don't shoot....
+13) VINCE
+[pickup2][confronting the stranger/ Stern!]{SeriousB}Who the fuck are you?!
+14) TAVIA
+[pickup2][carefully revealing herself to the group]{ThinkingA}{Body-A}I'm a scout for a growing settlement up north. {NormalA}We go out and look for survivors to rescue them.
+15) TAVIA
+[pickup2][holding up the photos]{FearA}{Body-A}I found your note.
+16) WYATT
+[pickup2]{AngryA}{Body-A}How did you find us?
+17) TAVIA
+[pickup2]{ThinkingA}{Body-A}I followed the smoke.
+18) TAVIA
+[pickup2]{AngryA}{Body-A}It's what I do.
+19) TAVIA
+[pickup2]{HappyB}We have food, clean water and shelter for everyone. {HappyA}We're offering you a chance to help us out and start over.
+20) VINCE
+[pickup2]{SeriousA}{Body-A}Guys, look... if I learned one thing from Danny, it's that {SeriousB}we have to stick together and protect ourselves!
+21) VINCE
+[pickup2][considering the strangers offer -skeptical]{SeriousA}{Body-A}I heard rumors about these places. The guy I was... {SeriousC}"traveling" with ditched me trying to find one on his own. He thought....[he could con his way in and steal their resources][leaves the thought hanging]
+22) WYATT
+[pickup2][agreeing with Vince, this is a bad idea]{AngryA}{Body-A}Yeah, screw this. We don't know what kind of people we're dealing with. {NormalB}The only reason I'm with you guys is because Vince saved my life.
+23) WYATT
+[pickup2][excited by the idea that Eddie might be found]{FearB}{Body-A}Wait, you find survivors?! Do you find a lot?
+24) WYATT
+[pickup2][excited by the idea that Eddie might be found]{HappyA}{Body-A}Well, we gotta go. Eddie might be there.
+25) TAVIA
+[pickup2]{SadA}{Body-A}Not as many anymore, but....
+26) VINCE
+[pickup2][seeing the opportunity to take advantage of the strangers offer and ]{HappyC}You know what? Let's do this. She looks well fed, right? And clean? {HappyA}We could all use a meal and a hot shower!
+27) BONNIE
+[pickup2][hopeful]God, this sounds too good to be true. But... I think it is.
+28) WYATT
+[pickup2][disagreeing with Vince, this is a bad idea]{ThinkingA}{Body-A}Hold up. We don't know what kind of people we're dealing with.
+29) RUSSELL
+[pickup2]{AngryB}{Body-A}I don't want to talk about that, Wyatt.
+30) WYATT
+[pickup2]{AngryA}I don't want to get stuck with some crazy asshole like Russell did!
+31) RUSSELL
+[pickup2]{SadA}{Body-A}I walked away from that shit, Wyatt. {ThinkingA}And that dude was crazy from jump street.
+32) BONNIE
+[pickup2]Wyatt....[come on, Eddie is NOT there.]
+33) WYATT
+[pickup2]{NormalC}{Body-A}I'm just saying, she could be someone like that.
+34) BECCA
+[pickup2][to Shel]{ThinkingB}{Body-A}Maybe we should go too, Sis. {FearA}If Roman is still looking for us he wouldn't be able to do anything to us there.
+35) TAVIA
+[pickup2][getting down to business]{FearA}{Body-A}Look, I know you guys are wary and you have every right to be. {DisgustB}You don't know me from a hole in the ground and, yeah, {FearC}there are some crazy fuckers out there.[continues]
+36) VINCE
+[pickup2][definitive]{SeriousC}{Body-A}Yeah, {SeriousA}I'm going.
+37) WYATT
+[pickup2]{SadA}{Body-A}Yeah, I have to.
+38) RUSSELL
+[pickup2][uncertain]{SadA}{Body-A}I'm.. I'm just not sure. {FearA}We've been out here for SO long and seen so much bullshit. {SadA}Is it really worth getting our hopes up?
+39) 
+You might find people you know.
+40) 
+It's a safe place.
+41) 
+It's your choice.
+42) TAVIA
+[pickup2]{NormalA}{Body-A}It's your choice. {SadA}Again, I'm not trying to force you or convince you. {NormalA}As long as you're willing to obey the rules and pull your weight, you're welcome to come.
+43) TAVIA
+[pickup2][cont]{ThinkingA}But you've gotta decide now. We're not gonna be out this way again for a long time.
+44) TAVIA
+[pickup2]{FearA}{Body-A}Some of you may have been separated from friends or family... {FearB}it's a long shot, but there's a chance you could find them there.
+45) TAVIA
+[pickup2]{DisgustA}{Body-A}It's a safe place for everyone. {FearA}Criminal activity isn't tolerated wihin our walls. Period. {HappyB}You don't have to worry about bandits or walkers or anyone else. {HappyA}We look out for each other.
+46) TAVIA
+[pickup2]{HappyB}{Body-A}We have people of all ages in our colony. Teenagers. Whole families. It's a chance to reconnect with people {FearA}the way you used to.
+47) 
+There are people of all ages.
+48) RUSSELL
+[pickup2]{SadA}{Body-A}Have your people been through Statesboro?
+49) TAVIA
+[pickup2]{HappyB}Yes, I think we have.
+50) RUSSELL
+[pickup2] [thinking]{NormalA}...Okay. {AngryA}But I swear to God, if you try ANYTHING {AngryB}you're gonna regret it!
+51) WYATT
+[pickup2][half heartedly agreeing with Russell's threat]{NormalB}{Body-A}Yeah... {SadA}and if you're not lying, maybe... {NormalC}maybe Eddie will be there.
+52) BONNIE
+[pickup2]{HappyB}{Body-A}I believe her, Becca. Look at her. This is {HappyC}not someone who's been struggling the way we have. It makes sense.
+53) BECCA
+[pickup2][skeptical] {ThinkingB}{Body-A}...That's not true.[is it?]
+54) BECCA
+[pickup2] {SadA}Shel... this might sound stupid, but {SurpriseB}I think I actually wanna go.
+55) TAVIA
+[pickup2]{NormalA}{Body-A}She'll be as safe as she was before all this happened.
+56) TAVIA
+[pickup2][making sure Vince gets the message]{ThinkingB}{Body-A}Is that clear?
+57) VINCE
+[pickup2][realizes she's onto his plans already.  Guess I'll play it straight.]{SadA}{Body-A}Yeah. Clear.
+58) TAVIA
+[pickup2]{HappyC}{Body-A}Well, I guess we have our group.
+59) RUSSELL
+[pickup2]{NormalB}{Body-A}I don't know. I don't really believe in safe places. {SadA}Not anymore.
+60) VINCE
+[pickup2]{NormalA}{Body-A}We understand. {SadA}I think we've all made up our minds.
+61) TAVIA
+[pickup2]{SadA}I know it's hard, but this is your only chance. We're not gonna be out this way again for a long time.
+62) TAVIA
+[pickup2]{NormalA}I'm glad you feel that way. We're not gonna be out this way again for a long time.
+63) TAVIA
+[pickup2]{ThinkingA}{Body-A}We'll do everything we can to help you find your friends and family, {SadA}but understand that I can't promise anything.
+64) TAVIA
+[pickup2]{NormalA}What do you wanna do with these?
+65) BONNIE
+[pickup2]{ThinkingA}{Body-A}Of course you don't, Russell. {AngryA}You don't trust anyone!
+66) BONNIE
+[pickup2]{FearB}{Body-A}Well, why not, Russell? If they have food, and medicine and... and--
+67) 
+Then stay here if you want.
+68) 
+I'm not lying to you.
+69) 
+What will it take to convince you?
+70) 
+We could have killed you already.
+71) 
+You clearly outnumber me.
+72) 
+What are we gonna do, eat you?
+73) TAVIA
+[pickup2][quietly into the walkie talkie]{ThinkingA}{Body-A}I found 'em.
+74) TAVIA
+[pickup2][quietly into the walkie talkie]{HappyA}So far, so good. I'm gonna try to talk to 'em. Wish me luck.
+75) RADIO
+[pickup2][quiet, over the radio]Holy shit! Good job! Everything okay?
+76) TAVIA
+[pickup2][quietly into the walkie talkie]{NormalA}You got it.
+77) RADIO
+[pickup2]Yeah, good luck, and be careful. Don't try to force them into anything, just get as many of them as you can.
+78) VINCE
+[pickup2][process, in the distance 50 yards?][ambient]{NormalA}{Body-A}Tomorrow we'll circle back and try to figure out a new strategy for gathering supplies. {ThinkingA}We should probably split up into two parties. One to scout, make sure there are no lurkers.
+79) RUSSELL
+[pickup2]{AngryA}{Body-A}Yeah. "Medicine."
+80) BONNIE
+[pickup2][offended!] {AngryB}Look--
+81) RUSSELL
+[pickup2]{AngryB}I don't trust her, Bonnie!
+82) TAVIA
+[pickup2]{DisgustA}{Body-A}I'm not lying to you.
+83) TAVIA
+[pickup2]{DisgustB}{Body-A}What will it take to convince you?
+84) TAVIA
+[pickup2]{FearA}{Body-A}Then stay here if you want. I'm not bringing anyone against their will. {NormalA}We only want people who WANT to be there.
+85) RUSSELL
+[pickup2]{AngryB}{Body-A}No, fuck this, she's crazy! I don't trust her!
+86) RUSSELL
+[pickup2]{AngryA}{Body-A}I don't like this, guys. We should just walk away. {SadA}I don't trust her.
+87) BECCA
+[pickup2]{ThinkingB}{Body-A}How do we know that?
+88) TAVIA
+[pickup2]{NormalA}You don't. {FearA}You don't have to come, but we'd be happy to have you.
+89) BONNIE
+[pickup2]{SadB}{Body-A}Russell, come on....
+90) RUSSELL
+[pickup2]{SadA}{Body-A}I don't know.
+91) VINCE
+[pickup2][stern]{SeriousB}Don't fucking move!
+92) RUSSELL
+[pickup2]Vince![Theres someone here!!! Help]
+93) TAVIA
+[pickup2]{ThinkingA}{Body-A}Look, we need people, plain and simple. {NormalA}And you folks can decide if you want to come as a group, or split up, or whatever, {FearA}but I don't want to be out here in the open after dark.
+94) TAVIA
+[pickup2][cont]{NormalA}So in a few minutes, I'm gonna be getting back in my car and on my way. {ThinkingA}Hopefully at least some of you will follow me.
+95) BONNIE
+[pickup2]{NormalC}{Body-A}Well, I'm goin'.
+96) WYATT
+[pickup2]{ThinkingA}{Body-A}I don't understand what the problem is? {ThinkingB}Are you really considering staying out here? {AngryB}Foraging for food like fucking raccoons?!
+97) VINCE
+[pickup2]{SeriousC}{Body-A}Guys, trust me, {ThinkingA}we need to get to this place.[so we can loot it dry if we can!]
+98) BONNIE
+[pickup2][pleading]{ThinkingA}{Body-A}Come on, guys. {FearC}I mean, we left those photos so that someone could find us, didn't we?
+99) WYATT
+[pikcup2][cont]I mean, {SadA}then why'd we even leave the photos there?
+100) BECCA
+[pickup2]{ThinkingA}{Body-A}Well, it could be a trap! {FearA}What if they want to kill us?
+101) RUSSELL
+[pickup2]{HappyA}{Body-A}Thank you![for someone finally backing me up!] {NormalB}Everyone out there is bat shit crazy! We've all seen it!
+102) BONNIE
+[pickup2]{DisgustB}{Body-A}Well, we turned out all right, didn't we?
+103) VINCE
+[pickup2]{SadA}{Body-A}Relatively speaking.
+104) TAVIA
+[pickup2]{AngryA}{Body-A}If we wanted to kill you, you'd be dead already. {DisgustA}I had a gun, and snuck right up.
+105) TAVIA
+[pickup2]{AngryB}{Body-A}You clearly outnumber me. If you wanted to overpower me, you could. {AngryC}Hell, I'll even go along as your hostage until you feel safe. {DisgustA}No one is gonna hurt you.
+106) TAVIA
+[pickup2]{ThinkingB}{Body-A}What are we gonna do, eat you?
+107) WYATT
+[pickup2][suddenly worried]{FearE}{Body-A}...Are you gonna eat us?
+108) TAVIA
+[pickup2]{HappyB}No! That was a joke! I'm sorry.
+109) RUSSELL
+[pickup2]{AngryA}{Body-A}Well, what's stopping you?
+110) TAVIA
+[pickup2]{HappyA}Exactly! Nothing!
+111) VINCE
+[pickup2]{ThinkingA}{Body-A}That's not a bad idea, actually.
+112) TAVIA
+[pickup2]{HappyA}And I'll do it, because I know when you guys see this place {HappyC}you'll change your minds.
+113) TAVIA
+[pickup2]{NormalA}So... who wants to come with me?
+114) TAVIA
+[pickup2][cont]{ThinkingA}All I'm here to do is make an offer. You can come with me, or you can stay here. The choice is yours.
+115) BECCA
+[pickup2]{AngryB}{Body-A}Bonnie, get real! Just because she says it's true, doesn't mean it is.
+116) BONNIE
+[pickup2][stern, defensive]{AngryD}{Body-A}Hey! What I told Leland--[interrupted]
+117) VINCE
+[pickup2][stern]{AngryA}{Body-A}Cool it!
+118) BONNIE
+[pickup2][stern, defensive]{AngryD}{Body-A}At least what I did was an accident![you killed people on purpose!]
+119) VINCE
+[pickup2][stern]{AngryB}{Body-A}Hey! That's enough!
+120) BECCA
+[pickup2][cont]{AngryA}YOU should know about that.
+121) BONNIE
+[pickup2]{FearC}{Body-A}If I didn't trust people, I'd be dead. I know that for sure. {FearA}People can care about you if you let them.
+122) BECCA
+[pickup2]{AngryB}{Body-A}Bonnie, get real. Just because you have to tell the truth all the time, doesn't mean everyone else does!
+123) VINCE
+[pickup2][stern]{AngryA}{Body-A}That's enough, Becca!
+124) BECCA
+[pickup2]{AngryA}Like Leland cared when he let you run off alone?
+125) RUSSELL
+[pickup2][with disdain for Danny]{DisgustA}Don't worry about it.
+126) RUSSELL
+[pickup2]{ThinkingA}{Body-A}What?! That guy was an {AngryA}asshole! You should be happy he got killed before {NormalB}Shel & Becca joined us.
+127) BECCA
+[pickup2]{ThinkingB}{Body-A}Why?
+128) RUSSELL
+[pickup2]{AngryA}{Body-A}That truck stop was a death trap! It was right off the highway, for God's sake! {DisgustA}No way you and a bunch of sick old people were gonna defend it!
+129) WYATT
+[pickup2]{DisgustA}{Body-A}There's no way that guy is still looking for you. {NormalB}We've been to that truck stop... there's no one left.
+130) RUSSELL
+[pickup2]{NormalB}{Body-A}Roman's not a problem, {AngryA}it's following her that'll get ya killed.
+131) BONNIE
+[pickup2][reafirming]{HappyB}{Body-A}This is a good thing. {HappyA}I know it is.
+132) VINCE
+[pickup2]{SeriousC}How do we know this'll work out?
+133) TAVIA
+[pickup2]{SadA}{Body-A}You don't.
+134) 
+You don't.
+135) 
+I give you my word.
+136) TAVIA
+[pickup2]{ThinkingA}{Body-A}I give you my word.
+137) 
+What's the alternative?
+138) TAVIA
+[pickup2]{FearA}{Body-A}What's the alternative? Staying out here?
+139) RUSSELL
+[pickup2]{NormalB}{Body-A}But being smart... THAT'S what's keeping us alive!
+140) BONNIE
+[pickup2]{SadA}{Body-A}Of course it is, Russell. {ThinkingA}Hope is all we've got left!
+141) TAVIA
+[pickup2]{NormalA}{Body-A}Just remember, if you stay here, there's not gonna be anyone else coming to find you. {ThinkingA}Not for a long time.
+142) WYATT
+[pickup2]{ThinkingA}{Body-A}What's it gonna be, guys?

@@ -1,0 +1,524 @@
+1) LEE
+[pickup1] [hushed, sharp] Cover me.
+2) LEE
+[pickup1][hushed] Probably shouldn't go that way.
+3) LEE
+[pickup1][hushed] That way's not safe.
+4) LEE
+[pickup1][hushed] Carley, stay here.
+5) LEE
+[pickup1][hushed] Glenn, stay here.
+6) LEE
+[pickup1][hushed] Glenn, let's go. [running to a new station - quick and fast]
+104) 
+You can't have a gun.
+263) 
+Pillow
+398) 
+Pillow
+264) 
+Brick
+265) GLENN
+[pickup1] And here, check this out.
+266) GLENN
+[pickup1] Batteries or something could be useful.
+267) LEE
+[pickup1] How is that supposed to help?...
+268) GLENN
+[pickup1] And here!
+269) GLENN
+[pickup1] I found it and thought the batteries or something could prove useful.
+279) LEE
+[pickup1] I'll wait for him to get closer...
+280) LEE
+[pickup1] Wait for it...
+281) GLENN
+[pickup1] Bad idea, dude. Let's get out of here.
+282) GLENN
+[pickup1] Bad idea. We can do better than that thing.
+298) GLENN
+[pickup1]No!
+475) CARLEY
+[pickup1] NO.
+299) GLENN
+[pickup1] What are you doing?! NO!
+300) LEE
+[pickup1] GLENN.
+301) LEE
+[pickup1][stern, holding a guy back] Leave her alone, Glenn.
+302) GLENN
+[pickup1]NO! Come on!!!
+303) LEE
+[pickup1]...you  need to think this through...
+304) LEE
+[pickup1][ramping up intensity]...we'll find you a doctor, it'll be ok, let's all just...
+305) LEE
+[pickup1]  Miss, just relax now...
+306) LEE
+[pickup1] [sarcastic] It was her idea.
+307) LEE
+[hushed][pickup1]Get your gun ready.
+308) LEE
+[pickup1][hushed]Be ready to shoot.
+337) LEE
+[pickup1][hushed]Be ready to shoot.
+309) GLENN
+[pickup1][hushed][SUPER relieved] GUYS! Oh man, I'm glad you're here.
+310) GLENN
+[pickup1][hushed]LISTEN. I was out here looking for gas. [continual sentence]
+311) GLENN
+[pickup1][hushed] And then, up there in the corner room, I heard crying coming from inside.
+312) GLENN
+[pickup1][hushed] It's a girl. We talked and she got frightened. I was trying to get in and help her and she started yelling and saying I was bitten.
+313) GLENN
+[pickup1][hushed]I tried to convince her I wasn't and that's when all of these guys came out of the forest. A couple almost got me and I ended up hiding in the ice machine.
+314) 
+Push
+315) LEE
+[pickup1] Why don't you guys lag behind; just in case this goes to hell.
+316) CARLEY
+[pickup1] Ok. We'll be right behind you.
+317) LEE
+[pickup1][seen by zombie] Shit!
+318) LEE
+[pickup1][seen by zombie] Shit! That guy saw me.
+319) LEE
+[pickup1][seen by zombie] Dammit!
+320) LEE
+[pickup1][seen by zombie] Fuck! I think he saw me!
+321) LEE
+[pickup2][whispering]Looks like that guy was doing some uh, cranking.
+322) GLENN
+[pickup2]You mean wrenching. You should hold onto that, could come in handy.
+323) LEE
+[pickup2][quiet]Looks like that guy was doing some uh, cranking.
+324) GLENN
+[pickup2][quiet] Sparkplug. [emph plug]You should hold onto that, could come in handy.
+325) GLENN
+[pickup2][hushed]The porcelain inside these things turns car windows to tissue paper.
+332) GLENN
+[pickup2][hushed]The porcelain inside these things turns car windows to tissue paper.
+326) GLENN
+[pickup2][hushed]You picked up that sparkplug to shatter that window, right?
+327) GLENN
+[pickup2][hushed]All right dude, let's see those ninja rocks.
+328) LEE
+[pickup2][hushed]What the hell are you talking about?
+329) GLENN
+[pickup2][hushed]Let me see the sparkplug.
+333) GLENN
+[pickup2][hushed]Let me see the sparkplug.
+330) LEE
+[pickup2][hushed]Ninja what now?
+331) GLENN
+Wait-
+334) LEE
+[pickup2][hushed] There's a pick in the truck.
+335) LEE
+[pickup2][hushed] I wonder if there's anything in the pickup.
+336) LEE
+[pickup2][hushed] It's locked.
+344) LEE
+[pickup2] [phew]...
+345) CARLEY
+[pickup1][hushed] Jesus, Glenn!
+346) LEE
+[pickup2][hushed] All right, that wasn't so hard. [to find your friend]
+348) LEE
+[pickup2][hushed] Who is it?
+350) CARLEY
+[pickup1] No way, we gotta go. NOW.
+353) GLENN
+[pickup1][hushed] I'm saving her, with or without you.
+354) LEE
+[pickup2][hushed] Damn right we can't.
+355) LEE
+[pickup2][hushed] Think about if it was you.
+356) CARLEY
+[pickup1][hushed] You guys are suicidal. Over a girl!
+357) CARLEY
+[pickup1] [hushed] Fine. Let's go save Glenn's damsel in distress.
+358) LEE
+[pickup2][hushed] QUIETLY. Noise attracts these things. Now let's have a look around.
+359) LEE
+[pickup2][hushed] Ok, this is the plan. We don't know how hard it's going to be to get her out of that room.
+360) LEE
+[pickup2][hushed] So we have to kill every one of them in here.
+361) GLENN
+[pickup1][hushed] Yeah, it's boarded up.
+362) GLENN
+[pickup1][hushed] Oh man. She's eating something. So we got that one right there, close.
+363) GLENN
+[pickup1][hushed] There's one back there, trying to get into a room, but I didn't see anyone actually in there.
+364) GLENN
+[pickup1][hushed] The girl's behind that door -- those two seem to be on the scent.
+365) GLENN
+[pickup1][hushed] I saw one lurking on the other side of that car.
+366) GLENN
+[pickup1][hushed]That's everything I know, man. But, you know, watch out.
+367) LEE
+[pickup2][hushed] Let's head back to that wall. Safe there.
+368) LEE
+[pickup2][hushed] We can hide by that RV if we're quiet and keep our heads down.
+369) LEE
+[pickup2][hushed] There's a car up on ramps.
+370) LEE
+[pickup2][hushed] We can hide by that pickup.
+371) LEE
+[pickup2][hushed] We can head over there but we'll have to take care of that guy first.
+372) LEE
+[pickup2][hushed] We can head over there but we'll have to take care of that guy first.
+373) LEE
+[pickup2][hushed]We can go over there when the rest of these down here are taken care of.
+374) LEE
+[pickup2] [hushed] We're doing this. No question.
+375) LEE
+[pickup2][hushed] Take this. It's not much, but better for you to be armed with something.
+376) LEE
+[pickup2][hushed] Maybe Doug's got a use for this.
+377) 
+Chop
+378) 
+Break down
+379) 
+Observe
+380) 
+Take
+381) 
+Examine
+389) 
+Examine
+392) 
+Examine
+394) 
+Examine
+396) 
+Examine
+538) 
+Examine
+382) 
+Punch
+471) 
+Punch
+383) 
+Use pillow on
+384) 
+Use spark plug on
+385) 
+Use spark plug on
+386) 
+Stab Zombie
+387) GLENN
+[pickup1] [hushed] Whoa man, can't go up there unarmed.
+388) 
+Stab
+390) 
+Stab
+395) 
+Stab
+536) 
+Stab
+537) 
+Stab
+539) 
+Stab
+391) 
+Smother
+393) 
+Smother
+397) 
+Use Axe On
+399) 
+Two by Four
+400) 
+Awl
+401) 
+Zombie
+402) 
+Axe
+403) 
+Remote Control
+404) 
+Door
+405) 
+Brick Wall
+406) 
+RV
+407) 
+Car
+408) 
+Truck
+409) 
+Window
+410) 
+Emergency Brake
+411) GLENN
+[pickup1] [hushed] Be careful peeking around. If they get on our scent, we're toast.
+412) GLENN
+[pickup1][hushed] Take a peek over the wall.
+413) GLENN
+[pickup1][hushed] We can probably make it over to the RV or down to the truck if we're quick and quiet about it.
+414) GLENN
+[pickup1][hushed] If we're going to kill all these guys we're going to have to sneak around.
+415) GLENN
+[pickup1][hushed] I wouldn't say no to something I could use for protection.
+416) GLENN
+[pickup1][hushed] She's still trapped up there. Let's get these guys down here taken care of!
+417) GLENN
+[pickup1][hushed] We should keep looking around for weapons.
+418) GLENN
+[pickup1][hushed] The longer you're unarmed the more nervous I get.
+419) GLENN
+[pickup1][hushed] Let's go check out that truck under the awning.
+420) GLENN
+[pickup1][hushed] Now let's clear out the area around the RV.
+436) GLENN
+[pickup1][hushed] Now let's clear out the area around the RV.
+421) GLENN
+[pickup1][hushed] We're a little naked out here, except for Carley's gun and we can't use that much.
+422) GLENN
+[pickup1][hushed] We're going to need weapons.
+423) GLENN
+[pickup1][hushed] You've got that pick, but I could really use something.
+424) GLENN
+[pickup1][hushed] [man,]I hope that girl's ok...
+426) GLENN
+[pickup1][hushed] [man,]I hope that girl's ok...
+425) GLENN
+[pickup1][hushed] I think you're going to need more than your fists, man.
+427) GLENN
+[pickup1][hushed] Let's keep looking around.
+428) GLENN
+[pickup1][hushed] She's right above us, guys.
+429) GLENN
+[pickup1][hushed] Let's start taking these guys out.
+430) GLENN
+[pickup1][hushed] I'm worried about the girl upstairs.
+431) GLENN
+[pickup1][hushed] Their groaning attracts the others.
+432) GLENN
+[pickup1][hushed] Carley, you don't have a silencer for your sidearm, huh?
+433) CARLEY
+[pickup1][hushed] Those are illegal, Glenn.
+434) GLENN
+[pickup1][hushed] Just a thought.
+435) GLENN
+[pickup1][hushed] That one sitting down is just as dangerous as the others.
+437) GLENN
+[pickup1][hushed] You have to be careful with your ride up on ramps like this.
+438) GLENN
+[pickup1][hushed] Safety first, I guess.
+439) GLENN
+[pickup1][hushed] We can get that guy by the wall over there, I bet...
+440) GLENN
+[pickup1][hushed] Kill him, Lee -- before he attracts the others!
+441) GLENN
+[pickup1][hushed] You need another weapon, man.
+442) GLENN
+[pickup1][hushed] Be careful dealing with the two upstairs.
+443) CARLEY
+[pickup1][hushed] What do you see up there?
+444) CARLEY
+[pickup1][hushed] If I have to use this,[her gun] we're in trouble.
+445) CARLEY
+[pickup1][hushed] Where to next?
+446) CARLEY
+[pickup1][hushed] I'll cover you if you sneak over to the RV.
+447) CARLEY
+[pickup1][hushed] This is suicide...
+448) CARLEY
+[pickup1][hushed] We need to kill these things as quickly as possible...
+449) CARLEY
+[pickup1][hushed] There's a truck over there. Maybe we can find you a weapon.
+450) CARLEY
+[pickup1][hushed] Want to head over to the right?
+451) CARLEY
+[pickup1][hushed] Let's get the ones over there, head upstairs, and get out of here.
+460) CARLEY
+[pickup1][hushed] Let's get the ones over there, head upstairs, and get out of here.
+464) CARLEY
+[pickup1][hushed] Let's get the ones over there, head upstairs, and get out of here.
+452) CARLEY
+[pickup1][hushed] Let's keep moving.
+453) CARLEY
+[pickup1][hushed] You need to find a weapon.
+454) CARLEY
+[pickup1][hushed] Be careful getting up close to these guys; I can't always cover you.
+455) CARLEY
+[pickup1][hushed] Ready to move?
+456) CARLEY
+[pickup1][hushed] How are you going to kill that one by the car without attracting the others?
+457) CARLEY
+[pickup1][hushed] Trying to shoot that guy from here is probably a bad idea, huh?
+458) CARLEY
+[pickup1][hushed] I love this gun, but it sure isn't quiet.
+459) CARLEY
+[pickup1][hushed] Find a way to kill that guy before he alerts the others, ok?
+461) CARLEY
+[pickup1][hushed] I don't like being out in the open like this.
+462) CARLEY
+[pickup1][hushed] I'd prefer cover that can't just roll away.
+465) CARLEY
+[pickup1][hushed] I'd prefer cover that can't just roll away.
+463) CARLEY
+[pickup1][hushed]
+466) CARLEY
+[pickup1][hushed] Quick! Before he attracts more!
+467) CARLEY
+[pickup1][hushed] Uh, Lee, weapon?
+468) CARLEY
+[pickup1][hushed] We'll try to have your back, but this gun's a liability.
+469) GLENN
+[pickup1][hushed] The moment we head towards that car, he's going to unleash enough noise to totally screw us.
+470) 
+Reach Into
+472) 
+Zombies
+473) GLENN
+[pickup3] [worried] What are we going to do???
+525) GLENN
+[pickup3] [worried] What are we going to do???
+552) GLENN
+[pickup3] [worried] What are we going to do???
+474) CARLEY
+[pickup1] Borrow it? No, you can't just "borrow" it.
+476) 
+Do it!
+477) 
+Then shoot her.
+489) LEE
+[pickup3] Then shoot her.
+478) 
+We can't take the risk of her alive.
+479) 
+Look at her. Please give it to her.
+480) LEE
+[pickup3][angry,big] DO IT.
+481) CARLEY
+[pickup1] FINE. You're all fucking crazy.
+482) LEE
+[pickup3] Look at her, Carley. There's no happy ending to this.
+483) MOTEL GIRL
+[pickup1] I've seen what hell is like, and it's coming back as one of those things.
+521) MOTEL GIRL
+[pickup1] I've seen what hell is like, and it's coming back as one of those things.
+522) MOTEL GIRL
+[pickup1] I've seen what hell is like, and it's coming back as one of those things.
+523) MOTEL GIRL
+[pickup1] I've seen what hell is like, and it's coming back as one of those things.
+484) LEE
+[pickup3] She could turn right now. We can't take a risk. Hand it over to her.
+485) CARLEY
+[pickup1] [relenting] God, just...ok. Fine.
+486) CARLEY
+[pickup1] You're insane! Just take this thing.
+487) CARLEY
+[pickup1] HUH?!
+488) LEE
+[pickup3] SHOOT HER. Help her out, here.
+490) CARLEY
+[pickup1] [relenting, sad] Ok, fine.
+491) LEE
+[pickup3] Because somebody needs to pick up the gun. We can't leave it. You two go on.
+528) LEE
+[pickup3] Because somebody needs to pick up the gun. We can't leave it. You two go on.
+492) CARLEY
+[pickup1][emotional moment]You sure?
+526) CARLEY
+[pickup1][emotional moment]You sure?
+493) GLENN
+[exhale] OK [runs off]
+533) GLENN
+[exhale] OK [runs off]
+494) MOTEL GIRL
+[pickup1] Thank you so much. I know how terrible this must be.
+527) MOTEL GIRL
+[pickup1] Thank you so much. I know how terrible this must be.
+495) GLENN
+[pickup3] [emotoinal]We can't watch this, let's go.
+530) GLENN
+[pickup3] [emotoinal]We can't watch this, let's go.
+496) LEE
+[pickup3] [heavy, emotional moment]Yeah.
+531) LEE
+[pickup3] [heavy, emotional moment]Yeah.
+497) CARLEY
+[pickup1] We can't go yet.
+532) CARLEY
+[pickup1] We can't go yet.
+498) GLENN
+[pickup3] [emotional]What?! Why not?
+534) GLENN
+[pickup3] [emotional]What?! Why not?
+499) LEE
+[pickup3] Here you go.
+529) LEE
+[pickup3] Here you go.
+501) 
+I'm here with you.
+505) LEE
+[pickup3] I'm here with you.
+502) 
+Goodbye.
+506) MOTEL GIRL
+[pickup1] Goodbye.
+507) LEE
+[pickup3] Goodbye.
+503) 
+God bless you.
+504) MOTEL GIRL
+[pickup1] You're a good man.
+508) MOTEL GIRL
+God bless you too.
+509) LEE
+[pickup3] God bless you, alright?
+510) CARLEY
+[pickup1] Look, I'll just walk over there and blow him away, and hope it's not too loud.
+511) LEE
+[pickup3] Ha, yeah right. I'll try to find some way to muffle your shot.
+512) LEE
+[pickup3] Oh shit! That thing got a look at me.
+513) LEE
+[pickup3] Shit, I think it saw me.
+514) LEE
+[pickup3] Oh man, it might've seen me.
+515) LEE
+[pickup3] Damn, it's onto us.
+516) LEE
+[pickup3] Goddamn that was close.
+517) LEE
+[pickup3] Fuck, we gotta be more careful.[<<id:{E7DA99EE-5AA9-4506-9C92-ADDEE2140BE8}>>]
+518) LEE
+[pickup3] One more of those and we're dead.
+519) LEE
+[pickup3] [Phew] That was close.
+520) LEE
+[pickup3] It's uh, a, sparky thing.
+524) 
+Gear Shift
+535) 
+Spark Plug
+540) GLENN
+I can watch your back.
+541) GLENN
+[scared] We're fucked.
+542) <<ID
+{99BDB72E-1B58-41A7-A5AA-9839A2F97FE5}>>
+543) 
+Move To
+546) 
+Move To
+548) 
+Move To
+550) 
+Move To
+544) 
+Look At
+545) 
+Look At
+547) 
+Look At
+549) 
+Look At
+555) GLENN
+Here they come!

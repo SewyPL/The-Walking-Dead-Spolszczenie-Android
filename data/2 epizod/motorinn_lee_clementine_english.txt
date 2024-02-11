@@ -1,0 +1,146 @@
+1) CLEMENTINE
+{sadA}I had it a couple days ago.
+2) LEE
+{normalC}When did you lose it?
+3) LEE
+{normalD}Do you really need it?
+4) CLEMENTINE
+{sadA}NO. Not since it broke at the drug store.
+5) LEE
+{thinkingA}That thing doesn't work anymore, does it?
+6) LEE
+{sadA}Sorry, hon, I don't have time.
+7) CLEMENTINE
+[annoyed] {angryA}Lee!
+8) CLEMENTINE
+[annoyed] {angryA}Lee!
+9) CLEMENTINE
+{sadC}But it makes me feel better.
+10) LEE
+[sad, but sympathetic] {sadA}Look, Clementine...
+11) CLEMENTINE
+{angryA}I'm not stupid, Lee. {sadB}I know it's just pretend.
+12) CLEMENTINE
+{sadA}I'm really hungry, Lee.
+13) LEE
+{normalD}How are you doing, Clementine?
+14) LEE
+{sadB}Okay.  You take good care of it, then.
+15) CLEMENTINE
+{sadA}I will.
+16) LEE
+[pickup2][sean edit] I know I did.
+17) CLEMENTINE
+[pickup2][sean edit] And until then... [trails off]
+18) CLEMENTINE
+[pickup2][sean edit] You said they'd find us.
+19) CLEMENTINE
+[pickup2][sean edit] But we can try to find THEM.
+20) CLEMENTINE
+[pickup2][sean edit] You said you didn't think they would find us.
+21) LEE
+[pickup2][sean edit] Well, yeah, but that's just because...
+22) 
+[Give Half an Apple]
+23) 
+[Give Piece of Jerky]
+24) 
+[Give Crackers and Cheese]
+25) 
+[Give Crackers and Cheese]
+63) 
+[Keep the last piece of food for yourself]
+65) 
+[Save the last piece of food for someone else]
+69) 
+[Exit]
+26) LEE
+[pickup 2] Here Clem, you need something to eat.
+72) LEE
+[pickup 2] Here Clem, you need something to eat.
+27) LEE
+[smiling at Clementine's joke] I'll keep that in mind.
+28) CLEMENTINE
+[pickup 2] Okay. [joking] A sundae would be better next time. [laughs to herself]
+29) LEE
+[pickup 2] I'm all out of food, Clementine. I'm sorry.
+30) CLEMENTINE
+[pickup 2] [sighs] [hates to admit it]I'm really hungry...
+31) LEE
+[pickup 2] How you doing, Clementine? Everything all right?
+32) CLEMENTINE
+[pickup 2] ...Yeah. Is that man going to be okay?
+33) LEE
+[pickup 2] [not sure himself] I think he'll be fine.
+34) LEE
+[pickup 2] I'm not sure.
+55) 
+I'm not sure.
+35) LEE
+[pickup 2] It doesn't look good, Clementine. It doesn't look good.
+36) CLEMENTINE
+[pickup 2] [reserved, unsure about a prognosis] Oh, that's good.
+37) CLEMENTINE
+[pickup 2] [a little sad] I hope he will. [be okay]
+38) CLEMENTINE
+[pickup 2] [crestfallen] Oh. Okay.
+39) LEE
+[pickup 2] You'll be okay over here?
+40) CLEMENTINE
+[pickup 2] Uh-huh, I'll be okay.
+41) CLEMENTINE
+[pickup2]Thanks again for the food, Lee.
+42) CLEMENTINE
+[pickup2]I'm so hungry, Lee. I hope I get to eat soon.
+43) CLEMENTINE
+[pickup2] I love apples. Thank you. Are there more?
+44) LEE
+[pickup2] No. That was the last one.
+45) CLEMENTINE
+[pickup2][feels guilty] Oh...um...
+46) LEE
+[pickup2] [sincere, talking to clementine] Enjoy it. You deserve it.
+47) LEE
+[pickup2][feeling guilty] Yeah...
+70) LEE
+[pickup2][feeling guilty] Yeah...
+48) CLEMENTINE
+[pickup2] Oh. It's ok. I bet the others needed it.
+49) 
+You still have that walkie-talkie?
+50) LEE
+[pickup2][to clementine] It's ok, hon.
+51) CLEMENTINE
+[pickup2] Yeah. If that's okay. I, um, I need it.
+52) LEE
+[pickup2] Just gonna hold onto it then?
+53) 
+Are you doing ok?
+54) 
+He'll be fine.
+56) 
+It's looking bad.
+57) 
+Talk To
+58) 
+Give Food To
+59) 
+I'm out of food for today...
+60) 
+Want some food? [Give Food]
+61) LEE
+[pickup3][to himself - depressed, having only 1 piece of food left]One more piece of food to give out, then it's all gone for today.
+62) LEE
+[pickup3][knowing there is only one more piece of food left]Hm.  Maybe I should keep this for myself?
+64) LEE
+[pickup3][to himself - keeping the last bit of food for himself]I need to keep up my strength, too.
+66) LEE
+[pickup3][to himself - choosing to save the food for someone else]Nah.  Some of these people have gone longer than me without food.  They're the ones that need it.
+67) CLEMENTINE
+[pickup3]If you have any more food, Duck is hungry too.
+68) DUCK
+{thinkingA}Yeah.  When are we gonna get some food?
+71) LEE
+I'll be back in a bit.
+73) LEE
+Back in a bit.

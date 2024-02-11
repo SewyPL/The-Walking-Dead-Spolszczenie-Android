@@ -1,0 +1,516 @@
+1) LILLY
+[slowly... quietly, still in shock]...Yeah. Just be careful, and get us out of here.
+2) LILLY
+[coldly, quiet, still in shock] Whatever.
+3) DANNY
+[in pain] ...The farm hands understood. After a while.
+4) DANNY
+[in pain] Give part of yourself... so others can live.
+5) LEE
+[angry]What sacrifices?
+6) DANNY
+[in pain] I'm no good to you dead.
+7) DANNY
+[in pain]... The meat gets tainted.
+8) LEE
+I should kill you right now.
+9) DANNY
+[in pain] The vet & the boy are in the house.
+10) LEE
+What have you done with the others?
+11) DANNY
+[in pain] Come on, man... Get this thing off of me!
+12) DANNY
+[in pain] ...At least give me something to kill the pain!
+13) CLEMENTINE
+[quietly; pointing into the dark] Shhh... He's there. See?
+14) DANNY
+[mumbling anrgily to himself]... It ain't right keeping me out here all night. I didn't do nothin', but they just treat me like I'm some kind of screw up.
+15) DANNY
+[mumbling anrgily to himself]...Seriously, how long am I supposed to stay out here?  What the hell could they be talking about in the house?  Ain't no big debate needed, keep some alive for meat, kill the rest.
+16) DANNY
+[mumbling anrgily to himself]...And momma, I know you mean well, and God bless you, but you have GOT to stop playing favorites with Andy.  I know he's older, but that don't make him better.  And it certainly don't make him smarter.
+17) DANNY
+[mumbling anrgily to himself]... This is bullshit!  [mocking]Danny do this ... Danny do that...
+18) DANNY
+[this line should play at a lower volume in the background. It does not need subtitles] [mumbling anrgily to himself]...My fault... my ASS my fault! This whole idea was his.  But who gets blamed?  Right.  Blame it on Danny.  He's the fuck up!
+19) DANNY
+[mumbling anrgily to himself]...Fuck, it's dull out here.
+20) DANNY
+[mumbling anrgily to himself]... If Daddy were here everything would be fine.  That's when things started going to shit around here anyway.  Daddy had an order to things.  You knew what you were supposed to be doing.  Now it's all just whatever!
+21) DANNY
+[process: in he distance] What the hell was that?
+22) LEE
+[quietly but with urgeny] Ok. Go, go!
+23) LEE
+[quietly but frustrated] Come on!!
+84) LEE
+[calling out a few feet away] Come on...
+24) DANNY
+What the fuck?
+25) DANNY
+[Screams In pain]   AAAAAHHHHHHHHHH!!!!!
+26) DANNY
+[breathless, in pain] You don't... you don't understand....
+27) DANNY
+[in pain] It's how the world works now.
+28) DANNY
+[Grunting in pain7]
+29) DANNY
+[Grunting in pain3]
+30) DANNY
+[Grunting in pain6]
+31) DANNY
+[Grunting in pain2]
+32) DANNY
+[Grunting in pain1]
+33) DANNY
+[Grunting in pain4]
+34) DANNY
+[Grunting in pain5]
+35) DANNY
+[in pain] You've got to make... sacrifices.
+36) DANNY
+[Sounding scary] Where are you?  Come on out, you know I'm gonna find you anyway...
+37) DANNY
+[To himself]Not here...
+38) DANNY
+[sounding scary] Where are they, girl?
+39) DANNY
+[To himself]Nothing...
+40) DANNY
+[Sounding scary] You can't hide forever... Come on out now and maybe I'll let the girls live...
+41) DANNY
+[To himself]Shit, where are they?
+42) DANNY
+[Sounding scary]Ya'll screwed up everything!  Don't you understand?  This is how we have to survive now.  Things aren't the way they used to be anymore!
+43) DANNY
+[To himself]Where are ya, Lee?
+44) DANNY
+[Sounding scary]You couldn't just be grateful!  You couldn't just eat and get with the program!
+45) DANNY
+[To himself]Damnit.
+46) DANNY
+[mumbling anrgily to himself]...[Calling out into the night] Who wants some?  I DARE some dead asshole to try to cross my fence tonight!
+47) DANNY
+[mumbling anrgily to himself]..[frustrated sigh] Gah!!  What's taking Momma and Andy so long?  What are they finishing their damn dinner first?  Coulda brought me out a plate at least.
+48) DANNY
+[mumbling anrgily to himself]... How was I supposed to know that legless asshole would wake up?  I thought he had enough drugs in him to keep him out for the rest of the night.
+49) DANNY
+[mumbling anrgily to himself]... those people are gonna ruin everything.
+50) LEE
+[quietly]It's too risky
+51) KENNY
+[quietly]Let's take this asshole down and get my family back!
+52) KENNY
+[quietly]Those assholes still have my family!  I'm willing to take the risk.
+53) KENNY
+[quietly/responing to Lee's silence]Well, I'm going with or without you.
+54) LEE
+[quietly]Lilly, you stay here and keep Clementine safe. Can you manage that?
+55) LEE
+[quietly]Sounds good.  I'll lead.
+56) KENNY
+[quietly] That dumbass is so caught up in his own rant that he probably won't see us...
+57) LEE
+[Quietly] What's the plan?
+58) DANNY
+[angry] You son of a bitch!
+59) KENNY
+[whispering] Shit. Now what?
+60) LEE
+[whispering] Let's find another way.
+61) LEE
+[whispering]We're screwed.
+62) LEE
+[whispering]I still think we can take him.
+63) KENNY
+[whispering]No, Lee, I've got to get to that house.  I can make it from here, I know I can!
+64) KENNY
+[whispering]No.  No, we're not screwed.  That guy is off his rocker right now.  I'm sure I could sneak past him and get to the house.
+65) KENNY
+[whispering]The house isn't that far off though.  I bet I can get around him if I go alone.
+66) KENNY
+[whispering] Fuck that!  That rifle kind of puts the odds in his favor!
+67) KENNY
+[whispering/stern] They have my family, Lee.  I have to.
+68) DANNY
+[spotting his hostages on the loose]What?!  Oh Shit!
+69) LEE
+[Spotted!] SHIT!
+99) LEE
+[Spotted!] SHIT!
+70) KENNY
+[Whispering/stern]If I can make it to the gate, I can shut down the generator, giving us all a better chance of getting the hell out of here!
+71) DANNY
+[creepy/menacing] Oh I see... y'all think you can hide from me?
+72) DANNY
+[creepy/menacing] There ain't but one way out of here.  I will find you.
+73) LEE
+[whispering] Shhhhh.
+74) DANNY
+There you are, you son of a bitch!
+75) DANNY
+You gotta get me outta here!
+76) DANNY
+[In pain/ panicing]Hey... You can leave me like this... If I die, you know what'll happen!
+77) LEE
+I'm gonna let you rot in there!
+78) LEE
+How about if I just kill you instead?
+79) DANNY
+[in pain]Do what ya gotta do... Just make it count.
+80) DANNY
+[In pain/panicing] No, man!  You can't do that.  We were helping you to survive!
+81) LEE
+Fine with me.
+82) DANNY
+[STERN!] Do something, you son of a bitch!!
+83) LEE
+Can I trust you with this to keep Clementine safe?
+85) LILLY
+[Still a little cold and out of it] Yeah.  I won't let anything happen to her.
+86) LEE
+I gotta find Kenny.  You do what you've gotta do. [to Clementine] Stay with Lilly.
+87) LILLY
+[cold/pissed] I don't know, Lee.  Can you?
+88) LEE
+Good.  I gotta find Kenny. [to clementine] Stay with Lilly.
+89) KENNY
+[process: in the distance][getting Shot] Ahhh!!
+90) DANNY
+[pickup1] [quietly/offscreen] huh?
+91) DANNY
+[pickup1][In pain from the bear trap. (Continues into line 310513883)]...Yeah... I know you got it in you.  I've seen you in action...
+92) DANNY
+[pickup1][in pain from the bear trap - Lee has just threatened to kill him]I don't think so... You don't have what it takes!... You just freeze up.  [Then to himself - huffs out a chuckle] Fucking coward.
+93) LEE
+[pickup1][Whispering/stern/ warning Kenny that RUnning out of the barn is a bad idea] Kenny, don't.
+94) KENNY
+[pickup1][quiet, sneaking through the barn]Maybe one of us can grab that rifle...
+95) LEE
+[pickup1][whispering - making a plan to get to the house with Kenny]We might be able to sneak up to the house if we go one at a time.  Are you up for it?
+96) LEE
+[pickup1][whispering - making a plan to get to the house with Kenny]If we can shut down that generator, it'd give us all a better chance of getting the hell out of here!
+97) KENNY
+[pickup1][nervous - gerring ready to sneak up to the house/ whispering]Yeah... I'll see what I can do. [about shutting off the Generators]
+98) KENNY
+[pickup1][nervous - gerring ready to sneak up to the house/ whispering]Here goes nutthin.
+100) KENNY
+[pickup1][whispering, making a plan to sneak past Danny]Well if you have any ideas, now's the time to speak up.
+101) KENNY
+[pickup1][whispering, making a plan to sneak past Danny]Well, we gotta do something!
+102) KENNY
+[pickup1][hesitant- unsure of Lee's plan to sneak past Danny to the house.  Responding to "Are you up for it?"]... I'd better be.
+103) KENNY
+[pickup2][Trying to sneak out of the barn past danny after killing Lillys dad, Kenny knows it's best to leave Lilly alone right now.][Projected whisper]Just... forget about Lilly right now.  What are we gonna do about this guy at the front of the barn?
+104) LEE
+[pickup2][knowing that Clementine will be safest for the moment in the meatlocker with Lilly... Convincing himself] Clem will be safe in there for now.
+105) KENNY
+[pickup2][quiet - making a plan]Just stick behind me, in case anything goes down.  When we get to the front, grab his gun.
+106) LEE
+[pickup2][quiet - making a plan] So, what's the plan?
+107) KENNY
+[pickup2][quiet - making a plan] That dumbass is so caught up in his own rant that we could probably sneak right up on him.
+108) LEE
+[pickup2][quiet - making a plan]Sounds good.
+109) KENNY
+[pickup2][quiet - making a plan]Okay, you ready?
+110) 
+Let's go.
+111) KENNY
+[pickup2][whispered, ready to carry out Kenny's plan to take down Danny] Stay close.
+112) LEE
+[pickup2][whispered, ready to carry out Kenny's plan to take down Danny] Yeah, let's go.
+113) 
+Not yet.
+114) KENNY
+[pickup2][whispered, Lee is NOT ready to carry out Kenny's plan to take down Danny] Well, hurry up.  We only got one shot at this.
+115) LEE
+[pickup2][whispered, NOT ready to carry out Kenny's plan to take down Danny] Not yet.
+116) LEE
+[pickup2][quiet - Trying to keep kenny from doing something stupid.]What are you gonna do, walk up and grab his gun?
+117) LEE
+[pickup2][quiet - Trying to keep kenny from doing something stupid.] What the hell do you think you're doing?
+118) KENNY
+[pickup2][quiet - making his OWN plan, doesnt give a fuck what Lee wants] Getting my family back!
+119) KENNY
+[pickup2][quiet - making his OWN plan, doesnt give a fuck what Lee wants] Good a plan as any.
+120) DANNY
+[pickup2][deciding he didnt hear anything while on guard] Hmm.
+121) DANNY
+[pickup2][while on guard, hears a noise in the distance.  (to himself)] Huh?
+122) ANDY
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Dan, what are you doing outside the barn?
+123) KENNY
+[pickup2][The appearance of Andy walking TOWARD the barn totally screws up Kenny's plan][whispered panic] Oh, shit!
+124) DANNY
+[pickup2][outside the barn, Andy shows up and "What are you doing out here in the rain?"]Just guarding the place, like you said.
+125) ANDY
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Well, quit sittin' out in the rain like a damn weirdo.  Mama says we can't keep that many folks alive and not expect trouble.
+126) ANDY
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Pick one to keep and kill the rest.
+127) DANNY
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside]Can I pick which one to keep alive?
+128) ANDY
+[pickup2][outside the barn, Andy shows up and  to fill Danny in on the plan.  It's raining outside - Projected a bit as Andy walks away.] [process. This line fades out as Andy walks away.] Not the kid.  Not enough meat on her to trade.
+129) DANNY
+[pickup2][creepily talking to the cow as he sets a traps for the people.]Oh, I know, Maybelle.  This is my favorite part, too.  When I let one think they can just walk right out.  [laughing a bit]They never look down!
+130) KENNY
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]See what he's doing now.
+131) LEE
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]What should we do?
+132) KENNY
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Do you have a weapon?
+133) KENNY
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them] We keep it simple, as soon as he passes us, we jump him from behind.
+144) KENNY
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]We keep it simple, as soon as he passes us, we jump him from behind.
+134) LEE
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Yeah. [I have a weapon]
+135) KENNY
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Good. [that you brought a waepon]
+136) LEE
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]No.
+137) KENNY
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]Why didn't you grab a weapon?  [not really waiting for an answer]Whatever, I have one.
+138) LEE
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]I'll keep an eye on him.  Be ready to act when I say.
+139) LEE
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]We'll take him out together.
+140) KENNY
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]How?
+141) LEE
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]He doesn't know we're out. He's gotta walk past us to get to the meat locker.  We can take him when his back is to us.
+142) LEE
+[pickup2][SUPER quiet! strugling to think of a plan] Uhh...
+143) KENNY
+[pickup2][SUPER quiet! Responding to lee saying nothing right after he says "Here's the plan" - Sarcastic]Dammit, Lee!  This is NOT the time to freeze up!
+145) KENNY
+[pickup2][SUPER quiet! plotting how to take out danny. Danny is IN the barn with them]See where he is now.
+146) KENNY
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]What's he doing out there?
+147) LEE
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn] I don't know.
+148) LEE
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn] They're talking about killing us!
+149) KENNY
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]No shit.
+150) LEE
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]He's inside, but he's not coming any closer.
+151) LEE
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Sick fucker thinks this is a game!
+152) LEE
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]I don't see him anymore.
+153) KENNY
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Well, where the fuck did he go?
+154) LEE
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]I don't know. [where he went]
+155) KENNY
+[pickup2][SUPER quiet! whispered while Danny is being a creepy murderer in the barn]Look again.  He didn't go past us.
+156) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] What's going on?
+157) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Lee...
+158) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Where is he?
+159) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]What's he doing?
+160) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]What's he doing now?
+161) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]What do you see?
+162) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Lee, talk to me.
+163) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Hey!  Tell me something!
+164) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Can you see him?
+165) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks]Tell me what's going on.
+166) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Hey, keep your eye on him!
+167) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Take a look through the cracks...
+168) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] See where he is now.
+169) KENNY
+[pickup2][SUPER quiet! whispered while Lee is watching Danny is being a creepy murderer in the barn through the cracks] Lee!  Focus!  Where's Danny?
+170) DANNY
+[pickup2] [almost growling as He suprises Lee, grabbing him and pushing him toward the bear trap!] Gggrraaaaaaaahhhh!!!
+171) LEE
+[pickup2][Terrified as Danny suprises, grabs and pushes him toward a bear trap!]JESUS CHRIST!!!
+172) CLEMENTINE
+[pickup2][Screams in terror as Lee is attacked!]{fearc}Aaahhhhh!!!!
+177) CLEMENTINE
+[pickup2][Screams in terror as Lee is attacked!]Aaahhhhh!!!!
+173) KENNY
+[pickup2][rushing Danny!  Attack!!] {angryd}Aaaarrhhhhh!!!!
+174) DANNY
+[pickup2][in extreme pain, a bear trap just snapped on his leg!! ] {feard}Arrghh!!!!
+179) DANNY
+[pickup2][in extreme pain, a bear trap just snapped on his leg!! ] Arrghh!!!!
+175) KENNY
+[pickup2][Shouting, threatening Danny?!] {angryc}Where's my family, asshole?!!
+246) KENNY
+[pickup2][Shouting, threatening Danny?!] {angryc}Where's my family, asshole?!!
+176) DANNY
+[pickup2][in extreme pain & being threatened] {disgusta}You can't have 'em! {feard}We need the vet.
+247) DANNY
+[pickup2][in extreme pain & being threatened] {disgusta}You can't have 'em! {feard}We need the vet.
+178) LILLY
+[pickup2][Stabbing Danny!  Attack!!] Aaahhh!!!!
+180) DANNY
+[pickup2][suffering the pain ] Arrghh!!!!
+181) DANNY
+[pickup2][stuck in a bear trap, in extreme pain! - Knows he's better off now as food than a person]Eerrgghhh!!!   You see?!! You understand now, don't you?!  You can have me!
+182) DANNY
+[pickup2][stuck in a bear trap, in extreme pain! - Knows he's better off now as food than a person]It's how the world works now! Give part of yourself... so others can live!
+183) 
+That's why you killed that woman!
+184) 
+That crazy woman tried to warn me!
+185) LEE
+[pickup2][threatening Danny, about to kill him!]That crazy woman in the woods tried to warn me... And I killed her.
+186) DANNY
+[pickup2][in extreme pain! being threatened] That bitch never got it!  She almost fucked up our best deal!!
+187) LEE
+[pickup2][threatening Danny, about to kill him! - Realizing.]That's why you killed that woman in the woods!  She was about to spill everything!
+188) DANNY
+[pickup2][in extreme pain! being threatened] You weren't ready to hear yet, Lee!  Had to stop her.
+189) KENNY
+[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode!!] {angryc}Lee!  Come on!!
+250) KENNY
+[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode!!] {angryc}Lee!  Come on!!
+190) LEE
+[pickup2][while Lee is threatening to kill Danny, Kenny wants to hurry to the house to save his family.]{angryb}Just go.  {angryc}I won't be far behind.
+251) LEE
+[pickup2][while Lee is threatening to kill Danny, Kenny wants to hurry to the house to save his family.]{angryb}Just go.  {angryc}I won't be far behind.
+191) LILLY
+[pickup3][still shellshocked. Lee is threateing one of the crazy cannibal rednecks, but she's utterly disgusted,Wanting to put this whole situation behind her.  NOT very projected.] I should fucking kill you right now.
+192) LEE
+[pickup2][threatening Danny, about to kill him! pissed]The man in your upstairs bathroom wasn't asking to be food!
+193) LEE
+[pickup2][threatening Danny, about to kill him!  Pissed] Mark never volunteered to be food!
+194) 
+Cannibalism?!
+195) LEE
+[pickup2][threatening Danny, about to kill him! pissed]Cannibalism is NOT the answer!  Aren't the Walkers eating enough of us?!
+196) DANNY
+[pickup2][In extreme pain!!] You gotta keep me alive.  If you kill me, the meat gets tainted!!  You can't eat it!
+197) LEE
+{angryd}[pickup2][threatening Danny, deciding that Danny isn't worth killing]I'm not gonna kill you, you son of a bitch!
+198) LEE
+{angryd}[pickup2][threatening Danny, about to kill him]You don't deserve to live!!
+199) DANNY
+[pickup2][in pain from the bear trap - Lee has just threatened to kill him]You ain't gonna kill me, just like you didn't kill Jolene... You don't have what it takes!...[to himself] Fucking coward.
+200) DANNY
+[pickup2][in extreme pain, Lee has just threatened to kill him] Do it then! I know you can, I seen you do it!   Just like you killed that woman in the camp!
+201) LILLY
+[pickup2][still a bit numb, but Clementine has just watched Lee stab a guy in the face with a pitchfork!! She tries to comfort Clem.] It's okay, Clem.  He was a bad man.
+202) CLEMENTINE
+[pickup2][has just watched Lee stab a guy in the face with a pitchfork!!] NOO!!!
+203) KATJAA
+[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] Nooooo!!
+248) KATJAA
+[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] Nooooo!!
+204) KENNY
+[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode] {fearc}KAT!!
+249) KENNY
+[pickup2][Kenny had just eard Katjaa scream in the house!!! Full on panic mode] {fearc}KAT!!
+205) KATJAA
+[pickup2][process FAR in the distance][screaming in the as Andy pulls Duck away from her] Please, noo!!!
+206) LEE
+[pickup2][ thinking Kenny might have gotten hurt, Lee asks Lilly to prottect Clem while he's gone, even though Lilly hates him] Lilly, please keep her safe!
+207) LEE
+[pickup2][Hearing katjaa scream in the house!!] That's Katjaa!!
+208) LILLY
+[pickup2][Pissed!!!  Lee has decided NOT to kill the crazy canibal guy right after helping Kenny kill her dad!]Fuck you, Lee. You and Kenny MURDER my dad, but you leave THIS piece of shit alive?!  You're a fucking asshole.
+209) DANNY
+[pickup2][Frightened yelp as Lee just misses his head with a pitchfork] Aahhh!!
+210) LEE
+[pickup2][trying to hang on to his humanity! seething, trying to convince himself]This is NOT how the world works now.
+211) LEE
+[pickup2][trying to hang on to his humanity! ]You won't make me kill you!!
+212) LEE
+[pickup2] [worried more about Clems safety than his own] Just stay here and keep Clementine safe.
+213) LILLY
+[pickup2][Lilly, still numb, know that Lee has to find Kenny before Kenny gets more poeple killed]Go.  I'll cover you.
+214) LEE
+[pickup2][turns to Clem as he's about to leave her in the barn under Lillys protection]I'll be right back.
+215) LEE
+[pickup2][Lee looks up at Lilly, knowing this isnt over yet, but he doesnt see Kenny in the Barn]Where's Kenny?
+216) KENNY
+[pickup2][quiet, bitter]I told you there was something up with this room!  It's a goddamned human slaughterhouse!
+217) KATJAA
+[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] Oh God!  Don't hurt him!!
+218) KATJAA
+[pickup2][process - FAR in the distance!  As Andy takes Duck away from her] God, nooooo!
+219) LEE
+[pickup2][Hearing katjaa scream in the house!!] Katjaa!!
+220) LILLY
+[pickup2][still a bit numb, but hearing Katjaa scream from the house] Just go.  I'll keep Clementine safe.
+221) LEE
+[pickup2][calling back to Danny saying "Dont kill me, the meat gets tainted"]You're already tainted.
+222) 
+Door
+223) 
+Door
+224) 
+Mini Cattle Prod
+225) 
+Kill
+226) 
+Punch
+227) 
+Skewer
+228) 
+Eviscerate
+229) 
+Hay Hook
+230) 
+Sickle
+231) LEE
+[pickup3][hushed. sneaking around In the killing room behind the barn]Jesus, this is where they butcher people.
+232) KENNY
+[pickup3][hushed. sneaking around In the killing room behind the barn - Looking at Killing station]Sick bastards.  All of em!
+233) LEE
+[pickup3][hushed.to himself. sneaking around In the killing room behind the barn - looking at the bloody powersaw]Oh, god.  What is wrong with these people?!
+234) LEE
+[pickup3][hushed.to himself. sneaking around In the killing room behind the barn]Ugk... I think I'm gonna be sick.
+235) LEE
+[pickup3][hushed to himself. sneaking around In the killing room behind the barn - looking at the vent]Maybe I shouldn't have sent Clementine through there.  This room would give anybody nightmares.
+236) LEE
+[pickup3][hushed to himself. sneaking around In the killing room behind the barn ]I wonder how long they've been chaining people up in here?
+237) LEE
+[pickup3][hushed to himself. sneaking around In the killing room behind the barn - looking at a smeared long trail of blood ]Ugh..
+238) KENNY
+[pickup3][hushed. sneaking around In the killing room behind the barn - Looking pool of blood on the ground ]Hey, watch your step.  That's slippery.
+239) 
+Blood
+240) 
+Chain
+241) 
+Jars
+242) 
+Meat Chart
+243) 
+Mitre Saw
+244) 
+Bloody Tub
+245) 
+Vent
+252) 
+Grab
+253) 
+Zap
+254) 
+Danny
+255) 
+Spare
+256) 
+Mark never volunteered to be food!
+257) 
+Rifle
+258) 
+I'll keep an eye on him.  Be ready to act when I say.

@@ -1,0 +1,568 @@
+1) KENNY
+{AngryA}With this alarm going{ThinkingA} we don't have much time {DisgustA}until every [ZOMBIE] in Macon {AngryA}is on our doorstep. {NormalA}I'm going to get the truck pulled up around back.
+19) KENNY
+{AngryA}With this alarm going{ThinkingA} we don't have much time {DisgustA}until every [ZOMBIE] in Macon {AngryA}is on our doorstep. {NormalA}I'm going to get the truck pulled up around back.
+302) KENNY
+{AngryA}With this alarm going{ThinkingA} we don't have much time {DisgustA}until every [ZOMBIE] in Macon {AngryA}is on our doorstep. {NormalA}I'm going to get the truck pulled up around back.
+446) KENNY
+{AngryA}With this alarm going{ThinkingA} we don't have much time {DisgustA}until every [ZOMBIE] in Macon {AngryA}is on our doorstep. {NormalA}I'm going to get the truck pulled up around back.
+2) LILLY
+{AngryB}Do it fast, {FearA}	I've got to get my dad out of here.
+14) LILLY
+{AngryB}Do it fast, {FearA}	I've got to get my dad out of here.
+301) LILLY
+{AngryB}Do it fast, {FearA}	I've got to get my dad out of here.
+450) LILLY
+{AngryB}Do it fast, {FearA}	I've got to get my dad out of here.
+3) KENNY
+{HappyB}I don't plan on dilly-dallying.
+24) KENNY
+{HappyB}I don't plan on dilly-dallying.
+117) KENNY
+I don't plan on dilly-dallying.
+303) KENNY
+{HappyB}I don't plan on dilly-dallying.
+454) KENNY
+{HappyB}I don't plan on dilly-dallying.
+4) KENNY
+{NormalB}Honey, take Duck into the office and {AngryB}barricade the living hell out of the door behind me. {ThinkingA}Glenn, when you hear me honking in the alley, {NormalB}start getting people out of here.
+15) KENNY
+{NormalB}Honey, take Duck into the office and {AngryB}barricade the living hell out of the door behind me. {ThinkingA}Glenn, when you hear me honking in the alley, {NormalB}start getting people out of here.
+297) KENNY
+{NormalB}Honey, take Duck into the office and {AngryB}barricade the living hell out of the door behind me. {ThinkingA}Glenn, when you hear me honking in the alley, {NormalB}start getting people out of here.
+453) KENNY
+{NormalB}Honey, take Duck into the office and {AngryB}barricade the living hell out of the door behind me. {ThinkingA}Glenn, when you hear me honking in the alley, {NormalB}start getting people out of here.
+605) KENNY
+{NormalB}Honey, take Duck into the office and {AngryB}barricade the living hell out of the door behind me. {ThinkingA}Glenn, when you hear me honking in the alley, {NormalB}start getting people out of here.
+5) GLENN
+{FearA}You got it.
+22) GLENN
+{FearA}You got it.
+119) GLENN
+You got it.
+294) GLENN
+{FearA}You got it.
+451) GLENN
+{FearA}You got it.
+606) GLENN
+{FearA}You got it.
+6) KENNY
+{HappyA}Doug, Carley and Lee, {NormalB}you guys make sure our defenses {NormalC}stay up til then.
+23) KENNY
+{HappyA}Doug, Carley and Lee, {NormalB}you guys make sure our defenses {NormalC}stay up til then.
+305) KENNY
+{HappyA}Doug, Carley and Lee, {NormalB}you guys make sure our defenses {NormalC}stay up til then.
+455) KENNY
+{HappyA}Doug, Carley and Lee, {NormalB}you guys make sure our defenses {NormalC}stay up til then.
+607) KENNY
+{HappyA}Doug, Carley and Lee, {NormalB}you guys make sure our defenses {NormalC}stay up til then.
+7) KENNY
+[To player] {ThinkingA}Your little girl going to be all right?
+25) KENNY
+[To player] {ThinkingA}Your little girl going to be all right?
+123) KENNY
+[To player] Your little girl going to be all right?
+306) KENNY
+[To player] {ThinkingA}Your little girl going to be all right?
+456) KENNY
+[To player] {ThinkingA}Your little girl going to be all right?
+8) LEE
+{HappyA}Definitely.{HappyC} Clementine can handle it.
+21) LEE
+{HappyA}Definitely.{HappyC} Clementine can handle it.
+295) LEE
+{HappyA}Definitely.{HappyC} Clementine can handle it.
+457) LEE
+{HappyA}Definitely.{HappyC} Clementine can handle it.
+9) KENNY
+{DisgustA}Shit.
+16) KENNY
+{DisgustA}Shit.
+125) KENNY
+Shit
+304) KENNY
+{DisgustA}Shit.
+447) KENNY
+{DisgustA}Shit.
+564) CARLEY
+[pickup1]SHIT!
+10) DOUG
+{FearB}The door's not locked.
+18) DOUG
+{FearB}The door's not locked.
+126) DOUG
+The door's not locked.
+296) DOUG
+{FearB}The door's not locked.
+452) DOUG
+{FearB}The door's not locked.
+11) KENNY
+{AngryA}Get on it! {NormalB}I'll be back as fast as I can.
+20) KENNY
+{AngryA}Get on it! {NormalB}I'll be back as fast as I can.
+298) KENNY
+{AngryA}Get on it! {NormalB}I'll be back as fast as I can.
+448) KENNY
+{AngryA}Get on it! {NormalB}I'll be back as fast as I can.
+12) KENNY
+{SadA}And Lee, {NormalA}I better take that axe, {FearB}in case I run into any of them on the way to my truck.
+17) KENNY
+{SadA}And Lee, {NormalA}I better take that axe, {FearB}in case I run into any of them on the way to my truck.
+299) KENNY
+{SadA}And Lee, {NormalA}I better take that axe, {FearB}in case I run into any of them on the way to my truck.
+449) KENNY
+{SadA}And Lee, {NormalA}I better take that axe, {FearB}in case I run into any of them on the way to my truck.
+608) KENNY
+{SadA}And Lee, {NormalA}I better take that axe, {FearB}in case I run into any of them on the way to my truck.
+13) LEE
+{SadA}Here you go.
+26) LEE
+{SadA}Here you go.
+122) LEE
+Here you go.
+300) LEE
+{SadA}Here you go.
+458) LEE
+{SadA}Here you go.
+609) LEE
+{SadA}Here you go.
+111) 
+{SadA}Y Lee, {NormalA}ser� mejor que lleve esa hacha, {FearB}en caso de que me encuentre a alguno de ellos en el camino.
+112) 
+{SadA}Aqu� tienes.
+115) KENNY
+With this alarm going we don't have much time until every [ZOMBIE] in Macon is on our doorstep. I'm going to get the truck pulled up around back.
+116) LILLY
+Do it fast, I've got to get my father out of here.
+118) KENNY
+Honey, take Duck into the office and barricade the living hell out of the door behind me. Glenn, when you hear me honking in the alley, start getting people out of here.
+120) KENNY
+Doug, Carley and Lee, you guys make sure our defenses stay up til then.
+121) KENNY
+And Lee, I better take that axe incase I run into any of them on the way to my vehicle.
+124) LEE
+Definitely. Clementine can handle it.
+127) KENNY
+Get on it! I'll be back as fast as I can.
+128) DOUG
+I don't know if my boards are going to last for too long...
+129) CARLEY
+[Exerting herself] We can hold the door. Get over there and make sure they don't get through.
+130) DOUG
+[Mustering the courage] Ok.
+181) CLEMENTINE
+[under duress] Ok!
+188) CLEMENTINE
+Ok
+599) CLEMENTINE
+[under duress] {FearB}Ok!
+131) LEE
+Are you sure?
+132) CARLEY
+[focused, stern] On it.
+133) LEE
+Ok then...
+134) KATJAA
+[from the other room] GLENN! HELP!
+141) KATJAA
+GLENN! HELP!
+135) GLENN
+Kenny's here! I'll go see what's wrong. You'll be ok?
+136) LEE
+[Exerting himself to hold the door closed] Yeah.
+137) DOUG
+Lee! We can't hold this alone.
+138) DOUG
+We can't hold this by ourselves!
+139) GLENN
+Shit shit shit! I... I gotta go!
+140) CLEMENTINE
+AHHHH!
+142) GLENN
+I'm sorry guys.
+143) DOUG
+They're breaking through! THEY'RE BREAKING THROUGH! HELP ME! LEE, I NEED YOUR HELP!
+144) CARLEY
+LEE...I'm running out of bullets! The magazine is on the floor! HELP!
+145) DOUG
+AHHHHHH!
+146) CARLEY
+[Big exhale, like 'phew'] Thanks.
+147) CARLEY
+Oh my god... [A friend is being eaten]
+148) CLEMENTINE
+AHHH! [Zombies have grabbed a friend].
+149) DOUG
+Ah, no!! GET 'EM OFF ME!
+150) DOUG
+[Lots of screaming, being eaten alive]
+151) CARLEY
+[Lots of screaming, being eaten alive].
+168) DOUG
+[Exerting self 1]
+169) DOUG
+[Exerting self 2]
+170) DOUG
+[Exerting self 3]
+173) CARLEY
+[Exerting self 1]
+174) CARLEY
+[Exerting self 2]
+175) CARLEY
+[Exerting self 3]
+178) GLENN
+[Exerting self 1]
+179) GLENN
+[Exerting self 2]
+180) GLENN
+[Exerting self 3]
+205) DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+209) CLEMENTINE
+[gasp!]
+216) DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+505) CLEMENTINE
+[gasp!]
+615) 
+[Remain Silent]
+152) CLEMENTINE
+AHHHHHHH! [Zombies have grabbed a friend.]
+153) DOUG
+[Relieved] Oh man, thanks.
+154) DOUG
+Holy... [a friend has just been eaten]
+155) DOUG
+OH SHIT OH SHIT OH SHIT!
+156) CARLEY
+Shit! I'm out! There's too many -
+157) KENNY
+Let's GO!
+158) CARLEY
+They got Doug... They...they...
+159) LARRY
+It doesn't matter, you've gotta MOVE.
+161) LARRY
+It doesn't matter, you've gotta MOVE.
+160) DOUG
+They got Carley!
+162) CLEMENTINE
+No! [Watching Lee, who is essentially her father, get hurt badly]
+163) LARRY
+You're not coming with us, you son of a bitch.
+164) LARRY
+This son of a bitch isn't coming with us.
+165) CLEMENTINE
+For the door!
+166) DOUG
+Come on!
+207) DOUG
+Come on!
+167) DOUG
+We've got to hold this door until Ken comes back!
+171) CARLEY
+Get the lead out and get over here!
+203) CARLEY
+Get the lead out and get over here!
+172) CARLEY
+Little help here!
+202) CARLEY
+Little help here!
+176) GLENN
+Lee, come hold the door!
+194) GLENN
+Lee, come hold the door!
+177) GLENN
+We can't let them get in!
+195) GLENN
+We can't let them get in!
+182) LEE
+Clementine! Can you look for something to stick in between handles! Something real strong, ok?!
+600) LEE
+Clementine! Can you look for something to stick in between handles! Something real strong, ok?!
+183) LEE
+Find anything?
+184) CLEMENTINE
+I'm looking!
+185) CLEMENTINE
+I found something!
+186) LEE
+Bring it here!
+187) LEE
+Stay away from the windows.
+189) LEE
+You ok?
+190) CLEMENTINE
+[Earnest] They need help
+191) GLENN
+There must be a hundred of them!
+192) LEE
+I thought you said "we got this."
+193) LEE
+Be careful!
+196) CARLEY
+These things don't stop...
+197) CARLEY
+Kenny better hurry.
+198) CARLEY
+As long as I've got bullets.
+199) LEE
+You good?
+200) CARLEY
+Lee, these bullets won't last forever!
+201) CARLEY
+My clips are out of reach!
+204) DOUG
+[Holding off zombies] Oh man, oh man...
+206) DOUG
+The boards are coming loose, I can't do this!
+217) DOUG
+The boards are coming loose, I can't do this!
+208) DOUG
+Help us!
+210) LEE
+[under duress] Maybe we can bar these doors!
+506) LEE
+[under duress] Maybe we can bar these doors!
+211) LEE
+[under duress] Look around for something to put in-between these handles!
+507) LEE
+[under duress] Look around for something to put in-between these handles!
+212) LEE
+[under duress, to self] That should be heavy enough to hold those things back.
+213) DOUG
+[under duress] Eh, you know.
+214) LEE
+[under duress][stern] NO. I don't, actually.
+215) LEE
+[under duress] How well are those windows boarded up?
+402) GLENN
+[pickup1] [panicked by a scream] Shit! [DIR: (<<author>>Sean Vanaman, Tue Jul 05 18:30:12 2011<<date:1309915812>>)] [Glen bolts across the room and out the office door.]
+415) GLENN
+[pickup1] Lee, come on!
+416) GLENN
+[pickup1] [a little panicked, a little agitated] Lee! Come on, man, Katjaa needs me out there!
+437) DOUG
+[pickup1] [screaming, increasingly terrified] Ahhhhh! Get off, get OFF! Lee, HELP! Oh God, HE-! Oh, get 'em off me, get 'em off me! GET THEM OFF ME!
+469) CARLEY
+[pickup1] [Lots of screaming, being eaten alive - please try to show the actress the animation, it's very specific - sk55_action_carleyKilled.chore].
+508) 
+Bar the door
+509) 
+Get to the door
+511) DOUG
+[pickup2] That window is SCREWED!
+512) CARLEY
+[pickup1] LEE! Help! Ammo! In my purse!
+513) CARLEY
+[pickup1] [shocked at zombie attacking Lee] Oh, Shit!
+514) LEE
+[pickup1] Wha...? [zombie suddenly in his face] Oh, shit!
+515) LEE
+[pickup1] [just saved from zombie death] Jesus...
+516) DOUG
+[pickup1] [timid, quiet, scared] Oh, man...
+517) KATJAA
+[pickup1] [starting to worry, yelling from other room] Glenn, we need your help! Please hurry!
+518) KATJAA
+[pickup1] [panicking a little, yelling from next room] Glenn, we need you, we need you!
+519) KATJAA
+KATJAA CALLOUT 3!!!!!
+520) KENNY
+[pickup1] [arguing, yelling over alarm] Goddamn it, that's not going to WORK!
+521) GLENN
+[pickup1] [defensive, yelling over alarm] I'm just saying, if we--
+522) KENNY
+[pickup1] [arguing, yelling over alarm] Come on, Glenn! You know I'm right about this.
+523) KENNY
+[pickup1] [good-humored, yelling over alarm] Well, wish in one hand, shit in the other...
+524) GLENN
+[pickup1] [conceding, yelling over alarm] I guess, I mean it's not like we have a choice at this point. I'd just rather we didn't split up, you know?
+525) GLENN
+[pickup1] [conceding, yelling over alarm] ...yeah.
+526) KENNY
+[pickup1] Can YOU? [A response to Lee saying "She can handle it," in reference to zombies breaking into the room.]
+527) KENNY
+[pickup1] Guess we'll just have to find out.
+528) 
+Look at me. What do you think?
+531) LEE
+[pickup1] Look at me. What do you think?
+529) 
+I'm gonna do my best.
+533) LEE
+[pickup1] I'm gonna do my best.
+530) 
+Hell no. There's a bunch of dead people walking around out there.
+536) LEE
+[pickup1] Hell no! There's a bunch of dead people walking around out there.
+532) KENNY
+[pickup1] OK, tough guy. Let's hope that's true.
+534) KENNY
+[pickup1] Let's hope it's good enough.
+535) KENNY
+[pickup1] Well maybe your girl can protect YOU then.
+537) KATJAA
+[pickup1] [a little panicked] Duck, c'mon baby, time to go.
+538) KENNY
+[pickup1] With this alarm going, won't be long til every one of those things is on our doorstep.
+539) KENNY
+[pickup1] I'm gonna get the truck pulled up 'round back.
+602) KENNY
+[pickup1] I'm gonna get the truck pulled up 'round back.
+540) LEE
+[pickup1]She'll be fine as long as she stays close to me.
+541) KENNY
+[pickup1][to Clementine] You listen to him, you hear?
+542) CARLEY
+[pickup1] Glenn! Doug! Let's get on it!
+543) KENNY
+[pickup1] I'll be back as fast as I can!
+544) CARLEY
+[pickup1] LEE! The shelf! The three of us can hold the door!
+545) LEE
+[pickup1] [ramming your shoulder into a bookcase, a sharp, heavy throw. time is of the essence!]
+546) LEE
+[pickup1] [ramming your shoulder into a bookcase, a sharp, heavy throw. time is of the essence!]
+547) LEE
+[pickup1] [ramming your shoulder into a bookcase, a sharp, heavy throw. time is of the essence!]
+548) LEE
+[pickup1][you throw all of your weight into a shelf, pushing it up against a window. success!]
+549) DOUG
+[pickup1][instead]No! The boards on that window are coming loose!
+550) CARLEY
+[pickup1]Fix them first!
+551) GLENN
+[pickup1][offended, but in the heat of battle]Hey!
+552) CARLEY
+[pickup1] GOOD WORK! We could use some muscle on this door!
+553) DOUG
+[pickup1] Way to go!
+593) DOUG
+[pickup1] Way to go!
+554) LEE
+[pickup1][having just succeeded] We're good here!
+590) LEE
+[pickup1][having just succeeded] We're good here!
+555) CARLEY
+[pickup1] Come help us!
+556) GLENN
+[pickup1]Shit! Lee, come take over!
+592) GLENN
+[pickup1]Shit! Lee, come take over!
+557) CARLEY
+[pickup1][under major duress but still making fun of Glenn]"The man?"
+558) LEE
+[pickup1][holding the door] Shut up, Doug!
+559) DOUG
+[pickup1] [under duress] Hey, Lee... if we don't make it through this, you should know that... I think you're a great guy.
+560) CARLEY
+[pickup1] Doug, if we don't make it through this, you should know-- [interupted]
+561) CARLEY
+[pickup1][under duress, holding the door] Huh?!
+562) DOUG
+[pickup1][under duress, holding the door] I should know WHAT?
+563) DOUG
+[pickup1] You said I should know--
+565) CARLEY
+[pickup1][throwing your weight against a door that hte undead horde is trying to break through; holding them back.]
+566) LEE
+[pickup1][throwing your weight against a door that hte undead horde is trying to break through; holding them back.]
+567) DOUG
+[pickup1][throwing your weight against a door that hte undead horde is trying to break through; holding them back.]
+568) LEE
+[pickup1][pushing back against zombies, continual]
+569) LEE
+[pickup1] CLEMENTINE! Did you find anything?!
+570) DOUG
+[pickup1][throwing your weight against a door that the undead horde is trying to break through; holding them back, number 2]
+571) LEE
+[pickup1][throwing your weight against a door that the undead horde is trying to break through; holding them back, number 2]
+572) CLEMENTINE
+[pickup1] [loud yell] Nothing! Oh wait! [remembering something]
+573) LEE
+[pickup1][fighting for his life, lee throws all of his energy into a door, trying to hold the horde back]
+574) DOUG
+[pickup1][surprised/scared]Ah!
+575) CARLEY
+[pickup1][surprised/scared]Ah!
+576) GLENN
+[pickup1][surprised/scared]Ah!
+588) GLENN
+[pickup1][surprised/scared]Ah!
+589) DOUG
+[pickup1][surprised/scared]Ah!
+591) CARLEY
+[pickup1][surprised/scared]Ah!
+577) DOUG
+[pickup1]Guys, that door's not locked anymore! [oh shit!]
+578) CARLEY
+[pickup1][panic] SHIT! I'm out! I'm OUT!
+579) 
+Get the bookshelf back on the window
+580) 
+Get the boards back on the window
+581) CLEMENTINE
+[pickup1] [grabbed by zombie]
+582) 
+Save Clementine from the zombie
+583) 
+Get out of the drugstore
+584) 
+Use the joystick to avoid getting thrown off the door.
+585) 
+Activate!11!1!!
+586) CARLEY
+[pickup1] Goddamn it, Glenn, no! Get BACK here!
+594) 
+Hammer
+595) 
+Board
+596) 
+You win!
+597) 
+Hit the 'A' button to slam the door shut.
+598) 
+You fell off the door!
+601) 
+Purse
+603) LILLY
+[pickup1] We've got to get out of here! FAST!
+604) KENNY
+[pickup1] [loud, over an alarm] I don't plan on dilly-dallying.
+610) KENNY
+[pickup1] You three get on it! I'll get back as fast as I can!
+611) CARLEY
+[pickup1] [running, shocked] Larry! They got Doug! They...they...
+612) DOUG
+[pickup2] [running, panicked] Larry! They got Carley!
+613) CARLEY
+[pickup2] [a scream--you've just been grabbed by zombies, trying to get someone's attention]
+614) LEE
+[pickup3] GO!
+616) 
+Shut up, Doug!
+617) 
+We'll make it through this!
+618) 
+Uh, thanks.
+619) LEE
+[pickup3] [holding the door against a horde of zombies] [sarcastic] Gee, thanks, Doug!
+620) LEE
+[pickup3][holding the door against the zombies] We WILL make it through this.
+623) 
+Kenny's Hand
+624) 
+Take
+625) 
+Take
+626) 
+Cane
+627) 
+Bar
+629) 
+Bar
+628) 
+Push
+630) 
+Help

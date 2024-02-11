@@ -1,0 +1,470 @@
+1) DEE
+{painA}[mumbling, only partially conscious, in pain] B...Bonnie...
+2) BONNIE
+{fearC}[did something horrible, completely distraught] Dee, oh God, {fearB}Dee... {angryD}I'm--I'm so sorry, {sadC}oh GOD....
+3) BONNIE
+{fearB}[gasping at the horrible wound a friend suffered]
+17) BONNIE
+{fearC}[grunting with exertion as you savagely beat someone with a flashlight]
+54) BONNIE
+[running hard, panting]
+55) BONNIE
+[running hard, panting]
+56) BONNIE
+[running hard, panting]
+57) BONNIE
+[running hard, panting]
+77) LELAND
+{sadB}[soft, stifled sobs]
+78) LELAND
+[soft, stifled sobs]
+79) LELAND
+[soft, stifled sobs]
+83) BONNIE
+[breathing as you come out of it]
+84) BONNIE
+[small grunts of pain]
+85) BONNIE
+[breathing as you come out of it]
+86) BONNIE
+[getting attacked, small grunt of surprise]
+87) BONNIE
+[gasp]
+88) BONNIE
+[small grunts of pain]
+90) BONNIE
+[grunt of pain]
+97) BONNIE
+[grunt of pain]
+98) BONNIE
+[grunt of exertion]
+120) BONNIE
+{fearC}[panting as she runs]
+4) DEE
+{angryB}[barely conscious, in pain, muttering, completely floored] Wh... why?
+5) BONNIE
+{fearC}[distraught, trying to be quiet] It was dark, {sadC}it's so dark, I {fearB}couldn't see you! I {sadB}didn't know it was you! How {fearC}was I supposed to know it was you?!?
+6) BONNIE
+{sadB}[whispering, terribly upset] Wh--why didn'tcha {fearB}SAY anything? You shoulda {fearC}SAID somethin'!
+7) BONNIE
+{sadB}[whispering, almost angry for being upset] Wh--why wasn't Leland with you? {fearB}Where is he?
+8) DEE
+{disgustA}[out of it, muttering in pain] I sh-should never {fearA}have... t-trusted you...
+9) DEE
+[out of it, crying a little] Leland, {painA}she.... did this to me....
+10) BONNIE
+[grunt of exertion] Rrrrrggh!
+192) BONNIE
+[grunt of exertion] Rrrrrggh!
+11) LELAND
+[loud whisper] Dee? Dee, did ya find her?
+12) DEE
+{fearA}[softly, trying as hard as she can to talk but almost unconscious] Leland! {painA}Leland... she {fearB}killed me... {sadB}she killed me....
+13) BONNIE
+{sadB}[trying to be quiet] I didn't {fearB}mean to do this, Dee! I {sadC}swear to God, I {fearC}didn't mean to.
+14) BONNIE
+{fearC}[upset, whispering] You're gonna be {sadC}fine, Dee. You're {sadB}gonna be fine.
+15) BONNIE
+{fearB}[pleading, upset, whispering] I... God, I'm {sadC}so sorry, SO... I {fearC}can't... oh {fearD}God, GOD....
+16) DEE
+{painA}[out of it, softly, wailing] Leland, please....
+18) LELAND
+{happyA}Bonnie, I {fearA}thought they'd gotcha back there! {fearB}Jesus, are you SHOT?
+19) LELAND
+{fearC}Dee, oh god! {surprisedA}What happened? {fearB}Oh Jesus, oh Lord, {sadB}Bonnie, what HAPPENED?
+20) BONNIE
+{fearC}[distraught, trying to be quiet] I don't know! I... {fearB}I found her like this....
+21) BONNIE
+{fearB}[cracking a little] I... {fearC}had to... I... I {sadC}thought you would....
+22) LELAND
+{disgustA}[upset, shocked, voice rising a little] What...? {sadA}What do you {fearB}mean?
+23) BONNIE
+{sadB}[upset, harsh whisper] It doesn't matter now, Leland. {sadC}She's DEAD. We got to {fearC}move on, we can't stay here!
+24) LELAND
+{fearB}[distraught, little bit of anger]I... I know, but... {disgustA}just... just give me{sadB} a MINUTE....
+25) LELAND
+{sadB}[angry, distraught, harsh whisper] She deserves a... {disgustA}a proper burial. We can't just {angryD}leave her here in a fuckin'... {fearC}cornfield!
+26) LELAND
+{disgustA}[upset, harsh whisper] She won't... {sadB}do that.... [come back from the dead]
+27) BONNIE
+{sadA}[urgent, upset, harsh whisper]We can't take her with us. {fearA}What if she turns inta one a {fearB}them things?
+28) BONNIE
+{sadB}[pleading, harsh whisper] Leland....
+166) BONNIE
+{fearC}Leland...?!
+167) BONNIE
+{fearC}Leland...?!
+168) BONNIE
+{fearC}Leland...?!
+29) BONNIE
+{sadB}[urgent, harsh whisper] She's too heavy. We {fearB}need ta be {fearC}RUNNIN' outta here.
+30) BONNIE
+{sadA}[urgent, harsh whisper] Take a moment and say your peace... {fearB}but it has to be fast. {fearA}I'm sorry.
+31) LELAND
+{sadA}[upset, harsh whisper] [sucks in a huge breath] ...okay. {fearB}Oh God, okay... {fearA}we'll... I don't.....
+32) LELAND
+{sadA}[upset whisper]You got anything to say to her?
+33) BONNIE
+{fearA} [upset, whispering] I... I'm sorry, Dee. {sadB}I really, truly am.
+173) BONNIE
+{fearA} [upset, whispering] I... I'm sorry, Dee. {sadB}I really, truly am.
+174) BONNIE
+{fearA} [upset, whispering] I... I'm sorry, Dee. {sadB}I really, truly am.
+34) BONNIE
+{sadA}[admitting something horrible] I said {sadB}it was me that did this. I did it. Me.
+35) LELAND
+{disgustA}Sure as hell didn't {sadA}SOUND like nothin'. {fearB}Sounded like you said {angryB}YOU did this.
+36) BONNIE
+{fearB}[changing her mind, trying to be quiet] Nothin'. {disgustA}Never mind.
+37) BONNIE
+{disgustA}[distraught, trying to be quiet] It really {fearB}was an accident, Leland, {sadB}it really--
+38) LELAND
+{disgustA} [upset, angry, trying to be quiet but failing a little] You {sadB}did this? {fearB}You did this {angryB}to my Dee?
+39) LELAND
+{disgustA} [upset, angry, trying to be quiet but failing a little] You {sadB}did this? {fearB}You did this {angryB}to my Dee?
+157) LELAND
+{disgustA} [upset, angry, trying to be quiet but failing a little] You {sadB}did this? {fearB}You did this {angryB}to my Dee?
+232) LELAND
+{disgustA} [upset, angry, trying to be quiet but failing a little] You {sadB}did this? {fearB}You did this {angryB}to my Dee?
+40) LELAND
+{fearA}[trying to be quiet, distraught] Bonnie, come on {fearB}now, talk to me! {disgustA}Tell me {sadB}somethin'!
+41) CLIVE
+I think I heard something over here!
+42) ROMAN
+[yelling over wind, rain] Which way?!?
+43) CLIVE
+[yelling over wind, rain] Here, I'll show you!
+44) SHEL
+[yelling over wind, rain] Where the hell are you guys?
+45) STEPHANIE
+[yelling over wind, rain] Back this way! No, you're going-- there!
+46) LELAND
+{sadB}[distraught, failing to find the words, finally overcome] I... I feel sick.
+47) BONNIE
+{disgustA}Leland, {fearC}come on!
+48) BONNIE
+{thinkingA}I need you, {fearB}Leland! You're {sadB}all I've got...
+49) LELAND
+{disgustA}You will if ya know what's good for ya.
+50) BONNIE
+{thinkingA}I ain't {sadB}leavin' you here!
+51) LELAND
+{disgustA}I ain't leavin' her.
+52) BONNIE
+{thinkingA}They'll {fearB}kill you.
+53) LELAND
+{fearB}[distraught, whispering] I'm sorry to... {sadB}do this to ya, darlin'.
+58) BONNIE
+{thinkingA}[sad, final, trying to be uber quiet] I know {sadB}it's hard, but I {fearC}need you, Leland!
+59) LELAND
+{sadA}[determined] If she's gonna {fearA}die for this thing, I for {disgustA}damn sure ain't leavin' {sadA}it behind.
+60) 
+I need you, Leland!
+111) 
+I need you, Leland!
+61) 
+Let her go!
+62) 
+We can't stay here forever!
+63) BONNIE
+{thinkingA}[urgent, trying to be uber quiet] Leland, you {fearC}have to let {sadB}her go!
+64) BONNIE
+{fearB}[urgent, final, trying to be uber quiet] We can't stay {thinkingA}here forever!
+65) 
+What are you doing?
+66) 
+Get back here!
+67) 
+Leland! She's gone!
+68) DEE
+{sadB}[muttering, in pain, out of it] He... {painA}left me....
+69) DEE
+{sadB}[in pain, out of it, muttering]Wh--where is he? {painA}Le... Leland? Where {disgustB}are you?
+70) DEE
+{disgustA}[muttering, in pain, out of it] There was no....[losing train of thought]
+71) DEE
+[muttering, in pain, out of it] ...I {sadA}thought I... saw you....
+72) DEE
+{angryC}[out of it, muttering in pain]...just... just a junkie....
+73) DEE
+{fearA}[muttering, in pain] You... love him... {angryD}I seen him... {painA}look at you....
+74) DEE
+[out of it, muttering in pain] I seen... how you... look... at him....
+136) DEE
+[out of it, muttering in pain] I seen... how you... look... at him....
+75) DEE
+{disgustB}[muttering in pain] I knew {angryC}you'd FUCK up again... {painA}take him....
+76) LELAND
+{disgustA}[distraught, whispering]...leave ya {sadB}here this way.
+80) BONNIE
+{thinkingA}[urgent, trying to be uber quiet] What the {fearB}hell are you doing?!
+81) BONNIE
+{fearC}[urgent, trying to be uber quiet] Leland! Get {angryD}back here!
+82) BONNIE
+{disgustA}[urgent, trying to be uber quiet] She's gone! {fearB}We can't take {sadB}her with us!
+89) BONNIE
+{fearB}[running through dark, looking for friends] Dee! Leland!
+91) ROMAN
+Through here, look!
+92) DEE
+[scream] Aahhhhhh!
+93) LELAND
+Dee!
+94) DEE
+[grunt as you're cracked in the face with a heavy object] Rrrgk!
+95) BONNIE
+[grunt as you attack someone] Nnngh!
+96) BONNIE
+[scream of pain as your throat is ripped out] AAAAACKKKKK!
+99) 
+It was an accident!
+132) 
+It was an accident!
+100) 
+I did it.
+101) 
+Nothing. Never mind. [Lie]
+102) 
+I found her like this. [Lie]
+103) 
+I had to do it.
+104) 
+It doesn't matter.
+105) 
+She might turn.
+106) 
+She's too heavy.
+107) 
+Take a moment.
+108) 
+No.
+109) 
+I'm sorry, Dee.
+110) 
+Leland, I'm here for you.
+112) 
+I'm not leaving you!
+113) 
+They'll kill you.
+114) 
+I didn't know it was you!
+115) 
+Why didn't you say something?
+116) 
+Where's Leland?
+117) 
+I didn't mean to do this...
+118) 
+You're gonna be fine...
+119) 
+I'm so sorry...
+214) 
+I'm so sorry...
+121) BONNIE
+{fearA}[to herself, out of breath, in pain] Mama {sadA}watch over me....
+122) ROMAN
+[shouting through a field in the rain] Do you see anything?
+123) ROMAN
+[shouting through field in the rain]I can't see a damn thing out here! Anybody got anything?
+124) ROMAN
+[shouting through a field in the rain] Spread out, they can't be far!
+125) ROMAN
+[shouting through a field in the rain] Keep moving! We gotta be closing in.
+126) ROMAN
+[shouting through a field in the rain] Call out if you see em!
+127) STEPHANIE
+[shouting through a field in the rain] They went this way!
+128) STEPHANIE
+[shouting through a field in the rain] I think I see 'em! Over here!
+129) STEPHANIE
+[shouting through a field in the rain] This way! Come on!
+130) 
+Leland is just a friend.
+131) 
+You're right. I like him.
+133) BONNIE
+{fearB}[upset, near tears] Leland is just a friend. I {fearC}didn't mean to do this Dee, I swear {sadC}to God!
+134) BONNIE
+{sadC}[upset, near tears] There is {sadB}somethin' between us. But {fearC}that don't mean I wanted this... I swear to God.
+135) BONNIE
+{fearB}[upset, near tears] Dee, I would never... {sadC}I swear this has nothin' to do with him. It {fearC}was an accident....
+137) DEE
+{angryD}[beat to shit, dying] You... {painA}bitch....
+138) BONNIE
+{fearA}[horrified] I... {fearB}I... no, {fearC}God, I'm sorry. {sadC}I need him; I {fearC}need you both....
+139) DEE
+{disgustB}[confused, in pain]Do... d-do I look... {painA}how bad is it...?
+140) DEE
+{sadB}[confused, in pain] You... why...?
+141) DEE
+{fearB}[confused, in pain] Bonnie...?
+142) DEE
+{painA}You did this...? You... {angryD}killed me... {angryB}you KILLED me....
+143) DEE
+{angryB}Liar... {disgustB}you did this... {fearA}for him....
+144) DEE
+{painA}[fading] ...knew you wanted him...
+145) DEE
+{disgustB}[fading] ...didn't think you had the stones...
+146) DEE
+{angryC}[fading] ...God damn you....
+147) LELAND
+{sadA}[in shock] Oh my god, Dee... {sadB}darlin'... what {fearB}happened to you?
+148) LELAND
+{surprisedA}[pained, beginning to cry] Your face... her {sadB}face... Bonnie...?
+149) LELAND
+{fearB}[distraught] We can't leave her {disgustA}like this....
+150) LELAND
+{fearC}[distraught, pleading] Help me move her, {disgustA}Bonnie... {sadB}please....
+151) 
+It was me.
+152) LELAND
+{fearB}[pleading, distraught] But... we {sadB}can't leave her {disgustA}like THIS.
+153) BONNIE
+{fearB}[distraught] She came outta nowhere. I {disgustA}thought she was one a them. {sadB}I didn't see her until she {fearC}was right there....
+231) BONNIE
+{fearB}[distraught] She came outta nowhere. I {disgustA}thought she was one a them. {sadB}I didn't see her until she {fearC}was right there....
+154) BONNIE
+{sadA}	[distraught] No, I found her like this. {fearA}I just meant, I shoulda been there for her. I'm sorry, Leland....
+155) BONNIE
+{fearA}[gathering herself] What's {disgustB}done is done... we {thinkingA}have to get going.
+156) 
+She was already like this. [Lie]
+158) 
+What's done is done.
+159) LELAND
+{disgustA}[upset, angry, trying to be quiet] Bonnie... what {sadA}was that you just said?
+160) LELAND
+{angryB}[upset, angry, trying to be quiet]Tell me {disgustA}what happened.
+233) LELAND
+{angryB}[upset, angry, trying to be quiet]Tell me {disgustA}what happened.
+161) LELAND
+{fearB}[upset, angry, trying to be quiet]Bonnie. {sadB}God dammit.
+162) LELAND
+{sadA}[distraught, looking down at Dee] Dee? [beat] {sadB}Jesus... Dee, {fearC}stay with me, now....
+203) LELAND
+{sadA}[distraught, looking down at Dee] Dee? [beat] {sadB}Jesus... Dee, {fearC}stay with me, now....
+163) LELAND
+{fearA}[distraught, looking down at Dee] What happened? {sadB}Dee? Can {fearB}you hear me?!
+204) LELAND
+{fearA}[distraught, looking down at Dee] What happened? {sadB}Dee? Can {fearB}you hear me?!
+164) LELAND
+{disgustA}[to Dee, distraught] How did {fearB}this happen...? Why didn't {sadB}you wait for me...?
+165) LELAND
+{disgustA}[to Dee, distraught] How did {fearB}this happen...? Why didn't {sadB}you wait for me...?
+169) LELAND
+{sadB}God dammit... I {fearC}know there ain't time, {fearB}but....
+170) BONNIE
+{sadB}[whisper] Leland, {sadC}I'm here for you.
+175) BONNIE
+{sadB}[whisper] Leland, {sadC}I'm here for you.
+171) BONNIE
+{sadB}[previous line "You got anything to say?"][sad, whispering] ...N ...no.
+172) BONNIE
+{sadB}[previous line "You got anything to say?"][sad, whispering] ...N ...no.
+176) LELAND
+{sadA}[understanding, breaking down, whisper] It's okay. She {fearB}knew how you felt {sadB}about her....
+177) LELAND
+{sadA}[sad, angry, under breath] Yeah, I {disgustA}figured as much....
+178) LELAND
+{fearB}[sad, breaking down, whisper] She loved you, {sadB}Bonnie.
+179) LELAND
+{sadB}[sad, angry, under breath] She deserved {disgustA}better.
+180) LELAND
+{sadA}[sad, distraught whisper] I loved her, Bonnie. She deserved {disgustA}better than {fearA}this.
+181) LELAND
+{sadB}[sad, trying to work through it] I'm... sure you'll {fearA}think a somethin'. {sadA}Later on.
+182) LELAND
+{fearB}[sharp, upset, whispering] Don't. {angryB}Not now....
+183) LELAND
+{sadB}[hurt, angry] WHAT? {disgustA}"What's DONE {angryB}is DONE?" That's {angryC}all you have to say?
+184) LELAND
+{angryB}[angry, hurt] I don't buy it, {disgustA}Bonnie... I don't {fearA}buy it at all.
+228) LELAND
+{angryB}[angry, hurt] I don't buy it, {disgustA}Bonnie... I don't {fearA}buy it at all.
+185) LELAND
+{fearB}[hurt, distraught] I don't... I {sadB}don't believe this.
+230) LELAND
+{fearB}[hurt, distraught] I don't... I {sadB}don't believe this.
+186) BONNIE
+{fearC}[stifling a gasp of surprise] Hnnt!
+187) STEPHANIE
+[shouting through a field in the rain] Anybody see anything?
+188) CLIVE
+[shouting through a field in the rain] I don't see shit out here!
+189) CLIVE
+[shouting through a field in the rain]Stef, you see something?
+190) CLIVE
+[shouting through a field in the rain] It's too damn dark out here!
+191) CLIVE
+[shouting through a field in the rain] I think I saw something over here!
+193) 
+Screwdriver
+194) BONNIE
+[being chased and trying to hide, under your breath] Shit!
+195) BONNIE
+[being chased and trying to hide, under your breath] Goddammit!
+196) BONNIE
+[being chased and trying to hide, under your breath] Come on Bonnie... come on....
+197) BONNIE
+[being chased and trying to hide, under your breath]Where the hell are they?
+198) BONNIE
+[being chased and trying to hide, under your breath]Where the hell....[trailing off]
+199) 
+Attack
+200) 
+Rebar
+201) 
+Pursuer
+202) 
+Pull Out
+205) 
+Vertical Hinge
+206) 
+Horizontal Hinge
+207) 
+Kick
+208) ROMAN
+[pickup2][angry, looking for an intruder] Shit. Where are you?
+209) ROMAN
+[pickup2][angry, looking for an intruder] Shit. Where are you?
+210) ROMAN
+[pickup2][looking for intruder, high energy]Anything?
+211) STEPHANIE
+[pickup2][looking for intruder, high energy] No. I can't see a damned thing out here.
+212) 
+There was nothing I could do.
+213) 
+It was her fault. [Lie]
+215) BONNIE
+[pickup2] [apologetic, distraught] There weren't nothin I coulda done.. it was dark and she... she came outta nowhere, Leland...
+216) LELAND
+[pickup2] [sad, distraught] Jesus... I believe ya, but... oh god...
+217) BONNIE
+[pickup2] [apologetic, distraught] I'm sorry... I'm so sorry, Leland...
+218) BONNIE
+[pickup2] [distraught, defensive] It was her fault, Leland... she came at me in the dark... she woulda done the same, I know it.
+219) LELAND
+[pickup2][distraught, angry, snapping]Shut up. [beat]Shut up...
+220) LELAND
+[pickup2] [angry, distraught] I don't understand...
+221) LELAND
+[pickup2] [angry, distraught] How did it happen...?
+222) LELAND
+[pickup2] [understanding, distraught] Bonnie...
+223) LELAND
+[pickup2] [distraught, angry] I can't believe you... you did this...
+224) LELAND
+[pickup2] [angry, distraught] I just don't... Bonnie? Why...?
+225) DEE
+[pickup2] [out of it, in pain, brain damaged--really sell this accusation] you fuckin JUNKIE...
+226) BONNIE
+[pickup2] [panicked, talking to herself, hushed tone] Okay, Bonnie, stay calm... find a weapon....
+227) BONNIE
+[pickup2] [panicked, talking to herself, hushed tone] There's gotta be somethin' around here....
+229) BONNIE
+[distraught] I found her like this. I shoulda been there for her. I'm sorry, Leland...
+234) LELAND
+Tell me what happened.
+235) LELAND
+Tell me what happened.

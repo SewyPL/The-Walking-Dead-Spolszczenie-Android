@@ -1,0 +1,724 @@
+1) 
+New Game
+2) 
+セーブ1
+3) 
+セーブ2
+4) 
+Game 3
+5) 
+SELECT
+6) 
+BACK
+7) 
+AUDIO
+8) 
+GRAPHICS
+9) 
+GAMEPLAY
+10) 
+SETTINGS
+33) 
+SETTINGS
+11) 
+AUDIO SETTINGS
+12) 
+VOICE
+13) 
+MUSIC
+14) 
+SOUND
+15) 
+GRAPHICS SETTINGS
+16) 
+APPLY
+17) 
+AFTEREFFECTS
+18) 
+オン
+19) 
+OFF
+20) 
+LOW
+21) 
+MEDIUM
+22) 
+HIGH
+23) 
+GRAPHICS QUALITY
+24) 
+VERY HIGH
+25) 
+ANTI-ALIASING
+26) 
+FULL SCREEN
+27) 
+SHADOW QUALITY
+28) 
+TEXTURE QUALITY
+29) 
+RESOLUTION
+30) 
+GAMMA
+31) 
+PLAY
+52) 
+PLAY
+331) 
+PLAY
+332) 
+PLAY
+32) 
+DEMO
+34) 
+終了
+35) 
+CONTINUE
+36) 
+エピソードをやり直す
+37) 
+EPISODE 1: A NEW DAY
+38) 
+EPISODE 2: STARVED FOR HELP
+39) 
+EPISODE 3: LONG ROAD AHEAD
+40) 
+EPISODE 4: AROUND EVERY CORNER
+41) 
+EPISODE 5: NO TIME LEFT
+42) 
+実績
+43) 
+HELP & OPTIONS
+44) 
+エピソード1をアンロック
+45) 
+DOWNLOAD CONTENT
+46) 
+RESUME GAME
+47) 
+セーブ
+48) 
+MAIN MENU
+49) 
+CONTROLS
+50) 
+HOW TO PLAY
+51) 
+CREDITS
+53) 
+ACTION
+54) 
+PAUSE
+55) 
+ACTIONS
+56) 
+MOVE
+RETICLE
+57) 
+MOVE
+CHARACTER
+58) 
+エピソード1
+59) 
+Game 1
+60) 
+Episode 1
+268) 
+Episode 1
+61) 
+Game 2
+62) 
+Episode 2
+269) 
+Episode 2
+63) 
+Episode 3
+270) 
+Episode 3
+64) 
+Episode 4
+271) 
+Episode 4
+65) 
+Episode 5
+272) 
+Episode 5
+66) 
+COPY
+215) 
+COPY
+67) 
+DELETE
+68) 
+A NEW DAY
+69) 
+STARVED FOR HELP
+70) 
+神よ、私の顔が
+71) 
+Available!
+72) 
+Installed
+73) 
+Purchased
+74) 
+BUY
+75) 
+GET
+102) 
+GET
+76) 
+REMOVE
+77) 
+Coming Soon
+216) 
+COMING SOON
+78) 
+SERIES OVERVIEW
+79) 
+無理だ、ジム
+80) 
+Ok
+81) 
+EDIT EPISODES
+82) 
+You must unlock the full version of The Walking Dead by purchasing episode one before you can buy any additional content.
+83) 
+Yes
+84) 
+No
+85) 
+Warning: this action is irreversible! Are you sure you want to delete this saved game?
+86) 
+Warning: copying will erase the data previously saved here. Are you sure you want to continue?
+87) 
+LONG ROAD AHEAD
+306) 
+LONG ROAD AHEAD
+88) 
+AROUND EVERY CORNER
+307) 
+AROUND EVERY CORNER
+89) 
+NO TIME LEFT
+90) 
+Progress is saved whenever this indicator is displayed. Please do not sign out or turn off your console while the indicator is on screen.
+91) 
+REWIND
+92) 
+Checkpoint A
+93) 
+Checkpoint B
+94) 
+Checkpoint C
+95) 
+このチェックポイントをロードした場合、このセーブスロットの以降の進行状況が失われます。
+ロードしますか？
+96) 
+STATS
+97) 
+プレイ方法の説明
+98) 
+ゲームプレイ設定
+99) 
+GAMEPLAY SETTINGS
+100) 
+SUBTITLES
+101) 
+点
+103) 
+Downloading
+104) 
+Connecting...
+105) 
+You have already purchased this episode. To download, go to your Xbox home and go to Settings, Account, Download History.
+106) 
+選択肢の表示
+107) 
+EXIT GAME
+108) 
+Purchase failed. Please check your network connection and try again.
+109) 
+Unable to connect to server.
+110) 
+Download failed. Please check your network connection and try again.
+111) 
+101 DECISION 1 TITLE
+112) 
+102 DECISION 1 TITLE
+113) 
+103 DECISION 1 TITLE
+114) 
+104 DECISION 1 TITLE
+115) 
+105 DECISION 1 TITLE
+116) 
+101 DECISION 2 TITLE
+117) 
+102 DECISION 2 TITLE
+118) 
+103 DECISION 2 TITLE
+119) 
+104 DECISION 2 TITLE
+120) 
+105 DECISION 2 TITLE
+121) 
+101 DECISION 3 TITLE
+122) 
+102 DECISION 3 TITLE
+123) 
+103 DECISION 3 TITLE
+124) 
+104 DECISION 3 TITLE
+125) 
+105 DECISION 3 TITLE
+126) 
+101 DECISION 4 TITLE
+127) 
+102 DECISION 4 TITLE
+128) 
+103 DECISION 4 TITLE
+129) 
+104 DECISION 4 TITLE
+130) 
+105 DECISION 4 TITLE
+131) 
+101 DECISION 5 TITLE
+132) 
+102 DECISION 5 TITLE
+133) 
+103 DECISION 5 TITLE
+134) 
+104 DECISION 5 TITLE
+135) 
+105 DECISION 5 TITLE
+136) 
+101 DECISION 1 DESC
+137) 
+102 DECISION 1 DESC
+138) 
+103 DECISION 1 DESC
+139) 
+104 DECISION 1 DESC
+140) 
+105 DECISION 1 DESC
+141) 
+101 DECISION 2 DESC
+142) 
+102 DECISION 2 DESC
+143) 
+103 DECISION 2 DESC
+144) 
+104 DECISION 2 DESC
+145) 
+105 DECISION 2 DESC
+146) 
+101 DECISION 3 DESC
+147) 
+102 DECISION 3 DESC
+148) 
+103 DECISION 3 DESC
+149) 
+104 DECISION 3 DESC
+150) 
+105 DECISION 3 DESC
+151) 
+101 DECISION 4 DESC
+152) 
+102 DECISION 4 DESC
+153) 
+103 DECISION 4 DESC
+154) 
+104 DECISION 4 DESC
+155) 
+105 DECISION 4 DESC
+156) 
+101 DECISION 5 DESC
+157) 
+102 DECISION 5 DESC
+158) 
+103 DECISION 5 DESC
+159) 
+104 DECISION 5 DESC
+160) 
+105 DECISION 5 DESC
+161) 
+101 DECISION 1 RESULT 1
+162) 
+102 DECISION 1 RESULT 1
+163) 
+103 DECISION 1 RESULT 1
+164) 
+104 DECISION 1 RESULT 1
+165) 
+105 DECISION 1 RESULT 1
+166) 
+101 DECISION 1 RESULT 2
+167) 
+102 DECISION 1 RESULT 2
+168) 
+103 DECISION 1 RESULT 2
+169) 
+104 DECISION 1 RESULT 2
+170) 
+105 DECISION 1 RESULT 2
+171) 
+101 DECISION 2 RESULT 1
+172) 
+102 DECISION 2 RESULT 1
+173) 
+103 DECISION 2 RESULT 1
+174) 
+104 DECISION 2 RESULT 1
+175) 
+105 DECISION 2 RESULT 1
+176) 
+101 DECISION 2 RESULT 2
+177) 
+102 DECISION 2 RESULT 2
+178) 
+103 DECISION 2 RESULT 2
+179) 
+104 DECISION 2 RESULT 2
+180) 
+105 DECISION 2 RESULT 2
+181) 
+101 DECISION 3 RESULT 1
+182) 
+102 DECISION 3 RESULT 1
+183) 
+103 DECISION 3 RESULT 1
+184) 
+104 DECISION 3 RESULT 1
+185) 
+105 DECISION 3 RESULT 1
+186) 
+101 DECISION 3 RESULT 2
+187) 
+102 DECISION 3 RESULT 2
+188) 
+103 DECISION 3 RESULT 2
+189) 
+104 DECISION 3 RESULT 2
+190) 
+105 DECISION 3 RESULT 2
+191) 
+101 DECISION 4 RESULT 1
+192) 
+102 DECISION 4 RESULT 1
+193) 
+103 DECISION 4 RESULT 1
+194) 
+104 DECISION 4 RESULT 1
+195) 
+105 DECISION 4 RESULT 1
+196) 
+101 DECISION 4 RESULT 2
+197) 
+102 DECISION 4 RESULT 2
+198) 
+103 DECISION 4 RESULT 2
+199) 
+104 DECISION 4 RESULT 2
+200) 
+105 DECISION 4 RESULT 2
+201) 
+101 DECISION 5 RESULT 1
+202) 
+102 DECISION 5 RESULT 1
+203) 
+103 DECISION 5 RESULT 1
+204) 
+104 DECISION 5 RESULT 1
+205) 
+105 DECISION 5 RESULT 1
+206) 
+101 DECISION 5 RESULT 2
+207) 
+102 DECISION 5 RESULT 2
+208) 
+103 DECISION 5 RESULT 2
+209) 
+104 DECISION 5 RESULT 2
+210) 
+105 DECISION 5 RESULT 2
+211) 
+You and
+338) 
+You and
+212) 
+of players
+339) 
+of players
+213) 
+注意：
+最終チェックポイント以降のゲーム
+進行状況がすべて失われます。
+続行しますか？
+214) 
+CANCEL
+263) 
+Cancel
+217) 
+Any progress since last autosave will be lost. Are you sure you want to exit the game?
+236) 
+Any progress since last autosave will be lost. Are you sure you want to exit the game?
+218) 
+STANDARD:
+329) 
+STANDARD
+219) 
+MINIMAL:
+330) 
+MINIMAL
+220) 
+重要な選択の際に表示される
+反応やUIのヘルプが増えます
+221) 
+UIのヒントとヘルプの表示が最小限になります
+222) 
+CHOOSE A DISPLAY STYLE
+223) 
+でリーを移動させます。
+
+          は照準を合わせる、周囲を見回し様々な場所を調べる事ができます。
+
+            、       、       、        は行動や返答の選択やゾンビの頭を吹き飛ばすのに使います。
+224) 
+STORY NOTIFICATIONS
+225) 
+照準フェースボタン
+226) 
+You must be signed into a profile in order to access this feature.
+250) 
+You must be signed into a profile in order to access this feature.
+227) 
+You must have an internet connection to access this feature.
+228) 
+BUY SEASON PASS
+229) 
+SEASON PURCHASED
+230) 
+SHOW CONTROLLER BUTTONS
+325) 
+SHOW CONTROLLER BUTTONS
+231) 
+Refreshing Episode Status.
+232) 
+ACHIEVEMENTS
+233) 
+Settings can be changed later in the Help & Options menu.
+327) 
+Settings can be changed later in the Help & Options menu.
+234) 
+Your console can't connect to Xbox LIVE. Please connect to Xbox LIVE to access this feature.
+235) 
+You must be signed into PlayStation   Network in order to access this feature.
+298) 
+You must be signed into PlayStation   Network in order to access this feature.
+237) 
+DETECT SELECTABLES
+333) 
+DETECT SELECTABLES
+238) 
+このゲームはプレイヤーの選択に
+応じてストーリーが進展します。
+チャプターを選択すると最終の
+チェックポイント以降のゲーム進行状況はすべて失われますが、それ以前に決断した結果は変化しません。
+
+このチェックポイントからゲームを開始しますか？
+239) 
+このゲームはプレイヤーの選択に
+応じてストーリーが進展します。
+
+チャプターを選択すると、この
+チェックポイント以降のゲームの
+進行状況はすべて失われますが、
+それ以前に決断した事の結果は
+変化しません。
+
+このチェックポイントから
+ゲームを開始しますか？
+240) 
+Rewinding will delete any progress made after this point, but retain progress made up to this point.
+
+Do you want to rewind to this checkpoint?
+326) 
+Rewinding will delete any progress made after this point, but retain progress made up to this point.
+
+Do you want to rewind to this checkpoint?
+334) 
+Rewinding will delete any progress made after this point, but retain progress made up to this point.
+
+Do you want to rewind to this checkpoint?
+241) 
+BUY GAME
+242) 
+BRIGHTNESS
+243) 
+AUDIOVISUAL
+244) 
+AUDIOVISUAL SETTINGS
+245) 
+(Includes exclusive premium theme)
+246) 
+UIのヒントとヘルプの表示が
+最小限になります
+247) 
+PRESS START
+336) 
+PRESS START
+248) 
+CLICK TO CONTINUE
+249) 
+Online service is disabled for this Playstation  Network account due to parental control restrictions.
+251) 
+Do you want to keep this new resolution? Old settings will be reverted in 10 seconds.
+252) 
+Settings can be changed later under the Gameplay category.
+253) 
+TAP TO CONTINUE
+254) 
+MOUSE SENSITIVITY
+255) 
+ゲームを購入
+256) 
+Your Telltale account does not currently have a license for this game. Would you like to go to the Telltale Games website to purchase the game now?
+257) 
+The Telltale account you entered is not authorized to run this game. You may attempt to re-enter the login information for an account that owns the game, or visit the Telltale website to authorize this account by purchasing a copy.
+258) 
+Unable to establish a connection to the Telltale servers to verify the ownership status of this account. Please ensure that you have an active internet connection.
+259) 
+Re-enter Info
+260) 
+Visit Website
+261) 
+Retry
+262) 
+タイトル画面に戻る
+264) 
+Unknown error occurred! Please restart the application and try again.
+265) 
+The content was downloaded, but an error occurred while trying to install it. Please restart the application and try again.
+266) 
+Connection lost while downloading data. Please ensure you have a working internet connection and re-attempt the download.
+267) 
+EPISODE STATUS
+273) 
+SOCIAL
+274) 
+ストア
+275) 
+W
+276) 
+A
+277) 
+S
+278) 
+D
+279) 
+選択肢や
+各種行動の
+選択
+280) 
+行動などの選択
+281) 
+EPISODES
+282) 
+Are you sure you want to delete this content? You will have to re-download it later.
+283) 
+ON
+284) 
+CHOOSE
+DIALOG
+OPTION
+285) 
+SCROLL DIALOG
+OPTIONS
+286) 
+The latest updates have been installed. This application will now restart.
+287) 
+Unable to complete purchase: this account does not have permission to purchase age-restricted products.
+288) 
+Unable to complete purchase: this account cannot currently make payments.
+289) 
+Unable to complete purchase: a network error occurred.
+290) 
+ストレージ機器の空き容量不足によりダウンロードを完了できません
+291) 
+ダウンロードに失敗しました。本体ストレージの空き容量が不足しているため、このエピソードをダウンロードできません。設定画面で本体ストレージの管理を行うか、本体ストレージ内の画像や動画を削除したうえで、改めてお試しください。
+292) 
+There is not enough disk space available to download this episode. You can try again after managing your storage in the settings, or deleting some of the photos and videos on this device.
+293) 
+RESTORE
+294) 
+Use          to move Lee and explore the world.
+
+          will aim the reticle and allow you to interact with the things you see.
+
+Push        ,        ,        , and        to choose actions or replies and occasionally blow a zombie's head off.
+295) 
+More help from UI and feedback
+when you make important choices.
+296) 
+Turn off UI hints, help, and
+choice notification.
+297) 
+EPISODE 6: 400 DAYS
+299) 
+Complete
+300) 
+400 DAYS
+308) 
+400 Days
+335) 
+400 Days
+301) 
+(Includes episodes 1-5 and premium theme)
+302) 
+SPECIAL EPISODE
+303) 
+SPECIAL EPISODE: 400 DAYS
+304) 
+*Season Pass does not include 400 Days.
+305) 
+Online service is disabled on your\nSony Entertainment Network account due to parental\ncontrol restrictions.
+309) 
+Episode 2-5 bundle, save xx%
+310) 
+Settings can be changed in Help & Options in the Main Menu.
+311) 
+Touch Control
+312) 
+Device Control
+313) 
+CHOOSE A GAMEPLAY CONTROL STYLE
+328) 
+CHOOSE A GAMEPLAY CONTROL STYLE
+314) 
+DEVICE CONTROLS
+315) 
+TOUCH TO START
+316) 
+Drag your finger on the screen to move Lee and explore the world. 
+
+Tap the screen to interact with the things you see, choose actions or replies and occasionally blow a zombie's head off.
+317) 
+TOUCH CONTROLS
+318) 
+TOUCH CONTROLS
+319) 
+Progress is saved whenever this indicator is displayed. Please do not remove the storage media or turn the power off while the indicator is on screen.
+320) 
+Progress is saved whenever this indicator is displayed. Please do not remove the storage media or turn the power off while the indicator is on screen.
+321) 
+Progress is saved whenever this indicator is displayed. Please do not remove the storage media or turn the power off while the indicator is on screen.
+322) 
+Purchase failed. Please check your PlayStation� Network connection and try again.
+323) 
+TROPHIES
+324) 
+IN-GAME TOUCH CONTROLS
+337) 
+Generate story decisions for skipped episodes?

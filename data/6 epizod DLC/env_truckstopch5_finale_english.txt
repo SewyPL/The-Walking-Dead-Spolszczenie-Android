@@ -1,0 +1,556 @@
+1) BECCA
+[without any emotion, just going through the motions] {NormalB}Nope.
+2) SHEL
+{ThinkingB}Do you have any fours?
+3) BECCA
+{NormalB}Do you have any {NormalA}sevens?{NormalB}
+4) SHEL
+[flat] {ThinkingB}Go fish.
+5) SHEL
+{ThinkingB}Yep.
+6) BECCA
+{NormalA}I miss playing guitar for everyone. {ThinkingB}I mean, it was {AngryA}stupid, {DisgustA}but fun. {ThinkingB}Why don't we do that anymore?
+7) BECCA
+{DisgustA}You know that's impossible, {NormalA}right?
+8) SHEL
+{ThinkingB}Well, after last time... {ThinkingA}Roman isn't taking any chances.
+9) BECCA
+{AngryA}Then he should fix the loose board {NormalB}behind the storage lots.
+10) SHEL
+{ThinkingA}Becca? {AngryA}Are you sneaking out again?!
+11) BECCA
+[getting the cold stare after having been caught sneaking out] {DisgustB}What?
+136) BECCA
+{ThinkingB}What?
+170) SHEL
+[shocked, confused when Boyd mentions Stephanie]{ThinkingA}What?!
+12) SHEL
+{ThinkingA}Do you know how dangerous that is?!
+180) 
+Do you know how dangerous that is?!
+13) SHEL
+{FearA}Did anyone see you leave?
+14) SHEL
+{ThinkingB}Don't let anyone else know about that spot. Just in case.
+15) BECCA
+{ThinkingB}It's not dangerous. {NormalB}There's nothing out there but {AngryA}slow-ass walkers.
+16) SHEL
+{FearA}What are you talking about?!  {ThinkingA}We've had TWO break-ins already!
+17) BECCA
+{ThinkingB}They won't!
+18) SHEL
+{ThinkingA}Dammit, Becca!
+19) BECCA
+[pickup2]{NormalB}No. {NormalA}No one saw me.
+20) SHEL
+{ThinkingA}You've gotta stop doing that. {FearA}You're gonna get us both in a lot of trouble.
+21) BECCA
+{ThinkingB}I don't see why it's such a big deal.
+22) SHEL
+{FearB}We had another break-in just last month! {ThinkingA}Becca, you know what it means if someone were to see you and follow you back here!
+23) BECCA
+{AngryA}No one is following me. {NormalB}There's no one else out there.
+24) BECCA
+{ThinkingB}In case of what?
+25) SHEL
+{FearA}In case something happens {FearB}and we need to get out of here {FearA}in a hurry. {ThinkingA}We've gotta always be prepared.
+26) ROMAN
+[through the foor]{NormalB}Shel. I need to talk to ya.
+266) ROMAN
+[through the foor]{NormalB}Shel. I need to talk to ya.
+267) ROMAN
+[through the foor]{NormalB}Shel. I need to talk to ya.
+268) ROMAN
+[through the foor]{NormalB}Shel. I need to talk to ya.
+269) ROMAN
+[through the foor]{NormalB}Shel. I need to talk to ya.
+27) SHEL
+{ThinkingB}It's open.
+28) BECCA
+[just saying hi] {NormalA}Hey.
+169) SHEL
+[getting Boyd's attention]  {NormalA}Hey...
+29) ROMAN
+{NormalC}Hey, Becca. [just saying hi]
+30) SHEL
+{HappyA}What's going on?
+31) ROMAN
+{NormalB}I'll be over by the trucks.
+32) ROMAN
+{NormalB}[alt]I'll be outside. You'll see me.
+33) SHEL
+[unsure]{ThinkingA}Okay....
+49) BECCA
+{DisgustB}Okay.
+34) ROMAN
+[lowering his voice just a bit and taking a deep breath]{ThinkingA}When you get a sec, {NormalB}I need you to come out and talk to me. {NormalC}It's important.
+35) SHEL
+[lowering her voice]{ThinkingB}Is this about Becca?
+183) 
+Is this about Becca?
+36) ROMAN
+[serious]{SadA}Just come see me.
+37) SHEL
+{NormalA}Give us a minute.
+184) 
+Give us a minute.
+38) ROMAN
+{ThinkingA}Yeah. {NormalA}Just don't take too long.
+39) SHEL
+{NormalA}We can talk here.
+185) 
+We can talk here.
+40) ROMAN
+{NormalA}No. {NormalC}Just finish up here and come find me. {AngryA}And don't take too long.
+41) ROMAN
+{AngryA}Don't take too long.
+42) BECCA
+{FearA}What was that all about?
+43) SHEL
+[lying]{NormalA}Probably nothing. {HappyC}Don't worry about it.
+44) BECCA
+{DisgustB}He said it was important.
+45) SHEL
+{HappyA}Yeah, {DisgustB}well, {HappyA}these days everything is important to Roman.
+46) SHEL
+{SadA}Maybe he found out about the boards?
+187) 
+Maybe he found out about the boards?
+47) BECCA
+{AngryA}Shit. {ThinkingB}You think so?
+48) SHEL
+{SadA}If he did, {ThinkingA}I won't say anything. {ThinkingB}But {SadA}you'd better stay away from there for a while.
+50) SHEL
+{ThinkingA}I don't know. {SadB}Probably not good, though.
+51) BECCA
+[responding to shels silence]{FearA}Shel?
+52) SHEL
+[snapping out of it]{SadA}Sorry. {ThinkingA}I guess Roman's got me a little freaked out.
+53) SHEL
+{NormalA}Stay here. It'll be just a minute. {HappyA}I'll fill you in when I get back.
+54) ROMAN
+{NormalB}[blunt]It's Stephanie.
+55) SHEL
+{ThinkingA}Roman...?
+56) SHEL
+{ThinkingA}What's this all about?
+57) ROMAN
+{AngryA}Good, you're here.
+58) ROMAN
+{SadA}You know what we do.
+59) SHEL
+{FearA}What are you gonna do?
+60) ROMAN
+{NormalC}I'm sorry.
+128) BECCA
+[heartbroken for her sister, but feeling nothing for Stephanie] {DisgustA}I'm sorry.
+149) ROMAN
+[understanding what Shel is going through]{SadA}I'm sorry.
+61) SHEL
+{SadA}I heard about Stephanie.
+62) SHEL
+{ThinkingA}What happened?
+63) ROMAN
+{AngryA}[blunt]We caught her trying to escape.
+64) SHEL
+{FearA}Maybe she wasn't. {ThinkingA}Maybe she just wanted to get outside these walls for a while. {ThinkingB}Ever since the... {ThinkingA}incident, you've made this place feel... {DisgustB}I dunno... {SadA}oppressive.
+65) ROMAN
+{DisgustA}We've made it safe.
+66) SHEL
+{SadB}Ever since the... {DisgustB}incident, {FearB}this hasn't been an easy place to live in. {ThinkingA}If she doesn't want to stay, let her take her chances out there.
+67) SHEL
+{ThinkingA}Well, so what, Roman.
+68) ROMAN
+{AngryB}She had a bag with most of our ammo and medicine inside.
+69) SHEL
+{ThinkingB}Now she's a risk. {ThinkingA}Do you know where she was going? What her plans were?
+70) SHEL
+[disapointed]{AngryA}Dammit.
+71) ROMAN
+{NormalC}No, but {AngryA}she had a bag with most of our ammo and medicine in it.
+72) ROMAN
+{AngryC}She screwed us, Shel. {AngryD}All of us. [angry]{AngryB}And now we're in that position {AngryC}again where we can't keep her here and we can't let her go.
+73) ROMAN
+[cont. getting serious]{AngryB}You do know why I'm telling you this, right?
+74) SHEL
+{DisgustB}Yeah. {FearA}You said that next time it'd have to be one of us.
+75) ROMAN
+{NormalB}We're all in this together. {SadA}This time it's your turn.
+76) ROMAN
+{AngryA}You went along with it last time, {SadB}but you weren't convinced it was the right thing to do.
+77) ROMAN
+[cont.] {FearC}Now I need to know that you're with us. 100 percent.
+78) ROMAN
+[cont]{DisgustA}Well, we did. {AngryB}And it was wrong. {AngryC}And now Boyd is dead.
+79) ROMAN
+{DisgustA}You and Boyd were the ones who fought to let that guy go, {AngryA}convinced us all to take that chance.
+80) ROMAN
+{FearC}We're beyond the luxury of taking chances now. {AngryB}And I need to know that you're with us. 100 percent.
+81) SHEL
+{ThinkingA}Yeah. You want me to take care of it.
+82) SHEL
+{ThinkingA}No. [I don't know why you're telling me]
+193) 
+No.
+213) ROMAN
+{SadA}No. [not going to try talking to Stephanie]
+83) ROMAN
+{NormalC}The last time we did this, we agreed that next time it'd fall to someone else. {DisgustA}...I'm asking you to do it.
+84) ROMAN
+[stern] {AngryA}It matters to me.
+85) SHEL
+{DisgustB}It doesn't matter.
+194) 
+It doesn't matter.
+86) ROMAN
+{AngryA}No, she's not. {NormalC}Not any more.
+87) SHEL
+{SadA}But she's one of us. {FearA}Th-this is different.
+88) SHEL
+[hesitant, sad, but convinced that killing her friend is the right thing to do] {SadA}I'll do it. {DisgustB}I don't really have a choice, do I?
+89) SHEL
+{FearA}Let's talk to her first. {FearB}See if we can talk some sense into her.
+90) ROMAN
+{AngryB}When she tried to sneak out and leave us without any medicine or extra ammo, {AngryC}she knew that could mean the death of any one of us.
+91) ROMAN
+{NormalC}Look, {SadA}I know this is hard,{AngryB} but you understand why this has to be done.
+92) ROMAN
+[compassionate, but firm]{FearA}You got your gun?
+93) SHEL
+It's in the camper.
+94) ROMAN
+{SadA}That's up to you. {FearB}Whatever you say, {AngryA}I'll back you up.
+95) ROMAN
+{AngryA}I'll give you a few minutes {NormalC}to get your head together.
+96) SHEL
+God, what do I tell Becca?
+97) SHEL
+{SadC}[starts crying a little, but trying to hide it- alt 1]
+99) SHEL
+{SadC}[starts crying a little, but trying to hide it]
+273) STEPHANIE
+[mumbling from inside trailer]
+274) STEPHANIE
+[mumbling from inside trailer]
+275) STEPHANIE
+[mumbling from inside trailer]
+276) STEPHANIE
+[mumbling from inside trailer]
+277) STEPHANIE
+[mumbling from inside trailer]
+278) STEPHANIE
+[mumbling from inside trailer]
+98) BECCA
+[concerned]{DisgustB}Shel? What's wrong? {FearA}...Am I in trouble?
+100) SHEL
+[trying to be protective. sad] It's... {DisgustB}it's nothing. {ThinkingA}Nothing you have to worry about.
+101) SHEL
+[sad, but firm]{SadB}It's Stephanie. She stole a bunch of supplies and {ThinkingA}tried to escape.
+102) SHEL
+[trying to be motherly]{FearA}What I'm gonna say {DisgustB}is going to be hard to hear....
+103) BECCA
+{DisgustB}What is it?
+104) SHEL
+[sad, compasionalte, as if talking to a child.]{FearA}It's Stephanie. {DisgustB}She stole a bunch of ammo and medicine and {FearA}tried to escape.
+105) 
+This is going to be hard for you to hear.
+106) 
+Stephanie tried to escape.
+107) 
+It's nothing you have to worry about.
+108) BECCA
+{FearA}Shel!  {FearB}Just tell me.
+109) SHEL
+{ThinkingA}Stephanie.
+110) SHEL
+[hesitant] {DisgustB}Someone was caught trying to steal our supplies.
+111) BECCA
+[shocked]{FearB}Who?
+112) BECCA
+[quiet, in shock] {FearA}Oh, my god.
+113) SHEL
+{SadB}Roman says we have to....[doesn't want to have to say "kill her"]
+114) BECCA
+[pickup2][bluntly]{SurpriseA}Kill her? [No duh]{AngryB}Yeah! [still angry]{AngryC}Why would she do this to us?!
+115) BECCA
+{AngryC}The hell did she do that for?!
+116) SHEL
+{SadA}She's just scared. {DisgustB}She made a mistake.
+117) SHEL
+{SadA}Because this place isn't safe any more.
+199) 
+Because this place isn't safe any more.
+118) SHEL
+{DisgustA}It doesn't matter. {DisgustB}She did what she did.
+119) BECCA
+[disapointed] {AngryC}WAS my friend.
+120) BECCA
+{AngryA}Well, that'll be her last mistake!
+121) SHEL
+{FearA}Becca! Stephanie is {FearB}your friend!
+122) SHEL
+{SadB}Ever since we killed that stranger, {FearA}things have been different. {FearB}Roman's not trying to protect us any more, {ThinkingA}he's trying to control us!
+123) BECCA
+{SurpriseB}But it's safe here. {DisgustA}I mean, {SurpriseA}yeah, {DisgustB}I want to get away every now and then, {ThinkingB}but I would never {FearA}LEAVE!  {FearB}That's crazy!
+124) SHEL
+{FearA}After those guys attacked us... even {FearB}AFTER we let their friend go... {ThinkingA}this place just hasn't been the same.
+125) BECCA
+{ThinkingB}Of course not. {SurpriseA}Roman' s trying to make it better.
+126) SHEL
+{ThinkingA}Better? {FearA}No one is happy anymore. {AngryA}We live like prisoners!
+127) BECCA
+[angry  "She was..."] {AngryA}Stupid.
+129) BECCA
+[wanting to get this overwith]{AngryA}Your gun's over there. {NormalB}In the drawer.
+130) SHEL
+{AngryA}...Roman wants me to do it.
+131) BECCA
+[getting frustrated, emotionally confused.  Just wants this to be over][with an exasperated grunt/sigh] {DisgustA}{AngryA}Let's just get it over with.
+132) BECCA
+{AngryB}No. I don't. {AngryA}I just want to get it over with.
+133) SHEL
+{SadA}Are you okay?   {SadB}Do you want to talk about it?
+134) SHEL
+{FearA}We've survived on our own before. {FearB}If we just go, {HappyA}we can be out of here before anyone can do anything about it.
+135) SHEL
+{DisgustB}You know, we don't have to do this. {ThinkingA}We can just go.
+137) BECCA
+{FearB}Are you crazy?! Where would we go? {ThinkingB}There's nothing out there! {SurpriseA}As long as we're here, we're safe! {SurpriseB}The group will protect us!
+138) SHEL
+{ThinkingA}But for how long?
+139) BECCA
+[angry] {ThinkingB}I don't know! {FearA}Longer than we'd survive out there! {SadA}Besides, {SurpriseB}you know the rules! If we try to leave, Roman {SurpriseA}WILL hunt us {SadA}down!!
+140) BECCA
+[getting impatient, trying to fight her emotions]{AngryA}{AngryC}Just let me do it, then.
+141) SHEL
+[sad]...{SadB}I don't want THIS to be who we are.
+142) BECCA
+[using anger to mask her fear] {AngryC}No! Roman said he wants {AngryA}you to do it! {ThinkingB}I'll {DisgustA}do it when it's my turn!
+143) SHEL
+[calling Becca's bluff]...{ThinkingB}Fine. Go ahead.
+217) 
+Fine. Go ahead.
+144) SHEL
+[being protective of her sister]{DisgustB}No. I'll do it. {SadB}You shouldn't ever have to do something like this.
+145) SHEL
+[dreading what she has to do]  {SadA}I just need a second.
+146) SHEL
+[acknoledging the break in tension] {DisgustB}Yeah, it does.
+147) BECCA
+[ breaking the tension a bit]{DisgustA}This really sucks.
+148) ROMAN
+{AngryB}Shel. It's time.
+150) SHEL
+[knowing this is the last straw to losing their himanity]{DisgustB}...Me too.
+151) SHEL
+[coming to terms with what she has to do]{SadB}I don't ever want to put you in danger. {DisgustA}If that means this is what we have to become... {ThinkingB}then it is what it is.
+152) ROMAN
+[Yelling as Shel tries to escape]{AngryD}What the fuck!! Goddammit!!!
+153) BECCA
+[scared, crying!]{FearC}No, we won't! {SadB}Nooo!
+154) ROMAN
+[angry]{AngryC}SHEL!! {FearD}Hey!!
+155) BECCA
+[screaming, shocked as Shel tries to escape!]{SurpriseB}What are you doing?! {FearB}Shel?! {FearC}Shel, what the hell?!
+156) BECCA
+[terrified, screaming]{FearC}Shel! Stop it!!!
+157) SHEL
+{AngryB}We'll be safer! I promise!
+158) SHEL
+[ paniced, trying to escape]{AngryB}Sit down, get safe!
+159) CLIVE
+Talk to Roman.
+160) SHEL
+{FearA}Clive?  {ThinkingA}Whats going on?
+161) SHEL
+[trying to be reasuring] {NormalA}I'll go talk to Roman. {HappyA}We'll figure it out.
+162) JOYCE
+...{SadB}I don't know. {SadA}What CAN we do?
+163) SHEL
+{FearA}Please, what is it?
+164) JOYCE
+[very sad] {SadB}I don't know if I should say anything....
+165) SHEL
+{ThinkingA}Joyce, do you know what's going on?
+166) SHEL
+[shocked. Almost a whisper... (On the excahle)] {FearC}Oh, my god. {FearA}What are they gonna do?
+167) JOYCE
+[sad, hesitant] {FearA}They caught Stephanie stealing. {SadA}And then trying to escape.
+168) BOYD
+[anxious to talk to someone who'll listen to him]{FearA}Shel, it's Stephanie.
+171) SHEL
+[trying to calm boyd down] {FearA}I know, I know....
+172) SHEL
+[trying to keep her voice down]{FearA}Boyd, calm down....
+173) SHEL
+{ThinkingA}You know I can't do that. {FearA}Things are good here. {HappyA}We just have to stick together {NormalA}and follow the rules.
+174) BOYD
+{FearB}No. No, just take Becca and get out of here.
+175) BOYD
+[talking quietly, but angrily]{SadB}They said she was trying to escape!  {FearB}They actually used that word... {FearC}"escape!"
+176) BOYD
+[talking quietly, but angrily]{AngryA}Roman's got her locked up like some kind of animal!
+177) SHEL
+[trying to calm him down] {FearA}I'm gonna go talk to Roman--
+178) BOYD
+{NormalA}I knew something like this was going to happen, Shel... {FearB}I said if we killed that man {FearA}we were heading down a dangerous path! {AngryB}And now look where we are!
+179) SHEL
+[as if to say I'll be right back.  In the meantime.."] {DisgustB}Just... {FearA}don't do anything stupid.
+181) 
+Did anyone see you?
+182) 
+Don't let anyone else know.
+186) 
+Don't worry about it.
+188) 
+I don't know.
+189) 
+Maybe she wasn't.
+190) 
+So what?
+191) 
+Now she's a risk.
+192) 
+You want me to take care of it.
+195) 
+But she's one of us.
+196) 
+I'll do it.
+197) 
+Let's talk to her first.
+198) 
+She's just scared. She made a mistake.
+200) 
+It doesn't matter. She did what she did.
+201) SHEL
+[with compassion] {FearA}Hey, I heard about Stephanie....
+202) JOYCE
+[sad/angry]{SadB}Why did she have to do that? {SadA}We're safe here. {FearA}There's no reason to want to leave.
+203) SHEL
+{HappyA}I'm sure she had her reasons.
+204) SHEL
+{FearB}Anyone could be out there! {FearA}What if someone sees you {ThinkingA}and follows you back here?
+205) ROMAN
+{AngryB}And she was definitely trying to escape; {AngryC}she had most of our ammo and medicine with her.
+206) ROMAN
+{AngryB}Well, A, she had most of our seeds, medicine, and ammo with her, {AngryC}and B, you know we can't let anyone leave who knows where we are!
+207) ROMAN
+[cont] {AngryA}If we give her a second chance, {AngryB}she might not try to leave so quietly.
+208) 
+Three
+209) 
+Four
+210) 
+Seven
+211) 
+Queen
+212) 
+Unfinished Painting
+214) 
+Drawer
+215) 
+Pistol
+216) 
+Keys
+218) 
+No. I'll do it.
+219) ROMAN
+[pickup1][ambient - outside of the camper]{NormalC}Shel, come on.
+220) ROMAN
+[pickup1][ambient - outside of the camper]{NormalB}Everything okay?
+221) BECCA
+[pickup1][ambient - waiting for Shel to choose]{DisgustA}Roman's waiting.
+222) ROMAN
+[pickup1][ambient- outside of the camper]{AngryC}Shel!
+223) BECCA
+[pickup1][ambient - waiting for Shel to choose]{ThinkingB}Shel!
+224) ROMAN
+[pickup1][ambient- outside of the camper]{AngryB}We gotta do this. {AngryC}Now!
+225) BECCA
+[pickup1][ambient- waiting for Shel to choose]{AngryB}Why are you just standing there?
+226) CLIVE
+[pickup1][ambient - talking with Roman]{SadA}I know. {SadB}I'm just worried about Joyce.
+227) ROMAN
+[pickup1][ambient- talking with Clive]...{NormalC}I don't know. {NormalA}We don't have a choice.
+228) CLIVE
+[pickup1][ambient - talking with Roman]  {NormalA}She's a tough lady, {SadA}but I still worry about her.
+229) ROMAN
+[pickup1][ambient- talking with Clive]{AngryA}Joyce understands.
+230) CLIVE
+[pickup1][ambient - talking with Roman]{NormalA}So, what now?
+231) ROMAN
+[pickup1][ambient- talking with Clive]{NormalA}You know what we gotta do. {NormalB}I've already told Shel to come talk to me.
+232) ROMAN
+[pickup1][ambient- talking with Clive]{NormalC}She don't know yet.
+233) CLIVE
+[pickup1][ambient - talking with Roman]{FearB}Becca doesn't know either then?
+234) ROMAN
+[pickup1][ambient- talking with Clive]{ThinkingA}Nope.
+235) CLIVE
+[pickup1][ambient - talking with Roman]{NormalB}How she taking it?
+236) CLIVE
+[pickup1][ambient - talking with Roman]{SadA}I can't believe she did this to us.
+237) ROMAN
+[pickup1][ambient- talking with Clive]{SadA}Doesn't matter.
+238) CLIVE
+[pickup1][ambient - talking with Roman]{FearB}Should I check on her?
+239) ROMAN
+[pickup1][ambient- talking with Clive]{NormalA}No. Just let her be.
+240) CLIVE
+[pickup1][ambient - talking with Roman]{FearB}Where did she think she was going?
+241) ROMAN
+[pickup1][ambient- talking with Clive]{NormalB}Not long. Shel's on her way.
+242) CLIVE
+[pickup1][ambient - talking with Roman]{SadA}I just want to be done with this.
+243) CLIVE
+[pickup1][ambient - talking with Roman]{NormalA}How much longer is this gonna be?
+244) ROMAN
+[pickup1][ambient- talking with Clive]{AngryC}What did I just say?
+245) ROMAN
+[pickup1][ambient- talking with Clive]{NormalC}I don't wanna talk about it.
+246) CLIVE
+[pickup1][ambient - talking with Roman]{NormalB}How long were you two traveling together?
+247) CLIVE
+[pickup1][ambient - talking with Roman]{SadA}Sorry.
+248) CLIVE
+[pickup1][ambient - talking with Roman]{SadA}She was a bartender, right?  {FearA}In the place your band played?
+249) SHEL
+[pickup1][not quite believing it] {SadA}I know.
+250) SHEL
+[pickup1][look at boyd painting][knowing Boyd is upset]{HappyC}Looks nice, Boyd.
+251) BOYD
+[pickup1]Thanks.
+252) SHEL
+[pickup1][look at plants][to herself]{ThinkingA}How come no one's watering these....
+253) SHEL
+[pickup1][look at Clive guarding the Truck][to clive]{AngryA}What the hell is going on?
+254) SHEL
+[pickup1][look at Clive guarding the Truck][to clive]{ThinkingA}Is this really necessary?
+255) SHEL
+[pickup1][look at spot where they KILLED the prisoner][to herself, regretful]{DisgustB}We shouldn't have done it. {SadA}We really shouldn't have done it.
+256) 
+Painting
+257) 
+Planter
+258) 
+Truck
+259) SHEL
+[pickup2]{DisgustB}Boyd agreed that it was the right thing to do.... {ThinkingB}Anyway, Roman's obsessed with keeping this place secured now.
+260) SHEL
+[pickup2] [replying to : 354480136 "Why dont we do plays anymore?"]{ThinkingB}Since the attack, there's a lot we don't do anymore.
+261) BECCA
+[pickup2]{DisgustA}We shouldn't have let that guy go. Boyd would still be alive and everything would be the same.
+262) BECCA
+[pickup2]I wish things were still like they used to be.
+263) SHEL
+[pickup2] [replying to : 354480136 "Why dont we do plays anymore?"]{SadA}After he had to kill that guy, there's a lot we don't do anymore.
+264) SHEL
+[pickup2]{ThinkingA}Well, Roman's too focused on making sure no one is able to break in again.
+265) BECCA
+[pickup2][follows: 354480290]We don't have a choice. {DisgustA}This is who we are now.
+270) 
+Drive
+271) 
+Away
+272) 
+Blood Stain

@@ -1,0 +1,456 @@
+1) LEE
+[quietly calling out, trying to find Kenny] Kenny!
+29) LEE
+[Whispering, but calling out] KENNY!
+180) LEE
+[quietly calling out, trying to find Kenny] Kenny!
+2) DUCK
+[scared whimpering as he's held at gunpoint]
+20) DUCK
+[Scared whimpering]
+35) ANDY
+[fight: out of breath1]
+36) ANDY
+[fight: out of breath2]
+37) ANDY
+[fight: out of breath3]
+38) KENNY
+[hurt/ panting/grunting (Shot in his side) 2]
+3) LEE
+[Calling out, firm] {AngryC} Andy!
+4) ANDY
+[furious] {AngryB}Who the fuck do you people think you are? {AngryC}Look what you've done!
+5) LEE
+{NormalC} Calm down.
+6) LEE
+{NormalC}You brought this on yourself.
+7) LEE
+{AngryA} Shut the fuck up!
+8) ANDY
+{AngryC} Calm down? What for, huh? {DisgustA}All we wanted was some goddamn gasoline!
+9) ANDY
+{AngryA} No!  Uh uh!  {AngryC} YOU did this!  {DisgustA} All we wanted was a little gas to keep ourselves safe.
+10) ANDY
+{AngryB}You think I'm playin' here, boy?!  All we wanted was gas. {DisgustA} We came to you peacefully!
+11) CLEMENTINE
+They're getting in!
+12) LILLY
+[Urgent]Come on, honey, we gotta go.
+13) LEE
+[urgent]Let's go, let's go...
+14) CLEMENTINE
+Wait!  What about Maybelle?
+15) LEE
+[confused]Who?
+16) CLEMENTINE
+The cow!
+17) LILLY
+[Urgent but compasionate]Come on, honey, we gotta move...
+18) 
+リー！
+19) ANDY
+{AngryB} I don't want to hurt him, but I swear I will! {DisgustA} Is that what you want?
+21) ANDY
+[fight:attack exertion4]Errff!!
+22) ANDY
+[fight:Getting Hit exertion6]Errff!!
+24) ANDY
+[fight:Getting Hit exertion5]Errff!!
+25) ANDY
+[fight:attack exertion1]Errff!!
+23) LEE
+[pickup3][fight:Getting Hit exertion5]Errff!!
+195) LEE
+[pickup3][fight:Getting Hit exertion5]Errff!!
+26) ANDY
+[being electrocuted! - More Electricy] Aaaarrrrrggghhhhhh!!!!
+27) LEE
+[tired] Thanks...
+28) LILLY
+[to herself]That was for Dad.
+30) DOUG
+{FearB}Lee, is that you?  {ThinkingA}What the hell happened to you guys?
+31) CARLEY
+{FearA} Lee?
+32) BEN
+[quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them.
+149) BEN
+[quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them.
+33) LEE
+[quiet]{NormalC}Do you have a weapon?
+163) LEE
+[quiet]{NormalC}Do you have a weapon?
+34) LEE
+[pickup3][fight: out of breath1]
+39) ANDY
+[pickup1][taunting lee, beat to shit, barely able to stand]  [Spits out blood] Is that all ya got, Lee? ...You ain't shit!
+40) LEE
+[pickup1][getting his face shoved into an Electric fence] Aahhhhhhhh!!!!!
+41) ANDY
+[pickup1][satisfied shove as he pushes Lee's face into the barbed wire!]
+42) KATJAA
+[pickup1][process, far in the distance, inside the house - but clearly audible][building to a panicked yell as Andy leaves the house with Duck]No, please God, NO!
+43) BRENDA
+[pickup1][process, far in the distance, inside the house - but clearly audible][stern, trying to get Katjaa to calmdown]Just shut up and he'll be fine!
+44) DUCK
+[screams as his dad gets shot!]{FearC}DAAAD!!!
+45) KENNY
+[pickup1][shouting to Andy to let duck go!]{AngryC} Let him go, God dammit!!
+46) KATJAA
+[pickup1][gasps in horror seeing her kid held at gunpoint!]{FearC}
+47) ANDY
+[pickup1][Shouted!  Delivered quickly!] {AngryB} That ain't gonna happen!
+48) KATJAA
+[pickup1][screams as Kenny gets shot!]
+49) ANDY
+[Pickup1][shouted] {AngryC}SHUT UP!
+50) LEE
+[pickup1][stern w/ projection - almost threatening] {AngryC} Andy, don't!
+51) ANDY
+[pickup1][winded and tired after fighting Lee tumbing down the hill, Andy is ready to finish Lee off] Get up.   Get the fuck up!
+52) LEE
+[pickup1][weary and breathless from the fight, Lee gets pulled to his feet by Andy]Enngh...
+53) LEE
+[pickup1][seeing Lilly aiming the gun, trying to help Lee while Andy is trying to push his face into the electric fence!]Lilly!
+54) LEE
+[pickup1][seeing Lilly holding Danny's rifle, but not sure whether to help Lee or not]Lilly! Help!
+55) LEE
+[pickup1][punching Andy in the face 1a]
+63) LEE
+[pickup1][punching Andy in the face 1a]
+56) ANDY
+[pickup1][getting punched in the face1a]
+62) ANDY
+[pickup1][getting punched in the face1a]
+57) ANDY
+[pickup1][getting punched in the face1b]
+58) LEE
+[pickup1][punching Andy in the face 1b]
+61) LEE
+[pickup1][punching Andy in the face 1b]
+59) ANDY
+[pickup1][getting punched in the face1c]
+64) ANDY
+[pickup1][getting punched in the face1c]
+60) LEE
+[pickup1][punching Andy in the face 1c]
+65) LEE
+[pickup1][punching Andy in the face 2a - tired]
+73) LEE
+[pickup1][punching Andy in the face 2a - tired]
+66) ANDY
+[pickup1][getting punched in the face2a - tired]
+72) ANDY
+[pickup1][getting punched in the face2a - tired]
+67) ANDY
+[pickup1][getting punched in the face2b - tired]
+68) LEE
+[pickup1][punching Andy in the face 2b - tired]
+71) LEE
+[pickup1][punching Andy in the face 2b - tired]
+69) LEE
+[pickup1][punching Andy in the face 2c - tired]
+70) ANDY
+[pickup1][getting punched in the face2c - tired]
+74) ANDY
+[pickup1][getting punched in the face2c - tired]
+75) ANDY
+[pickup1][getting punched in the face3a - tired]
+76) LEE
+[pickup1][punching Andy in the face 3a - tired]
+81) LEE
+[pickup1][punching Andy in the face 3a - tired]
+77) ANDY
+[pickup1][getting punched in the face3b - tired]
+78) LEE
+[pickup1][punching Andy in the face 3b - tired]
+82) LEE
+[pickup1][punching Andy in the face 3b - tired]
+79) LEE
+[pickup1][punching Andy in the face 3c - tired]
+80) ANDY
+[pickup1][getting punched in the face3c - overkill]
+83) ANDY
+[pickup1][getting punched in the face - overkill 2]
+84) ANDY
+[pickup1][getting punched in the face - overkill 3]
+85) LEE
+[pickup1][heavy breathing after having beat the shit out of Andy]
+118) LEE
+[pickup1][heavy breathing after having beat the shit out of Andy]
+86) LEE
+[pickup1][stern, tired having just beat the shit out of Andy, but Andy wont quit] It's over!
+87) ANDY
+[pickup1] [taunting lee, beat to shit, barely able to stand] Fuck you.  As soon as Dan and Mama get out here you're all fucked!!
+88) LEE
+[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]They're both dead.
+89) LEE
+[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]Your mother's dead.
+90) LEE
+[pickup1][ tired having just beat the shit out of Andy.][responding to: When Dan & Momma get here youre fucked!]They're not coming.
+91) ANDY
+[pickup1][beat to hell, shocked to hear his mother is dead] What?
+92) LEE
+[pickup1][ tired having just beat the shit out of Andy.]And your brother soon will be.
+93) ANDY
+[pickup1][beat to hell, wondering what Lee did to his family] What do you mean?
+94) ANDY
+[pickup1][beat to hell, wondering what Lee did to his family - More insistant when Lee says nothing] Lee, what the fuck do you mean?
+95) ANDY
+[pickup1][beat to hell but furious and heartbroken after learning the Lee killed his family]... What did you do?   WHAT THE FUCK DID YOU DO?!
+96) LEE
+[pickup1][exhausted, after having beat up andy - stern]I said it's over!  Just walk away!
+97) DOUG
+[pickup1][after watching Lee beat the crap out of Andy]He's not worth it.
+98) DOUG
+[pickup1][after watching Lee beat the crap out of Andy]Come on, man... Let's get the hell outta here.
+99) ANDY
+[pickup1][beat to hell, but refusing to give up as Lee tries to walk away]Don't you DARE walk away from me, Lee!!
+100) ANDY
+[pickup1][beat to hell, but refusing to give up as Lee tries to walk away]Get back here and finish this!
+101) CARLEY
+[pickup1][after watching Lee beat the crap out of Andy, but Andy wont give up, she ugres Lee to let it go]Lee, let it go. Think about who you want to be...
+102) KENNY
+[pickup1][urging Lee to not fight Andy and just leave]Let's go, Lee
+103) KENNY
+[pickup1][urging Lee to not fight Andy and just leave]Don't do it.
+104) ANDY
+[pickup1][beat to hell, waiting for Lee to fight him again]Fuckin' coward.
+105) ANDY
+[pickup1][beat to hell, waiting for Lee to fight him again]Come on!
+106) KENNY
+[pickup1][urging Lee to not fight Andy and just leave]Lee, come on.
+107) ANDY
+[pickup1][beat to hell, waiting for Lee to fight him again]Do it!
+108) ANDY
+[pickup1][beat to hell, waiting for Lee to fight him again][heavy breathing 2]
+109) ANDY
+[pickup1][beat to hell, waiting for Lee to fight him again][heavy breathing 1]
+110) ANDY
+[pickup1][broken and hopless and Lee walks away]Lee!
+111) ANDY
+[pickup1][broken and hopless and Lee walks away][Continuing to call out, getting more desperate, knowing there is no hope left for him]Leee!
+112) ANDY
+[pickup1][broken and hopless and Lee walks away][Continuing to call out, finally breaking down into tears]Leee!
+113) ANDY
+[pickup1][beat all to hell, watching Lee walk away] Get back here and fight me like a man, Lee!
+114) DOUG
+[pickup1][tries to pull Lee away after watching im beat the crap outta Andy]Jesus, Lee!!
+115) DOUG
+[pickup1][tries to pull Lee away after watching im beat the crap outta Andy - quietly]Come on... let's go.
+116) CARLEY
+[pickup1][after watching Lee beat the crap outta Andy - Sternly trying to stop him]Lee, that's enough!
+117) CARLEY
+[pickup1][after watching Lee beat the crap outta Andy - quiet understanding]He's had enough.
+119) ANDY
+[pickup1][electrocuted for a brief moment, then falls to the ground.]
+120) LEE
+[pickup1][beat up, seeing Andy poi9nt a gun at him] No, Andy wait!
+121) LEE
+[pickup1][tired, but bad ass/ almost to himself] I said it's over.
+122) LILLY
+[pickup1][flat. without emotion, stating why she didnt try to save Lee]You could have saved Dad.
+123) LEE
+[pickup1][exhausted from fighting, looking at Lilly who never tried to help]...You could have saved me.
+124) 
+Punch
+170) 
+Punch
+220) 
+Punch
+227) 
+Punch
+228) 
+Punch
+125) 
+Block
+219) 
+Block
+126) 
+Shoot
+127) LEE
+[pickup2][quiet]{NormalC}These people are fucking crazy!
+128) BEN
+[pickup2][quiet]{AngryA}I knew it! [to Doug/Carley]{FearA}I told you we couldn't trust them!
+129) DOUG
+[pickup2][quiet]{ThinkingA} Where is everybody?  What can we do to help?
+130) DOUG
+[pickup2]	[quiet]Holy Shit!  Is everyone okay? What can we do?
+131) LEE
+[pickup2][quiet]{SurpriseA}Get out of here!
+155) LEE
+[pickup2][quiet]{SurpriseA}Get out of here!
+132) BEN
+[pickup2][quiet]{ThinkingA}Why?  What's going on?
+156) BEN
+[pickup2][quiet]{ThinkingA}Why?  What's going on?
+133) DOUG
+[pickup2][quiet]Oh, God.  What happened?
+134) LEE
+[pickup2][quiet]{FearA}We need your help!
+135) DOUG
+[pickup2][quiet]{FearA}Lee?  You okay?
+136) LEE
+[pickup2][quiet] They've still got Duck and Katjaa in the house and I don't know where the fuck Kenny is!
+167) LEE
+[pickup2][quiet] They've still got Duck and Katjaa in the house and I don't know where the fuck Kenny is!
+137) DOUG
+[pickup2]	[quiet]{NormalB}Yeah, {SadA} It's Carley's, but... [trails off]
+138) LEE
+[pickup2][quiet]{NormalC}Do you have a weapon?
+139) LEE
+[pickup2][quiet]{NormalB}That's fine.  Ben, stay with Doug.
+140) DOUG
+[pickup2][quiet]{HappyA}You got it.
+141) LEE
+[pickup2][quiet]These people are fucking cannibals!
+142) 
+These people are fucking crazy!
+143) 
+Get out of here!
+144) 
+We need your help!
+159) LEE
+[quiet]{FearA}We need your help!
+145) LEE
+[pickup2] [quiet]Larry's dead.  Mark is too. They were planning on killing and eating us all!
+164) LEE
+[pickup2] [quiet]Larry's dead.  Mark is too. They were planning on killing and eating us all!
+146) LEE
+[pickup2] [quiet]Larry's dead.  They chopped off Mark's legs and tried to feed them to us!
+165) LEE
+[pickup2] [quiet]Larry's dead.  They chopped off Mark's legs and tried to feed them to us!
+147) DOUG
+[pickup2][quiet - taking action]All right, we're coming in to help.
+148) LEE
+[pickup2]The main gate is too dangerous, go around the fence and see if there's a back way in. I'll keep looking for Kenny.
+166) LEE
+[pickup2]The main gate is too dangerous, go around the fence and see if there's a back way in. I'll keep looking for Kenny.
+150) LEE
+[pickup2][quiet]{NormalB}Two left
+151) LEE
+[quiet]{NormalC}They attacked us.
+152) CARLEY
+[pickup2][quiet]{ThinkingA}Where?
+153) CARLEY
+[pickup2][quiet]{AngryB}Shit.  How many of them are there?
+154) CARLEY
+[pickup2][quiet]{AngryA}Ben, quiet.  [to Lee]{ThinkingA} Tell me what's going on Lee. I can help.
+157) CARLEY
+[pickup2][quiet]{FearA}Yeah, when you guys didn't come back I figured {ThinkingA}something was up.
+158) CARLEY
+[pickup2][quiet]{AngryA}What can we do?
+160) CARLEY
+[quiet]{FearA}Lee, are you all right?
+161) CARLEY
+[pickup2][quiet]{AngryA}Ben, stick close.[To lee] {ThinkingA}And Lee, be careful.
+162) CARLEY
+[pickup2][quiet]{HappyC} I don't leave home without it.
+168) DOUG
+[pickup2[quiet]Lee, is that you?   We heard screams as we were coming up to the house!
+169) CARLEY
+[pickup2][quiet]Lee, is that you?
+171) BRENDA
+[Pickup 3] [calling out into the dark storm - Nevrous]Andy?  Danny, is that you? What's going on out there?
+172) LEE
+[pickup 3][pretending to be Andy, calling out to his mom in the house] Yeah, it's me!
+173) LEE
+[pickup3][calkling out to brenda as he approaches the house - threatening]I left Danny in the barn... He got what he deserved!
+174) BRENDA
+[pickup3] [threatening through the screen door] Get back, don't come in here!
+175) 
+Yeah, it's me!
+176) 
+I left Danny in the barn...
+177) LEE
+[pickup3][calling out to brenda in theo house - threatening]Where are Katjaa and the kid?!
+178) 
+Where are Katjaa and the kid?!
+179) BRENDA
+[pickup3][panicking, to herself as she realizes trouble is approaching!] Oh God...
+181) LEE
+[pickup3][to himself - seeing a small red dot from a laser pointer moving along the hay pile]What the hell?  Where's that coming from?
+182) LEE
+[pickup3][quietly - meeting at the fence outside the house]You almost blinded me!
+183) DOUG
+[pickup3][quiet]Oh, sorry about that.  But I DID get your attention!
+184) DOUG
+[pickup3][quietly - Proud that he got Lee's attention][keep energy levels at this range: 310506031]Morse code!
+185) LEE
+[pickup3][hushed calling out into the dark][keep energy levels at this range: 310506031] Doug!
+186) LEE
+[pickup3][quietly - meeting at the fence outside the house]Doug?! What the hell was that?!
+187) LEE
+[pickup3][to himself - peering into the dark he sees doug] Doug?
+188) LEE
+[pickup3][laser pointer hitting his eye] Ah!
+189) BEN
+[pickup3][quiet, at the fence outside the house][keep energy levels at this range: 310506031]We heard screams from the barn!  What's going on?
+190) LEE
+[pickup3][quietly calling out to Carley!] Carley!
+191) DOUG
+[pickup3][hushed as Doug and Lee try to find their way to the back] Yes!  No.  ...Yes.
+192) DOUG
+[pickup3][hushed as Doug and Ben try to find their way to the back] Come on, this way...
+193) BEN
+[pickup3][hushed as Doug and Ben try to find their way to the back] Wait, are you sure?
+194) LEE
+[pickup3][quiet - Match 310506033]No, if we storm the house we'll cause a panic.  You two try to find a way around to the back.  I'll head to the front.
+196) BEN
+[pickup3][trying to quietly make his way through the corn field]Ow.
+201) BEN
+[pickup3][trying to quietly make his way through the corn field]Ow.
+197) CARLEY
+[pickup3][shushes Ben] Shhh!
+200) CARLEY
+[pickup3][shushes Ben] Shhh!
+198) CARLEY
+[line was split]Is everyone okay?  {ThinkingA}You guys have been gone WAY too long!
+199) CARLEY
+We heard screams as we were coming up to the house!
+202) CARLEY
+[pickup3][projected whisper- taking action]All right, we're coming in to help.
+203) LEE
+[pickup3][breathing - not so worked up2]
+204) ANDY
+[pickup3][laser fropm laser pointer hits him in the eye] Ahh!
+205) 
+No
+206) 
+Beam
+207) 
+Screen Door
+208) DOUG
+[pickup3] [quiet][learning that larry is dead and they tried to eat you!]Jesus!  That is sick!
+209) CARLEY
+[pickup3][quiet, learning that Larry is dead and they tried to eat you!]Shit!  Is everyone else okay?
+210) BRENDA
+[pickup3][ambient]Settle down.  I don't wanna hurt ya'll.
+211) BRENDA
+[pickup3][ambient][grabbing Katjaa for protection] Come here...
+212) KATJAA
+[pickup3][ambient]Let me go!
+213) BRENDA
+[pickup3][Seeing Lee]Get back! Don't come in here!
+214) KATJAA
+[pickup3][seeing Lee!]LEE!
+215) ANDY
+[pickup3][ambient]Something's up. I'm gonna take the boy and check around back.
+216) KATJAA
+[pickup3][ambient]No, please, don't take my boy!!
+217) ANDY
+[pickup3][ambient]Let go, woman!
+218) 
+Kick
+221) 
+Your mother's dead.
+222) 
+They're both dead.
+223) 
+They're not coming.
+224) 
+I said it's over!
+225) CARLEY
+Is everyone okay?
+226) 
+Walk away

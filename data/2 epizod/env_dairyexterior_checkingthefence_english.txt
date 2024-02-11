@@ -1,0 +1,722 @@
+1) LEE
+[context: let's go, you're going to be okay] Come on, man. We're clear.
+2) BANDIT
+[taunting] You lucky sons of bitches!  Go ahead and run! We ain't goin' nowhere!
+275) BANDIT
+[taunting] You lucky sons of bitches!  Go ahead and run! We ain't goin' nowhere!
+3) MARK
+Little help here, Lee?
+4) MARK
+C'mon, Lee, we don't have all day.
+5) MARK
+Damnit, Lee, I can't lift it myself.
+6) BANDIT
+Hehe, I got you!
+7) BANDIT
+There ya are!
+10) BANDIT
+There ya are!
+8) LEE
+[killed by arrow] Gahhhh!
+9) BANDIT
+I got you, you son of a bitch!
+11) BANDIT
+There you are, boy!
+12) BANDIT
+Don't think I can't see you!
+13) BANDIT
+I'll fuck you sumbitches up!
+14) BANDIT
+I see ya!
+15) MARK
+What do you think of this place, Lee?
+16) LEE
+It's a nice change from the motel.
+17) MARK
+You said it. Out here, it's almost like things used to be.
+18) LEE
+I don't plan on staying.
+19) MARK
+I could see myself staying here for a long time.
+129) MARK
+I could see myself staying here for a long time.
+131) MARK
+I could see myself staying here for a long time.
+20) LEE
+Still too early to tell.
+21) LEE
+Except for the zombies and bandits.
+22) LEE
+It'll never be like it used to be.
+23) MARK
+Yeah, these guys have lost as much as any of us.
+24) MARK
+The motel's not going to hold up much longer.
+25) LEE
+You want to leave the motel?
+26) MARK
+These folks need us, Lee. We could work something out.
+27) LEE
+We haven't been invited to stay.
+28) MARK
+[good-natured] Bastard.
+29) LEE
+We don't know these people.
+30) LEE
+[teasing] Who says that worked out?
+31) MARK
+You didn't know ME before you showed up at the base.
+32) MARK
+Keep telling that to everybody trying to kill us. Maybe they'll go away.
+33) LEE
+It's safer back at the motel.
+34) MARK
+With the fence working, this place is like a fortress.
+35) MARK
+Not many drivers these days, Lee.
+36) MARK
+We could scrounge up a year's worth of gas, easy.
+37) LEE
+The fence only lasts as long as the gas does.
+38) MARK
+We've got enough people.
+39) LEE
+A fortress needs people to defend it.
+281) 
+A fortress needs people to defend it.
+40) MARK
+You're too paranoid, Lee.
+41) LEE
+Don't get too comfortable here.
+42) LEE
+What about 'em?
+43) LEE
+This place is going to fall apart, just like everywhere else.
+44) LEE
+These folks are just delaying the inevitable.
+45) MARK
+Well, let's help 'em delay it a bit longer.
+46) MARK
+Sheesh, Lee. You sound like Kenny.
+47) LEE
+We've got enough people to take this place by force, if we have to.
+48) BANDIT
+Come on out!
+49) BANDIT
+It ain't right, we had a deal!
+50) BANDIT
+You fucked with us, now we'll take what we want.
+51) BANDIT
+Show Yourself!!
+52) MARK
+This one must've knocked it over trying to get through.
+53) MARK
+Andy said, when this fence is working, the walkers go up like a tree branch on a power line.
+54) MARK
+He's tangled up in there pretty good. Come on, help me get this thing back in place so we can get Mr. Crispy off of there.
+55) MARK
+[exertion from lifting] Nggrrhh....
+56) LEE
+[panicked] What happened?!
+288) 
+What happened?!
+57) MARK
+[pickup3]	[in pain] Some asshole shot me! God DAMN!
+58) LEE
+Can you walk?
+289) 
+Can you walk?
+59) MARK
+[pickup3][in pain] Yeah...  But I ain't moving while that maniac is out there!
+60) LEE
+We gotta get out of here.
+290) 
+We gotta get out of here.
+61) MARK
+[pickup3][in pain] If we move, we're dead!
+62) LEE
+Let's get out of here!
+63) MARK
+[in pain] Yeah, but  we can't just walk out into the open. We need cover!
+336) MARK
+[in pain] Yeah, but  we can't just walk out into the open. We need cover!
+64) LEE
+C'mon, if we can reach the gate, we get through this fence and back to the house.
+65) MARK
+[pickup3]	[in pain] Aghh!  Shit that hurts!
+66) LEE
+[exertion from lifting] Nggghh...
+67) MARK
+[hit by arrow] Gaaaahhh!
+68) MARK
+[surprised, in pain] What the- ?
+69) BANDIT
+I told you what would happen, you son of a bitch!
+70) MARK
+[tense/under fire][in pain] JESUS!!! Who the fuck is that?!
+71) LEE
+No fuel. Of course.
+72) MARK
+[pickup3][In pain] Lee! We've gotta do something!
+73) MARK
+[responding to Lee's silence]["It's almost like things used to be..."][Sad] ...Almost.
+74) MARK
+[responding to Lee's silence]Well... better here than out with the... you know. [zombies]
+75) MARK
+If those lights are out that means the fence is off, right?
+76) LEE
+It'd better be.
+77) MARK
+There's one.
+78) MARK
+Eeugh.
+79) LEE
+Come on, let's push it off.
+80) MARK
+I see it.
+236) LEE
+[pickup2] I see it.
+81) LEE
+There's another one.
+235) MARK
+[pickup2] There's another one.
+82) MARK
+Ya never do get used to the smell, do ya?
+359) MARK
+Ya never do get used to the smell, do ya?
+83) LEE
+[chuckles] Nope.
+358) LEE
+[chuckles] Nope.
+84) MARK
+[continuing/responding to silence]'Cause I find it to be a breath of fresh air.  Literally!
+85) MARK
+So what do you think, Lee? Should we stick around here?
+86) MARK
+[awkwardly starting the conversation again] Sooo... what about the brothers?
+87) MARK
+[responding to Lee's silence]...Oookay....
+88) LEE
+Thanks.
+255) LEE
+Thanks.
+89) MARK
+I dunno.  They seem decent enough. I just want you to know that I've got your back if anything goes down.
+90) MARK
+Come on, I think I see where they're getting in.
+91) MARK
+[context: no need to worry about it, it's dead] Lee, it's dead.
+92) MARK
+[sarcastic]If you're waiting for that guy to help, it ain't gonna happen. [now get over here and help me]Come on.
+93) LEE
+Get down!
+135) MARK
+[Urgent/not shouted]Get down!
+94) MARK
+Fuck!  Now what?!
+95) BANDIT
+Can't hide forever!
+96) BANDIT
+You assholes deserve to die!
+97) BANDIT
+I can do this ALL day!
+98) MARK
+[as Lee is killed]LEE!!
+103) MARK
+[as Lee is killed]LEE!!
+111) MARK
+[as Lee is killed]LEE!!
+139) MARK
+[as Lee is killed]LEE!!
+99) LEE
+[killed by an arrow!] Aughh!
+101) LEE
+[killed by an arrow!] Aughh!
+102) LEE
+[killed by an arrow!] Aughh!
+113) LEE
+[killed by an arrow!] Aughh!
+138) LEE
+[killed by an arrow!] Aughh!
+140) LEE
+[killed by an arrow!] Aughh!
+274) LEE
+[killed by an arrow!] Aughh!
+100) LEE
+[killed by an arrow!] Errff!!
+104) LEE
+[killed by an arrow!] Errff!!
+112) LEE
+[killed by an arrow!] Errff!!
+105) LEE
+[killed by an arrow!] Gahh!
+106) BANDIT
+I gotcha now!
+107) BANDIT
+Shit!
+114) LEE
+Shit!!!
+108) BANDIT
+You got lucky that time!
+109) BANDIT
+Damnit.
+110) LEE
+[exerting force] Eeenngh...
+115) MARK
+[pickup3][in pain]You okay?
+116) LEE
+Yeah... barely.
+117) MARK
+Holy fuck!  What just happened?!
+118) LEE
+The fences are on!
+119) MARK
+Why the hell would he turn the fence on! He knows we're out here!
+120) MARK
+[pickup3][in pain]Come on, the gate's right there!
+121) MARK
+[pained heavy breathing 3]
+122) MARK
+[Exerting force  2]
+123) MARK
+[Exerting force to completion  1]
+124) MARK
+[Exerting force  to completion  2]
+125) MARK
+[Killed with an arrow 3]
+126) LEE
+[tense/under fire]Guess the St. John boys pissed somebody off.  Bandits probably.
+127) MARK
+[nostalgic]It could be just like it used to be.
+128) MARK
+[nostalgic]It could be just like it used to be.
+130) MARK
+[nostalgic]It could be just like it used to be.
+132) MARK
+[Urgent/not shouted] Lee, hurry up!
+133) MARK
+[Urgent/not shouted]Get out of the open!
+134) MARK
+[Urgent/not shouted]Lee, get back here!
+136) MARK
+[Urgent/not shouted]Quickly!  He'll see you!
+137) LEE
+[pickup1][With mark behind the tractor after its stuck on a still living zombie]Shit.  Now what?
+141) MARK
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection]Hey, maybe we should try to get Larry out here, huh? Let him get some fresh air in those dusty lungs...
+142) MARK
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][continued]... Maybe then he'll realize you're no danger to this group.
+143) MARK
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][cont.]... I think even Larry would have trouble being a "racist asshole" out here!
+144) MARK
+[pickup1] [friendly conversation with Lee while walking the fence line][mild outdoor projection][cont.]... Whatever his problem is with you, I bet he'd forget all about it!
+145) LEE
+[pickup1][explaining why the tractor stopped] Shit. It's one of the dead we pushed down earlier. I'm gonna have to move it.
+146) MARK
+[pickup3][in pain][behind the tractor for cover when it stops moving]What happened?
+147) MARK
+[pickup3][in pain][as the tractor stops again]Another one?  How many of those things did we push down?
+148) MARK
+[pickup1][looking at the dead zombie they just pushed off the fence]Who do you think he was?
+149) LEE
+[pickup1][response to Mark asking who the zombie on the fence might have been] It doesn't matter.
+150) LEE
+[pickup1][response to Mark asking who the zombie on the fence might have been]Maybe a farm hand.  I dunno.  I hope he wasn't like this long before the fence finished him off.
+151) MARK
+[pickup1][agreeing that it's better to be dead than a zombie] Yeah.
+152) MARK
+[pickup1][looking at the dead zombie they pushed off the fence] Poor guy.
+153) LEE
+[pickup1][pressing Mark to keep moving along the fence] Come on, I'm sure there's still a few more.
+154) 
+Tractor
+155) 
+Chock
+156) 
+Ignition
+157) 
+Gear Shift
+158) TEMP
+TRACTOR IS ROLLING
+160) TEMP
+tractor is rolling
+172) TEMP
+tractor is rolling
+159) TEMP
+tractor is done rolling
+161) TEMP
+tractor is done rolling
+162) TEMP
+Scene is finished
+163) TEMP
+removing chocks
+362) TEMP
+removing chocks
+164) TEMP
+trying to push tractor when it's not moveable
+168) TEMP
+trying to push tractor when it's not moveable
+165) TEMP
+trying to move tractor when it's not moveable
+166) TEMP
+pushing tractor
+167) TEMP
+moving zombie
+169) TEMP
+struggle 1 finisher
+170) MARK
+[pickup1][matter of fact]Good idea.
+171) LEE
+[pickup1][inspecting the knocked over fence post]I think we'd get better leverage from the other side.
+173) TEMP
+Zombie Torso chases you
+174) 
+Look At
+301) 
+Look At
+304) 
+Look At
+308) 
+Look At
+312) 
+Look At
+313) 
+Look At
+175) 
+Fencepost
+176) 
+Fix
+177) MARK
+[pickup2]Glad you decided to stick around here.
+178) LEE
+[pickup2] Let's hope it's a permanent thing.
+269) LEE
+[pickup2] Let's hope it's a permanent thing.
+179) MARK
+[pickup2] Glad we're on the same page about that.
+180) MARK
+[pickup2] I know you said this place wasn't right for us, but c'mon, LOOK at it!
+181) MARK
+[pickup2] I know you said we shouldn't trust strangers, but they seem all right. Besides, this place! I mean, C'MON!
+182) MARK
+[pickup2]Listen, I know you think this place isn't safe for Clementine, but you're being a little overprotective.
+183) LEE
+[pickup2]Why the hell did you have to tell him I thought he's a racist? As if tensions weren't high enough!
+184) LEE
+[pickup2]He wouldn't be such a pain in the ass if you weren't telling him we were talking behind  his back all the time.
+185) LEE
+[pickup2]What were you thinking, telling him what I said about him thinking I'm dangerous?
+186) MARK
+[pickup2]Sorry man! It just... popped out!
+187) MARK
+[pickup2]I'm sorry, all right?
+188) MARK
+[pickup2] I mean, you DID admit it right to his face...
+189) 
+He's a piece of shit.
+190) 
+We'll work it out somehow.
+193) LEE
+[pickup2] We'll work it out somehow.
+191) 
+I try to be civil at least.
+194) LEE
+[pickup2] I try to be civil, at least.
+192) LEE
+[pickup2] That guy's a piece of shit anyway.
+195) MARK
+[pickup2]He's too busy being cranky to notice.
+196) MARK
+[pickup2]Well, hopefully he'll calm down once he's out here.
+197) MARK
+[pickup2] Relax. You're not making things any better riling him up.
+198) MARK
+[pickup2] Well, maybe a good meal will chill him out a little.
+199) MARK
+[pickup2]Christ, I can't stop thinking about dinner.
+200) 
+Focus on the task.
+201) 
+We'll go ask for more to eat after.
+202) 
+I'm hungry, too.
+203) LEE
+[pickup2] If they've got as much food as they say, I think so.
+204) LEE
+[pickup2] Just try to focus on the task.
+205) MARK
+[pickup2] Do you think they're gonna be good for it? Dinner for a whole group of people?
+206) LEE
+[pickup2] We'll go ask for more to eat after this is done.
+207) MARK
+[pickup2] All right, I can suck it up.
+208) LEE
+{pickup2} I'm hungry too, Mark.
+209) MARK
+[pickup2] They knew what they were doing, teasing us with food and then giving us chores!
+210) LEE
+[pickup2] Having a good meal will be worth it.
+211) MARK
+[pickup2] Let's just get this done. Maybe Brenda has some more bread in the house.
+212) MARK
+[pickup2] Once this fence is patched up, this place'll be a fortress! God, can you imagine not having to worry about the walkers anymore?
+213) LEE
+[pickup2] We've got the people to defend it.
+280) 
+We've got the people to defend it.
+214) MARK
+[pickup2] Between us and the dairy guys? No problem!
+215) LEE
+[pickup2] We still need to be careful. It's still dangerous as hell.
+216) MARK
+[pickup2] We just keep the kids away from it, nothing to worry about.
+217) MARK
+[pickup2] True, but it's also dangerous to the walkers.
+218) LEE
+[pickup2] It's dangerous.
+283) 
+It's dangerous.
+219) MARK
+[pickup2] So, what's your take on the brothers? They seem to have this place tied down pretty well.
+220) 
+What do you mean?
+222) 
+They've been pretty generous.
+223) 
+They're delaying the inevitable.
+224) 
+We can take this place if we have to.
+225) LEE
+[pickup2] What do you mean by that?
+226) LEE
+[pickup2] They've been pretty generous so far.
+227) MARK
+[pickup2] Yeah, definitely. I mean, I know we're not getting something for nothin', but still...
+228) MARK
+[pickup2] Well, they seem decent enough. I just want you to know that I've got your back if anything goes down.
+229) MARK
+[pickup2] So... about that guy in the woods... Did we do the right thing? Just leaving him there?
+230) LEE
+[pickup2][matter-of-fact] There was nothing we could do.
+231) LEE
+[pickup2][matter-of-fact] We did all we could, Mark.
+232) LEE
+[pickup2][unsure] I don't know.
+233) MARK
+[pickup2] It's just been getting to me.
+234) LEE
+[tense/under fire]No idea!
+237) MARK
+[pickup2] But I...
+238) MARK
+[pickup2][just shot though the neck] Uggkkkkk!
+239) LEE
+[pickup2][just saw Mark get shot through the neck] Oh, fuck!
+240) LEE
+[pickup2][terrified] What the hell!?
+241) MARK
+[pickup3][pickup2] We're gonna have to move it. That maniac isn't gonna stop!
+242) BANDIT
+[pickup2] Where's our food you assholes!?
+243) BANDIT
+[pickup2] You didn't deliver the goods! Now we're gonna take what's owed!
+244) BANDIT
+[pickup2] We had an agreement! Now you're fucked!
+245) MARK
+[pickup2] I can't wait until everyone's out here. Everyone besides Larry...
+246) MARK
+[pickup2] Look, you said it.
+247) MARK
+[pickup2] You even admitted it right to him.
+248) MARK
+[pickup2]You admitted it to him anyway...
+249) LEE
+[pickup2] It's useless without gas. We might need food, but the St. Johns need gas too.
+250) 
+It's useless without gas.
+251) MARK
+[pickup2] I suppose...
+252) MARK
+[pickup2] Not if we all work together. They're really taking care of this place.
+253) MARK
+[pickup2][sad, context: You're probably right that this place will fall eventually]Maybe you're right.
+254) MARK
+And by the sounds of it, you're just counting the hours before it does.
+257) MARK
+And by the sounds of it, you're just counting the hours before it does.
+256) MARK
+[pickup2] It's encouraging to see how well they take care of this place.
+258) MARK
+[pickup2] You said it. I'm really happy we took them up on their offer.
+259) MARK
+[pickup2] Out here, it's almost like things used to be.
+261) MARK
+[pickup2] Out here, it's almost like things used to be.
+270) MARK
+[pickup2] Out here, it's almost like things used to be.
+260) MARK
+[pickup2] See? I knew you'd change your mind eventually!
+262) LEE
+[pickup2] I'm not so sure. We don't know anything about this place.
+265) LEE
+[pickup2] I'm not so sure. We don't know anything about this place.
+263) MARK
+[pickup2] Oh, come on. You seemed really into the idea back there!
+264) LEE
+[pickup2] I've been thinking it over, that's all.
+266) MARK
+[pickup2] I know you're not sold, but I think this place is perfect!
+267) MARK
+[pickup2] God, can you imagine it? There's more than enough room for us all!
+268) MARK
+[pickup2] Oh yeah? Changing your tune I see! You didn't seem so gung-ho before!
+271) MARK
+You're crazy. Everyone else is so excited!
+272) MARK
+[pickup2] Woulda been nice to get some of those rations. I get hungry too, ya know.
+273) MARK
+[pickup2] Thanks for the rations earlier. It's not easy eating in front of the kids, but it's all that's keeping me on my feet right now.
+276) LEE
+[pickup2b][underfire frm the bandits, lee figures out what to do next]I just gotta get to that gate!
+277) LEE
+{pickup2b}[talking to himself]Maybe I can get this thing moving... use it for cover.
+278) LEE
+[pickup2b][to himself as the tractor stops against another zombie]Shit.  How many of these things did we knock down?
+279) LEE
+[pickup2b][having reached the safety of the gate, Lee looks back toward Mark's dead body.]Sorry, Mark.  [then, to himself, getting angry] What the fuck is going on around here?!
+282) 
+We still need to be careful.
+284) 
+It doesnt matter.
+285) 
+Maybe a farm hand.
+286) LEE
+[pickup2][looking at a dead zombie on the fence]At least it's not one of us.
+287) 
+At least it's not one of us.
+291) BANDIT2
+[pickup2] What about our arrangement?!
+292) BANDIT3
+[calling out orders to other bandits]I see 'em!
+293) BANDIT2
+[calling out orders to other bandits]Over there!
+294) BANDIT3
+Did you really think you could fuck with us?
+295) BANDIT2
+[calling out orders to other bandits]Behind the tractor!
+296) BANDIT3
+Give us the food!
+297) BANDIT2
+You assholes!
+298) BANDIT3
+I already got one of ya!
+299) BANDIT2
+[calling out orders to other bandits]Get closer!
+300) BANDIT3
+[calling out orders to other bandits]Try to lure 'em into the open.
+302) 
+Push
+310) 
+Push
+303) LEE
+[pickup3][casual - Noticing that the dead zombie is pinned to thefencepost] Looks like he's stuck.
+305) 
+Pull
+306) LEE
+[pickup3][to himself as he pulls an arrow out of the dead zombie]Disgusting.
+307) LEE
+[pickup3][looking at a dead zombie pinned to the fencpost with an arrow]Maybe the St. John boys were using this guy for target practice?
+309) LEE
+[pickup3][looking at the dead zombie on the fence post]We'll have to get this guy off the post before we fix it.
+311) 
+Chop
+314) 
+Chop
+315) LEE
+[pickup3][casual - looking at dead zombie]Man, the fence burnt right into its hands.  I think they fused together.
+316) LEE
+[pickup3][casual - looking at dead zombie]Man, the fence burnt right into its hands.  I think they fused together.
+317) 
+Usar.
+318) LEE
+[pickup3][looking at a dead zombie pinned to the fencpost with an arrow]I don't know what got him first, the arrow or the fence.  Either way, I hope he was already dead.
+319) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Who the fuck are you?!
+320) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Stop shooting at us!
+321) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]We're not your enemy?!
+322) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]We're NOT the St. Johns!!
+323) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]STOP SHOOTING!!
+324) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]We don't know you!!
+325) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]We don't mean you any harm, God dammit!!
+326) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Let's talk this out!!
+327) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Show yourselves!
+328) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Get out here and face me like a man!
+329) LEE
+[pickup3][shouting into the woods where bandits are trying to shoot him with arrows]Leave us the fuck alone!!
+330) 
+Light
+331) 
+Arrow
+332) 
+Hand
+333) 
+Libra
+334) LEE
+[pickup3][shouting!  Seeing the gate of the fence as a way to get free from the people shooting at them!] Get to the gate!!
+335) LEE
+[pickup3][slightly out of breath and under fire]With the fence on, that gate is our only way out!
+337) 
+Pegarle con hacha
+338) LEE
+[pickup3][to himself, but under fire!] Shit, something's still blocking it!
+339) 
+Plow Lever
+340) 
+Yell At
+341) 
+Bandits
+342) LEE
+[pickup3][inspecting the plow while under fire!]The blades are stuck in the dirt!
+343) MARK
+[pickup3][in pain]{lee attacked by suprise zombie]<<id:310509724>>	Holy crap!  Lee!
+344) MARK
+[pickup3][follows: 310509695]With that fence on, we can't get back to the other side!
+345) MARK
+[pickup3b]So how's the place looking?   Is it safe enough for us to stay... if we can?
+346) LEE
+[pickup3b]Yeah, it's pretty amazing what they've done with this dairy.  But let's see what it takes to secure this fence before drawing any conclusions.
+347) LEE
+[pickup3b]Well, we don't want to seem over anxious.  Showing them we can handle this fence is gonna go a long way.
+348) MARK
+[pickup3b]Do you think we're doing enough to get the St. John's to like us?
+349) BANDIT
+They're on the move!
+350) BANDIT3
+Go!  Go!
+351) BANDIT
+They're getting away!
+352) BANDIT3
+They're behind the tractor!
+353) BANDIT
+Where do you think you're going!?
+354) BANDIT3
+Don't let em get away!
+355) BANDIT
+They're trying to move the tractor!
+356) BANDIT3
+Go!  Get out in front of 'em!
+357) 
+Kick
+360) MARK
+Who the fuck is that?!
+361) MARK
+JESUS!!

@@ -1,0 +1,182 @@
+1) WALT
+[in a panic] GET THE FUCK OUT OF HERE, YOU MONSTERS!
+2) NATE
+Whoa, gramps!
+3) WALT
+[panicked] I told you not to come back here! Think you can just leave your mask at home?! And now you're with this fuckin' spook.
+4) JEAN
+WALT!
+5) JEAN
+[dying, in pain] Oww...
+6) 
+We've never been here.
+7) 
+What's he talking about?
+8) 
+Shut this guy up.
+9) RUSSELL
+{angryb}We've never been here, sir.
+10) WALT
+Then who shot my wife?!
+11) RUSSELL
+{angrya}It wasn't us.
+12) RUSSELL
+{angrya}Have you been here before?
+13) NATE
+{angrya}Russell, don't you start.
+14) RUSSELL
+{thinkinga}...Mask? What's he talking about?
+15) NATE
+{thinkinga}Fuck if I know. He's crazy.
+16) NATE
+{happya}Agreed. Look at how much progress we've made.
+17) RUSSELL
+{angrya}Shut this guy up. {thinkinga}I can't handle this.
+18) WALT
+{angrya}BULLSHIT! You came back to finish us off and take all our food!
+19) NATE
+{angrya}You've lost your goddamn marbles.
+20) WALT
+{angrya}She's dyin' and now she can see your face.
+21) NATE
+{angryb}Shut up.
+22) NATE
+{angrya}First off, watch the fucking racism! This is my boy!
+23) NATE
+{thinkinga}Secondly, I don't fucking know you, we were just passing by like anyone else.
+24) WALT
+{angryb}She can see who took her from me!
+25) NATE
+{angrya}You tried to kill us for no goddamn reason. If anything we should take you out for that.
+26) 
+Are you fucking serious?!
+27) 
+I'm done. Goodbye.
+28) 
+Uh... huh, yeah, sure.
+29) RUSSELL
+{angryb}And don't you hurt these people either.
+30) NATE
+{thinkinga}Fine. Gramps, I'm sorry about your old lady.
+41) NATE
+Fine. Gramps, I'm sorry about your old lady.
+31) NATE
+{sada}COME ON! Can we still be friends?
+42) NATE
+{sada}COME ON! Can we still be friends?
+32) RUSSELL
+{angrya}No.
+40) RUSSELL
+No.
+33) RUSSELL
+{angrya}That's fucked up. There are real fucking monsters out there.
+34) NATE
+{normala}No shit.
+67) NATE
+{feara}[sacrastic]No shit?
+35) RUSSELL
+{angryb}And you're just gonna joke about the shit I seen? Fuck you, Nate.
+36) NATE
+{feara}Easy, Russ.
+37) RUSSELL
+{angrya}I'm not hurtin' no one.
+38) NATE
+{angrya}I saved your ass.
+39) RUSSELL
+{angryb}You didn't do shit.
+43) RUSSELL
+{angrya}I'm done. That's it man, I don't know you and I don't want to.
+44) RUSSELL
+{angrya}Fuck your jokes. I'm sorry, I'm out.
+45) NATE
+{angrya}Can't you take a fucking joke?
+46) NATE
+{sada}[frustrated] Sigh.
+47) NATE
+{happya}All right! Look at all this shit. See? Worth dodgin' some bullets.
+48) RUSSELL
+{feara}What the--
+49) NATE
+{happya}Relax. You're my boy, Russell. Things are going to be a-okay.
+50) JEAN
+[screaming, your husband was just shot in the head]
+54) WALT
+[getting grabbed from behind by surpirse]
+55) NATE
+[grabbing a guy]
+70) RUSSELL
+[grabbing a guy]
+71) WALT
+[getting grabbed from behind by surpirse]
+90) RUSSELL
+[jumps out!]
+51) RUSSELL
+{fearb}[wind knocked out of him] Wha...Wha...why...
+52) NATE
+{happya}[refrain] What do you say, Russ? Should we just kill these folks and take all of their stuff?
+53) WALT
+{angryb}PLEASE JUST GET THE FUCK OUT OF HERE! PLEASE LEAVE US ALONE.
+56) NATE
+[whispered]All right, we're gonna be fucking QUIET. We're gonna sneak up on this son of a bitch and take him out. You hear me?
+57) RUSSELL
+[a bit confused, doesn't know what the plan is at this point] Man, what are we doing?
+58) NATE
+Well, we gotta get in there. Fucker shot at us.
+59) NATE
+{angrya}Come on.
+60) 
+We should put it out of its misery
+61) RUSSELL
+{sada}We should put it out of its misery.
+62) 
+Nothing. No problem.
+63) RUSSELL
+{normala}Nothing. No problem.
+64) NATE
+Okay, it's clear. Keep your head down and follow me, you got it?
+65) NATE
+[whispering] Not a fucking peep. Let's go.
+66) RUSSELL
+{feara}[whispering]I think I saw a guy!
+68) NATE
+{angrya}[whispering]I thought you were gonna look over the window?
+69) NATE
+[super quiet]Grab him. I'll cover you.
+72) NATE
+[pointing out a half dead zombie casually, as if it's gum on the sidewalk] Watch out for that.
+73) NATE
+What's the problem?
+74) NATE
+{angrya}It's fucking dead. Come on.
+75) NATE
+{angrya}Then come on.
+76) NATE
+{angryb}Russ!  {angrya}Come on.
+77) NATE
+[impatient]{angrya}Probably. Just get over here.
+78) RUSSELL
+{feara}Is it still dangerous?
+79) NATE
+{thinkinga}[snarky] Feel like a big man now?
+80) NATE
+[prodding] Let's go.
+81) NATE
+[shouted while running]DON'T FUCKING MOVE!!
+82) NATE
+[super quiet]Your call.
+83) RUSSELL
+[super quiet]Do I sneak up, or just jump out and grab him?
+84) 
+Window
+85) 
+Walker
+86) NATE
+[pickup1][SUPER whispered]I see him! Check through the window. See if there's anyone else!
+87) NATE
+[pickup2][attempting to get Russell to relax]Russell, relax man. When this is over we're gonna take what we can, head on down to your Gram's and have a big ol' home cooked meal, all right?
+88) RUSSELL
+[pickup2][follows: 354508862 - Should we just kill these folks and take all of their stuff?][offended, and not actually sure if he IS serious or not]Are you serious?
+89) NATE
+[pickup2][shrugs]Maybe. Why not?
+91) RUSSELL
+[pickup2][not sure what to think] Uhh....

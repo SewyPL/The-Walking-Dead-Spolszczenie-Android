@@ -1,0 +1,1053 @@
+1) 
+Let him go!
+2) 
+They just need to work it out.
+3) 
+Anyone know this guy?
+4) 
+He might still be alive.
+5) 
+This ain't our problem.
+6) 
+You killed that guy! You gotta deal with it.
+7) 
+Quit waving that thing around!
+8) 
+Everybody calm down!
+9) 
+Somebody do something.
+10) 
+Use
+11) 
+Look At
+68) 
+Look At
+12) 
+Pull
+13) 
+Search
+14) 
+Help him, Danny!
+15) 
+We can't do anything with these chains on.
+16) 
+Let the guard handle it.
+17) VINCE
+[tense] {body-sitcuffed}{AngryB}Hey, let him go, man!
+18) 
+Is he still breathing?
+19) 
+Nobody had to die.
+20) 
+Asshole had it coming.
+21) VINCE
+[to Bennett, tense] {body-sitcuffed}{FearC}He still breathing?
+22) VINCE
+[dismayed] {body-sitcuffed}{FearC}This is crazy. {FearD}Nobody had to die.
+23) VINCE
+[cold] {body-sitcuffed}{SeriousC}The asshole had it coming.
+24) VINCE
+[to Bennett, tense] {body-sitcuffed}{FearC}He might still be alive. {FearD}Call a damn ambulance, man!
+25) VINCE
+[to Bennett, tense] {body-sitcuffed}{SeriousC}You killed that guy. {AngryB}You gotta deal with it, man.
+26) BENNETT
+[panicked] {Body-B}{FearC}Don't. {FearB}Don't call it in yet.
+27) CLYDE
+{Body-D}{FearB}I'm calling this in.
+28) BENNETT
+[panicked] {FearB}Just wait, okay?! {AngryB}Just gimme a damn minute!
+29) BENNETT
+[panicked] {AngryD}Shut up! {AngryC}You hear me? {AngryD}Just shut your mouth!
+30) BENNETT
+[panicked] {Body-AimGun}{FearC}I just need a minute. {AngryC}I need a minute to think.
+31) BENNETT
+{Body-AimGun}{AngryD}I'll calm down when you quit running your fucking mouth!
+32) JUSTIN
+{FearC}Everything's cool. {SurprisedA}Just... take {FearB}a breath, okay?
+33) JUSTIN
+[measured] {body-sitcuffed}{FearB}Vince... {SurprisedA}it's okay, {FearA}just back off. {FearB}We all need to take it down a notch.
+34) BENNETT
+[freaked] {Body-AimGun}{AngryC}Oh, you gonna get smart with me now?
+35) VINCE
+{body-sitcuffed}{ThinkingB}Quit waving that thing around {AngryB}before you get someone else killed.
+36) VINCE
+{body-sitcuffed}{FearC}Everybody needs to calm the fuck down. {FearB}Situation's bad enough as it is.
+37) JUSTIN
+{body-sitcuffed}{FearC}He's right. {FearB}Let's all just take it down a notch, okay?
+38) JUSTIN
+{body-sitcuffed}{FearC}Let's take a page out of Vince's book here. {FearC}Let's all of us just quiet down, okay?
+39) VINCE
+[silent]{body-sitcuffed}
+126) JERRY
+[rasping sounds -- last gasp]
+140) MARCUS
+[grunting, exertion as he strangles Jerry]{AngryD}
+141) MARCUS
+[grunting, exertion as he strangles Jerry]{AngryD}
+152) BENNETT
+[gurgling as blood comes out of your neck]
+153) BENNETT
+[gurgling as blood comes out of your neck]
+154) BENNETT
+[gurgling as blood comes out of your neck]
+162) 
+[Yank the chains.]
+40) DAN
+{body-sitcuffed}{FearB}What the FUCK?
+41) BENNETT
+[panicked] I said we're staying right here! {AngryC}We're safe inside the bus! Nothing's gonna--{FearD}
+42) BENNETT
+[panicked] {Body-aimgun}{FearD}We're not going {AngryD}anywhere.
+43) DAN
+[sternly] {body-sitcuffed}{FearD}Hey, you gotta get us the hell out of here, man.
+44) JUSTIN
+[to Driver] {FearC}Hey... HEY, you need to call someone! {AngryB}You hear me?! We need to--
+45) JUSTIN
+[panicked] Did he just bail on us?!
+46) DAN
+[urgent yelling] {FearD}Fuck {SurpriseB}fuck {FearD}fuck!
+47) DAN
+[shock] {body-sitcuffed}{FearD}What the hell, man?!
+48) JUSTIN
+[ugent] {body-sitcuffed}{FearC}Back up, back up!
+49) JUSTIN
+[relief] {FearB}He can't reach us.
+50) DAN
+[panic] {FearC}You sure about that?!
+51) VINCE
+{body-sitcuffed}{FearB}We need to get off this bus.
+52) DAN
+[confused] {FearB}Where the fuck is it?
+53) DAN
+[grim] {FearA}Aw, fuck me.
+54) VINCE
+[grim] {body-sitcuffed}{FearD}I think he fell on it. {FearC}It's underneath him.
+55) DAN
+[heartened] {body-sitcuffed}{SurpriseB}Yeah! Yeah, {HappyB}the GUN, good thinkin', Justin!
+56) DAN
+[weirded out] {body-sitcuffed}{DisgustB}What are you doing?
+57) VINCE
+{body-sitcuffed}{ThinkingB}Can't do anything until we get out of these damn chains. {SeriousB}Maybe he's got the keys on him.
+58) VINCE
+[worried, frantic] {body-sitcuffed}{SeriousB}Danny, don't--
+59) DAN
+{SurpriseA}Hey! Dude! Little help back here?
+60) DAN
+{body-sitcuffed}{HappyB}Maybe we finally caught a break. {SurpriseB}HEY, BUDDY!
+61) VINCE
+{FearD}We gotta get out of here before any more of them show up!
+62) JUSTIN
+[panicked] {FearC}That's not gonna hold.
+63) VINCE
+{body-sitcuffed}{SeriousC}Won't budge.
+64) VINCE
+{body-sitcuffed}{ThinkingA}The chain runs through that loop that's welded to the floor. {NormalA}No chance of bustin' that.
+65) VINCE
+{body-sitcuffed}{ThinkingA}Need those keys.
+66) VINCE
+{body-sitcuffed}{FearA}Pointless.
+67) VINCE
+{body-sitcuffed}{ThinkingA}We could maybe get out through the front of the bus. {SeriousA}If that cage door is unlocked. {FearA}And if we could get out of these chains.
+69) BENNETT
+{Body-sit}{NormalA}Relax, it's not your fault.
+70) CLYDE
+{Body-D}{ThinkingA}Supposed to have been at the pen an hour ago. {ThinkingB}I'm gonna get written up for this.
+71) CLYDE
+{Body-A}{NormalD}Whatever it is, it's big. {ThinkingA}Seen five ambulances go by already.
+72) BENNETT
+{Body-sit}{FearA}What do you think happened up there?
+73) MARCUS
+{NormalB}It's a prison bus, asshole. {Disgust}The windows don't open.
+74) JERRY
+{AngryB}Hey man, how about you open a fucking window!
+75) JERRY
+{AngryA}That shit ain't right, man. {AngryB}That shit ain't right!
+76) MARCUS
+{AngryA}Gettin' pretty tired of your complainin' ass, man.
+77) JERRY
+{NormalD}Man, they can't keep us cooped up in this heat like this. {AngryB}Two fucking hours.
+78) MARCUS
+{AngryA}Yeah, man. Shut the fuck up. {AngryB}Or I'll shut you up!
+79) BENNETT
+{AngryB}Shut up back there! I ain't telling you again!
+80) JERRY
+{FearB}Hotter than hell up in here. {AngryA}I'm gettin' dehydrated. {NormalC}Hey, how about some water back here!
+81) JERRY
+{NormalC}Hey man, I'm just saying. {AngryA}This is fucking barbaric. {AngryC}Can't be treating us like this!
+82) MARCUS
+{AngryB}I'm telling you man, {Disgust}shut the fuck up!
+83) JERRY
+{NormalC}You know what this is? {AngryB}This is cruel and unusual punishment, man. {AngryC}Violating my motherfucking rights.
+84) JERRY
+{AngryB}My lawyer's gonna be hearing about this. {AngryC}He's gonna have your motherfucking jobs when he hears about this!
+85) MARCUS
+{AngryC}You're on my last fuckin' nerve, man. {Disgust}I swear if you don't quit running your goddamn mouth....
+86) JUSTIN
+[panicked] {Body-A}{FearD}Do it. Hurry!
+87) DAN
+[pure bile] {Body-A}{AngryD}Fuck you!
+88) VINCE
+[grim] {Body-A}{FearD}I'm sorry, man.
+89) DAN
+[Just got shot]{PainA}Aaaaaaargh!
+96) JUSTIN
+[just got shot] {PainA}Aaaaaaargh!
+520) JUSTIN
+[just got shot] {PainA}Aaaaaaargh!
+521) DAN
+[Just got shot]{PainA}Aaaaaaargh!
+90) JUSTIN
+[panicked, breaking down]{FearC}Do it again...!
+91) JUSTIN
+[about to get shot, begging] {PainA}No, please, no!
+92) VINCE
+[grim] {Body-A}{FearD}Sorry, buddy.
+93) DAN
+[urging Vince to shoot Justin] {DisgustB}Do it!
+94) JUSTIN
+[panicked]{Body-A} {FearC}No no no no no! {AngryD}You can't!
+95) VINCE
+[grim] {SeriousB}Shit, {FearC}it's still attached....
+97) DAN
+[frantic, urging Vince to shoot Justin] {Body-A}{PainA}Again!
+98) JUSTIN
+[weakly] {body-sitcuffed}{PainA}Sorry. {SadB}Sorry.
+99) DAN
+[surprise] {body-sitcuffed}{FearC}Oh! {AngryC}Watch it, man!
+100) VINCE
+[grim]{body-sitcuffed}{FearB}Man, that guy sure did a number on him. {SeriousC}Tore his damn throat out.
+101) 
+We need to get off this bus.
+102) 
+Find a weapon!
+103) 
+Any ideas?
+104) JUSTIN
+[indignant] {body-sitcuffed}{AngryC}THIS is what happens when you {AngryD}give guns to ASSHOLES.
+105) BENNETT
+[grim] {body-A}{FearC}He's, uh....
+106) DAN
+[voice raises an octave -- this is affecting him]{body-sitcuffed}{fearC}Fucking FUCK. [to Bennett]{SurpriseB}You gotta call someone, man.
+107) DAN
+[angry] {body-sitcuffed}{AngryD}You ain't got a minute!
+108) JUSTIN
+{body-sitcuffed}{FearC}Okay, okay. {FearB}Calm down. Take it easy.
+109) DAN
+[shock at a man being brutally murdered] {body-sitcuffed}{FearD}Holy shit!
+110) JUSTIN
+[shock at a man being brutally murdered]{body-sitcuffed} {FearD}Jesus!
+111) JUSTIN
+[shock] {body-sitcuffed}{SurprisedA}Oh, my god....
+112) DAN
+[angry] {AngryD}Fuck THAT, {AngryC}get this bus movin'! {FearC}Hey, DRIVER! {FearD}LET'S GO, MAN!
+113) 
+KNOCK HIM OUT!
+114) 
+DO SOMETHING!
+115) 
+DON'T JUST STAND THERE!
+116) JUSTIN
+[indignant] {body-sitcuffed}{FearC}How did he have THIS coming?
+117) DAN
+{body-sitcuffed}{FearB}Damn, that guy's still alive! [to Bennett] {AngryD}Get those cuffs off him, man!
+118) VINCE
+[urging, tense] {body-sitcuffed}{FearD}DO SOMETHI--
+119) JUSTIN
+[eureka] {body-sitcuffed}{FearC}Where's the guard's gun?
+120) JUSTIN
+[tense] {body-sitcuffed}{AngryC}I'm trying to think.
+121) DAN
+[panicked] {AngryD}You better think fast, man!
+122) DAN
+[panicked] {body-sitcuffed}{AngryC}Come on, {FearB}we gotta DO something!
+123) JUSTIN
+[panicked] Then shut up for a second!
+124) VINCE
+{body-sitcuffed}{FearC}Any ideas?
+125) VINCE
+[tense] {body-sitcuffed}{SeriousC}Find a weapon!
+127) DAN
+[panicked]{FearC}Vince. {FearD}Fire the fucking gun!
+128) JUSTIN
+[to Danny] {body-sitcuffed}{SurprisedA}Thanks, man.
+129) DAN
+[measured, calm] {body-sitcuffed}{FearA}You really wanna pull that trigger again, son?
+130) DAN
+[desperate, shouting] {AngryC}Shoot the chains, man!
+131) DAN
+[desperate, shouting] {AngryA}Take out the windows!
+132) DAN
+[desperate, shouting]{AngryD}Vince, shoot those crazy fucks!
+133) JUSTIN
+[desperate, shouting] {FearC}Vince, the windows!
+134) DAN
+[desperate, shouting] {AngryD}KEEP SHOOTIN', VINCE!
+135) DAN
+[desperate, shouting] {AngryD}SHOOT 'EM AGAIN, MAN!
+136) JUSTIN
+[desperate, shouting] {FearC}Try the chains!
+137) JUSTIN
+[desperate, shouting] {FearB}Keep shooting, man.
+138) JUSTIN
+[desperate, shouting] {SurprisedA}Yeah!
+156) JUSTIN
+[sarc] {NormalC}Yeah.
+139) JUSTIN
+[desperate, shouting] {FearC}Come on, Vince!
+142) MARCUS
+[struggling to strangle Jerry, sarc, under breath] {AngryC}Speak up boy... {AngryD}I can't hear you!
+143) MARCUS
+[struggling to strangle Jerry, sarc, under breath] {AngryD}What's that?
+144) MARCUS
+[struggling to strangle Jerry, sarc, under breath] {Disgust}All choked up, huh {AngryC}motherfucker?
+145) CLYDE
+{AngryB}What in the HELL is goin' on back there?
+146) CLYDE
+{AngryB}Jesus H. Christ!
+147) CLYDE
+{AngryA}Bennett! {ThinkingB}Cool those goddamn fools down!
+148) BECCA
+[scream as if you just saw a horrifying thing for the first time] {Body-A}{FearC}Aaaaaaaaaaah!
+149) SHEL
+[scream as if you just saw a horrifying thing for the first time] {Body-A}{FearC}Aaaaaaaaaaah!
+150) SHEL
+{Body-A}{FearC}[scream as you run away from zombies for the first time] Aaaaaaaah!
+326) BECCA
+{Body-A}{FearC}[scream as you run away from zombies for the first time] Aaaaaaaah!
+151) BENNETT
+[getting your throat torn out] Hhhrrrrrrk!
+155) JERRY
+[zombie attack growl]{body-sitcuffed}{AngryD}
+157) DAN
+[amused] {ThinkingA}Hey Vince, {HappyA}Justin's gonna make me.
+158) JUSTIN
+[annoyed] {body-sitcuffed}{AngryA}What the hell, man?
+159) DAN
+[innocent] {body-sitcuffed}{NormalA}What?
+160) JUSTIN
+[annoyed] You know--
+161) DAN
+[challenging, to Justin] {NormalB}You gonna make me?
+163) 
+Settle down, assholes.
+164) 
+You guys ever gonna quit?
+165) JUSTIN
+[annoyed, backing down] {body-sitcuffed}{FearA}It's too hot for this shit.
+166) JUSTIN
+[sarc] {HappyA}Yeah, Danny. {ThinkingA}You're makin' me hot.
+167) DAN
+[excited] {HappyA}I knew it. {HappyB}I got that Latin heat you can't resist. {SurpriseA}C'mere, boy!
+168) DAN
+[amused] {body-sitcuffed}{HappyA}Vince, {HappyB}I'm makin' him hot now.
+169) JUSTIN
+[annoyed] {body-sitcuffed}{ThinkingA}Come on, Vince!
+170) DAN
+[surprised, amused] {body-sitcuffed}{FearA}Ohhh, {HappyA}shit!
+171) DAN
+[sarc] {body-sitcuffed}{ThinkingB}He started it.
+172) VINCE
+[tired] {body-sitcuffed}{SeriousA}Settle down, {SeriousB}assholes.
+173) DAN
+{body-sitcuffed}{NormalB}How else we gonna pass the time?
+174) VINCE
+[frustrated] {body-sitcuffed}{SeriousA}You guys ever gonna quit?
+175) BENNETT
+{body-Sit}{AngryB}Shut up back there!
+176) DAN
+[pickup2] [defensive, to Justin] Hey, how many times I gotta tell you?
+177) JUSTIN
+[pickup2] [exhaustedly] {body-sitcuffed}{NormalC}Here we go.
+178) JUSTIN
+[pickup2][defensive]I wasn't stealing from guys like that. [teasing]Anyway, better than stealing his virginity.
+179) DAN
+[pickup2] [serious]Seriously! I was falsely accused!
+180) DAN
+[prodding] {body-sitcuffed}{HappyB}Hey Justin, see that guy in the beat-up truck? {HappyA}I bet he lives in that truck now. You probably got his whole house. Life savings. {SurpriseA}Shit, I bet you stole his dog. {HappyA}You steal his dog, man?
+181) JUSTIN
+[pickup2] {ThinkingA}{Body-SitCuffed}How old was she, 15?
+182) JUSTIN
+[sarc] {SurprisedA}You're tellin' me there wasn't a star witness waiting around in your white van? {HappyB}I'm shocked.
+183) DAN
+[pickup2] [angry] {Body-SitCuffed}{AngryA}Damnit, it ain't like that.
+184) 
+Nobody's judging you.
+185) 
+You WERE convicted.
+186) 
+We're all in the same boat.
+187) DAN
+{body-sitcuffed}{NormalA}I want to, {SadA}but you know... {SadB}I love her, man.
+188) JUSTIN
+{body-sitcuffed}{ThinkingA}Just let it go, man.
+189) 
+Call her up when we get there.
+190) 
+Forget about her.
+191) 
+You're headed to jail.
+192) DAN
+[heartened] {body-sitcuffed}{ThinkingA}I know you're right, man. First call I get.
+193) VINCE
+{body-sitcuffed}{ThinkingA}You should call her up when we get there. {SeriousA}You gotta face that shit.
+194) VINCE
+{body-sitcuffed}{SeriousA}Forget about her. {ThinkingA}Not worth holding on to that guilt.
+195) DAN
+[bummed] {body-sitcuffed}{SadA}Wish I could, brother.
+196) DAN
+{body-sitcuffed}{HappyA}Never heard of a conjugal visit?
+197) VINCE
+{body-sitcuffed}{FearA}What's it matter, man? {NormalA}You're headed to jail.
+198) DAN
+[ignoring the insult, somewhat deflated] {body-sitcuffed}{SurpriseA}Big talk from White Collar back there. {ThinkingA}How many lives YOU wrecked, kid?
+199) VINCE
+{body-sitcuffed}{HappyA}I thought you took the stand and cried your eyes out. {ThinkingA}Didn't you lose your shit and tell them you didn't know what you were doin'?
+200) DAN
+{ThinkingA}You lied on the stand? {AngryA}See, {DisgustA}that's the kinda shit I could never do.
+201) JUSTIN
+[pickup2][flatly]{NormalA}Who cares.
+202) JUSTIN
+[flatly] {NormalA}I lied. {HappyA}Turns out I'm good at that.
+203) JUSTIN
+[bristling] {body-sitcuffed}{NormalA}Danny, I know you don't realize this because you're you, {AngryA}but you probably ruined that poor girl's life, {DisgustA}you piece of shit.
+204) 
+I'd say anything to avoid more time.
+205) 
+Shoulda been a man about it.
+206) 
+It's a tough call.
+207) DAN
+{body-sitcuffed}{DisgustA}You guys are messed up.
+208) VINCE
+{body-sitcuffed}{NormalA}I gotta admit, {ThinkingA}I'd say anything to get out of doing more time.
+209) VINCE
+[to Justin] {body-sitcuffed}{SeriousA}You shoulda been a man about it.
+210) JUSTIN
+[annoyed] {body-sitcuffed}{AngryA}I can't believe I'm getting my moralistic shit kicked in {AngryB}by a couple of criminals.
+211) VINCE
+{body-sitcuffed}{ThinkingA}It's a tough call.
+212) DAN
+{body-sitcuffed}{ThinkingA}Gotta stay clean, man.
+213) JUSTIN
+{body-sitcuffed}{SurprisedA}Why do more time than you need to?
+214) JUSTIN
+{body-sitcuffed}{ThinkingA}Says the criminal.
+215) JUSTIN
+{DisgustA}Oh, give me a break.
+216) DAN
+{DisgustA}It just ain't right.
+217) DAN
+{body-sitcuffed}{NormalA}Nah, man.
+218) DAN
+{ThinkingA}Nope.
+219) JUSTIN
+{ThinkingA}Watch a lot of cop shows?
+220) JUSTIN
+{body-sitcuffed}{SurprisedA}Religious?
+221) JUSTIN
+{SurprisedA}What then?
+222) JUSTIN
+[spiteful] {body-sitcuffed}{HappyA}You wanna know the funny thing? {ThinkingA}I don't regret any of it. {DisgustA}I carried my "victims" for YEARS; {AngryA}they knew what they were getting into. {SurprisedA}And now here I am, and there they are, {AngryA}and Wall Street assholes pullin' the same scores are smiling on TV. {AngryB}Fuck. {AngryC}That.
+223) JUSTIN
+[defensive] {HappyA}It was a really GOOD pyramid scheme.
+224) JUSTIN
+[struggling to explain] {body-sitcuffed}{FearC}It was like a... {ThinkingA}a pyramid scheme.
+225) DAN
+{HappyA}Aren't those kinda... {SurpriseA}shit?
+226) JUSTIN
+[proud] {HappyB}This was some pretty elegant shit.
+227) DAN
+[curious]{body-sitcuffed}{ThinkingA}How'd it all work, anyway?
+228) DAN
+[flatly] {NormalA}Good shit is still shit.
+229) DAN
+{HappyA}Yeah, {ThinkingA}well, {HappyA}enjoy your "elegant" cell, you know?
+230) 
+Hey, if nobody got hurt...
+231) 
+How'd you live with yourself?
+232) 
+Fuck Wall Street.
+233) VINCE
+{body-sitcuffed}{ThinkingA}Hey, if nobody got hurt... {FearA}no harm done.
+234) JUSTIN
+{body-sitcuffed}{AngryA}They'll get their money back. [beat]{HappyB}Most of it.
+235) VINCE
+{body-sitcuffed}{ThinkingA}How'd you live with yourself?
+236) JUSTIN
+{body-sitcuffed}{HappyA}Easy. {HappyB}I didn't think about it.
+237) JUSTIN
+[with finality] {body-sitcuffed}{DisgustA}Fuck Wall Street.
+238) VINCE
+[in agreement] {body-sitcuffed}{HappyA}Fuck Wall Street.
+239) DAN
+[in agreement] {body-sitcuffed}{HappyA}Fuck Wall Street.
+240) JUSTIN
+[proud]Little over a hundred. [beat]Million.
+241) VINCE
+{body-sitcuffed}{ThinkingA}How much did you make off with, anyway?
+242) JUSTIN
+[coy] {body-sitcuffed}{HappyA}Enough.
+243) DAN
+{body-sitcuffed}{ThinkingA}So like, {SurpriseA}couple hundred-k?
+244) DAN
+[elated] Goddamn, boy!
+245) DAN
+[excited] When we get outta here, you, me and Vince, we gotta go into business, know what I'm saying?
+246) BENNETT
+[annoyed, to Marcus] {Body-Sit}{AngryB}Crabtree, {AngryC}knock it off.
+247) DAN
+[surprise] {body-sitcuffed}{SurpriseB}Oh, shit!
+248) VINCE
+[serious] {body-sitcuffed}{FearD}Jesus Christ.
+249) MARCUS
+{body-sitcuffed}{Disgust}Yeah, yeah, {AngryB}what you got? {AngryC}What you got now? {AngryB}That's right, {AngryD}you got nothin', motherfucker.
+250) DAN
+[worriedly] {body-sitcuffed}{SurpriseB}Hey, {AngryD}get in there, man!
+251) BENNETT
+{body-sit}{AngryD}Sit down, goddammit!
+252) JUSTIN
+[tense] {body-sitcuffed}{FearC}No idea.
+253) DAN
+[tense] {body-sitcuffed}{SurpriseB}Nah, man.
+254) VINCE
+[tense] {body-sitcuffed}{FearB}Anyone know this guy?
+255) JUSTIN
+[tense] {body-sitcuffed}{FearC}They're doing more than "working it out."
+256) VINCE
+[dismissive] {body-sitcuffed}{NormalA}They just need to work it out.
+257) JUSTIN
+{body-sitcuffed}{SurprisedA}Let the guard handle it, guys.
+258) DAN
+[pleading] {body-sitcuffed}{FearC}He's gonna kill him, Vince!
+259) JUSTIN
+[seriously] {AngryA}You do {AngryC}not wanna get in the middle of that shit, Danny.
+260) DAN
+[tense] {AngryD}Fuck that, {FearD}we gotta get in there!
+261) BENNETT
+[frustrated] {Body-sit}{AngryC}Dammit, Crabtree, {Body-holdgun}{AngryD}don't make me come back there, now.
+262) JUSTIN
+[tense] {AngryC}Where's your common fucking sense?!
+263) JUSTIN
+[serious] {body-sitcuffed}{DisgustA}I'm not doing any more time to save some stupid asshole.
+264) DAN
+[tense] {body-sitcuffed}{FearB}Where's your empathy, man?!
+265) DAN
+[frustrated] {body-sitcuffed}{AngryD}Fuckin' chain's too short!
+266) VINCE
+{body-sitcuffed}{FearD}Help him, Danny!
+267) VINCE
+[dismissive] {body-sitcuffed}{ThinkingA}Let the guard handle it.
+268) DAN
+[to Bennett] {body-sitcuffed}{FearB}Come on, man!
+269) DAN
+[frustrated] {body-sitcuffed}{FearC}Shit.
+270) VINCE
+[frustrated] {body-sitcuffed}{SeriousC}We can't do anything with these damn chains on.
+271) BENNETT
+[without conviction] {Body-holdgun}{AngryC}Crabtree, {AngryD}I'm warning you one last time, goddammit.
+272) DAN
+[tense] {body-sitcuffed}{FearC}He's not listening, man! {FearD}You gotta get in there!
+273) BENNETT
+[shakily] {Body-AimGun}{FearC}Okay, asshole, {AngryC}let him go.
+274) CLYDE
+{Body-D}{AngryC}GODDAMMIT BOY, {AngryD}YOU GET YOURSELF IN THERE AND BREAK THAT SHIT UP, NOW!
+275) VINCE
+[urging, tense] {body-sitcuffed}{FearD}KNOCK HIM OU--
+276) VINCE
+[urging, tense] {body-sitcuffed}{AngryB}SHUT THE FUCK U--
+277) BENNETT
+[preparing himself] {Body-aimgun}{AngryC}Crabtree, LAST WARNING.
+278) BENNETT
+[angry outburst] {AngryD}I SAID LET HIM GO, GODDAMMIT!
+279) JUSTIN
+[stunned] {body-sitcuffed}{FearC}Jesus... {SurprisedA}what happened?
+280) DAN
+[stunned] {body-sitcuffed}{SurpriseB}Fuck....
+281) CLYDE
+{SurpriseB}What'd you DO, boy?
+282) CLYDE
+{FearC}GODDAMMIT, BOY, {FearD}ANSWER ME BACK THERE.
+283) CLYDE
+{Body-D}{CrazyA}What in the FUCK was THAT?
+284) JUSTIN
+[to Bennett] {AngryC}What the hell was that?
+285) BENNETT
+[panicked] {FearD}I don't know!
+286) JUSTIN
+[indignant] {DisgustA}You don't KNOW? Jesus.
+287) BENNETT
+[panicked] {Body-aimgun}{FearC}He made a move on me! {SurpriseB}I don't know!
+288) JUSTIN
+[angry] {body-sitcuffed}{DisgustA}He made a move, {AngryB}or you don't know? {AngryC}Which one?
+289) DAN
+[grim] {SurpriseB}Oh, Jesus.
+290) JUSTIN
+[nervous, panicked]{body-sitcuffed}{ThinkingA}There's gotta be a way! {FearC}Can't we just shoot off the chains?!
+291) DAN
+[nervous, panicked]{body-sitcuffed}{FearC}How the hell are we gonna get out of here?
+292) VINCE
+[grim, dubious]{body-sitcuffed}{SeriousB}No way. {ThinkingB}Wouldn't cut through.
+293) VINCE
+[dismissive] {body-sitcuffed}{SadA}We're all in the same boat here. {FearA}What's the point of arguing?
+294) DAN
+[defensive] {body-sitcuffed}{AngryB}The point is, {DisgustA}I'm not like that.
+295) DAN
+[exasperated] {PainA}Man. {SadC}I can't believe this shit. {FearA}Can you believe this shit, man?
+296) DAN
+[panicked] {FearB}We gotta find some way to get outta here.
+297) JUSTIN
+[angry, panicked] {body-sitcuffed}{AngryC}Goddammit, Danny! {AngryD}You always put your fucking foot in it!
+298) JUSTIN
+[annoyed]{DisgustA}Cut it out.
+299) VINCE
+[to Danny and Justin, under breath] {body-sitcuffed}{FearB}Somebody do something.
+300) DAN
+[grim, quietly] {body-sitcuffed}{SurpriseB}I saw it.
+301) JUSTIN
+[grim, quietly] {body-sitcuffed}{SurprisedA}Did you see that?
+302) DAN
+[frustrated, panicked] {FearC}What the fuck!
+303) JUSTIN
+[surprise] {body-sitcuffed}{SurprisedA}Oh, man!
+304) VINCE
+[tense] {body-sitcuffed}{FearB}No.
+305) VINCE
+[tired] {body-sitcuffed}{SeriousA}Jesus, you guys.
+306) DAN
+[bummed] It's worse than that, man. {SadA}She won't talk to me. {SadB}Haven't heard her voice in months. {SadA}It's really messin' with me, {SadB}like for real.
+307) DAN
+[pickup2] {body-sitcuffed}{ThinkingA}Tell you what, guys, and {SurpriseA}I ain't afraid to say it. {SadA}I'm REALLY missin' my girlfriend right now.
+308) DAN
+{body-sitcuffed}{ThinkingA}Nuff said, man.
+309) JUSTIN
+{body-sitcuffed}{SurprisedA}You know, I {ThinkingA}don't actually know a thing about you, Vince.
+310) 
+[boast] I killed some assholes.
+311) 
+[lie] I'm innocent.
+312) 
+I helped my brother.
+313) VINCE
+[pickup1, serious] {body-sitcuffed}{seriousC}I killed some assholes.
+314) JUSTIN
+[taken aback] {body-sitcuffed}{FearC}Whoa.
+315) VINCE
+[cagey, pickup1] {body-sitcuffed}{FearA}I'm innocent.
+316) VINCE
+{body-sitcuffed}{SeriousA}I helped my little brother.
+317) JUSTIN
+[teasing, antagonistic]{body-sitcuffed}{HappyA}I bet he touched a kid.
+318) DAN
+[teasing, antagonistic]{body-sitcuffed}{HappyA}Two kids. {HappyB}You touch a couple kids, Vince?
+319) JUSTIN
+{HappyB}Maybe he's a priest.
+320) DAN
+[pickup1]{SurpriseA}Yeah. {HappyA}"Father Vincent."
+321) VINCE
+[tense] {body-sitcuffed}{FearD}That ankle's gonna give.
+455) VINCE
+[tense] {body-sitcuffed}{FearD}That ankle's gonna give.
+322) JUSTIN
+[skeptical] {body-sitcuffed}{ThinkingA}They send you to prison for that, now?
+323) DAN
+[surprise, pickup1]{body-sitcuffed}{SurpriseB}Damn....
+324) VINCE
+[conflicted]{SadA}He was in trouble. I had to... help him out.
+325) DAN
+[annoyed, pickup1] {body-sitcuffed}{ThinkingA}Give me a fuckin' break, man.
+327) JUSTIN
+[pleading] {SurprisedA}Whoa whoa whoa!
+328) JUSTIN
+[pleading] {SadB}You know I don't deserve this!
+329) JUSTIN
+[pleading] {FearB}I know you think I'm an asshole, but...!
+330) JUSTIN
+[pleading] {FearB}You're gonna do me and {AngryC}not this rapist FUCK?
+331) JUSTIN
+[pleading] {FearB}Vince, I have a family... please....
+332) JUSTIN
+[pleading] {FearB}Vince, think of my family, man....
+333) JUSTIN
+[begging, breaking down] {FearC}Vince, please....
+334) JUSTIN
+[pickup1, begging, breaking down]{AngryB}Just shoot this asshole....
+335) JUSTIN
+[begging, breaking down] {FearC}Jesus... {SadB}Jesus, Vince....
+336) DAN
+[surprise] {SurpriseA}Vince, what the fuck?
+337) DAN
+[pickup1, pleading]{AngryC}You gonna leave me and not this lying shithead?
+338) DAN
+[pickup1, pleading]{FearB}Okay, I know I'm a fuck-up, {FearC}but Jesus!
+339) DAN
+[pleading]{FearB}Come on, you know I'm a good guy, man!
+340) DAN
+[angry, pleading] {FearB}Justin's just gonna slow you down!
+341) DAN
+[begging, breaking down] {SadB}Do the right thing, man....
+342) DAN
+[begging, breaking down] {FearB}You know I got your back....
+343) DAN
+[begging, breaking down] {FearC}Fuck you... {AngryD}fuck you, man....
+344) JUSTIN
+[whining] Come on, man. {body-SitCuffed} {DisgustA}
+345) BENNETT
+[panicked, in shock] {SurpriseB}What?
+346) CLYDE
+{ThinkingA}Dispatch, come in....
+347) VINCE
+[to Danny] {body-sitcuffed}{SeriousC}This ain't our problem, Danny.
+348) VINCE
+[grim, quietly] {body-sitcuffed}{FearB}Yeah.
+349) JERRY
+{AngryD}What the fuck are you gonna do about it?
+350) MARCUS
+{AngryC}FUCK YOU.
+351) SCANNER
+...be advised, we have a 10-55 DUI reported--
+352) CLYDE
+{ThinkingA}What am I, the traffic man?
+353) CLYDE
+{Body-D}{DisgustA}Can't listen to this crap anymore.
+354) BENNETT
+{Body-sit}{NormalA}Two hours. Think it'll clear up soon?
+355) VINCE
+[pickup1, annoyed] {body-sitcuffed}{SeriousA}Tied down to a bus full of assholes.
+356) DAN
+[pickup1, earnest] {body-sitcuffed}{HappyA}Come on, {HappyB}we know you love us, Vince.
+357) VINCE
+[pickup1, to Justin] {body-sitcuffed}{ThinkingB}He gonna be this annoying for the NEXT two hours?
+358) VINCE
+[pickup1] {body-sitcuffed}{NormalA}The heat's startin' to get to these guys.
+359) VINCE
+[pickup1] {body-sitcuffed}{NormalA}Can't believe these assholes are letting us roast.
+360) VINCE
+[pickup1] {body-sitcuffed}{NormalA}Traffic's still backed up for miles. {ThinkingA}Never thought I'd want to get to prison.
+361) JUSTIN
+[wry, to Danny] {body-sitcuffed}{HappyA}Yeah, the{HappyB} judge took care of that.
+362) DAN
+[strained, lifting a dead man]{Body-sitcuffed}{FearB}Hurry up....
+363) JUSTIN
+[strained, lifting a dead guy] {Body-sitcuffed}{PainA}Can't hold this fatass up much longer, Vince...
+364) DAN
+[strained, lifting a dead guy] {Body-sitcuffed}{PainA}Grab the fucking gun, man!
+365) JERRY
+{AngryC}Fuck me? {AngryD}Fuck you, motherfucker.
+366) DAN
+[frustrated, panicked] {body-sitcuffed}{AngryB}Damn. Shit, man, {FearB}we'll never get past those bars!
+367) JUSTIN
+[nervous] {body-sitcuffed}{FearC}I think you just pissed them off.
+368) DAN
+[tense] {body-sitcuffed}{FearB}Yeah. Yeah, {ThinkingA}save the shells....
+369) JUSTIN
+[nervous] {body-sitcuffed}{FearB}Whoa, whoa, {AngryA}watch it.
+370) DAN
+[tense, panicked] {body-sitcuffed}{FearA}Ain't gonna work.
+371) DAN
+[urgently] {body-sitcuffed}{FearB}Get the gun, man!
+372) DAN
+[panicked] {body-sitcuffed}{FearD}Shoot this asshole, Vince!
+373) JUSTIN
+[tense, telling Vince to shoot] {body-sitcuffed}{AngryC}Do it!
+374) DAN
+{AngryC}Fuck you, man!
+375) VINCE
+[pickup1, annoyed] {body-sitcuffed}{AngryA}What's your problem, man?
+376) JUSTIN
+[pickup1, wry] {body-sitcuffed}{HappyA}Get used to it.
+377) DAN
+[pickup1, pleading]{FearC}Come on! I did some bad shit, {SurpriseA}but I'm a good guy, Vince....
+378) DAN
+[pleading] {FearB}I'm not supposed to be here....
+379) JUSTIN
+[pleading] {FearC}I'll give you anything, Vince!
+380) JUSTIN
+[pleading] {SadB}I never did anything to you....
+381) VINCE
+[pickup1, frustrated] {body-sitcuffed}{AngryB}Nothing.
+382) JUSTIN
+[pickup1, tense] {AngryB}He must have left them up front.
+383) DAN
+[pickup1, tense]{DisgustA}Well, shit, {ThinkingA}if the keys aren't on HIM, {AngryA}then where the hell are they?
+384) JUSTIN
+[pickup1, tense] {body-sitcuffed}{AngryA}They weren't on him.
+385) DAN
+[pickup1] {body-sitcuffed}{AngryB}Where are the damn keys, man?
+386) JUSTIN
+[pickup1, frustrated] {ThinkingA}This isn't gonna work.
+387) JUSTIN
+[pickup1, frustrated] {FearC}We should just wait for help.
+388) JUSTIN
+[pickup1, frustrated] {FearB}Dammit.
+389) JUSTIN
+[pickup1, frustrated] {FearC}Fuck this.
+390) DAN
+[pickup1, frustrated] {AngryB}Goddammit.
+391) DAN
+[pickup1, frustrated] {FearB}How we gonna get outta here?
+392) DAN
+[pickup1, frustrated] {AngryA}Shit.
+393) DAN
+[pickup1, frustrated] {AngryA}Nothin'.
+394) 
+Shoot
+395) 
+Shoot
+396) JUSTIN
+[annoyed, to Danny, pickup1] {body-sitcuffed}{DisgustA}Like you can talk.
+397) DAN
+[pickup1] Yeah, {AngryA}but Vince is full of shit. I know he did somethin'. {AngryB}That's just weak.
+398) JUSTIN
+[pickup1] {NormalA}I knew it was something stupid.
+399) DAN
+[to Vincent, understanding] {body-sitcuffed}{thinkingA}You regret it, man?
+400) DAN
+[pickup2, tense] Vince, you're the tough guy here. We gotta get in there right?
+401) DAN
+[pickup2, tense, angry at Vince] I knew you didn't have any balls.
+402) DAN
+[pickup1, tense] {body-sitcuffed}{FearB}Vince, we gotta do somethin'. {SurpriseB}You know this ain't right.
+403) DAN
+[pickup1, agreeing, excited] {body-sitcuffed}{FearC}Right, man. Yeah!
+404) DAN
+[pickup1, annoyed]{body-sitcuffed}{AngryB}What kinda weapon you think you're gonna {AngryC}find back here, asshole?
+405) DAN
+[pickup1, agreeing, somewhat skeptical] {body-sitcuffed}{FearA}What kind of weapon?
+406) DAN
+[pickup1] {body-sitcuffed}{FearC}Whatever you think, man!
+407) DAN
+[pickup, tense, skeptical, accusing] {body-sitcuffed}{AngryB}Yeah? {AngryD}And how do you suggest we do that, asshole?
+408) DAN
+[pickup1, tense, agreeing] {body-sitcuffed}{FearB}Okay. Okay, man. {FearA}But what's the plan?
+409) DAN
+[pickup1, tense] {body-sitcuffed}{FearB}Yeah, {AngryB}I got an idea, {AngryD}why don't YOU do something, asshole?
+410) DAN
+[pickup1, tense]{body-sitcuffed}{SurpriseB}Yeah, I wish, man.
+411) JUSTIN
+[pickup1, pleading] {FearB}I know you don't wanna shoot someone else, man....
+412) JUSTIN
+[pickup1, pleading] {FearB}I don't care what you did....
+413) JUSTIN
+[pickup1, pleading] {FearB}I have a brother too, Vince....
+414) DAN
+[pickup1, pleading] {FearA}I know you got the balls man, okay? I know....
+415) DAN
+[pickup1, pleading] {FearB}You ain't gonna do it, I know you ain't....
+416) DAN
+[pickup1, pleading] {FearB}Hey, I know you're a good guy....
+417) 
+Prisoner
+424) 
+Prisoner
+425) 
+Prisoner
+418) 
+Prisoners
+419) 
+Cage
+420) 
+Window
+421) 
+Chain
+422) 
+Guard
+423) 
+Shotgun
+426) 
+Bracket
+427) JUSTIN
+[pickup1][nervous, deferring] {body-sitcuffed}{AngryC}Shit. {FearC}What do you think, Vince?
+428) JUSTIN
+[pickup2] [nervous] {body-sitcuffed}{FearC}Shit. {FearB}What are we doing, guys?
+429) JUSTIN
+[pickup2] [nevous, angry] {body-sitcuffed}{AngryC}Shit. You gonna help out here Vince?
+430) JUSTIN
+[pickup1] [fleeing the bus after having shot Danny's foot off] {Body-A}{SurprisedA}Come on!  {FearC}Let's go!
+431) DAN
+[pickup2] [fleeing the bus after having shot Justin's foot off] {Body-A}{AngryB}Let's go!  {AngryC}Let's go!!
+432) 
+Danny's Foot
+433) 
+Justin's Foot
+434) 
+Justin
+435) 
+Danny
+436) 
+Looters
+437) DAN
+[pickup2][intense, panicked]Well, what you you think is gonna happen if we don't get the fuck outta here?! Vince, gimme the gun, we gotta do this!
+438) DAN
+[pickup2][nervous, panicked]What about the cuff?! If we shoot one of those off, the chain'll slip right out!
+439) JUSTIN
+[pickup2][nervous, panicked]Are you fucking insane?! What do you think is gonna happen if you fire a shotgun that close to someone's foot?!
+440) VINCE
+[pickup2][alt, stepping back with the shotgun]Back off!
+441) VINCE
+[pickup2] [alt] DON'T JUST STAND TH--
+442) JUSTIN
+[pickup2] [urgent, straining a bit] Pick it up, Vince!
+443) DAN
+[pickup2] [just been shot in the foot, in extreme pain][bunch of grunts, trying to deal with the pain]
+444) DAN
+[pickup2] [just been shot in the foot, in extreme pain]Just get it over with! Hurry up!
+445) DAN
+[pickup2] [just been shot in the foot, in extreme pain]You fuckers, don't...don't, you mother fuckers...
+446) DAN
+[pickup2] [just been shot in the foot, in extreme pain]Why... you doin' this...
+447) JUSTIN
+[pickup2][just been shot in the foot, in extreme pain]Jesus, it hurts, it fucking HURTS....
+448) JUSTIN
+[pickup2][just been shot in the foot, in extreme pain]Aaahh! Vince, you son of a bitch....
+449) JUSTIN
+[pickup2] [just been shot in the foot, in extreme pain][bunch of grunts as you try to deal with the pain]
+450) JUSTIN
+[pickup2][just been shot in the foot, in extreme pain] [breathing through your teeth as you try to deal with the pain]
+451) JUSTIN
+[pickup2][just been shot in the foot, in extreme pain]Hurry up! Fucking finish it! Hurry the fuck up!
+452) DEALER
+[pickup2][begging not to be shot]No, man! Don't! I don't even fucking know you! Don't--[BANG!]
+453) VINCE
+[pickup2][looking at his gun.  It's evidence!]Shit.[I need to get rid of this!]
+454) VINCE
+[pickup2][after killing a guy, he hears sirens in the distance]Oh, fuck!
+456) CLYDE
+[pickup2] [angry] COME ON BOY, GET BACK THERE!
+457) DAN
+[tense] Go on, man!
+458) DEALER
+[pickup2][begging not to be shot]Man, come on, I told you like... like twenty times... I don't even... I don't even KNOW your brother!
+459) DEALER
+[pickup2] [begging for his life]Damn it, I told you! I already told you it wasn't me, man!
+460) VINCE
+[pickup2] [heavy breathing for 10 seconds as you psyche yourself up to kill someone for the first time]
+461) VINCE
+[pickup2] [understanding, dismissive] {Body-SitCuffed}{NormalA}Okay, you were falsely accused. {NormalB}Nobody's judging you here, man.
+462) DAN
+[pickup2] [pleading]{body-sitcuffed}{DisgustA}Aw, come on, Vince. {SadA}That don't mean I did it.
+463) VINCE
+[pickup2] [skeptical]{body-sitcuffed}{NormalB}You {SeriousA}WERE convicted, Danny. Gotta admit that much.
+464) CLYDE
+[pickup2] [angry outburst] WHAT ARE YOU WAITING FOR?! DO IT!
+465) CLYDE
+[pickup2][angry outburst]GET IN BETWEEN 'EM, GODDAMMIT!
+466) 
+Rooftop
+467) 
+Storm Drain
+468) 
+Trash Can
+469) 
+Pants
+470) DAN
+[pickup2] [understanding] If you're sayin what I think you are, I got respect for you man.
+471) DAN
+[pickup2] [curious] But that's a hard thing to carry, you know?
+472) DAN
+[pickup2] [curious]So what was it, man?
+473) DAN
+[pickup2] Must've been somethin' real stupid, huh?
+474) VINCE
+[pickup2] [serious, a little angry]What do you think? Do I look like I'm lying?
+475) VINCE
+[pickup2] [flatly]Dead serious.
+476) JUSTIN
+[pickup2] [serious]Damn, man.
+477) VINCE
+[pickup2] [somewhat coy] Maybe I am. Maybe I'm not.
+478) JUSTIN
+[pickup2] [impressed]Bullshit. You did it.
+479) 
+Do I look like I'm lying?
+480) 
+Dead serious.
+481) 
+Maybe I am. Maybe I'm not.
+482) JUSTIN
+[pickup2] [matter-of-fact]Like I said, I'm good at lying. And he's not.
+483) JUSTIN
+[pickup2] [skeptical]He's not lyin. Are you?
+484) DAN
+[pickup2] [skeptical]How do you know?
+485) VINCE
+[pickup2]Ditched the gun in a drain.
+486) DAN
+[pickup2]How'd they get you?
+487) VINCE
+[pickup2]Tossed the gun up on a roof.
+488) VINCE
+[pickup2]Threw the gun in the trash.
+489) VINCE
+[pickup2]It was a good throw. And the roofer found it the next day.
+490) DAN
+[pickup2][amused]You gotta be kiddin' me. Man, you're bad luck, Vince. [trying out the nickname]"Bad Luck Vince." Ha! That's not bad. What do you think, Justin?
+491) VINCE
+[pickup2]I guess it was clogged up with leaves. Street cleaner found it the next damn day.
+492) JUSTIN
+[pickup2][curious]And?
+493) JUSTIN
+[pickup2][curious]And?
+494) VINCE
+[pickup2]Cops caught up to me before I ditched the gun.
+495) VINCE
+[pickup2]Some stupid dog knocked the can over the next day. Kid found it and turned it in.
+496) VINCE
+[pickup2][dismissive]Forget it.
+497) JUSTIN
+[pickup2][annoyed]Come on, man.
+498) VINCE
+[pickup2][annoyed]Yeah. I did somethin'.
+499) JUSTIN
+[pickup2][sarcastic]Well, that's specific.
+500) VINCE
+[pickup2][sternly]Fuck. Off.
+501) DAN
+[pickup2] [under his breath]Guess not.
+502) JUSTIN
+[pickup2][teasing]Wow, you're touchy, huh?
+503) 
+Forget it.
+504) 
+Yeah. I did somethin'.
+505) 
+Fuck. Off.
+506) VINCE
+[pickup2][flatly]I don't regret it at all. Sometimes, you gotta do the hard thing.
+507) JUSTIN
+[pickup2] Yeah, I know what you mean, man.
+508) VINCE
+[pickup2] [regretful] Every day. But what are you gonna do.
+509) DAN
+[pickup2] [understanding] Yeah. I feel you.
+510) JUSTIN
+[pickup2] [understanding] I hear you.
+511) VINCE
+[pickup2] [flatly] Doesn't really matter. What's done is done.
+512) 
+Don't regret a thing.
+513) 
+Every day.
+514) 
+Doesn't matter.
+515) JUSTIN
+[pickup2] [backing off]No... no, you don't.
+516) 
+Throw Gun In
+517) 
+Hide Gun
+In
+518) 
+Throw Gun On
+519) JUSTIN
+[pickup2] {body-sitcuffed}I'm guessin' she's pretty pissed at you.
+522) CLYDE
+[pickup3][prompting the guard as a fight breaks out]What are you waiting for?!
+523) CLYDE
+[pickup3][prompting the guard as a fight breaks out]He's gonna kill that boy!
+524) 
+Danny's Ankle Cuff
+525) 
+Justin's Ankle Cuff
+526) 
+Hide Gun In

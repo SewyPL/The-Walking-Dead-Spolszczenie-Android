@@ -1,0 +1,211 @@
+1) 
+アナログスティックやWASDキーを使ってリーを操作します。望みの場所までリーを移動させてください
+2) 
+Get to the shelf (Press W)
+3) 
+Get to the shelf (left stick)
+4) 
+Push the shelf (Mouse over to look, L-click to select)
+5) 
+Push the shelf (right stick to look, A to select)
+6) 
+Get to the window
+7) 
+Get to the window
+8) 
+Reinforce the boards (L-click)
+9) 
+Reinforce the boards (A)
+10) 
+Get to the door
+11) 
+Get to the door
+12) 
+Hold the door shut
+13) 
+Hold the door shut
+14) 
+Take the cane.
+15) 
+Take the cane.
+16) 
+Put the cane on the door handles
+17) 
+Put the cane on the door handles
+18) 
+Save Doug or Carley
+19) 
+Save Doug or Carley
+20) 
+Run!
+21) 
+Run!
+22) 
+Answer the cop (Mouse wheel, L-click to choose)
+23) 
+Answer the cop
+24) 
+If choices fade out, you will stay quiet
+25) 
+If choices fade out, you will stay quiet
+26) 
+Peek over the wall (W)
+27) 
+Peek over the wall (left stick up)
+28) 
+Peek for too long and you will be seen
+29) 
+Peek for too long and you will be seen
+30) 
+Select other actions. (Scroll wheel to icon)
+31) 
+Select other actions. (directional pad)
+32) 
+Free Clementine
+33) 
+Free Clementine
+34) 
+�Life is a sum of all our choices.�
+35) 
+--Albert Camus
+36) 
+Every choice you make from this point on�
+37) 
+ボタンで返答を選択できる
+38) 
+クリックして返答を選択する
+39) 
+タップして返答を選択
+40) 
+時間切れまで待てば、あえて黙っていることもできる
+41) 
+君の選択は、出会う人々に影響し、生存の可能性を決める
+42) 
+一度決めた選択は取り消すことはできない
+43) 
+右スティックで周囲を見回してみよう
+44) 
+目標のバックミラーにカーソルを合わせろ
+45) 
+小さなアイコンが表示された。 警官と目を合わせるには、ボタンを押せ
+46) 
+Good.  Now press the Talk Icon to talk to him.
+47) 
+will define your story for the rest of the game.
+48) 
+右スティックで周囲を見回し、車から出る方法を見つけろ
+49) 
+マウスで周囲を見回し、車から出る方法を見つけろ
+50) 
+マウスで周囲を見回し、車から出る方法を見つけろ
+51) 
+再び左スティックで窓に近づけ
+52) 
+Look at the door, and use the hand icon to haul yourself out.
+53) 
+よし！ もう一度だ！
+54) 
+Use left stick to move along the car.
+55) 
+Now MOVE toward the window, using the left stick.
+56) 
+Use the left stick to get away!
+57) 
+続ける
+58) 
+目標のバックミラーにカーソルを合わせ、警官と目を合わせろ
+59) 
+CHOICE:
+You answered the officer.
+60) 
+You chose to answer the officer.
+61) 
+CHOICE:  
+You ignored the cop.
+62) 
+P
+63) 
+次の選択肢が表示される。準備はいいか
+64) 
+制限時間に注意しろ。選択肢を選ばない場合、リーは沈黙を続ける
+66) 
+制限時間に注意しろ。選択肢を選ばない場合、リーは沈黙を続ける
+65) 
+PLAYING DEAD:
+Use the [left joystick icon] to move Lee and explore the world.
+The [right joystick icon] allows you to look around and interact with the things you see.
+Push the [a button], [b button], [x button], and [y button] to choose actions or replies and occasionally blow a zombie's head off.
+And to exit to the Main Menu, press [start].
+67) 
+Use left stick to move Lee, and right stick to interact with the world.
+68) 
+Welcome to The Walking Dead...
+69) 
+小さなアイコンが表示された。 警官と目を合わせるには、Xボタンを押せ
+70) 
+小さなアイコンが表示された。 警官と目を合わせるには、Aボタンを押せ
+71) 
+Mouse text should go here.
+72) 
+Use right stick to look around and find a way out of the car.
+73) 
+タップして周囲を見回し、車から出る方法を見つけろ
+74) 
+Use the mouse to look around and find a way out of the car.
+75) 
+選択肢には時間制限がある
+76) 
+You have a limited amount of time to make a choice.
+77) 
+警官と目を合わせるにはボタンを押す
+78) 
+Now aim the target at the rearview mirror.
+79) 
+Use the right stick to take a look around.
+80) 
+Silence is a valid option.
+81) 
+You choose to say nothing if time expires.
+82) 
+ケニーかハーシェルが助けを必要か確かめよう
+83) 
+Be sure to check in with everyone you've met so far.
+84) 
+Now MOVE toward the window, using the W (forward) key.
+85) 
+Use the W (forward) key to move along the car.
+86) 
+Use the S (back) key to get away!
+87) 
+マウスホイールを使って選び、左マウスボタンで決定できる
+1から4までの数字キーを使って選ぶこともできる
+88) 
+Use the mouse to take a look around.
+89) 
+Use the mouse wheel (or number keys 1-4) to select a response.
+90) 
+Look at the door. Use the mouse wheel (or number keys 1-2) to select an action.
+91) 
+Tap inside a box to reply.
+92) 
+There�s a small icon on the rearview mirror.
+93) 
+Tap the icon to talk to the cop again.
+94) 
+Good!  Now tap one of the verb icons to select an action.
+95) 
+Touch and drag along the screen to make Lee walk.
+96) 
+Good.  Now explore the environment.
+97) 
+Look around and find the shotgun!
+98) 
+Tap an arrow to help Shawn or Duck!
+99) 
+Tap an arrow to peek over the wall
+100) 
+You can touch and drag to look around when the arrows appear in the corner.
+102) 
+You can touch and drag to look around when the arrows appear in the corner.
+101) 
+タッチ＆ドラッグして周囲を見回す

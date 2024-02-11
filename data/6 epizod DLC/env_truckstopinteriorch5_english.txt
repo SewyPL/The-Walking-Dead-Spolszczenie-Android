@@ -1,0 +1,354 @@
+1) BECCA
+{NormalB}Cool. [matter of routine]{NormalA}[to Shel]You check the flashlights this time, {NormalB}I'll look over the guns.
+2) BECCA
+[Her sister is staring at her lovingly]{ThinkingB}What?
+3) SHEL
+[lovingly]{HappyC}Nothing.
+4) SHEL
+[pickup2][about the soup - to herself]{HappyC}{Body-A}Smells good.
+5) SHEL
+{DisgustB}No. {ThinkingB}Roman said it was like this when he and Stephanie found the place. {DisgustB}Could be anything these days, though.
+6) BECCA
+{ThinkingB}Did you ever find out what happened there?
+7) SHEL
+[reasuring]{HappyC}We will. {HappyA}One day.
+8) BECCA
+{NormalA}It'd be nice to get those windows fixed one day.
+9) BECCA
+{NormalA}How's Joyce today?
+10) SHEL
+{HappyC}She seems good. {NormalA}Clive's watching over her... {ThinkingB}as usual. [afterthought]{DisgustB}Talk about survivors... {SadA}those guys have been through a lot.
+11) SHEL
+[to herself, looking at shelves of canned food] {ThinkingB}I don't miss going on raids for this stuff.
+12) SHEL
+[sad.  Seeing a puppy being eaten by zombies] [under her breath(on exhale)]{FearC}Oh, God.
+13) SHEL
+[to herself, wondering what the other zombies are doing?] {ThinkingA}Hmm... what's going on with her?
+14) SHEL
+[startled!] {FearB}Ahh!  [catching her breath]{AngryB}Gah! You scared me!
+15) SHEL
+[mild sniffing and whimpering as she stars to tear up.]{FearC}
+16) SHEL
+[alt][mild sniffing and whimpering as she stars to tear up.][to herself]{FearC}...That's so sad.
+17) SHEL
+[watching zombies eat.  It saddens and disguts her]{DisgustB}...Ugh.
+18) BECCA
+{HappyC}[laughing after scaring her sister!] Hahahahaa!!
+19) SHEL
+[A little too harsh, angry!]{AngryC}Gah! Jesus! Don't {AngryD}ever fucking do that again!
+20) BECCA
+{SurpriseA}Woah!  {DisgustB}What's your problem?  {ThinkingB}I do this all the time and you don't get all {DisgustB}pissed off!
+21) BECCA
+{ThinkingA}[popping out and scaring her sister!]Raaaaarrrr!!!!
+22) SHEL
+[Frightened scream!] {FearD}Aaaaaahhhh!!!
+23) BECCA
+{DisgustB}But...
+24) SHEL
+[stern]{AngryC}{ThinkingA}You just... {AngryA}you can't go jumping out at people. {AngryB}Not any more. {AngryC}It's not safe.
+25) BECCA
+{FearA}What are you talking about?
+26) SHEL
+{AngryB}What if I had a weapon?  {AngryC}I could have thought you were a walker!
+27) SHEL
+[apologetic for snapping at her sister] {SadA}I'm sorry. {DisgustB}It's just... the watch dogs... {SadB}I guess they found a puppy....[trails off sadly]
+28) SHEL
+[sad]{SadB}I saw the guard dogs eating a... a puppy. {DisgustB}I guess it just got to me.
+29) BECCA
+{FearA}Are you all right, sis?
+30) SHEL
+{FearC}[heavy breathing after being startled]...Oh, God....
+31) BECCA
+{DisgustB}Bad time?  {ThinkingB}What's up?
+32) SHEL
+[catching her breath] {DisgustB}Yeah... I just... {SadA}you caught me at a bad time, {DisgustB}that's all.
+33) SHEL
+[sad]{SadA}Yeah. {DisgustB}I guess it just... {ThinkingA}it got to me, ya know. {FearA}It was so little. {SadA}You don't think about babies any more, but.... {SadB}After a while you just kind of accept... {DisgustB}this is it.
+34) SHEL
+[sad. Cont.][chuckles a bit at the irony]{SadA}But then... {DisgustB}you know... {SadB}there it is. {ThinkingA}You see it and you want to protect it. {DisgustA}[clears throat]...{DisgustB}And now it's gone.
+35) BECCA
+{ThinkingB}A puppy?
+36) SHEL
+[flustered] {AngryB}I... {ThinkingA}{SadA}look, I just saw our walkers out back {SadB}eating a puppy.
+37) 
+It's not safe to go jumping out at people!
+38) 
+I'm sorry. I just saw something sad...
+39) 
+Just leave me alone!
+40) SHEL
+[pickup2 - (For localization; line edited)]{ThinkingA}It's the walkers... {SadB}and I guess they got ahold of a puppy.
+41) BECCA
+{AngryB}Dude, what the {ThinkingB}hell?  {DisgustB}If something's wrong, tell me about it.
+42) SHEL
+[sharp]{AngryA}Just leave me alone!  {ThinkingA}I don't want to talk about it right now.
+43) BECCA
+{NormalA}[bluntly practical]Maybe if Clive dies next we can put him out there instead. {NormalB}He'd make a better watch dog anyway.
+44) BECCA
+[not really getting why it's sad]{AngryA}That sucks. [short pause]
+45) SHEL
+[sad, almost a whisper, not sure how her sister became so detached from emotion.]{SadB}Becca....
+46) BECCA
+{NormalB}{NormalA}Yeah. {NormalB}I guess you kinda forget.
+47) SHEL
+{HappyC}{Body-A}Cool.
+48) SHEL
+[with a smile]{HappyC}Uh, no, I don't think so! {HappyA}You just make sure those flashlights are all working. {HappyC}We don't want anyone getting stuck in the dark!
+49) BECCA
+{AngryA}Yeah, {NormalB}that would suck.
+50) SHEL
+[slightly stern]{NormalA}Nuh-uh. I don't want you messing with those unless we're in danger, okay? {HappyA}I'll take care of those later.
+51) BECCA
+[disappointed] {AngryB}Fine.
+52) SHEL
+{NormalA}Okay, but be careful. {SadA}People's lives depend on those. {HappyA}We can't have them screwing up because we got lazy.
+53) BECCA
+[in a joking tone]{NormalA}No?  {AngryA}Fine. {AngryB}Flashlights it is.
+54) 
+Cool.
+55) 
+I don't think so!
+56) 
+Okay, but be careful.
+57) 
+I don't want you messing with those.
+58) SHEL
+[Shel remembers she wanted to do someting else]{HappyA}Actually, {HappyB}I wanted to make sure our blades were in good condition first. {HappyA}No rush on the flashlights.
+59) SHEL
+{ThinkingB}Remember the dead ones Roman found when we first got here?  {NormalA}This is where they were. {DisgustB}Might have been just sitting in here for months, who knows.
+60) 
+Soup
+61) 
+Look At
+62) 
+Talk To
+63) 
+Kitchen Doors
+64) 
+Pantry Door
+65) 
+Alley Door
+66) 
+Window
+67) 
+Shelf
+68) 
+Canned Goods
+69) BECCA
+[pickup1] {NormalA}What did Roman want?
+70) BECCA
+[pickup1]{ThinkingB}Are you gonna find out?
+71) SHEL
+[pickup1] {ThinkingB}I don't know yet.
+72) ROMAN
+[pickup1] [getting ready to feed the zombies]{ThinkingA}He's hungry!  {HappyA}I guess he knows it's feeding time!
+73) 
+He's not an animal.
+74) SHEL
+[pickup1]{ThinkingA}He's not an animal, Roman.
+75) 
+I feel bad for it.
+76) SHEL
+[pickup1]{SadA}I feel bad for it.
+77) 
+It's disgusting.
+78) SHEL
+[pickup1]{ThinkingA}It's disgusting.
+79) ROMAN
+[pickup1]{NormalC}Well, it's not human either. {SadA}Not anymore.
+80) ROMAN
+{NormalB}Yeah, well... {ThinkingA}at least we found a way for 'em to be useful.
+81) ROMAN
+[pickup1]{DisgustA}Can't disagree with you there.
+82) ROMAN
+{NormalA}[pickup1][putting the feeding bucket on the ground]You know, {NormalB}your sister said she wouldn't mind doing this.
+83) SHEL
+[pickup1] {ThinkingA}I don't know. {ThinkingB}I'll check it out.
+84) ROMAN
+{NormalA}[pickup1]I gotta get back out front. [smiles]{HappyA}Looking forward to that soup!
+85) ROMAN
+{DisgustA}[pickup1]What's that one eatin'?
+86) ROMAN
+{ThinkingA}[pickup1]Okay. [She'll have to deal with it one day]
+87) SHEL
+[pickup1][talking to a zombie, wathing it eat] {ThinkingB}That's so gross.
+88) SHEL
+[pickup1][talking to a zombie] {ThinkingA}Try not to make a mess out here.
+89) SHEL
+[pickup1][to herself, remembering]{FearA}Oh, {ThinkingA}crap! I told Roman I'd see what she got a hold of!
+90) SHEL
+[pickup1]Yeah, in a sec.
+91) BECCA
+[pickup2][friendly]That's because they used to PAY people to clean it.
+92) SHEL
+[pickup2][look at - Old Diner Photos - To becca]{HappyA}{Body-A}The diner looked pretty nice back then.
+93) SHEL
+[pickup2][look at - stove]{NormalA}{Body-A}I still can't believe Clive got this thing working. {HappyC}So much nicer than having to eat raw food all the time.
+94) SHEL
+[pickup2][look at - lights]{ThinkingA}{Body-A}Next time we venture out for supplies I gotta remember to look for light bulbs, too.
+95) SHEL
+[pickup2][look at - Soda Tap]{DisgustA}{Body-A}This hasn't worked in a long time.
+96) SHEL
+[pickup2][look at - coffee pot]{HappyB}{Body-A}God, what I wouldn't give for a cup of coffee in the morning.
+97) SHEL
+[pickup2][look at - Fire Extinguisher]{NormalA}{Body-A}We should do an inspection on these... {ThinkingA}make sure they all work.
+98) SHEL
+[pickup2][look at - sink]{SadA}{Body-A}I'm glad we thought to bottle our water before it ran out.
+99) BECCA
+[pickup2][joking]Oh, yeah! Then we can spend all our money at NOWHERE!
+100) SHEL
+[pickup2][look at - Cash register][joking]{HappyC}{Body-A}Hey, Becca, think we should start charging for the inspections we make?
+101) SHEL
+[pickup2][look at - missing painting]{ThinkingA}{Body-A}Looks weird in here without the paintings.
+102) STEPHANIE
+[pickup2]Well, Boyd wanted something to paint his own pictures on. I guess it'll be a personal gallery in here when he's done.
+103) BECCA
+{NormalA}[pickup2][bluntly practical]Maybe if Clive dies next we can put him out there instead. {NormalB}He'd make a better watch dog than those old people {NormalA}anyway.
+104) BECCA
+[pickup2][asking about the zombie eating the puppy]{ThinkingB}Was it the old man or the old woman? They're both kinda gross.
+105) 
+Stove
+106) 
+Photo
+107) 
+Light
+108) 
+Soda Machine
+109) 
+Coffee Machine
+110) 
+Fire Extinguisher
+111) 
+Sink
+112) 
+Cash Register
+113) 
+Blood Stain
+114) 
+Empty Wall
+115) STEPHANIE
+[pickup2][quietly, while becca plays guitar in the background/proud, because she taught her]	Hey, Shel, your sister's getting pretty good, huh?
+116) SHEL
+[pickup2][quietly, smiling, while becca plays guitar in the background]{HappyC}{Body-A}Becca had a good teacher, Stef. Thank you for doing that. She needs something to focus on besides... {SadA}you know... everything else.
+117) STEPHANIE
+[pickup2][quietly while Becca is playing guitar][knwoing that becca is losing her innocence]Yeah. Growing up in a world like this... what do you think that does to a kid?
+118) 
+I don't know.
+119) 
+She's already changing.
+120) 
+I'm trying to protect her.
+121) SHEL
+[pickup2][quietly]{SadA}{Body-A}I don't know. I know it's changed me... well, all of us. {SadB}But at this age for her... I don't know.
+122) SHEL
+[pickup2][quietly]{SadA}{Body-A}She's already changing. She dismisses things she cares about {SadB}so easily. {DisgustA}I guess you kinda have to when you've already lost so much, but {SadA}I still worry.
+123) SHEL
+[pickup2][quietly]{SadA}{Body-A}I'm trying to protect her from it as much as possible. {FearA}Things are stable here for now. {NormalA}I want her to grow up with THIS, not what's outside these walls.
+124) STEPHANIE
+[pickup2][quietly]Becca's a good kid. These are shit times and she's gonna go through that. But if we can keep her from experiencing some of the shit I've seen....
+125) SHEL
+[pickup2][quietly]{HappyC}{Body-A}Thanks, Stephanie.
+126) ROMAN
+[pickup2][to the group, friendly]Okay, let's get to it!
+127) ROMAN
+[pickup2][smiling] All right, all right. [transition to talking to the group]In that case, let's get back to work!
+128) ROMAN
+[pickup2][afterthought]Oh, and thanks to Boyd's hard work on the vegetable garden, we're having fresh soup tonight!
+129) ROMAN
+[pickup2]That was amazing, Becca! We could all use a little more music in our lives! Did I ever tell you that I used to play in a band?
+130) STEPHANIE
+[pickup2][joking around]Yes, Roman, you've told us! She doesn't want to hear about it AGAIN!
+131) SHEL
+[pickup2]{HappyD}Becca, that was great!
+132) BECCA
+[pickup2]Thanks, Sis! You think we can do something like this every week?
+133) BECCA
+[pickup2][shyly, with a smile, after playing guitar for the group]Thanks.
+134) 
+We'd need to get approval.
+135) 
+As long as it doesn't distract us.
+136) 
+That sounds like a great idea!
+137) STEPHANIE
+[pickup2][friendly] [to becca]You wanna help me and Shel do the supply inspection?
+138) ROMAN
+[pickup2]Shel, when you get a sec, meet me out back. Help me feed the watchdogs.
+139) STEPHANIE
+[pickup2]Still, better not to think about it.
+140) STEPHANIE
+[pickup2]They were both shot, but not in the head. Maybe whoever shot 'em didn't know about that yet.
+141) STEPHANIE
+[pickup2]Also, not as many dead visitors back then.
+142) SHEL
+[pickup2][friendly]{HappyA}{Body-A}If Roman approves it, I don't see why not. {HappyC}Seems like fun!
+143) SHEL
+[pickup2]{HappyB}{Body-A}As long as it doesn't distract from keeping this place safe. {NormalA}That's always the priority.
+144) SHEL
+[pickup2]{HappyD}{Body-A}That sounds like a great idea! {HappyC}Maybe we can all get in on it... like some kind of weekly talent show.
+145) STEPHANIE
+[pickup2]Don't worry about imposing on me! I'd love to keep teaching her how to play!
+146) SHEL
+[pickup2]{DisgustB}{Body-A}Sure thing.
+147) SHEL
+[pickup2][to herself] {DisgustA}{Body-A}It's starting to thin out in here. {SadA}Thank god we have a garden now.
+148) 
+It's better than the alternative.
+149) 
+This is far from an easy life.
+150) 
+I know, but it can wait.
+151) ROMAN
+[pickup2]Listen, I know you think that giving her an easy life is what's best, but it's really not.
+152) SHEL
+[pickup2]{ThinkingA}{Body-A}It's better than the alternative. {DisgustA}I'd rather she have a shorter happy experience in this world than one full of fear and death and horror.
+153) SHEL
+[pickup2]{SadB}{Body-A}This is far from an easy life, Roman.
+154) SHEL
+[pickup2]{SadA}{Body-A}Roman, we've talked about this. {NormalA}Becca doesn't need to deal with this kind of thing.
+155) SHEL
+[pickup2]{DisgustA}{Body-A}As long as she knows how to protect herself, it's fine. {SadA}I don't want her to stop caring about people.
+156) ROMAN
+[pickup2]You know what I mean. She needs to know the sacrifices we have to make to survive in this world.
+157) SHEL
+[pickup2][knowing it's true] {SadA}{Body-A}I know, I just {SadB}want her to have a little more time to be a kid.
+158) ROMAN
+[pickup2]I just don't want to see her get hurt, Shel.
+159) STEPHANIE
+[pickup2][something is very wrong! Panic]Shel, Becca! Something's going on outside!
+160) BECCA
+[pickup2][frightened] What is it?
+161) STEPHANIE
+[pickup2] [panic]I don't know. Something bad. We gotta find Roman!
+162) SHEL
+[pickup2][casual]{HappyA}{Body-A}You guys need help?
+163) STEPHANIE
+[pickup2] [friendly]Nah, we got this... right, Becca? You go ahead and help Roman out back.
+164) SHEL
+[pickup2][looking at - guns]{ThinkingA}{Body-A}How are we doing on ammo?
+176) SHEL
+[pickup2][looking at - guns]{ThinkingA}{Body-A}How are we doing on ammo?
+165) STEPHANIE
+[pickup2]Better than we thought. We haven't had to use these for a while.
+177) STEPHANIE
+[pickup2]Better than we thought. We haven't had to use these for a while.
+166) BECCA
+[pickup2]Don't worry. They're on our list.
+167) SHEL
+[pickup2][looking at - knives]{DisgustA}{Body-A}Ergh... these knives are looking pretty ragged.
+168) STEPHANIE
+[pickup2]Nope. Still in the cornfield somewhere I guess.
+175) STEPHANIE
+[pickup2]Nope. Still in the cornfield somewhere I guess.
+169) SHEL
+[pickup2][looking at - flashlights] {ThinkingA}{Body-A}Hmm... still one short. {DisgustA}We never found the other flashlight?
+174) SHEL
+[pickup2][looking at - flashlights] {ThinkingA}{Body-A}Hmm... still one short. {DisgustA}We never found the other flashlight?
+170) 
+Flashlights
+171) 
+Guns
+172) 
+Knives
+173) BECCA
+[messing up a little while playing guitar]Wait...

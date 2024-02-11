@@ -1,0 +1,80 @@
+1) WYATT
+[panicked]{AngryB} Hurry up, Eddie!
+2) EDDIE
+[panicked]Shit! Dude, how'd they catch up to us?
+3) EDDIE
+[panicked, digging a gun out of his jacket] It's caught!
+4) EDDIE
+[panicked] Here, man! Shoot!
+5) WYATT
+[panicked, screaming]{FearE} Who gives a shit, just--
+6) EDDIE
+[panicked, scared] Dude, take this thing! [gun]
+7) EDDIE
+[panicked, scared] What the fuck are you doing?!?
+8) EDDIE
+[panicked, scared] Wyatt, take the damn gun, man!
+9) EDDIE
+[genuinely angry, panicked] {Body-Drive}{AngryC} Thanks a fucking lot!
+10) EDDIE
+[scared] {FearC} Holy shit, man, did you get 'em?
+11) EDDIE
+[screaming in fear and rage] {FearC} Ahhhhhhhhhh!
+12) WYATT
+[panicked]{Body-SitA} {FearA} I don't see anything!
+13) EDDIE
+[driving, terrified, rationalizing]{Body-Drive} Jesus, man, Jesus....
+14) EDDIE
+[driving, terrified, rationalizing] God this is so fucked up. I didn't mean for this to get this fucking fucked up. Fuck!
+15) EDDIE
+[driving through fog] I can't see a damn thing out here!
+16) WYATT
+[panicked] {FearE} Maybe they crashed?!?
+17) WYATT
+[panicked, annoyed] {FearE} Fuck if I know!
+18) EDDIE
+[panicked] {Body-Drive}{FearB}Are they back there?
+19) EDDIE
+[panicked] {FearC} Wyatt?
+20) EDDIE
+[panicked] {FearB} Dude, are they there or not? {AngryA} Come on!
+21) EDDIE
+[worried]{FearB} Are you sure? Those guys wouldn't just give up!
+22) EDDIE
+[panicked]{FearC}I didn't hear a crash. {ThinkingA}Did you hear a crash?
+23) WYATT
+{ThinkingA}No, no I... I didn't.
+24) WYATT
+[stern, panicked] {AngryA} I said I don't see anything, Eddie!
+25) EDDIE
+{FearB} What's that supposed to mean?
+26) WYATT
+{ThinkingA}It means they could be back there, but I don't know {AngryA}if they ARE back there. Okay?!?
+27) EDDIE
+[panicked, scared]{FearB}  Wyatt, Jesus, man, tell me something!
+28) EDDIE
+[frustrated, punching a steering wheel]{AngryD}Damn it. {AngryA}Shit!
+29) EDDIE
+[freaking out]{Body-Drive}God, this is so fucked!
+30) EDDIE
+[freaking, angry] I didn't MEAN to do it! It just HAPPENED, okay? Where the fuck were you with a warning?
+31) EDDIE
+[driving, terrified, rationalizing] We're gonna hit a car or a tractor or something in this shit!
+32) 
+Pistol
+33) 
+Truck
+34) EDDIE
+[panicked, scared]{FearC}Get 'em, man!
+35) EDDIE
+[panicked][alt]{FearC}Wyatt, say something, {AngryB}you fat asshole!
+36) WYATT
+[stern, panicked] [alt] I said I don't see anything!
+37) WYATT
+[pickup2][freaking, angry]{FearE}ME? You're putting that on ME now? {AngryA}I didn't see the guy, either! I was too worried those dudes were going to pull guns on us or--
+38) EDDIE
+[panicked] {AngryB} Wyatt, {FearB} talk words at me, man!
+39) EDDIE
+[panicked] {SurpriseA} Here, here, {FearB}{Body-Drive} I'll turn off! [the road]
+40) WYATT
+[pickup2] [panicked] Why the hell did you shoot that guy, man? What the hell WAS that?

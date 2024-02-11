@@ -1,0 +1,559 @@
+1) MARK
+[pickup2] Lee, are you nuts?!!  Quick fucking around, try something else!!
+2) BEN
+{surprisedA} Bitten? No! I swear!
+3) KENNY
+{disgustA} How the hell did he lose this much blood? {fearB} Was he bitten?
+4) KENNY
+[pickup2]{fearA} All that blood and screaming... {fearB} We're gonna be surrounded any minute.
+5) BEN
+[freaking out] {fearB} Oh man, oh man....
+6) BEN
+[freaking out] {fearB} This can't be happening!
+7) BEN
+[freaking out] {fearB} Come on, DO something!
+8) BEN
+[freaking out] {fearB} Why would somebody do this?!
+9) BEN
+[freaking out] {fearB} Oh, God, he can't die.
+10) BEN
+[nervous] {sadC} O...okay.
+11) LEE
+{sadA} Calm down, kid. We'll get him out of this.
+12) BEN
+{sadC} Ah, crap. Okay.
+13) LEE
+[stern] {angryA} Kid, we need you to keep an eye on those zombies.
+14) LEE
+{angryC} Shut up!
+15) BEN
+{fearD} Screw you, man! Just help him!
+16) DAVID
+[extreme pain] AAAAAARRRRGGGHHH!
+17) DAVID
+[in horror]Oh, God.
+18) DAVID
+[extreme pain] FUUUUARRGGGGHHH!!!
+19) KENNY
+{fearC} One more hit, Lee.
+20) DAVID
+[in pain!] Get it off!!  Get it off, God Dammit, get it off me!!
+97) DAVID
+[in pain!] Get it off!!  Get it off, God Dammit, get it off me!!
+21) DAVID
+[in pain]Hurry... please hurry...
+22) DAVID
+[grunting in pain1]Arrrrgg...
+25) DAVID
+[grunting in pain3]Arrrrgg...
+23) DAVID
+[in pain5]Ggnnnnrrrnnn!!
+24) DAVID
+[in pain]You can't leave me like this.  Please get me out!
+26) LEE
+[pickup2][examining Davids leg in the beartrap] {disgustB} Damnit, this is bad.  Really bad.
+27) DAVID
+[Having is leg severed with an axe] Oh, God! Oh, God!!
+28) DAVID
+[Having is leg severed with an axe] Please!!!  Just DO IT!!
+29) DAVID
+[Having is leg severed with an axe] Nnnrrrghhhghhh!!!!
+30) DAVID
+[Having is leg severed with an axe: (Please get it over with)] Lee!  Please!!!
+268) DAVID
+[Having is leg severed with an axe: (Please get it over with)] Lee!  Please!!!
+31) DAVID
+[Having is leg severed with an axe] [crying in pain]
+269) DAVID
+[Having is leg severed with an axe] [crying in pain]
+32) DAVID
+[Having is leg severed with an axe] God!  My leg...
+33) DAVID
+[Having is leg severed with an axe] Rrrrrrrnnngghh!!!
+34) DAVID
+[Having is leg severed with an axe] This isn't happening...
+35) MARK
+[Examining the leg in the bear trap] {fearB} Jesus Christ...
+96) MARK
+[Examining the leg in the bear trap] {fearB} Jesus Christ...
+36) DAVID
+[Having is leg severed with an axe][Impact hit - More Cry-y]
+37) DAVID
+[Having is leg severed with an axe]No more!  Please!!! ...No more!  Please!!!
+38) DAVID
+[Having is leg severed with an axe]STOP!  PLEASE STOP!!
+39) DAVID
+[Having is leg severed with an axe] No!  Stop!!  I can't take it!!
+40) DAVID
+[Having is leg severed with an axe][Impact hit!]
+41) 
+Chain
+42) 
+Chop
+229) 
+Chop
+230) 
+Chop
+250) 
+Chop
+43) 
+Leg
+44) 
+Trap
+45) 
+Tree
+46) 
+Use
+232) 
+Use
+47) MARK
+[pickup2] [disapointed that the zombies got to their food] {painA} Dammit.  {thinkingA} What'd they get this time?
+48) MARK
+[pickup2] [disapointed that the zombies got to their food(a rabbit)] {sadA} Well, that's another meal lost.
+49) LEE
+[pickup2] [hunting with Mark in the woods, Wondering what a zombie was eating] {thinkingB} Looks like a rabbit.
+50) LEE
+[pickup2] [hunting with Mark in the woods, after losing a rabbit] {disgustA} A rabbit's hardly a meal, Mark,  but... I'd take it. We're all hungry.
+51) MARK
+[pickup2][Responding to "We need something that will feed all of us"] {thinkingA} No kidding.
+52) MARK
+[pickup2] [cont] {disgustA} Last night I heard your friend Doug laying in bed just naming types of pie. It was driving me nuts. I think he's starting to lose it.
+53) LEE
+[pickup2] {thinkingA} He's not the only one. Won't you cut him some slack.
+54) LEE
+[pickup2] {thinkingA} We're all on edge. Just cut her some slack.
+55) MARK
+[pickup2] {disgustA} When I accidentally grabbed for Carley's rations the other night, I thought she was gonna take off my hand!
+56) MARK
+[pickup2][agreeing that the lack of food is making everyone on egde] {normalB} Yeah, you're right.  [frustrated] {disgustB} I wish I knew for sure how much food we have left.
+57) LEE
+[pickup2] {disgustA}{body-crouchAxe} You'll have to ask Lilly.  She's the one handling the rations.
+58) LEE
+[pickup2] {sadA}{body-crouchAxe} Not enough.  According to Lilly we've just about hit the last of our food reserves. {thinkingA} Some people might have to go without tonight.
+59) LEE
+[pickup2] {thinkingA}{body-crouchAxe} We'll manage.
+60) 
+We'll manage.
+61) 
+Not enough.
+62) MARK
+[pickup2] {disgustA}{body-crouchRifle} Or mishandling it, if you ask Kenny.
+63) LEE
+[pickup2] {sadA} He's just worried about his kid getting enough. I worry about Clementine, too.
+64) LEE
+[pickup2] {disgustB} She thinks everyone should have an equal chance of missing a meal.
+65) MARK
+[pickup2] {disgustB}{body-crouchRifle} You mean "Lilly's Lottery" again. {disgustA} Kenny's gonna be pissed.
+66) 
+You'll have to ask Lilly.
+67) MARK
+[pickup2] {disgustA}{body-crouchRifle} Maybe. You know some people aren't too happy about the way Lilly is handling rations.
+68) LEE
+[pickup2] {thinkingB} Lilly knows it's important to keep the adults fed and functioning. {disgustA} Sometimes that means someone's gotta miss a meal.
+69) MARK
+[pickup2][responding to lee's silence when asked "How much food is left?"] {disgustA}{body-crouchRifle} ...That much, huh? {sadA} Does Kenny know?
+70) LEE
+[pickup2] {disgustA}{body-crouchAxe} I don't know.[-if Kenny knows that we have no food left]
+71) MARK
+[pickup2] {angryA} Yeah, between the lack of food and Kenny & Lilly fighting all the time, {sadA} things are getting pretty tense back at the Motor Inn.
+72) MARK
+[pickup2] {thinkingA} You know Kenny's been talking about taking off if he can get that RV running.
+73) LEE
+[pickup2] {normalD}{body-crouchAxe} I sure hope so. [hoping kenny is having better luck hunting for food]
+74) MARK
+[pickup2] {normalA}{body-crouchRifle} You think Kenny's having any more luck than we are out here?
+75) MARK
+[pickup2] {sadA}{body-crouchRifle} Can't blame him, though - {disgustA} did you hear Larry going off on him last night? {thinkingB} What's the old guy's deal, anyway? {normalB} Seems like he's got a problem with you in particular.
+76) 
+He thinks I'm dangerous.
+77) 
+He's an old racist asshole.
+78) 
+He's just looking out for his daughter.
+79) 
+I have no idea.
+80) LEE
+[pickup2][Responding to "What's Larry's deal"?] {disgustA}{body-crouchAxe} He thinks I'm a danger to the group {thinkingB} and Clementine.
+81) MARK
+[pickup2] {thinkingB}{body-crouchRifle} I think he's the one putting us in danger. {angryA} The way Lilly worries about his health, I wouldn't be surprised if she's been skimming rations for him.
+82) LEE
+[pickup2][Responding to "What's Larry's deal"?] {angryA}{body-crouchAxe} He's just an old racist asshole, that's his deal.
+83) MARK
+[pickup2] {angryA}{body-crouchRifle} Well, he needs to get over that and start finding a way to pull his weight. {thinkingA} Heart problems or not, we should all be out here trying to find food.
+84) MARK
+[pickup2] {thinkingA}{body-crouchRifle} Hey, I know Lilly. {angryA} She can take care of herself. {thinkingA} He needs to take that energy and put it towards finding us some more food.
+85) LEE
+[pickup2][Responding to "What's Larry's deal?" with some reluctance & pride swallowing] {thinkingA}{body-crouchAxe} Larry's just{normalD} looking out for his daughter.
+86) LEE
+[pickup2][Responding to "What's Larry's deal"? - Just totally tired of dealing with Larry] {angryA}{body-crouchAxe} Who knows what Larry's problem is.
+87) MARK
+[pickup2] {thinkingA}{body-crouchRifle} Maybe that's just the way he is, {angryA}but that guy needs to chill out.
+88) LEE
+[pickup2][still weary from hunger] {normalC}{body-crouchAxe} Maybe you shouldn't have opened the door.
+89) MARK
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {thinkingB}{body-crouchRifle} Trust me.  If I don't think I can hit it, I won't shoot.
+90) MARK
+[pickup2][still weary from hunger]  {sadA}{body-crouchRifle} I still can't believe we went through all that commissary food in 3 months! {painA} It seemed like so much at the time.
+91) MARK
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+271) MARK
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+273) MARK
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+275) MARK
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+277) MARK
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+279) MARK
+[pickup2][URGENT, having heard a scream in the woods!] {fearB} Shit!  Was that Kenny?!
+92) MARK
+[pickup2] {thinkingB} Yeah, except then I'd probably BE food by now. {disgustA} Trust me, I have no regrets!
+93) LEE
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {disgustA}{body-crouchAxe} It's a long shot.  I'd hate to waste the bullets.
+94) DAVID
+[pickup2][process; far in the distance - Open woods][NOTE:We probably dont need to record this, we have plenty of screaming lines to choose from] Aaaaahhhhhhhhh!!!!
+165) DAVID
+[pickup2][process; far in the distance - Open woods][NOTE:We probably dont need to record this, we have plenty of screaming lines to choose from] Aaaaahhhhhhhhh!!!!
+166) DAVID
+[pickup2][process; far in the distance - Open woods][NOTE:We probably dont need to record this, we have plenty of screaming lines to choose from] Aaaaahhhhhhhhh!!!!
+169) DAVID
+[pickup2][process; far in the distance - Open woods][NOTE:We probably dont need to record this, we have plenty of screaming lines to choose from] Aaaaahhhhhhhhh!!!!
+170) DAVID
+[pickup2][process; far in the distance - Open woods][NOTE:We probably dont need to record this, we have plenty of screaming lines to choose from] Aaaaahhhhhhhhh!!!!
+95) LEE
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+270) LEE
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+272) LEE
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+274) LEE
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+276) LEE
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+278) LEE
+[pickup2][URGENT, having heard a scream in the woods!] {surpriseA} I don't know!  Come on!
+98) TRAVIS
+[pickup2][nervous!!  When strangers show up suddenly with gun, Travis panics] {fearC} Oh shit!!  No.  No... Please don't kill us! {fearD} We just want to help our teacher!!  We'll leave, I swear!
+99) TRAVIS
+[pickup2][Wanting Ben to stop asking for help from strangers!] {surprisedA} These might be the same guys that raided our camp and... {fearB} We barely got away from that!
+100) BEN
+[pickup2][panicing- his teacher is caught in a bear trap!] {fearD} Travis, maybe they can help!
+101) MARK
+[pickup2][trying to help his teacher][in the background] {disgustA} What guys?
+102) KENNY
+[pickup2] {disgustA} Why the fuck is there a bear trap out HERE?!
+103) LEE
+[pickup2][trying to quickly convince Travis they they arent murderers] {fearB} It's okay.  We're not gonna hurt you.
+104) TRAVIS
+[pickup2][still thinking he's got things covered- caling out] {thinkingB} Ben, shut up! {fearB} My dad was Special Forces, I know what I'm doing!
+105) BEN
+[pickup2][desperate for help] {fearD} PLEASE!
+106) BEN
+[pickup2][still desperate for help - Pleading to Lee, (Starting at a quieter projection)] {fearC} Just see if you can get him out! {surprisedA} After that you can leave us or whatever, {fearD} I don't care! Please!
+107) LEE
+[pickup2][Swinging the axe, trying to cut a cable]Arrgh!!
+108) MARK
+[pickup2][inspecting the extremely thick cable that attaches the bear trap to a tree URGENT] {fearA} Forget it! We use chain like that at the Air Force base to lift ordinance. {disgustA} You're NOT cutting through that!
+109) KENNY
+[pickup2][FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]We have to!  We're outta time! Come on!
+110) KENNY
+[pickup2]  [FRANTIC - trying to abandon a man in a bear trap WHILE zombies are comming!! - ]We don't have TIME for that! I'm sorry, but we have to go NOW!
+111) MARK
+[pickup2][FRANTIC - Still trying to free a man in a bear trap WHILE zombies are comming!!]We can't leave him now!  Not with those things coming!
+112) KENNY
+[pickup2] [calling out to Lee as lee tries to free the man from the bear trap] {fearC} Shit! Walkers! {angryA} It's now or never, Lee.
+113) TRAVIS
+[pickup2][quiet horror as he sees zombies start approaching from the trees] {fearD} ...Oh, no.
+114) MARK
+[pickup2][FRANTIC - trying to SAVE a man in a bear trap WHILE zombies are comming!! ]Lee, It has to be NOW!
+115) BEN
+[pickup2][FRANTIC - trying to SAVE a man in a bear trap WHILE zombies are comming!! - ] {fearB} Oh, God!  Please save him!!
+116) KENNY
+[pickup2][FRANTIC - trying to get lee to hurry up freeing man in a bear trap WHILE zombies are comming!! - ]Let's go, let's go!!
+117) LEE
+[pickup2][barking orders as he prepares to cut off the leg] {fearC} Mark, get the boys back!
+118) LEE
+[pickup2][barking orders as he prepares to cut off the leg] {angryA} Kenny, keep those walkers off of me!
+119) KENNY
+[pickup2][with zombies quickly approaching, Kenny tries to Snap Lee out of his indecision and get him to realize there is nothing they can do] {fearC} Come on!  We gotta go! {surprisedA} Now!
+120) DAVID
+[pickup2][in extreme pain, realizing they are leaving him behind]No, no don't leave me!!
+121) MARK
+[pickup2][realizing that Lee's inaction means they no longer have any time to save David, now that zombies have arrived] {angryC} Damnit Lee!!
+122) LEE
+[pickup2][turns to David as they start to flee] {sadC} I'm sorry!
+123) TRAVIS
+[pickup2][~frantic struggling!!~ During a shootout with zombies, Travis tries to take Mark's gun!]  Give it to me!
+124) KENNY
+[pickup2][durring a shootout with zombies, Travis is accidentally shot!!] {disgustA} Shit! {fearC} What happened?!
+125) MARK
+[pickup2][Durring a shootout with zombies, Travis tries to take Lee's gun!] {surpriseB} Get off!!
+126) TRAVIS
+[pickup2][in the middle of a frantic shootout, Travis freaks out!] {fearC} No!   We can't leave Mr. Parker like that!
+127) TRAVIS
+[pickup2][~frantic!!~ During a shootout with zombies, Travis tries to take Mark's gun!] {angryA} Give me the gun!
+128) TRAVIS
+[pickup2][realizing that he's been shot in the stomach] {fearD} ...Oh, God.
+129) LEE
+[pickup2][Durring the shootout with the zombies, Mark accidentally shot Travis!  ((They are STILL fleeing the zombies))] {fearC} It was an accident!
+130) BEN
+[pickup2][frantic!  Watching his friend Travis try to take a gun away from Mark] {fearC} Travis?!!
+131) MARK
+[pickup2][Durring a shootout with zombies, Travis tries to takeMark's gun! ~~STRUGGLING~~] {angryC} God dammit, let go!
+132) LEE
+[pickup2][Durring the shootout with the zombies, Mark accidentally shot Travis!  ((They are STILL fleeing the zombies))] {fearC} I don't know!
+133) LEE
+[pickup2][Durring the shootout with the zombies, he accidentally shots Travis!  ((They are STILL fleeing the zombies))] {fearC} He went for the gun!
+134) KENNY
+[pickup2][While fleeing zombies and shooting  them, Travis gets shot by Mark by accident  ~Frantic~] {surprisedA} Grab the kid and keep moving!
+135) 
+It was an accident!
+136) 
+I don't know!
+137) 
+He went for the gun!
+138) BEN
+[pickup2][overcome with the horror of leaving his teacher and his friend just getting shot!] {sadD} Oh, God!!
+139) MARK
+[pickup2][frantically trying to get Ben and his injured friend to run away from the oncoming zombies!] {fearC} Come on!  Move!!
+140) TRAVIS
+[pickup2][Totally losing it, after seeing his teacher's unconcious body  and it's hacked off leg!] {fearB} Oh, God!  [starting to get sick over the sight of so much blood] Grrk... Grrk...
+141) KENNY
+[pickup2][Frantic- knowing they have run out of time and have to go!] {surprisedA} If he's alive, grab him and let's go!!
+142) BEN
+[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!]TRAVIS!!
+143) LEE
+[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {fearC} KID, STOP!!
+144) TRAVIS
+[pickup2][Totally losing it and getting SICK, after seeing his teacher's unconcious body  and it's hacked off leg!] {fearB} Oh, God... No...
+145) BEN
+[pickup2] [seeing his friend attacked by a zombie!!] {fearD} NOOOO!!!!
+146) MARK
+[pickup2][coming over to see David's unconcious body after Lee has chopped his leg off] {fearA} Shit.  Is he...?
+147) LEE
+[pickup2][confiring that David is NOT dead after the leg chop - A bit out of breath] {sadB} He passed out.
+148) LEE
+[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {surpriseB} DON'T MOVE!!
+149) LEE
+[pickup2] [seeing Travis backing up in terror, but about to run into a zombie!!] {fearC} BEHIND YOU!!
+150) LEE
+[pickup2][rushed!! trying to get Ben to flee the oncoming zombies!] {fearB} Come on, come on!  We gotta move!!
+151) 
+We're not gonna hurt you.
+152) 
+Who raided your camp?
+153) 
+What happened?!
+154) 
+Kenny won't abandon us.
+155) MARK
+[pickup2][wondering if Kenny will leave the group or not] {thinkingA}{body-crouchRifle} I guess we'll see.
+156) 
+He's got a family to look out for.
+157) MARK
+[pickup2] {thinkingB}{body-crouchRifle} And they're safest in a big group. {sadA} Going out on his own will get them ALL killed.
+158) 
+He's better off without us.
+159) MARK
+[pickup2][If Kenny leaves, that means-] {sadA}{body-crouchRifle} And one fewer gun hand. {thinkingA} One way or the other it's a bad situation.
+160) MARK
+[pickup2][after saying "You know Kenny's been talking about taking off if he can get that RV running." ] {thinkingA}{body-crouchRifle} I think we're stronger as a group. {sadA} I just don't know what'll happen if we start to break apart.
+161) LEE
+[pickup2]["You know Kenny's been talking about taking off if he can get that RV running."] {normalD}{body-crouchAxe} Kenny won't abandon us. {normalD} He's a good man.
+162) LEE
+[pickup2]["You know Kenny's been talking about taking off if he can get that RV running." ] {sadA}{body-crouchAxe} He's got a wife and son to look out for.
+163) LEE
+[pickup2]["You know Kenny's been talking about taking off if he can get that RV running.
+" ] {thinkingA}{body-crouchAxe} Maybe he'll be better off without us. {disgustA} And we'll have three fewer mouths to feed.
+164) LEE
+[pickup2][still weary from hunger - Mark is aiming hie rifle at a bird in a tree] {thinkingA}{body-crouchAxe} Take the shot! {disgustA} We need anything we can get at this point.
+167) MARK
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {painA}{body-crouchRifle} Yeah, I know... I'm just..  really frickin' hungry.
+168) LEE
+[pickup2][still weary from hunger - Mark is aiming his rifle at a bird in a tree] {angryA}{body-crouchAxe} Don't. Gunshot'll bring walkers. {thinkingA} One bird's not worth it.
+171) LEE
+[pickup2][ Lee is reminded that Larry punched him in the face and isnt too apreciative of that] {thinkingA}{body-crouchAxe} Knocked me flat.
+172) MARK
+[pickup2][Alt - ][talking about how menacing Larry is.] {thinkingA} I know I wouldn't want to be stuck in a room with him!
+173) MARK
+[pickup2][talking about how menacing Larry is. ] {thinkingB}{body-crouchRifle} And I know Lilly thinks he's getting weaker, {disgustA} but the guy's all muscle!
+174) KENNY
+[pickup2][a bit out of breath from running to the scene in panic]Lee! You guys okay?
+175) BEN
+[pickup2][scared & confused... trust the strangers or risk getting slaughtered!] {fearD} I don't know, man...
+176) LEE
+[pickup2][having just heard that theye may be other survivors nearby... violent ones] {fearB} Who raided your camp?!
+177) LEE
+[pickup2][just coming on the scene seeing a man trapped in a bear trap!] {fearC} What the hell happened?
+178) KENNY
+[pickup2][forceful! trying to calm down the scared teen and the guy screaming in the beartrap] {angryA} Kid, chill out! {fearB} We'll try to help you, {disgustA} but you've got to shut the fuck up!
+179) TRAVIS
+[pickup2][Scared!] {thinkingA} Don't listen to them, Ben! {fearC} Please, just let us go!  We're not a threat to you!!
+180) TRAVIS
+[pickup2] {fearC} Please!  We won't bother you, I swear!
+181) BEN
+[pickup2][scared- "Who raided your camp?" ] {fearC} I- I don't know! {fearD} Guys with guns!!
+182) BEN
+[pickup2][scared, explaining why they are in the woods and what happened] {fearC} Mr. Parker said we should stay off the streets! {surprisedA} We were trying to be careful but-
+183) DAVID
+[pickup2][In extreme pain - through the teeth] Rrrrrrrgghhh!!
+184) MARK
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, this trap's been altered.  It needs some kind of custom tool to open it.
+185) MARK
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, this trap's been altered.  It can't be opened until after it's completely shut.
+186) MARK
+[pickup2][seeing the desperate situation of two clueless kids and a man caught in a bear trap] {disgustB} Lee, this is fucked up.  We've gotta help 'em.
+187) MARK
+[pickup2][urgent!  Inspecting the beartrap] {fearA} Lee, this trap's been altered.  There's no release latch.
+188) LEE
+[pickup2][on the spot, deciding what to do about the man in the bear trap] {fearB} This isn't our problem.  We should go.
+189) LEE
+[pickup2][on the spot, deciding what to do about the man in the bear trap] {fearB} We've gotta get him out of there.
+190) BEN
+[pickup2][panicing] {disgustA} Bitten? {fearB} No! I swear!
+191) LEE
+[pickup2] [trying to get as much information as possible before making a decision about the man in the bear trap] {fearA} Was he bitten?
+192) BEN
+[pickup2][panicing as Lee tries to leave them] {fearD} No, no please!  At least just LOOK at the trap! {sadD} Just look at it and maybe you can TELL us how to get it off!
+193) DAVID
+[pickup2][in PAIN, Lee & Crew have agreed to help and are starting to kneel down.] Please, help me!
+194) DAVID
+[pickup2][in lots of pain] Oh God, thank you!
+195) KENNY
+[pickup2][after Lee decided they should help the guy in the bear trap] {disgustA} Fine, {fearB} but you've gotta hurry!
+196) MARK
+[pickup2][Mark responds to Lee's inability to make a quick decision in an Urgent situation] {fearB} Lee, come on... what is there to think about? {angryA} We gotta try!
+197) MARK
+[pickup2][directing the boys away from the David so Lee can try to free him] {disgustB} Come on.. .over here.
+198) DAVID
+[pickup2][Screaming in pain as Lee tries to remove the trap] AARRGGGGGGGHHH!!!!!  STOP!  STOP!! STOP!!!
+199) DAVID
+[pickup2][Screaming in pain as Lee tries to remove the trap] Aaahhhggg!!!   No no no!!!  Stop!
+200) LEE
+[pickup2][frustrated that the trap wont open] {fearB} Fuck!
+201) MARK
+[pickup2][making a last effort call to save the man in the bear trap] Dammit, Lee!  Just cut off his fucking leg!!
+202) TRAVIS
+[pickup2][panicing at the thought of leaving their teacher to the zombies]We can't leave him!  We can't!
+203) KENNY
+[pickup2][getting frustrated with Lee not acting quickly enough] Fuck, I'm just wasting ammo now! We gotta go!
+204) KENNY
+[pickup2] Lee, I can't keep 'em back forever!
+205) MARK
+[pickup2][urging Lee to hurry up and do anything!] Lee, do SOMETHING!
+206) TRAVIS
+[pickup2][panicing!!]Try to cut the chain!
+207) TRAVIS
+[pickup2][seeing the zombies approach] Oh, God!  There's so many of them!
+208) DAVID
+[pickup2][in extreme pain - talking to lee who is right over him]Just get me out!  Please!!
+209) LEE
+[pickup2][deciding to chop off the leg] {fearB} I'm gonna have to cut you out!!
+210) DAVID
+[pickup2][horrified at the thought of getting his leg cut off!!] {painC} No no no!!! Try the trap again!!  Anything, please!!
+211) DAVID
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Please... get me out of this!!
+212) DAVID
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Hurry!!  Aaarrgghhh!!
+213) DAVID
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Come on!!  Try something!
+214) DAVID
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} There's gotta be another way...
+215) DAVID
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} I want my leg, I want my leg!!
+216) DAVID
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Jesus, I need to walk!!!
+217) DAVID
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Please please please...
+218) DAVID
+[pickup2][horrified at the thought of getting his leg cut off!!] {painA} Come on, get it off!!!
+219) LEE
+[pickup2][deciding to chop off the leg] {sadC} I'm sorry, there's no other choice!
+220) MARK
+[pickup2][talking about how menacing Larry is.] {thinkingB} And didn't he punch you in the face one time?
+221) MARK
+[pickup2][talking about how menacing Larry is.] {disgustA} He's a walking piledriver!
+222) 
+Don't risk the noise.
+223) 
+Can you make that shot?
+224) 
+Shoot it!
+225) 
+Was he bitten?
+226) 
+We'll try!
+227) 
+Not our problem.
+228) 
+Look At
+231) 
+Look At
+237) 
+Look At
+233) DAVID
+[pickup2] OH FUCK OH GOD HURRY!
+234) LEE
+[pickup2][super duper urgent] {thinkingB} Maybe we can smash it!
+235) LEE
+[pickup2][exertion] {fearB} RAH!
+236) DAVID
+[pickup2] AHHHH!!!
+238) DAVID
+[pickup2] WE DON'T KNOW!! AHHH! GODDD!
+239) LEE
+[pickup2] {fearB} How the fuck do you get these things open?!
+240) BEN
+[pickup2] {fearC} It's impossible! It locks or something! HURRY!
+241) LEE
+[pickup2] [panicked] {fearB} It's not gonna open!
+242) LEE
+[pickup2] [pickup2] {fearB} Maybe I can pry it open with this branch.
+243) LEE
+[pickup2] {disgustB} God dammit!!
+244) MARK
+[pickup2] {fearA} This one doesn't have a release!
+245) MARK
+[pickup2] [urgent. a big wtf moment] {fearA} Lee, this trap's been altered. These should be easy to open.
+246) DAVID
+[pickup2 ][Weak screams to passing out]AARRGGgguuuhhh.....[passes out]
+247) DAVID
+[extreme pain -= Getting Leg Chopped off] ARRGGGGHHH!!!
+248) 
+Stick
+249) 
+Rock
+251) TRAVIS
+[pickup3][puking]
+252) BEN
+[pickup3][ambient panicking]Please hurry!
+253) BEN
+[pickup3][ambient panicking]You have to get him out...you HAVE to!!
+254) BEN
+[pickup3][ambient panicking]Oh God, oh God, oh God...
+255) BEN
+[pickup3][ambient panicking]So much blood...
+256) BEN
+[pickup3][ambient panicking]Do you think you can get it open?
+257) BEN
+[pickup3][ambient panicking]Why is this happening to us?
+258) BEN
+[pickup3][ambient panicking]There's got to be something we can do!
+259) BEN
+[pickup3][ambient panicking]Oh, Jesus, those things are going to be here soon!
+260) BEN
+[pickup3][ambient panicking]Is he... is he gonna make it?
+261) BEN
+[pickup3][ambient panicking]This is bad, this is so bad.
+262) BEN
+[pickup3][ambient panicking]There has to be a way out of this...
+263) BEN
+[pickup3][ambient panicking]Oh please! we can't just leave him like this!
+264) BEN
+[pickup3][ambient panicking]He's lost so much blood already...please hurry up!
+265) TRAVIS
+[pickup3][first getting attacked by a zombie]AHH!!!!
+266) TRAVIS
+[pickup3][being eaten by a zombie1]HEELLP---AHHHH--ahhhgggrkkk!!
+267) TRAVIS
+[pickup3][being eaten by a zombie - Dying off]arrrrggghghhh...

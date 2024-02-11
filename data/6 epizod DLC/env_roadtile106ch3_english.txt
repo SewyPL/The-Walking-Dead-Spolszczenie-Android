@@ -1,0 +1,452 @@
+1) RUSSELL
+[worried] [mumbling to himself]{thinkinga}I got like sixty miles left... I think. Ain't shit.
+2) RUSSELL
+[urging himself on, trying not to be afraid] [mumbling to himself]{normala}I just gotta get there.
+3) RUSSELL
+{feara}I wasn't--
+4) NATE
+{thinkinga} Look, I don't care what you do to whatever corpse you find.
+5) RUSSELL
+{angrya} I won't--
+6) NATE
+{happya}Okay, so you have some balls on you just standing there like that. You'll get killed eventually; ain't none of my business.
+7) NATE
+{normalb} What's your name?
+8) 
+Russell.
+11) RUSSELL
+{normalb} Russell.
+9) 
+Asswipe.
+13) RUSSELL
+[indignant] {angrya}Asswipe.
+10) 
+Don't matter.
+16) RUSSELL
+{normalb}Don't matter.
+12) NATE
+So you didn't steal that bag.
+14) NATE
+[a little pissed] {angrya}I was gonna say you look like an Asswipe. Asswipe ain't got any manners. {thinkinga}Mom of Asswipe didn't teach him any manners. {normalb}But maybe she named you Russell and you didn't lose them manners 'til later in life.
+15) NATE
+{thinkinga}Unless you stole that bag.
+17) NATE
+{thinkinga}What, you don't like the name Russell?
+18) NATE
+{angrya}Or maybe that's just the name of the guy you or your homies robbed, huh?
+19) NATE
+{normala} Look, Russell, I just asked you your name, not who the King of fucking Norway was.
+20) NATE
+{thinkinga}But I might be being presumptuous. Maybe Russell is the name of the guy you took that bag from.
+21) NATE
+{thinkinga}I don't care who you steal from, if you did. Maybe you're in a gang that likes to rob people. I dunno.
+22) NATE
+{happya}Are you in a crew? You got some boys wearin' hoodies I gotta worry about?
+23) NATE
+{angrya}Because you steal from me and I'll get your throat out, I don't care who you run around with, you understand?
+24) 
+It's mine. I didn't steal it.
+44) RUSSELL
+{normala}It's mine, I didn't steal it.
+25) 
+I'm not in a gang.
+26) 
+Leave me alone.
+27) RUSSELL
+{angrya}Leave me alone.
+28) NATE
+{happya} ASSWIPE. AAAAAASSSSSSSSSSWIPE. Come on, man.
+29) NATE
+{happya}RUSSELL. RUSSSSELL. Come on, man.
+30) NATE
+{normalb}Just get in the car. You're gonna get eaten out here otherwise and I'm bored.
+31) NATE
+[quick] {normala}Come on.
+32) NATE
+[quick] {happya}Scoot.
+33) NATE
+[quick] {thinkinga}*tsk* Ain't gonna wait forever.
+34) NATE
+[quick] {angrya}Fine. FUCK. SEE IF I GIVE A SHIT.
+35) RUSSELL
+[adjusting a pack on his shoulder. it digs in. hurts.][mumbling to himself] {normalb}Hmmph.
+36) RUSSELL
+[uncomfortable][mumbling to himself] {normala}Shouldn't'a maybe taken so many cans.
+37) RUSSELL
+{normala}It's getting late.
+38) RUSSELL
+[worried] {normala}Gotta find some place safe for when it gets dark.
+39) RUSSELL
+[to himself] {feara}I should 'prolly hurry.
+40) RUSSELL
+[to himself] {feara} Shit shit shit....
+41) 
+Okay. Yeah. I'd like a ride.
+42) 
+Nah, I'm good.
+43) 
+Will you take me to Statesboro?
+95) RUSSELL
+{feara}Will you take me to Statesboro?
+45) NATE
+{normala}All right, good. {angrya}I don't like thieves.
+46) NATE
+{normala}Hey now, I ain't no racist. I just call 'em like I see 'em.
+47) RUSSELL
+{angrya}I'm not in a gang. {disgusta}That's fucking racist, man.
+48) RUSSELL
+[grossed out by the smell of a rotting body]{disgusta} Ugh, yuck. Fucking gross, man...
+49) 
+[Stand your ground.]
+50) 
+[Hide.]
+188) RUSSELL
+[just escaped with your life]{surpriseb}
+212) 
+[Scream for help.]
+51) 
+I see anything weird, I'm runnin'.
+52) 
+Maybe I can get a ride.
+53) 
+This is stupid.
+54) RUSSELL
+[to himself, seeing an approaching truck and standing his ground] {normalb} I see anything weird, I'm runnin' my ass off.
+55) RUSSELL
+[to himself] {normala}Maybe this dude can give me a ride. {thinkinga}Maybe.
+56) RUSSELL
+[to himself] {angrya}This is fucking stupid. Fuck. I shoulda hid. Fuck.
+57) NATE
+{body-driveright}{disgusta}I see you cuddling with your girlfriend down there. Shit, bro.
+58) NATE
+{disgusta} I see you hiding down there with your boyfriend.
+59) 
+Damn.
+63) RUSSELL
+Damn...
+60) 
+Fuck you.
+76) 
+Fuck you.
+61) 
+I don't want no trouble.
+77) 
+I don't want no trouble.
+62) NATE
+{disgusta}That's gross, kid. {normala}Although I ain't gonna judge what you do with any dead body. However you get your kicks, you know.
+64) NATE
+{normalb}You gotta be careful, these ain't times to piss off a stranger.
+205) NATE
+{normalb}You gotta be careful, these ain't times to piss off a stranger.
+65) NATE
+{angrya}[dangerous] That ain't very fucking nice, kid.
+203) NATE
+{angrya}[dangerous] That ain't very fucking nice, kid.
+66) RUSSELL
+{angrya}Fuck you, man. Get outta here.
+202) RUSSELL
+{angrya}Fuck you, man. Get outta here.
+67) RUSSELL
+{angrya}I ain't no kid.
+204) RUSSELL
+{angrya}I ain't no kid.
+68) RUSSELL
+{feara}I don't want no trouble, please.
+69) NATE
+{thinkinga} You just wanna be left alone with your friend down there?
+70) RUSSELL
+{feara}No, just... leave me alone.
+71) NATE
+{thinkinga} Dude, I can see you breathing. And so can those dead dudes coming out of the woods.
+72) NATE
+{happya}HAHA, oh shit, man, how the fuck are you alive falling for junk like that?! {thinkinga} I mean SERIOUSLY, how are you not in some hillbilly's freezer already?!
+73) NATE
+[loud] {crazya}BANG!
+74) NATE
+{happyA}I just killed you!
+75) NATE
+{thinkingA} You're either stupid as fuck or think you're tough shit... or both, I guess.
+78) 
+I need a ride.
+79) NATE
+{normalb}Standing out here like this ain't gonna get you nothing but trouble.
+80) RUSSELL
+{normala}Just leave me alone, please... I'm not hurtin' no one.
+81) NATE
+[i'm not hurtin' no one]{thinkinga}How do I know that? {angrya}Maybe you're just walking this highway looking for some tail and gonna end up hurtin' somebody. Maybe killing you right now does our troubled country some good.
+82) NATE
+{normalb}But honestly, I ain't no do-gooder. I'm'a letcha live.
+83) RUSSELL
+{normalb} I need a ride. You got a ride.{feara}
+84) NATE
+{thinkinga}You willin' to work for it? I got needs. You know what I'm saying.
+85) NATE
+[breaking tension]{normalb}I'm just fucking with ya, man.
+86) NATE
+{thinkinga} Looks like both to me.
+87) RUSSELL
+{normalb}Okay. Yeah. {happya}I'd like a ride; that would be good, thanks.
+88) NATE
+{happyb}Hell, yeah! Get in; let's tear it up.
+89) RUSSELL
+{feara}I'mma tryin' to get to my Gran's house...
+90) NATE
+{happya}Fuck, she like to party? {normala}Just get in, we'll get there, or somewhere, eventually.
+91) RUSSELL
+{normalb}Nah, I'm good. Thanks. I don't want a ride.
+92) NATE
+{angrya}Jesus, don't be so damn sensitive.
+93) RUSSELL
+{angrya}I said I'm good.
+94) NATE
+{angryb}FINE.
+96) NATE
+{thinkinga}Uh, fuck, yeah, why not. Might get there the long way.
+97) RUSSELL
+{feara}God damn. Shit. Shit.
+98) NATE
+[drinking something] {happya}Here ya go.
+99) 
+I'm straight, thanks.
+104) RUSSELL
+{normala}I'm straight, thanks.
+100) 
+Sure.
+113) 
+Sure.
+101) 
+I don't want that shit.
+108) RUSSELL
+{angrya}I don't want that shit.
+102) NATE
+{thinkinga}You're not uptight are you? Because it's the fucking apocalypse; this is like, nothin'.
+103) RUSSELL
+{disgusta}No, I'm just good, all right?
+105) NATE
+{normala}All right, all right.
+106) NATE
+{angryb}This SHIT? You don't know what you're talkin' about. I damn near died procurin' this. {angrya}I got half a mind to make you try it.
+107) RUSSELL
+{angrya}You can't make me do anything.
+109) NATE
+{happya}Hahaha, okay tough guy. We both know that ain't true, but OKAY. Would do you some fucking good.
+110) NATE
+{thinkinga}That silent treatment shit makes a man think you're too good for what he's offerin'. {angrya}I don't like that. Not one bit.
+111) NATE
+{thinkinga}You want to tell me about where you come from at least? You must'a been with a crew.
+112) NATE
+{happya}Any tail back where you come from? Maybe drop you off and do a double-back.
+114) 
+No "tail."
+115) 
+Can we just drive?
+124) RUSSELL
+{feara} Can we just drive?
+116) RUSSELL
+{normalb}Sure, yeah. I mean, I'll tell you about who I was with.
+117) RUSSELL
+{normala}Ha, uh...{sada} okay.
+118) NATE
+{happya}Don't leave out any juicy deets, all right?
+119) RUSSELL
+[sigh] {sada}All right.
+120) NATE
+{thinkinga}Damn; I retract my question.
+121) NATE
+{normala}You're arguin' SEMANTICS, RUSS! {happya}Give a pal the deets.
+122) RUSSELL
+{normala}No, uh, "tail."
+123) RUSSELL
+{normala}There was a girl who I liked all right.
+125) NATE
+{thinkingb} We? You want to sit on my lap?
+126) RUSSELL
+{normalb} I just don't want to talk.
+127) NATE
+{thinkinga}You're a tough little nut, Russ.
+128) NATE
+[sigh] {thinkinga}Hmmph.
+129) RUSSELL
+{angrya}Steve was a bad dude, but everybody was with him, you know? {normalb} He said seven was the magic number, so we didn't add nobody to the group.
+130) RUSSELL
+{angrya}No, they DIDN'T.
+131) NATE
+{normalb}Let it out, Paco.
+132) RUSSELL
+{fearb}Just... "We gonna kill these folks and take their stuff or what?" and then bang, they'd be dead. {sada}Anyway... I couldn't handle that. After weeks of it, I packed my shit up and figured I can make for Gran's alone and try to find my family. [tough for him]
+133) RUSSELL
+{feara}If we found survivors it was the same every time. He... he...
+134) RUSSELL
+{disgusta}Leader was this guy, Steve.
+135) NATE
+{normala}So nobody got down with the daughter, then.
+136) RUSSELL
+{sada}There was seven of us. I didn't have any family there or nothing; they were all at my Gram's down in Statesboro.
+137) NATE
+{normala}Go back to the daughter.
+138) RUSSELL
+{normalb}There was a dad who had a daughter 'bout my age. One guy said he used to be a cop but nobody really believed him; then a teacher and his wife.
+139) NATE
+{thinkinga}What would you give her? Strong six?
+140) RUSSELL
+{sadb}I slipped outta there. I couldn't live like that.
+141) 
+Sure, whatever.
+150) RUSSELL
+{angrya}Sure, whatever.
+142) NATE
+{thinkinga}All right, maybe someone who wasn't so near and dear to your heart then.
+143) NATE
+{happyc}I gotta get my beak wet! I'll put it right in here.
+144) NATE
+{thinkinga}Just tell me something about her. {happya}How was the rack?
+145) NATE
+{happya}Gimme a little something. Just a taste.
+146) NATE
+{happyb}Russ, I'm doing you a service here.
+147) 
+Why do you gotta be like that?
+148) 
+You're fucking rude.
+149) NATE
+{thinkinga}Sure, whatever?! {sada}Come on!
+151) RUSSELL
+{thinkinga}Why you gotta be like that?
+152) RUSSELL
+{disgusta}Whatever.
+153) NATE
+{normala}Let's try this again.
+154) NATE
+{happya}WOMEN? {happyb}Ha, okay. Let me see if I can answer your question. Because... because the hunger a man's got for a WOMAN is all we got left now. No laws, no jobs, ain't nothin' that make us men. But they ain't eaten all the women yet.
+155) NATE
+{surprisea}Like what?
+156) RUSSELL
+{angrya}Always talking about women like that.
+157) RUSSELL
+{angrya}You're fucking rude, man.
+158) NATE
+{normalb}Let's try again.
+159) NATE
+{thinkingb}Asswipe's giving me fucking manners lessons?!
+160) NATE
+{normala}Oh, you're Miss Manners, that it?
+161) RUSSELL
+[guy slams on brakes] {feara}UGH!
+162) NATE
+{normala}What do you think?
+163) RUSSELL
+{fearb}What the fuck?!
+164) NATE
+{happya}She was slammin' before she was rotten, right? What do you think?
+165) RUSSELL
+[panicked] {feara}Guh...!
+166) NATE
+{happya}Here. Get a look.
+167) RUSSELL
+{fearb}FUCK!?!
+168) 
+TEN, OKAY! TEN!
+169) 
+I'LL KILL YOU!
+182) RUSSELL
+{fearb}I'LL KILL YOU!
+170) 
+FIVE!
+171) NATE
+{happya}IF YOU SAY FIVE I'M GONNA FLIP.
+172) NATE
+{crazya}MAYBE YOU GOT HIGH STANDARDS.
+173) RUSSELL
+{feara}NA--HELP!
+174) RUSSELL
+{fearc}FUHHH!
+175) NATE
+{crazya}TELL ME, RUSS!
+176) RUSSELL
+{fearc}AH! AHHH!
+177) RUSSELL
+{fearb}GET OFF ME!
+178) NATE
+{crazyd}LIKE A NINE, RIGHT?!
+179) NATE
+{happyb}YEAH! That's what I'm talkin' about!
+180) RUSSELL
+{fearb}TEN! OKAY!?! TEN, YOU PSYCHO!
+181) NATE
+{angrya}DAMMIT, NO YOU WON'T! {disgusta}You're no fucking fun!
+183) RUSSELL
+{fearb}FIVE! FUCKING FIVE!
+184) RUSSELL
+{fearc}AHHHHFUHHHH!
+185) NATE
+{happya}JESUS, RUSS, CALM DOWN!
+186) NATE
+{normala}Would you load that? Bullets in the glove, there.
+187) NATE
+{thinkingb}Dammit.
+189) NATE
+{disgusta}Oh, come ON, MAN!
+190) 
+Sun
+191) 
+Backpack
+192) 
+Map
+193) 
+Door
+194) RUSSELL
+[to himself] {normalb}Ugh.. sixty THREE miles to go.
+195) RUSSELL
+[to himself, tired]{normala}I've been walkin' forever.
+196) RUSSELL
+[mumbled to himself] {normala}I miss the days of taking shortcuts.
+197) RUSSELL
+[with relief]{normala}...Good.
+198) RUSSELL
+[checking to see if the zombie is really dead]{angrya}Hey!
+199) RUSSELL
+[alt][checking to see if the zombie is really dead]{angrya}You gettin' up?
+200) RUSSELL
+[under pressure... riding with Nate is a bad idea, but now Zombies are here]{feara}Can you get me to Statesboro?
+201) NATE
+{normala}Let's find out! Get in!
+206) RUSSELL
+[pickup1]{normala}I guess.
+207) NATE
+[pickup1]{happya}There ya go. Relax, we're gonna have some fun. Why don'tcha tell me where ya were before you got here?
+208) RUSSELL
+[pickup][reluctantly telling nate his story] {sada}*sigh* Fine.
+209) NATE
+[pickup1][breaking the silence while driving if Russell isnt talking, callin git out to MAKE Russell more uncomfrortable]{thinkinga}This is pretty fucking uncomfortable, ain't it?
+210) RUSSELL
+[pickup1]{normalb}Yep.
+211) NATE
+[pickup1][sincerely wanting to make Russell comfortable, but not sincerely sorry.]{sada}Look man, I'm "sorry" if I freaked you out at first. {thinkinga}We all got our way of coping with shit, right? I guess I can come across a bit... [cant find a word]{disgusta}whatever.
+213) RUSSELL
+[pickup1]{feard}Heeeelp!!!
+214) NATE
+[pickup1][waiting for russ to get in the car now that zombies are here]{happya}Change yer mind?
+215) NATE
+[pickup1][waiting for russ to get in the car now that zombies are here][alt]{normala}Betcha want that ride now, right?
+216) NATE
+[pickup1][waiting for russ to get in the car now that zombies are here][alt2]{normala}Last chance....
+217) 
+Mile Marker
+218) 
+Trees
+219) 
+Corpse
+220) NATE
+[pickup2][Preceeds: '354500839' "What do you think?," should be a continuation of the line] Come on, scale of 1 to 10....
+221) RUSSELL
+[pickup2][Big cough after drinking straight wiskey!]
+222) NATE
+[pickup2][seeing Russell cough on some strong whiskey]Good shit, ain't it? Hell of a kick, but it takes the edge off. You'll get used to it.
+223) RUSSELL
+[pickup2][Recovering from the super strong whiskey]Actually, I think that's it for me. I'm good.
+224) NATE
+[pickup2][disappointed] All right, fine.  [leads into:354500782: You want to tell me about where you come from at least?]
+225) NATE
+[pickup2][breaking the silence]Name's Nate, by the way, thanks for askin'. You thirsty?
+226) RUSSELL
+[pickup2][not sure what to think] Uhh....

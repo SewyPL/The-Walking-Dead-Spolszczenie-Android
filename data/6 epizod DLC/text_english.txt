@@ -1,0 +1,140 @@
+1) 
+Look At
+2) 
+Talk To
+3) 
+Use
+4) 
+Take
+5) 
+Open
+6) 
+Move To
+7) 
+Push
+8) 
+Unlock
+9) 
+Search
+10) 
+Look Through
+11) 
+Exit
+22) 
+Exit
+12) 
+Examine
+13) 
+Move
+14) 
+Help
+15) 
+Hit
+16) 
+Pick Up
+17) 
+Pull
+18) 
+...
+19) 
+Stomp
+20) 
+TO BE CONTINUED...
+21) 
+Chop
+23) 
+Close
+24) 
+Eat
+25) 
+Look Under
+26) 
+Back
+27) 
+Shoot
+28) 
+Grab
+29) 
+Yell To
+30) 
+Look In
+31) 
+Boost
+32) 
+Kick
+33) 
+Punch
+34) 
+Give
+35) 
+Shove
+36) 
+Jab
+37) 
+Fight
+38) 
+Back Off
+39) 
+Walk To
+40) 
+Enter
+41) 
+Pry
+42) 
+Block
+43) 
+Toggle
+44) 
+Turn
+45) 
+Jump Over
+46) 
+Attach
+47) 
+Climb
+48) 
+Put Down
+49) 
+Walker
+50) 
+Smash
+51) 
+Cross
+52) 
+Attack
+53) 
+Eddie
+54) 
+Nate
+55) 
+Becca
+56) 
+Stir
+57) 
+Choose
+58) 
+Boyd
+59) 
+Clive
+60) 
+Joyce
+61) 
+Roman
+62) 
+Kill
+63) 
+Dee
+64) 
+Run To
+65) 
+Start
+66) 
+Annie
+67) 
+Lift
+68) 
+Stephanie
+69) 
+Leland
+70) 
+Glove Box
