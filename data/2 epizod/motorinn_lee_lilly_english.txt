@@ -1,0 +1,116 @@
+1) LILLY
+{normalB}If the hunting trips nearby don't work, we'll just have to head farther out.
+2) LILLY
+{angryB}But this is a good spot.  {normalB}We're protected, we're close to the drug store, {thinkingA}we have a routine now and it's working.
+3) LILLY
+{angryA}God, not you too.  I know Kenny wants to leave.  I think that's why he's so eager to get the RV working.
+4) LILLY
+[pickup2]Yeah, well, don't expect that to change.  That's just how he is.
+5) LEE
+[pickup2]It's been three months, your dad still treats me like I'm some kind of asshole.
+6) LEE
+[pickup2]So HE'S the asshole.
+7) LEE
+[pickup2]Does he treat you like that too?
+8) LEE
+[pickup2]How do you put up with him?
+9) LILLY
+{angryA}All he's got left in the world is me.  {sadA}And that goes both ways.  {disgustA}So, yeah, he's probably gonna keep treating you like crap, but that's just because he still has one thing left to care about.
+10) LILLY
+{angryA}Look. My dad can be an ass sometimes, I know that.  {normalB}But he's not a bad guy.  He just... {sadA}He's got a lot of pain.
+11) LILLY
+{sadA}He's been through so much.  And lost... {sadB}pretty much everything.  {normalB}And it's hardened him, ya know?  {thinkingA}Yeah, he's bitter and hateful, but that's all just to protect himself. And me.
+12) LILLY
+{angryA}So don't judge him.  And don't judge me for sticking by him.  {sadA}He's my dad, and I love him.
+13) 
+[Give Half an Apple]
+15) 
+[Give Piece of Jerky]
+16) 
+[Give Crackers and Cheese]
+17) 
+[Give Crackers and Cheese]
+60) 
+[Exit]
+14) LEE
+[pickup 2] Take the apple, Lilly.
+18) LEE
+[pickup 2] Here.
+64) LEE
+[pickup 2] Here.
+19) LILLY
+[pickup 2] Thanks, Lee.
+20) LILLY
+[pickup 2] I don't want anything from you.
+28) LILLY
+[pickup 2] I don't want anything from you.
+21) LILLY
+[pickup 2] I will.
+22) LILLY
+[pickup 2] [a little agitated] Fine.
+23) LEE
+[pickup 2]  Keep an eye out.
+24) LEE
+[pickup 2] Take it anyway. You need to eat.
+25) LILLY
+[pickup 2] This doesn't change anything.
+26) LEE
+[pickup 2] [agitated at refusal] Fine.
+27) LILLY
+[pickup 2] Thanks.
+29) LEE
+[pickup 2] Lilly, I--
+30) LILLY
+[pickup 2] [interrupting] I see how it is, Lee. Talk to you later, okay?
+31) LILLY
+[pickup2][neutral]Not such an easy job, is it?
+32) LEE
+[pickup2]Never said it was.
+33) LEE
+[pickup2]It's not so tough.
+34) LILLY
+[pickup2]Good. Then you can do it again tomorrow when there's even less food.
+35) LEE
+[pickup2]I don't envy you.  I don't know how you have the strength to do this every day.
+36) LILLY
+[pickup2]I don't have a choice.
+37) LILLY
+[pickup2][responding to silence, annoyed, flat] Whatever.
+38) LEE
+[pickup2]We should talk about you and Kenny.
+39) LEE
+[pickup2]The arguing.  It's getting pretty out of hand.  You know, people notice that.
+40) LILLY
+[pickup2][annoyed]Look, I'm working my ASS off to make sure we have a good set up here and Kenny just doesn't appreciate that.
+41) LEE
+[pickup2]But there is no food.  You know that better than anyone.
+42) LILLY
+[pickup3][As if there is no other choice - responding to "But there IS no food."]Well, we'll just have to find some.
+43) LILLY
+[pickup2][annoyed] What about us?
+44) 
+We should think about leaving here.
+45) 
+Let's talk about you and Kenny.
+46) 
+Take it anyway
+47) 
+Fine. Don't eat.
+48) 
+Talk To
+49) 
+Give Food To
+50) LEE
+[pickup3][casual. - "Your routine is working..."]For now.
+51) LEE
+[pickup3][casual]Maybe we should think about leaving the Motel.
+52) 
+I have no food left for you.
+53) 
+Want some food? [Give Food]
+61) LEE
+Back in a bit.
+62) LEE
+[pickup3][to himself, bummed that he's out of food]Well, that's it.
+63) LILLY
+All we need is food.

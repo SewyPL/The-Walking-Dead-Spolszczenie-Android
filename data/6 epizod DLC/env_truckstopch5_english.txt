@@ -1,0 +1,288 @@
+1) STEPHANIE
+{AngryC}Shit!  {AngryB}Come on, we gotta find Roman.
+2) STEPHANIE
+{FearB}[shocked at the sight of a prisoner in their camp] Jesus!
+3) ROMAN
+[Calling out 35 feet, gathering, stern] {AngryB}Come here! {AngryC}Everyone!
+4) STEPHANIE
+[Shocked] {FearB}My God. {AngryB}What did you do?
+5) ROMAN
+{AngryA}All I did was put on the blindfold and bind his wrists. {AngryB}Somebody else beat him up. {AngryA}He already had the cuts and bruises.
+6) CLIVE
+{AngryA}Watchdogs caught him trying to steal supplies.
+7) SHEL
+{ThinkingA}Who is he?
+14) BECCA
+{FearA}Who is he?
+93) 
+Who is he?
+8) ROMAN
+{NormalC}I got {NormalB}no idea. {AngryA}I don't think he speaks English.
+9) SHEL
+{FearA}What did he take?
+94) 
+What did he take?
+10) CLIVE
+{FearA}Food. {FearB}Medicine. {NormalA}Whatever he could get his hands on....
+11) ROMAN
+{NormalB}Usual stuff. {AngryA}I couldn't get any other information out of him. {NormalC}I don't think he speaks English.
+12) SHEL
+{FearA}Did he hurt anyone?
+95) 
+Did he hurt anyone?
+13) CLIVE
+{NormalA}No, {NormalB}thank God.
+15) ROMAN
+{NormalB}I don't know. {AngryB}And I don't think he speaks English.
+16) BOYD
+{AngryC}I can't believe he just snuck in.
+17) ROMAN
+[angry at himself]{AngryC}This is the second break-in we've had in the last couple of weeks.
+18) JOYCE
+{FearA}But what if there are more of them?  {AngryA}He could have been scouting!
+19) BOYD
+[ speaking first... trying to do the humane thing]{SadA}Well, we all know what it's like trying to {SadB}survive out there. {FearB}He just came in here for food. {NormalA}Let's just give him some and {NormalB}send him on his way.
+20) BECCA
+[pickup2]{SurpriseB}Thats right. {FearB}He could be part of a larger group!
+21) BOYD
+{FearB}If there were more, I think we'd have seen them by now.
+22) SHEL
+{FearA}We can't just let him go. {FearB}It's too dangerous!
+23) BECCA
+{FearA}Who knows if he has friends waiting to attack?!
+24) BOYD
+{FearB}Don't you think we would have seen someone by now?  {NormalB}At least trying to negotiate to get him back?
+25) SHEL
+{ThinkingA}We can't take the risk of letting him go, but {HappyA}why not let him stay?
+26) BECCA
+[unsure]{DisgustB}I guess that would be okay.
+27) BOYD
+[pickup1][follows:  Well, then let him stay here! ]{NormalB}We could always use more hands keeping the place secure.
+28) STEPHANIE
+{ThinkingA}Boyd, we don't need any more people here. {FearA}And look at him, {ThinkingB}how is he going to help?
+29) JOYCE
+{AngryB}He can't even speak English!  {AngryA}This group works because {FearA}WE know how to communicate.
+30) SHEL
+{SadA}Boyd's right. {NormalA}We should just let him go.
+31) BECCA
+[thinking her sister is dead wrong] {ThinkingB}Why?
+32) BOYD
+{AngryA}Look at the poor bastard. {FearB}We've all done the same thing trying to survive. {AngryA}We don't have to be responsible for him, {NormalA}but we can give him some food and let him {FearB}take his own chances.
+33) SHEL
+{FearA}You don't know that.
+99) 
+You don't know that.
+34) SHEL
+{SadB}That is strange.
+100) 
+That is strange.
+35) SHEL
+{SadA}You have a point.
+101) 
+You have a point.
+36) STEPHANIE
+{FearA}It does make sense, though.
+37) CLIVE
+{AngryA}That doesn't mean anything.
+38) JOYCE
+{FearA}I don't know.
+39) SHEL
+[offended]{ThinkingA}Are you judging him based on race?!
+40) JOYCE
+{FearA}Of course not, {AngryA}but come on!
+41) SHEL
+{HappyA}We can find a way for him to help.
+103) 
+We can find a way for him to help.
+42) SHEL
+{DisgustB}Maybe you're right....
+104) 
+Maybe you're right.
+43) JOYCE
+{FearA}I'm not trying to be a... {SadA}a bitch... {AngryA}but we have to be smart!
+44) BECCA
+[Speaking in Shel's silence] {FearA}At least if he stays here we can keep an eye on him.
+45) JOYCE
+{AngryA}[exasperated huff]
+56) SHEL
+[says nothing]{SadA}...
+71) ROBERT
+{FearB}[Says something thankful in another language]
+86) ROBERT
+{FearB}[heavy scared breathing 1]
+87) ROBERT
+{FearB}[heavy scared breathing 2]
+90) ROBERT
+{AngryB}[grunts in pain 1]
+91) ROBERT
+{AngryD}[grunts in pain 2]
+92) ROBERT
+{AngryA}[Scared short breaths]
+126) ROBERT
+[I never wanted to come here!!]
+127) ROBERT
+[They should do their own dangerous missions!]
+128) ROBERT
+[Where the hell are they? Are they going to save me?]
+129) ROBERT
+[breathing]
+139) ROBERT
+[new line]
+140) ROBERT
+[new line]
+141) ROBERT
+[new line]
+142) ROBERT
+[new line]
+143) ROBERT
+[new line]
+144) ROBERT
+[new line]
+46) CLIVE
+[putting his foot down]{FearC}Well, he�s not staying here!  {AngryA}You let in a stranger and {AngryC}everything starts breaking down!
+47) JOYCE
+{FearA}The last time we did that... {SadA}we lost Brie... [bitter]{SadB}and then Vernon {AngryB}with that goddamned boat!
+48) ROMAN
+{AngryB}I agree, keeping him here is {AngryC}not an option. {DisgustA}In his condition, {AngryB}he'd be a drain on our resources.
+49) ROMAN
+{NormalA}Look, we all know what we're talking about here, {NormalB}so let's stop dancing around it.
+50) ROMAN
+[cont] {SadA}We either let this guy go {SadB}and take our chances... [pause]{AngryB}or we kill him.
+51) SHEL
+{FearA}Jesus Christ, {FearB}are you serious?
+52) SHEL
+{ThinkingA}Fuck you, Roman!
+106) 
+Fuck you, Roman.
+53) STEPHANIE
+[calming Shel down]{SadB}Shel, come on. {SadA}Roman's right. {FearA}We need to protect ourselves first.
+54) SHEL
+[solemnly realizing] {ThinkingB}You're right. {DisgustB}It's gotta be one or the other.
+55) STEPHANIE
+[firm, backing Roman up] {DisgustB}Roman's right. {ThinkingB}It's gotta be one or the other.
+57) JOYCE
+[scared] {FearB}We can't.
+58) SHEL
+{FearA}He's not even armed! We can't just kill him! {ThinkingA}This isn't in self-defense.
+59) BECCA
+{SurpriseB}Isn't it, though? {FearA}If it means he can't come back to hurt us?
+60) SHEL
+{AngryA}That isn't the same thing....
+61) SHEL
+[speaking calm and direct] {FearA}Joyce, that was a long time ago. {ThinkingA}If we kill this man, {FearB}then we are giving up a part of ourselves that we can {AngryA}NEVER get back!
+62) SHEL
+[cont.] {ThinkingA}I'm not ready to let that go.
+63) JOYCE
+[still shaken]{FearB}But last time....
+64) CLIVE
+[reluctantly giving in] {SadB}I hope you guys know what you're doing.
+65) BOYD
+[speaking up and taking a stand]{NormalA}We're letting him go. It's the only right thing to do.
+66) CLIVE
+{FearB}I'm telling you, {AngryA}we can't do that!
+67) STEPHANIE
+{AngryA}But killing him? {AngryB} Is that really the answer?
+68) SHEL
+{FearA}Tell me. What if he comes back? {FearB}With weapons, or... or a gang? {ThinkingA}Is it worth losing any one of us?
+69) STEPHANIE
+[reluctantly giving in]{DisgustB}Jesus. {SadB}There really is no other choice, is there?
+70) STEPHANIE
+[disapointed in Shel]{FearA}There's got to be another way....
+72) CLIVE
+{FearA}I still don't think this is a good idea.
+73) ROMAN
+{AngryB}[stern]Cut him free.
+74) ROMAN
+[stern, giving orders]{AngryB}Give him some food, 3 or 4 cans, {AngryC}just as a gesture of good faith. {DisgustA}Then get him out of here.
+75) ROMAN
+[very firm, and threatening] {AngryB}I don't know if you can understand a word I'm saying, but you {AngryC}better understand this:
+76) ROMAN
+[cont.very firm, and threatening] {AngryB}You came {AngryC}this close to death today. {AngryB}And if you ever... {AngryD}EVER... {DisgustA}come near this place again or tell  {AngryD}ANYBODY where we are, [short pause]{AngryB}you'll wish you had died today.
+77) SHEL
+[bitter/disapointed] {AngryA}You're taking a big risk.
+78) ROMAN
+{SadA}I won't ask you to watch, {FearB}but if we do this, {SadA}we're all in it together.
+79) ROMAN
+[cont]{SadA}If this ever happens again, {DisgustA}it'll be one of you pulling that trigger.
+80) ROMAN
+[cont]If there's even a {DisgustA}chance {NormalC}of him coming back or telling folks who might try to hurt us, {FearA}we can't risk it.
+81) ROMAN
+{FearA}We can't keep him here {FearB}and we can't let him go.
+82) ROMAN
+{NormalB}No. {NormalC}They didn't get that close.
+83) BOYD
+{AngryC}Is he bitten?
+84) STEPHANIE
+[sadly realizing the horrible truth] {DisgustB}Roman's right. It's gotta be {ThinkingB}one or the other.
+85) SHEL
+{AngryA}Not Becca.[context: as if to say, "Fine.  If this is how it is I'll go along, but don't expecrt Becca to ever be a part of this"]
+88) ROBERT
+{FearA}[incoherent mumbling in another language]["just let me go... Just let me go..."]
+89) ROBERT
+{FearB}[incoherent mumbling in another language]["Don't kill me... I'm just trying to survive"]
+96) 
+It's too dangerous to let him go.
+97) 
+We could let him stay.
+98) 
+We should just let him go.
+102) 
+That's racist.
+105) 
+Are you serious?
+107) 
+You're right. It's gotta be one or the other.
+108) ROMAN
+{AngryB}Last time we couldn't catch 'em, and they {AngryC}got away with more medicine than we could afford to lose.
+109) ROMAN
+[alt]{AngryB}Last time we couldn't catch 'em, and they {AngryC}got away with more supplies than we could afford to lose.
+110) ROMAN
+{AngryB}We just barely got our stuff back last time, {AngryC}and that had nothing to do with us. {NormalC}We just got lucky. {NormalB}Whatever went down was between them.
+111) CLIVE
+{DisgustA}I still can't believe we let that guy threaten us like that!
+112) CLIVE
+{NormalA}Can't trust nobody.
+113) CLIVE
+{AngryA}And all because some stranger lied and told us he had medicine!
+114) CLIVE
+{AngryC}[insistant]He CAN'T stay here!
+115) BOYD
+{SadB}Vernon and the boat are the reason the group fell apart, {FearB}not trusting strangers!
+116) BOYD
+{SadB}We stole their boat from that teenage kid at gun point.
+117) BOYD
+{FearC}He made us beat up that guy with the mustache and steal his boat!  {DisgustA}WE did that! {NormalA}I've regretted it ever since.
+118) BOYD
+{DisgustA}I was right there with you {AngryA}when we jumped that woman and her boyfriend for their boat. {NormalA}That was wrong.
+119) BOYD
+{SadA}I knew it was wrong to steal that boat, {FearB}but we all went along with it. {SadB}Beating up that teenage boy and that man, and locking them in the shed!{AngryB} Stupid!
+120) BOYD
+{FearB}Vernon was out for the stranger's boat the {DisgustA}whole time! {NormalB}And at the first opportunity, used {AngryA}US to take it from his group at gunpoint!
+121) BOYD
+{AngryA}THAT's when our group fell apart.
+122) CLIVE
+{AngryB}If that guy, Lee, had told {AngryC}ME I didn't have the balls, {DisgustA}I'da shot him on the spot!
+123) BOYD
+{FearA}I mean, nobody travels alone by choice anymore, right?
+124) BOYD
+[pickup1]{FearB}Vernon was out for the boat the whole time! And {DisgustA}the SECOND {AngryA}they left that boat unattended, {FearC}we just stole it!
+125) CLIVE
+[pickup1]{NormalA}It's not about HIS chances, it's about {FearB}OURS! What's to stop him from coming back? And {FearC}ARMED next time?!
+130) ROMAN
+[pickup2][asking shel to decide the fate of the stranger][cont]You're the swing vote here, Shel. What's it gonna be?
+131) 
+Kill him.
+132) 
+Set him free.
+133) SHEL
+[pickup2][deciding the fate of the stranger][follows 354472025 or 354472027]We can't take the risk. We kill him.
+134) SHEL
+[pickup2][ Stern-follows:354472021 or  354472023]{FearA}We have to set him free![leads into: 354472033]
+135) SHEL
+[pickup2][reluctantly areeing to kill the stranger][follows:354472021 or  354472023]Fine. I guess this is what we have to do.
+136) SHEL
+[pickup2][sad - follows 354472025 or 354472027]{SadA}We have to set him free.[leads into: 354472033]
+137) ROMAN
+[pickup2][frustrated with Shel's lack of decision.  making an executive decision on the strangers fate]Fine. I'll make the call myself.[leads into: 354472061 or 354472073]
+138) ROMAN
+[pickup2]Stephanie, Boyd... you two don't think we should kill him. And we know where Joyce and Clive stand on the subject.

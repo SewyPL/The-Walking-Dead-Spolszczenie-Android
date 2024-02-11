@@ -1,0 +1,520 @@
+1) BONNIE
+{fearA}Just chattin'.
+2) BONNIE
+{fearA}It's... {disgustB}private.
+3) BONNIE
+{fearA}Where've you {happyA}been, Dee?
+4) LELAND
+{angryC}[during Dee's rant above, at the words "GODDAMN rain"] I know you did {angryB}that on purpose!
+5) LELAND
+{disgustA}I asked you not {angryC}to blaspheme!
+6) DEE
+[frustrated] You listen to {angryD}me now! I had it up to {angryB}here with listenin' to you.
+7) DEE
+{angryA}And now we're standing in this {angryD}GODDAMN rain, in this {angryB}GODDAMN middle a {angryC}nowhere place--
+8) BONNIE
+{angryB}This ain't helpin' {fearB}anything, you two!
+9) BONNIE
+{fearC}Hush your voices down, {angryB}come on now...
+10) BONNIE
+{fearB}We should get movin' now; {angryA}come on, it's {fearA}gettin dark!
+11) BONNIE
+{angryD}[yelling to be heard over an argument] Shut UP, Dee! {fearB}Leave Leland {angryB}alone!
+12) BONNIE
+{angryD}[yelling to be heard over an argument] LELAND! That's ENOUGH! {fearB}It's obvious ya {angryC}can't win this one, so why even {angryB}bother tryin'?
+13) BONNIE
+{angryB}[yelling to be heard over an argument]Forget the {angryC}both of ya! I'M {angryD}LEAVIN'!
+14) DEE
+{angryA}This ain't your business, {disgustB}Bonnie. This is between him {angryC}and me.
+15) LELAND
+{angryB}Enough, {angryA}Dee. She's right. We're {disgustA}actin' like a couple kids.
+16) DEE
+{angryB}That's just because {angryD}YOU ain't listenin'!
+17) LELAND
+{angryC}Bonnie, I appreciate {disgustA}you tryin' ta help, but {angryA}let me handle this, all right?
+18) DEE
+{angryA}Thank you, Bonnie! Finally {thinkingA}someone makes some {angryC}damn sense around here!
+19) LELAND
+{angryA}Don't leave, {sadA}please. We can {fearA}sort this out.
+20) DEE
+{angryC}[looking to the heavens, sarc] Lord, give me {angryB}strength.
+21) LELAND
+{surprisedA}We'll straighten this out; {fearA}we will. Right, Dee? We can solve {disgustA}this out, we just need {sadA}to get somewhere else.
+22) DEE
+{thinkingA}Oh, NOW you {angryA}agree with me?
+23) BONNIE
+{angryC}Bitch.
+55) 
+Bitch.
+24) DEE
+{angryB}[just called a bitch] Go to hell, Bonnie. This {angryA}is the thanks I get after what we {angryC}did for you?
+25) LELAND
+{disgustA}[confused] What're you talkin' {sadA}about?!
+26) DEE
+{fearB}[urgent, panicked]Oh, shit; oh no. {fearA}Oh God, run, come on, {fearC}we gotta move.
+27) DEE
+{angryB}[accusing] You know exactly {angryA}what I'm sayin'.
+28) BONNIE
+{angryD}[to Dee, angry] What are {angryB}you sayin'?
+29) LELAND
+{fearB}Come on now, Dee, {sadA}no reason to pick a fight.
+30) DEE
+{angryA}[exhausted, emotionally hurt] I'm sorry. I {disgustA}JUST want to get somewhere where I can {sadA}change my clothes, and {thinkingA}then you and {angryC}your girlfriend can--
+31) BONNIE
+{angryD}I REFUSE to get in the {fearB}middle of this.
+32) BONNIE
+{fearB}[panicked] Oh, shit.
+33) BONNIE
+{fearB}[calling after people you're chasing] Stop goin' so fast!
+34) BONNIE
+{sadC}[calling after people you're chasing] Wait up, y'all!
+35) BONNIE
+{fearC}I'm fallin' back here!
+36) BONNIE
+{angryD}[to herself--people aren't stopping and waiting for her] Son of a bitch.
+37) BONNIE
+{fearC}[getting shot in the shoulder] Ahhhhhhh!
+38) BONNIE
+[grunts as you land on the ground]
+41) BONNIE
+[long take of heavy breathing as you run, injured]
+42) BONNIE
+[long take of heavy breathing as you run, injured]
+43) BONNIE
+{fearB}[sliding down a muddy embankment, injured]
+58) BONNIE
+[sliding down a muddy embankment, injured]
+59) BONNIE
+{fearC}[sliding down a muddy embankment, injured]
+60) BONNIE
+[sliding down a muddy embankment, injured]
+140) 
+[Whisper: "GIRLFRIEND?!"]
+141) 
+[Whisper: "Does she think...?!"]
+142) 
+[Whisper: "What the hell was THAT?!"]
+39) BONNIE
+{sadC}[cry of pain] Arrrrgggg!
+40) BONNIE
+{sadB}[grunts as you struggle to your feet] Rrrgggh!
+44) 
+Just chatting.
+45) 
+It's... private.
+46) 
+Where have you been?
+47) 
+This isn't helping!
+48) 
+Keep your voices down.
+49) 
+We should really get moving!
+50) 
+Shut up, Dee!
+51) 
+Leland! Enough!
+52) 
+I'm out of here!
+53) LELAND
+{angryC}MY faith ain't something I wear like {angryD}a FUCKIN' sweater! {disgustA}I don't just take it off when {angryB}it gets uncomfortable!
+54) DEE
+{fearB}I can't BELIEVE you are still {angryC}religious after what we {angryB}been through!
+56) 
+What are you saying?
+211) 
+What are you saying?
+57) 
+I'm not getting into this.
+61) LELAND
+{fearC}Bonnie!
+215) LELAND
+{happyA}Bonnie--
+62) LELAND
+{happyA}[determined] Would you rather have a {happyB}snake for a tongue--
+63) BONNIE
+{happyC}[wry] You're so bad at this.
+64) LELAND
+{happyB}[light tone, somewhat bored, as if playing a car game]Okay, got one. [beat]A {thinkingA}snake for a tongue--
+65) BONNIE
+{happyA}[wry disbelief] I swear, this is {happyC}the worst one ever.
+66) LELAND
+{happyB}[matter-of-fact] Free rein.
+67) BONNIE
+{thinkingB}[earnestly] Can I control this snake, or {happyC}{leland thinkingA}does it have free rein?
+68) LELAND
+{happyB}[serious] You know the rules, miss. You {thinkingA}gotta answer.
+69) BONNIE
+{normalA}[earnestly] Are the claws lobster size{happyC} or human-size?
+70) 
+This is ridiculous.
+71) 
+Can I control the snake?
+72) 
+Are the claws human size?
+73) LELAND
+{normalC}[matter-of-fact] Human-size. Can't {happyA}make this easy{happyB} on you.
+74) LELAND
+{happyA}It's a tough one, {happyB}I know.
+75) BONNIE
+{normalA}Neither.
+80) 
+Neither.
+76) LELAND
+{happyB}Weirdo.
+77) BONNIE
+{normalA}[decidedly] Lobster claws.
+81) 
+Lobster claws.
+78) LELAND
+{fearA}Gross.
+79) BONNIE
+{angryA}[decidedly] Snake tongue.
+82) 
+Snake tongue.
+83) LELAND
+{sadA}[awkward silence] Okay, how about... well, {thinkingA}never mind, I prolly oughtta stop {happyA}bugging you with {normalA}stupid hypotheticals.
+84) BONNIE
+{thinkingB}Thanks. [two part 1]
+85) LELAND
+{fearB}[sarcastic] Me? I {surprisedA}ain't perfect?
+86) BONNIE
+{disgustA}You know, you're {fearB}not perfect either, {happyC}mister lobster hands. {sadA}Maybe I should spend a minute listin' off {happyA}YOUR flaws. See {happyC}how you like it?
+87) BONNIE
+{happyC}[two part 2] Jerk.
+88) 
+Thanks. Jerk.
+89) 
+You're not perfect either.
+90) 
+Take a hike, big ears.
+91) LELAND
+{happyA}Hey, that's {happyB}what I'm here for.
+92) BONNIE
+{fearB}To remind me how {happyD}hideous I was?
+93) LELAND
+Nah, to {thinkingA}make sure you keep on keepin' on.
+94) LELAND
+{happyB}Look, as {thinkingA}long as you stay off that stuff, you can {happyA}have all the flaws you want.
+95) LELAND
+{happyB}I resemble that remark.
+96) BONNIE
+{normalC}Take a hike, {happyC}big ears.
+97) BONNIE
+You {happyA}resemble a satellite.
+98) LELAND
+{thinkingA}Ya know, you weren't so damn sassy {happyB}before. Guess that's a good sign.
+99) LELAND
+{fearA}[awd] Sorry; I guess {sadA}things are still{sadB} a little raw for you.
+100) LELAND
+{normalA}[getting serious for a moment] Look. You {sadA}know I ain't goin' nowhere, right?
+101) LELAND
+{thinkingA}--or lobster claws {happyA}for hands?
+102) BONNIE
+{happyA}[wry] Awful.
+103) BONNIE
+{happyC}Aw, come on. You'd {happyA}be a lot less fun.
+104) LELAND
+{sadA}[changing subject] You've been a lot {thinkingA}MORE fun lately. {happyA}Feelin' better?
+105) BONNIE
+{thinkingA}I guess {happyB}I am.
+106) LELAND
+{surprisedA}[Caught off guard] Dee!
+230) LELAND
+{fearA}Dee?
+107) DEE
+{happyA}[relieved]Hey, honey.
+108) DEE
+{thinkingA}Leland? Bonnie?
+109) DEE
+{disgustA}[Like talking to a child]Chattin' huh? {angryA}What about?
+110) DEE
+{thinkingA}[struggling to keep it light and hide suspicion] "Confidential." {angryA}I see. What was the {disgustA}topic of this confidential board meetin'?
+111) BONNIE
+{sadB}[trying again] {disgustA}Confidential?
+112) DEE
+{fearB}[indignant] "Private"?
+113) LELAND
+{fearA}[jumping in, slightly nervous] We were just {thinkingA}talkin' while we waited for {happyA}you, hon.
+114) 
+Lobsters.
+125) DEE
+{disgustA}[skeptical, thinks she's full of shit] Lobsters?
+115) 
+The rain.
+116) 
+You.
+117) LELAND
+{fearA}[jumping in, nervous] Well. Fishin'. {thinkingA}Figure it'd be worth a shot, for the {normalB}food, ya know?
+118) BONNIE
+{fearB}[searching] Um... well, {angryB}um, {disgustA}lobsters.
+119) LELAND
+{happyB}[softening] Don't I know it. [sincere, with a smile]
+120) DEE
+{sadA}[matter-of-fact] Leland, you {thinkingA}hate fishing.
+121) LELAND
+{surprisedA}What? I go {angryA}fishin' all the time. {happyA}Caught you, {dee disgustA}didn't I?
+122) LELAND
+{fearB}[defensive] That ain't totally true--
+123) DEE
+And how many days {angryA}you gone fishin'?
+124) DEE
+[softening] I {happyA}AM a catch.
+126) BONNIE
+{sadA}I was just tellin' Leland {thinkingA}here how grateful I am. {fearA}Ya' know, for you guys {happyC}helpin' me out.
+127) BONNIE
+{fearA}[pointed] You, {happyA}actually.
+128) DEE
+{sadA}[surprised, curious] Oh? What {thinkingA}about me?
+129) DEE
+{disgustA}[skeptical] Really?
+130) LELAND
+{sadA}[Starting up] We were... {fearA}worried about you, hon.
+131) DEE
+{disgustA}[matter-of-fact] Well, I'm {angryA}just dandy.
+132) DEE
+{disgustA}I'll tell ya' later. I don't mean to interrupt {angryA}your "chat" with your "girlfriend," {thinkingA}but um... we gotta get movin'.
+133) LELAND
+[pickup1]{happyB}[playing along] Aw, you shouldn't have!
+134) DEE
+{happyB}[excited] I got you a present.
+135) LELAND
+{sadA}[covering] Won't let up today.
+136) DEE
+{thinkingA}[sarc] Well. Sounds like {angryA}real stimulatin' conversation. {disgustA}Glad I missed it.
+137) BONNIE
+{fearC}[searching]Oh... um... {disgustA}the {fearA}rain.
+138) BONNIE
+That's right. And {happyD}you're older than dirt.
+139) DEE
+{disgustA}[pointed]And what were you talkin' about?
+143) LELAND
+{thinkingA}So... where'd you {fearA}get the bag, Dee?
+144) DEE
+{thinkingA}[To Leland] You guys sure gang up on me {angryA}a lot lately.
+145) LELAND
+{sadA}Honey, that {disgustA}ain't true.
+146) 
+Was anyone there?
+147) 
+Quit being so cagey.
+148) 
+Did you steal it?
+149) BONNIE
+{thinkingA}Was anyone {fearA}there?
+150) DEE
+{angryC}[accusatory] Tell me one time you've sided with me in the {disgustA}last week. {fearA}The last MONTH?
+151) BONNIE
+{angryA}Quit bein' so {sadA}cagey about it.
+152) DEE
+{angryD}[defensive, shocked] What?!
+153) BONNIE
+{angryA}[accusatory] Did ya steal {sadA}it?
+154) LELAND
+{sadB}Dee, Bonnie's right; if {thinkingA}you stole that bag, {fearA}we need to know. {disgustA}Don't gotta make no big deal out of it.
+155) LELAND
+{sadA}[serious] Dee, {angryA}honey, {disgustA}where'd you get the bag?
+156) DEE
+{fearB}[flustered, defensive] I don't {disgustA}understand. What's the {angryC}big deal?
+157) LELAND
+[pickup1]{angryC}[serious] It IS a big deal, {angryB}honey.
+158) LELAND
+{fearA}[serious] Long as we're together, {thinkingA}I'll be there for you. {happyA}You ain't gotta worry. You {sadA}know that, right?
+159) BONNIE
+{fearB}[whisper-shout] What the {angryB}hell was THAT?!
+160) BONNIE
+{angryB}[whisper-shout] Does she {fearB}think we ...?
+161) BONNIE
+{angryB}[whisper-shout] GIRLFRIEND?
+162) 
+Let's keep moving.
+163) 
+Just drop it, Leland.
+164) 
+What's in the bag, Dee?
+165) BONNIE
+{fearA}[changing subject, trying to keep the convo light] Let's keep moving. I {disgustA}feel like I've been in a {sadA}washing machine all day.
+166) BONNIE
+{sadA}[pointed] Just drop {angryA}it, Leland.
+167) BONNIE
+{thinkingA}[pointed] What's in the {sadA}bag, Dee?
+168) LELAND
+{thinkingA}[carefully wading in] Not to interrupt the girl talk here, {fearA}but, Dee... {angryA}that bag--
+169) LELAND
+{angryA}[pointed] I ain't the one who {disgustA}stopped, Dee.
+170) DEE
+{angryB}[fighting with husband] But you ARE the one who {angryD}made ME stop.
+171) LELAND
+{angryB}[indignant, fighting with wife] Attitude?!
+172) DEE
+{angryA}[frustrated, emotionally hurt] Now we're standin' here in the woods, {fearB}soakin' through, and {thinkingA}for what? Don't you {angryA}want to get to the camp before dark?
+173) DEE
+{angryA}[pointed] I've about had it {angryC}with that attitude.
+174) LELAND
+{thinkingA}[frustrated] Irregardless, we could {disgustA}just as easy carry on like this {angryA}while we're walkin'.
+175) DEE
+{fearB}False. This is how {angryA}all our fights go. {disgustA}Every time.
+176) LELAND
+{thinkingA}[flustered] All right, I {disgustA}can't remember one ESPECIALLY, but {fearA}I know I have.
+177) LELAND
+{thinkingA}That's not really an answer.
+178) LELAND
+Well, you sure do LOOK better. {thinkingA}Though you gotta admit, anything {happyB}is an improvement.
+179) BONNIE
+[amused] {happyC}You don't set the rules 'round here.
+180) LELAND
+[admitting, jovial] Well, {happyA}that's a fact.
+181) LELAND
+{thinkingA}Well?
+182) BONNIE
+{fearB}[annoyed] I'm thinkin'.
+183) 
+Both.
+186) BONNIE
+{happyA}Both.
+184) BONNIE
+{sadA}But they're both such {happyC}attractive options.
+185) LELAND
+{surprisedA}Both?! The {normalC}whole pointa' the game {happyA}is to choose!
+187) 
+I'm a real poster child.
+188) 
+You're a good friend.
+189) 
+Oh, shut up.
+190) LELAND
+{sadA}I mean it, though. {fearA}After we found ya, {fearB}you were still so hooked on that stuff... {thinkingA}I never thought you'd make it.
+191) BONNIE
+{sadA}[sarc] Yeah, I'm a {happyD}real poster child.
+192) BONNIE
+{sadA}[honest] You're a {happyC}good friend, Leland.
+193) BONNIE
+{fearB}[wry] Oh, shut up. What {happyA}are you, my sponsor?
+194) LELAND
+{thinkingA}[wry] I could see you on a brochure.
+195) BONNIE
+{fearB}Like the ones at the dentist? Before and {happyA}after? With the puffy {happyC}face and the yella teeth?
+196) BONNIE
+{happyA}[wry] Okay, you're not {happyD}THAT great.
+197) LELAND
+{happyB}[matter-of-fact] I know.
+210) 
+I know.
+198) LELAND
+{happyA}[wry] I'm the {happyB}best you got.
+199) BONNIE
+{happyD}[sarc] God help me.
+200) LELAND
+"Just {happyB}look at her now."
+201) LELAND
+You {happyB}got me there.
+202) DEE
+{sadA}I'd kill for a towel right now.
+203) BONNIE
+{happyA}Or a blow dryer.
+204) LELAND
+[pickup1]{fearA}All I'm sayin' is, {happyA}good luck findin' a man if {thinkingA}you have lobster hands.
+205) BONNIE
+{happyC}[defensive, amused] Think of all the crazy {happyA}stuff you could grab!
+206) BONNIE
+{happyA}[defensive, amused] What? How is that MORE {happyD}gross than LOBSTER HANDS?
+207) LELAND
+Well, for {surprisedA}one, it's {thinkingA}in your mouth.
+208) DEE
+{happyA}[amused] Yes! Good Lord, deliver us a blow dryer.
+209) DEE
+{angryB}Well, TOO bad, you {angryD}already are.
+212) 
+Slow down.
+213) BONNIE
+{fearA}[emotional] I know. {thinkingA}God, Leland. {sadA}Thank you.
+214) BONNIE
+{thinkingA}[honestly] What are {fearA}you saying?
+216) BONNIE
+{sadA}[casual, guarded] Slow down, {disgustA}Leland.
+217) LELAND
+{thinkingA}What did you find?
+218) DEE
+{thinkingA}[evasive]I told you, {disgustA}it's a surprise....
+219) LELAND
+{angryA}[raising voice] Dee, did ya hear me?
+220) DEE
+{angryA}[annoyed] Keep up the pace, you two.
+221) BONNIE
+{happyA}[jovial] Hey, Dee, when we get back to camp, would {disgustA}you let me borrow some of that {happyC}nail polish?
+222) DEE
+{happyB}[jovial] Sure, hon. You {happyA}like this color?
+223) BONNIE
+{normalA}It's my favorite. And after {sadA}today I could use a {happyC}new coat, ya know?
+224) DEE
+{disgustA}Same here. I feel like a {fearA}drowned rat with these claws.
+225) LELAND
+{thinkingA}[frustrated] Dammit, Dee, you gotta {angryB}give us more than that.
+226) BONNIE
+{sadA}[amused] And how exactly do ya {happyC}"think harder?"
+227) LELAND
+{happyB}[joking] Think harder.
+228) LELAND
+{thinkingA}Good point. I'll {happyA}think about that.
+229) BONNIE
+{happyA}Hey, you asked the question, hoss.
+231) LELAND
+{fearA}Bonnie, darlin', {sadB}{dee angryB}I'm sorry we're--
+232) DEE
+{angryB}Save it. I know {angryD}what side your bread is buttered on.
+233) DEE
+{angryC}Yours, too.
+234) DEE
+DARLIN'?{angryC}
+235) LELAND
+[pickup1]{sadB} Dee, come {fearA}on--
+236) LELAND
+{sadB}[frustrated] Dee, now's {sadA}not the time!
+237) DEE
+{angryA}[frustrated] It's ALWAYS "later."
+238) BONNIE
+Good thing I'm {happyD}not lookin' for one, then.
+239) LELAND
+{sadB}[Stumbling] I mean, {disgustA}you were. {thinkingA}You were, uh... {sadA}you know.
+240) LELAND
+{fearB}[Apologetic] That came out wrong... {sadA}what I mean is....
+241) LELAND
+{disgustA}[getting frustrated] WHERE down the road?
+242) DEE
+{angryA}[dismissive] Some place off {angryC}thatta way.
+243) DEE
+{angryA}[snapping] Look, I found it down the road a {angryC}piece, all right?
+244) DEE
+{thinkingA}[snidely] Those mean the same thing, {angryA}Leland.
+245) LELAND
+{angryA}[frustrated] Just tell us, baby.
+246) LELAND
+{fearA}[trying not to get angry] You don't think, {disgustA}or you don't know?
+247) DEE
+{disgustA}[evasive] I don't think so.
+248) LELAND
+{thinkingA}[changing subject] Calm down, Dee. Just {sadB}tell us where ya {disgustA}found the bag.
+249) DEE
+{fearA}[defensive]Me, cagey? You two {angryA}are the ones bein' cagey.
+250) LELAND
+{fearB}You ain't outta the woods yet, {sadA}I know, but {thinkingA}you've come a long way, Bonnie. {happyA}I'm proud of you.
+251) LELAND
+{disgustA}[frustrated]Whatever issues we got, {fearA}we'll hash 'em out later.
+252) DEE
+{sadA}[a little deflated after seeing them together]I found us {thinkingA}somethin'.
+253) DEE
+{angryA}[pointed] What're you two up to?
+254) 
+Yell To
+255) 
+Enough, come on!
+256) BONNIE
+[pickup2][raising her voice] Hey! Enough of this, come on!
+257) 
+You're drawing walkers!
+258) BONNIE
+[pickup2][raising her voice] You're gonna draw every dead thing from miles around, you keep on like this!
+259) 
+I'm leaving in a minute!
+260) BONNIE
+[pickup2][Raising her voice] I'm gonna leave ya BOTH here in a minute!

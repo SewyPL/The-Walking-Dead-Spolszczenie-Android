@@ -1,0 +1,100 @@
+1) 
+Game Title
+2) 
+Game Details
+3) 
+desc_achieved_StatsItem_Chapter1
+4) 
+desc_unachieved_StatsItem_Chapter1
+5) 
+desc_achieved_StatsItem_Chapter2
+6) 
+desc_unachieved_StatsItem_Chapter2
+7) 
+desc_achieved_StatsItem_Chapter3
+8) 
+desc_unachieved_StatsItem_Chapter3
+9) 
+desc_achieved_StatsItem_Chapter4
+10) 
+desc_unachieved_StatsItem_Chapter4
+11) 
+desc_achieved_StatsItem_Chapter5
+12) 
+desc_unachieved_StatsItem_Chapter5
+13) 
+desc_achieved_StatsItem_Chapter6
+14) 
+desc_unachieved_StatsItem_Chapter6
+15) 
+desc_achieved_StatsItem_Chapter7
+16) 
+desc_unachieved_StatsItem_Chapter7
+17) 
+desc_achieved_StatsItem_Chapter8
+18) 
+desc_unachieved_StatsItem_Chapter8
+19) 
+Into the Fire
+20) 
+Twice Shy
+21) 
+There Ain't No Way
+22) 
+Mercy
+23) 
+The Marsh House
+24) 
+What's in the Bag?
+25) 
+Stay Close to Me
+26) 
+What Remains
+27) 
+name_StatsItem_105_Chapter1
+28) 
+desc_achieved_StatsItem_105_Chapter1
+29) 
+desc_unachieved_StatsItem_105_Chapter1
+30) 
+name_StatsItem_105_Chapter2
+31) 
+desc_achieved_StatsItem_105_Chapter2
+32) 
+desc_unachieved_StatsItem_105_Chapter2
+33) 
+name_StatsItem_105_Chapter3
+34) 
+desc_achieved_StatsItem_105_Chapter3
+35) 
+desc_unachieved_StatsItem_105_Chapter3
+36) 
+name_StatsItem_105_Chapter4
+37) 
+desc_achieved_StatsItem_105_Chapter4
+38) 
+desc_unachieved_StatsItem_105_Chapter4
+39) 
+name_StatsItem_105_Chapter5
+40) 
+desc_achieved_StatsItem_105_Chapter5
+41) 
+desc_unachieved_StatsItem_105_Chapter5
+42) 
+name_StatsItem_105_Chapter6
+43) 
+desc_achieved_StatsItem_105_Chapter6
+44) 
+desc_unachieved_StatsItem_105_Chapter6
+45) 
+name_StatsItem_105_Chapter7
+46) 
+desc_achieved_StatsItem_105_Chapter7
+47) 
+desc_unachieved_StatsItem_105_Chapter7
+48) 
+name_StatsItem_105_Chapter8
+49) 
+desc_achieved_StatsItem_105_Chapter8
+50) 
+desc_unachieved_StatsItem_105_Chapter8

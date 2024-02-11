@@ -1,0 +1,116 @@
+1) 
+Going Hungry
+2) 
+Completa el cap�tulo 1 del episodio 2.
+3) 
+Completa el cap�tulo 2 del episodio 2.
+4) 
+Completa el cap�tulo 3 del episodio 2.
+5) 
+Completa el cap�tulo 4 del episodio 2.
+6) 
+Completa el cap�tulo 5 del episodio 2.
+7) 
+Completa el cap�tulo 6 del episodio 2.
+8) 
+Completa el cap�tulo 7 del episodio 2.
+9) 
+Completed Episode 2: "Starved For Help"
+10) 
+Complete Episode 2: "Starved For Help"
+11) 
+No es robar si lo necesitas
+12) 
+It's Not Stealing If You Need It
+13) 
+You Fight Like A Dairy Farmer
+14) 
+Taking Charlotte
+15) 
+Too Much Salt Will Kill You
+16) 
+Guess Who's Coming to Dinner
+17) 
+Thank you for shopping at Save Lots!
+18) 
+Conversation Killer
+19) 
+The Walking Dead: Episode 2 "Starved For Help"
+20) 
+The Walking Dead: Episode 2 "Starved For Help"
+21) 
+Dealt with a stranger caught in a dear trap.
+22) 
+Complete chapter 1 of episode 2.
+23) 
+Reacted to the surprise attack on Katjaa.
+24) 
+Complete chapter 2 of episode 2.
+25) 
+Had a showdown with a crazy woman.
+26) 
+Complete chapter 3 of episode 2.
+27) 
+Discovered the source of the food.
+28) 
+Complete chapter 4 of episode 2.
+29) 
+Chose sides, but was it worth it?
+30) 
+Complete chapter 5 of episode 2.
+31) 
+Took out Danny and kept his gun.
+32) 
+Complete chapter 6 of episode 2.
+33) 
+Watched Andy die.
+34) 
+Complete chapter 7 of episode 2.
+35) 
+name_StatsItem_102_Chapter1
+36) 
+desc_achieved_StatsItem_102_Chapter1
+37) 
+desc_unachieved_StatsItem_102_Chapter1
+38) 
+name_StatsItem_102_Chapter2
+39) 
+desc_achieved_StatsItem_102_Chapter2
+40) 
+desc_unachieved_StatsItem_102_Chapter2
+41) 
+name_StatsItem_102_Chapter3
+42) 
+desc_achieved_StatsItem_102_Chapter3
+43) 
+desc_unachieved_StatsItem_102_Chapter3
+44) 
+name_StatsItem_102_Chapter4
+45) 
+desc_achieved_StatsItem_102_Chapter4
+46) 
+desc_unachieved_StatsItem_102_Chapter4
+47) 
+name_StatsItem_102_Chapter5
+48) 
+desc_achieved_StatsItem_102_Chapter5
+49) 
+desc_unachieved_StatsItem_102_Chapter5
+50) 
+name_StatsItem_102_Chapter6
+51) 
+desc_achieved_StatsItem_102_Chapter6
+52) 
+desc_unachieved_StatsItem_102_Chapter6
+53) 
+name_StatsItem_102_Chapter7
+54) 
+desc_achieved_StatsItem_102_Chapter7
+55) 
+desc_unachieved_StatsItem_102_Chapter7
+56) 
+name_StatsItem_102_Chapter8
+57) 
+desc_achieved_StatsItem_102_Chapter8
+58) 
+desc_unachieved_StatsItem_102_Chapter8

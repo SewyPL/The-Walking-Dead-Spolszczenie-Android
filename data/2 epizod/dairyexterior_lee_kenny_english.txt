@@ -1,0 +1,210 @@
+1) KENNY
+{sadA}Hey, {normalB}they said Mark got attacked?
+2) LEE
+{normalD}Don't worry, he's fine.
+3) KENNY
+{normalB}He'd better be. We need him.
+4) LEE
+{angryA}Bandits attacked us.
+5) KENNY
+{angryA}God dammit. {thinkingA}Didn't think they'd come all the way out here.
+6) KENNY
+{normalA}Least he didn't get bit, I guess.
+7) LEE
+{thinkingA}I haven't seen him since.
+8) KENNY
+{normalA}Hmm, should I ask Kat {normalB}to look in on him when she's done with the cow?
+9) KENNY
+{normalB}Maybe, maybe not. Once we get our food, we can do a better job of defending it.
+10) KENNY
+{thinkingA}Instead of just waitin' around at the motel for somebody to attack us or eat us.
+11) LEE
+{thinkingA}This place isn't safe.
+12) LEE
+{happyA}I'm glad you decided to come out with us.
+13) KENNY
+{normalB}Yeah, well, we need the food.  {normalA}Helping this cow better be worth it.
+14) KENNY
+[worried] {angryA}I noticed there weren't too many walkers around on the way up.
+15) LEE
+{normalD}That's good.
+16) KENNY
+{normalA}Is it? I got a bad feeling.
+17) KENNY
+{angryA}Whether it's from the walkers or the bandits, there's a shitstorm comin'.
+18) LEE
+{normalC}Something wrong with that?
+19) KENNY
+{angryA}If we ain't seeing 'em, that means either there's a shitload of 'em waiting somewhere...
+20) KENNY
+...or else somebody with a lot more firepower than us is killin' 'em off.
+21) KENNY
+{normalA}Either way, I gotta bad feeling a shitstorm's brewin'.
+22) LEE
+{normalD}The walkers don't worry me as much as the bandits.
+23) KENNY
+{normalB}That's what I'm sayin'.
+24) KENNY
+{fearA}Somethin's coming, Lee. There's gonna be a war.
+25) KENNY
+{sadA}On the way over here, I was gettin' dizzy, hands shakin', cold sweats. {normalA}Thought I was gonna pass out.
+26) LEE
+{normalD}They've got food here.
+27) KENNY
+{angryA}I hope they feed us, Lee. Soon.
+28) KENNY
+{thinkingA}Yeah, but I'm not just talking about one meal, ya know?
+29) LEE
+{normalC}How you holding up?
+75) 
+How you holding up?
+30) KENNY
+[quietly] {angryA}If they got a supply of food somewhere, {normalA}we've gotta know where it is and how to get it.
+31) KENNY
+[quietly] {sadA}In case something happens.
+32) KENNY
+{normalB}Katjaa knows what's up, talk to her and she'll show you where I'm talking about.
+33) KENNY
+{angryA}Find out what's in that room.
+34) LEE
+[quietly] {thinkingA}I still don't like it.
+35) KENNY
+{sadA}Come on, Lee, it's not just us. We've gotta think of the kids.
+36) KENNY
+[quietly] {normalB}You don't have to like it, just do it.
+37) LEE
+[quietly] {thinkingA}You're right.
+38) LEE
+[quietly] {normalB}It's probably nothing. {normalC}What could they be hiding at a dairy farm?
+39) KENNY
+[quietly] {thinkingA}Food!
+40) LEE
+[quietly] {angryA}These folks deserve their privacy.
+41) KENNY
+[quietly] {normalB}We just want to look, Lee. We're not stealing anything.
+42) LEE
+[quietly] {angryA}We can't piss these people off, Kenny. We need them to trust us.
+43) KENNY
+[quietly] {normalA}That goes both ways, Lee.
+44) LEE
+[quietly] {angryA}You want ME to take a look?
+45) KENNY
+[quietly] {normalB}Exactly.
+46) LEE
+{normalA}Bye.
+47) KENNY
+{happyA}Hey, Lee. {normalA}Nice place, huh?
+48) KENNY
+{normalA}So, uh... what's up?
+49) KENNY
+[after being ignored]{sadA}Well... just be careful, I guess.
+50) LEE
+{normalA}Hi, Kenny.
+51) LEE
+[greeting]{normalB}Hey...
+86) LEE
+[greeting]{normalB}Hey...
+52) KENNY
+[noticing Lee's silence]{angryA}You sense it too, don't ya?   {fearA}Man, I've got a feeling something bad is on the horizon, Lee.
+53) KENNY
+[responding to Lee's silence; hushed][quietly]  {angryA}Well don't look at me!  {thinkingA}I'm no good at breaking and entering.  But somebody's gotta do it!
+54) KENNY
+{normalB}What's up, Lee?
+55) KENNY
+[looks at Danny] {normalB}Mind if I talk to Lee for a minute?
+56) KENNY
+[looks at Danny] {normalB}Gimme a sec...
+57) DANNY
+{normalB}Yeah, go ahead.
+58) LEE
+[pickup2] I guess Lilly isn't too thrilled about being here.
+59) KENNY
+[pickup2] I could give two shits about what Lilly wants. Duck and Katjaa need food, and I'm not about to sit around that Motor Inn and watch them go hungry.
+60) LEE
+[pickup2] If everything works out, maybe he and Katjaa can have an easier life here.
+61) KENNY
+[pickup2][bitter]Yeah, right.
+62) LEE
+[pickup2] That's in the past, Kenny. A lot's happened since then.
+63) KENNY
+[pickup2] [bitter]That's funny, you didn't seem too worried about Duck when Larry wanted to throw him out into the street back in Macon.
+64) KENNY
+[pickup2] [bitter] That's funny, considering you didn't seem too worried about Duck back at Hershel's Farm.
+65) KENNY
+[pickup2] I hope you're right. Duck and Clementine deserve a better life than starving to death at some crappy motel.
+66) LEE
+[pickup2] I'm gonna go have a look around.
+67) KENNY
+[pickup2] I'll be here if you need me. Let me know if you find anything.
+68) KENNY
+[pickup2]Well, it wasn't easy. Duck didn't look so good on the walk over to this place.
+69) LEE
+[pickup2] Did Duck and Katjaa get here okay?
+70) LEE
+[pickup2]Kenny?
+71) LEE
+[pickup2] I still can't get that lock off the door.
+72) KENNY
+[pickup2][reminder] Hmmm.  You probably just need a screwdriver or something.
+73) 
+Lilly doesn't want to be here.
+74) 
+Your family made it here okay?
+76) KENNY
+[pickup3][follows # 310481005]You're with me on this, right?
+77) LEE
+[pickup3][agreeing with Kenny that Lilly is wrong about the motor inn]Yeah, of course.  Lilly's judgement is clouded, but you've got a pretty clear head about these things.
+78) LEE
+[pickup3][disagreeing with Kenny about the motor inn]Lilly's been doing a good job of keeping the group together.  You need to back off a bit.
+79) LEE
+[pickup3][not siding with anyone about the motor inn]You're not making me pick sides, Kenny.
+80) KENNY
+[pickup3][disapointed in Lee for siding with Lilly] Whatever.
+81) KENNY
+[pickup3][in ernest]Well... you better think about it, because that time is coming.
+82) 
+Yeah, of course.
+83) 
+No. Lilly's been doing a good job.
+84) 
+I'm not choosing sides.
+85) KENNY
+[pickup3][responding to Lee's silence and refusal to pick sides] Hmf.  Always the diplomat.
+87) KENNY
+[pickup3] Hey Lee, found anything interesting?
+88) KENNY
+[pickup3] Good to know. Keep your ears open for anything else that might help us.
+89) LEE
+[pickup3] I'm just trying to make sure this place is secure, in case we decide to make this a more long term solution.  Except for those people in the woods, it seems pretty safe.
+90) KENNY
+[pickup3] That's true.  Well, it's good to know what we're working with here.
+91) KENNY
+[pickup3] Keep looking around and let me know if you find anything else.
+92) LEE
+[pickup3] I was talking to Andy a bit earlier, it doesn't sound like they have too many guns around. They rely mostly on the fence to keep them safe.
+93) LEE
+[pickup3] Well that's the problem, when there's no more gas, there's no more fence.
+94) KENNY
+[pickup3] Hey Lee, how's it going with the St. Johns?
+95) LEE
+[pickup3] Good. I was talking to Andy earlier and offered our group's assistance on the dairy.
+96) KENNY
+[pickup3] Great. Sounds like they're starting to accept us.
+97) LEE
+[pickup3] Definitely.
+98) LEE
+[pickup3]I don't think they have much to protect them besides the fence so he seemed pretty appreciative.
+99) KENNY
+[pickup3] Yeah, this place is sure a step up from that shithole motor inn.
+100) LEE
+[pickup3] They seem like good people. If we play our cards right, I still think it could work out for us here.
+101) KENNY
+[pickup3] Don't wait too long to help scope out that bandit camp. It'd be a good opportunity to find a bit more out about the St. John's and their relationship with those... bandits or whatever.
+102) LEE
+[pickup3] Right. I'll see what I can find out.
+103) LEE
+[pickup3] Good idea.
+104) KENNY
+[pickup3] Don't wait too long to help scope out that bandit camp.  Sounds like they're pretty amped up about it. This might be a good way to earn their trust.
+105) KENNY
+[pickup3]So as long as you're on THIS side, things are all right.  Provided the fence holds out.

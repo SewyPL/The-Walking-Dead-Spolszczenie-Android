@@ -1,0 +1,72 @@
+1) JOLENE
+[voice-over] Oh, you're so pretty, baby doll. You and Danielle coulda been friends.
+2) JOLENE
+[heavy breathing] *breathing*
+3) JOLENE
+[voice-over] The dead ain't evil, they just eat. They don't mean nothin' by it.
+4) JOLENE
+[voice-over] They smash everything, and they kill whatever they can, but they don't think about it. They don't PLAN it.
+5) JOLENE
+[to camera] This video's for you, Danielle! So when you grow up, you'll know what your Mama was like.
+6) JOLENE
+[voice-over] People gonna try and do stuff to her, make you watch, so she wakes up screamin' so you can't stop it and it's bringin' in all the dead and you can't stop her screamin' but you got to make her stop.
+7) JOLENE
+[voice-over] {crazyb}don't kill their own.
+8) JOLENE
+[voice-over] You better take care of her. You ain't seen what I've seen.
+9) JOLENE
+[to camera] Even Paul told me it was justice. We just couldn't live there no more.
+10) JOLENE
+[voice-over] {crazyA}'all thinkin' you're safe, {crazye}sittin' there actin' like things are the way they used to be.
+11) JOLENE
+[to camera] And why she did what she did...
+12) LEE
+{normalC}When did you lose it?
+13) CLEMENTINE
+{sadA}I had it a couple days ago.
+14) LEE
+{normalD}Do you really need it?
+15) LEE
+{sadA}Sorry, hon, I don't have time.
+16) CLEMENTINE
+[annoyed] {angryA}Lee!
+17) CLEMENTINE
+[annoyed] {angryA}Lee!
+18) JOLENE
+[voice-over] I can't protect everybody. I will NOT let them hurt you.  I promise you baby, as long as I live you will be safe...
+19) JOLENE
+[voice-over] Y'all don't know what's comin'.  Y'all don't know how to keep her safe.  But I know the things they done, baby girl.  I know what to say.
+20) JOLENE
+[Heavy Breathing]
+24) LEE
+Where's your hat?
+25) CLEMENTINE
+[tired and hungry] I don't know.  Can you help me find it?
+26) LEE
+[Dup the line 310522485- Don't re-record][Process - In the diatance - 100 feet away] Sure. When did you lose it?
+27) CLEMENTINE
+[Dup the line 310522484- Don't re-record][Process - In the diatance - 100 feet away]I had it a couple days ago.
+28) CLEMENTINE
+[Dup the line 310522487- Don't re-record][Process - In the diatance - 100 feet away][sad that Lee wont help find her hat] That was my favorite hat.
+29) LEE
+[Dup the line 310522488- Don't re-record][Process - In the diatance - 100 feet away]Sorry, hon, I don't have time.
+30) CLEMENTINE
+[Dup the line 310522517- Don't re-record][Process - In the diatance - 100 feet away][tired & Hungry -"Do you really need your hat?"]My dad gave it to me for my birthday.
+31) LEE
+[Dup the line 310522486- Don't re-record][Process - In the diatance - 100 feet away][tired & Hungry]Do you really need it?
+32) CLEMENTINE
+[Dup the line 310522489- Don't re-record][Process - In the diatance - 100 feet away][annoyed that lee isnt answering her question] Lee!
+33) JOLENE
+[pickup3]Don't worry, little girl.  Bandits got their eye on that dairy.  As long as they keep getting food from them, you'll be safe.  I promise.
+34) JOLENE
+[pickup3][alt]Don't worry, little girl.  Them people got their eye on that dairy.  As long as they keep getting food from them, you'll be safe.  I promise.
+35) JOLENE
+[pickup3][Follows  310534159 &310534164]It's the living you gotta be afraid of... the people I used to call friends... The people who took... [Starts to break up]
+36) CLEMENTINE
+Okay.
+37) LEE
+[pickup2][tired]{thinkingB}How ya doing, Clementine?
+38) LEE
+[pickup2][tired and hungry]{thinkingA}I promise if I find it, I'll let you know.
+39) JOLENE
+[voice-over] {crazyb}Les morts-vivants ne tuent pas les siens.

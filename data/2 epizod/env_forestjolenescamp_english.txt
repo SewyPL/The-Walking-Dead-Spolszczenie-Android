@@ -1,0 +1,350 @@
+1) DANNY
+[hushed]{ThinkingA}You see anybody?
+2) LEE
+[hushed]{body-B}{ThinkingA}Looks empty.
+3) DANNY
+[hushed]{body-A}{NormalC}Okay, {ThinkingA}let's take a look around then.
+4) LEE
+[hushed]{body-B}{ThinkingA}Can't tell.
+5) DANNY
+[hushed]{body-A}{ThinkingA}I'm gonna check the tent first.
+6) DANNY
+[hushed]{body-A}{ThinkingA}I got the tent.
+7) LEE
+[hushed]{body-B}{AngryA}Stay on your guard.
+8) 
+Stay on your guard.
+9) 
+Can't tell.
+10) 
+Looks empty.
+11) DANNY
+{ThinkingA}Anything worth taking?
+12) LEE
+{body-B}{ThinkingA}They're all from Save-Lots.
+13) DANNY
+{body-A}{HappyA}Heh, I'll pass.
+14) LEE
+{body-B}{ThinkingB}This is too much stuff for just one person.
+15) LEE
+{body-B}{ThinkingA}We don't know whose camp this is. {SadA}Might not be bandits.
+16) DANNY
+{NormalB}The first few days, {NormalC}they told folks to gather to the Save-Lots by the interstate.
+17) 
+Not unless you need empty cans.
+18) 
+This is too much for one person.
+19) 
+We don't know whose camp this is.
+20) DANNY
+{body-A}{ThinkingA}What'd you find?
+148) DANNY
+{body-A}{ThinkingA}What'd you find?
+21) LEE
+{AngryA}Battery's dead, though.
+153) LEE
+{AngryA}Battery's dead, though.
+22) LEE
+{body-B}{ThinkingA}A video camera.
+149) LEE
+{body-B}{ThinkingA}A video camera.
+23) LEE
+{body-B}{NormalC}This camp's way too small for {ThinkingA}all the bandits we've seen.
+78) LEE
+{body-B}{NormalC}This camp's way too small for {ThinkingA}all the bandits we've seen.
+24) DANNY
+{body-A}{NormalB}Maybe they're just scouts or something.
+79) DANNY
+{body-A}{NormalB}Maybe they're just scouts or something.
+25) LEE
+{body-B}{FearA}Let's get out of here.
+26) DANNY
+{body-A}{SurprisedA}Yeah, that {ThinkingA}gunshot's gonna bring some walkers.
+27) LEE
+{body-B}{ThinkingB}Do you know any of these bandits?
+28) DANNY
+{body-A}{ThinkingA}Maybe. {NormalB}I've never seen 'em.
+29) DANNY
+{NormalC}They're probably neighbors, though, {ThinkingA}now that you mention it.
+30) LEE
+{body-B}{NormalC}Tent looks pretty new.
+31) LEE
+{ThinkingA}Anybody inside?
+32) DANNY
+{body-A}{NormalB}Two sleeping bags. {ThinkingA}One of 'em's kid-sized.
+33) LEE
+[quietly] {body-B}{SurpriseB}...the hell?
+34) JOLENE
+{AngryD}Jesus never came back for us.
+35) JOLENE
+Don't need to go lookin' for death. {HappyD}It's already found us.
+36) JOLENE
+{CrazyE}He took her, he got her. {CrazyB}Left the rest of us behind.
+37) JOLENE
+{body-A}{CrazyD}Y'all wave them guns like you're lookin' to die.
+38) JOLENE
+{CrazyC}Some of us already are!
+39) JOLENE
+{FearB}Just waitin' to get turned into monsters.
+40) DANNY
+[pickup3][excited] {body-A}{AngryB}God dammit.
+41) DANNY
+{ThinkingB}What the hell'd you do that for?
+42) DANNY
+{body-A}{SurprisedA}Shit!
+43) LEE
+{body-B}{SurpriseB}She was about to shoot us both!
+44) DANNY
+{body-A}{AngryA}You could've just taken her down. {ThinkingA}You didn't have to kill her.
+45) LEE
+{body-B}{AngryB}Justice. {ThinkingA}They've killed too many people.
+46) DANNY
+{body-A}{SurprisedA}Jeez. {HappyA}Whatever, Tex.
+47) LEE
+{body-B}{AngryC}You heard her. {SurpriseB}She was too far gone.
+48) DANNY
+{body-A}{AngryA}She was a fuckin' freakshow, {SurprisedA}but you didn't have to kill her.
+49) DANNY
+[hushed]{body-A}{ThinkingA}Watch my back, Lee.  {NormalC}I'm gonna check out the tent.
+50) JOLENE
+{body-A}{CrazyB}I ain't going back. {AngryA}You tell 'em {CrazyD}Jolene ain't goin' back!
+51) DANNY
+{body-A}{FearC}Shit!
+52) JOLENE
+{body-Crossbow}{CrazyA}PUT YOUR GUNS DOWN!
+53) DANNY
+{body-A}{SadB}I mean, I know she was crazy {SurprisedA}but... damn!
+54) DANNY
+[responding to lee's silence]{body-A}{ThinkingB}...I'll take that as a "No."
+55) LEE
+[heavy sigh while looking at the dead body]
+56) DANNY
+[hushed]{NormalC}I know it's around here.  {ThinkingB}It's gotta be close.
+57) LEE
+[hushed]{body-B}{ThinkingA}Not yet.
+58) DANNY
+[hushed]{body-A}{ThinkingA}See anything?
+59) LEE
+[Excited at his discovery, but still cautious][hushed]{SurpriseA}Here!
+60) DANNY
+[hushed]{SurprisedA}Oh shit!  {HappyA}You found it?!
+61) DANNY
+{body-A}{HappyA}What's in the boxes?
+62) DANNY
+[subtly relieved] {SurprisedA}Oh. good.
+151) DANNY
+[subtly relieved] {SurprisedA}Oh. good.
+63) DANNY
+[a little nervous]{DisgustA}Lemme see that.
+150) DANNY
+[a little nervous]{DisgustA}Lemme see that.
+64) DANNY
+{NormalC}What else they got over here? {ThinkingA}Let's see if we can find anything useful and then get a move on.
+152) DANNY
+{NormalC}What else they got over here? {ThinkingA}Let's see if we can find anything useful and then get a move on.
+65) LEE
+{body-B}{DisgustA}Yuk.  {FearA}I don't need that.
+66) JOLENE
+{body-A}{CrazyC}Don't you fucking move!
+67) DANNY
+{body-A}{NormalB}Clear.
+68) LEE
+{body-B}{ThinkingB}That's what I was thinking.
+69) DANNY
+Take a look around anyway.  {ThinkingB}There's probably some shit around here {AngryA}they stole from us.
+70) DANNY
+{ThinkingA}This camp's too small.  {NormalC}It can't be their main base.
+71) 
+Save Lots Box
+72) 
+Dairy Box
+73) 
+Look At
+74) 
+Shoot
+75) 
+Camera
+76) 
+Sleeping Bag
+175) 
+Sleeping Bag
+77) 
+Tent
+80) LEE
+[pickup1][casual/to himself][looking at empty bottles on table]{body-B}{SadA}Empty. {ThinkingA}But it looks like someone's been eating out of these recently.
+81) DANNY
+[pickup1][suspicious, but trying to be casual]{body-A}{NormalB}What is? [What's weird?]
+82) LEE
+[pickup1][casual/to himself][looking at empty soup cans]{body-B}{ThinkingA}Weird.
+83) LEE
+[pickup1][casual/to Danny][looking at empty cans]{ThinkingB}I think someone's saving these empty kid's soup cans.
+84) LEE
+[pickup1][casual/to himself][looking at stuff]{body-B}{NormalB}Just water.
+85) LEE
+[pickup1][sad/to himself][looking at a kids doll with blood on it][sighs heavily]{body-F}{SadB}Aw, man.
+86) LEE
+[pickup1][alt - "Anything useful?"]Not unless you need a bunch of empty cans.
+87) 
+Bottles
+88) 
+Gas Can
+89) 
+Kettle
+90) 
+Shopping Cart
+91) 
+Trash
+92) 
+Bloody Bunny
+93) 
+Photo
+94) 
+Nitroglycerine
+95) LEE
+[pickup2][disappointed, to himself] Nothing but fumes. Shit.
+96) LEE
+[pickup2][curious] Boxes from the dairy here.
+97) DANNY
+[pickup2][nervous] Prob'ly the food we've been given' em. Fuckers crossed the line.
+98) DANNY
+[pickup2][sad] {body-A}{SadA}I'm real sorry 'bout your friend. {ThinkingA}Never should-a happened like this...
+99) LEE
+[pickup2] {body-B}{SadA}Yeah, thanks.
+100) DANNY
+[pickup2][sad] {body-A}{SadA}I'm sorry 'bout your friend.
+101) LEE
+[pickup2] {body-B}{ThinkingA}Don't worry about it.
+102) DANNY
+[pickup2] {ThinkingA}Mama will fix him up good as new.
+103) LEE
+[pickup2] {HappyA}Thanks.
+104) LEE
+[pickup2][suspicious] {body-B}{NormalB}Hmm. Looks like they were moving a lot of stuff.
+105) LEE
+[pickup2][curious] {body-B}{ThinkingA}Looks like they expected to be here a while.
+106) LEE
+[pickup2][curious] {body-F}{FearA}Jesus... There's {SadB}a kid mixed up in this?
+107) DANNY
+[pickup2][overhearing] {body-A}{HappyA}WAS, more like.
+108) DANNY
+[pickup2] [slightly confused] It must be. They don't share their neighborhood.
+109) DANNY
+[pickup2] Trust me, these selfish bastards don't stop takin'. Prob'ly just to remind us that it's theirs.
+110) DANNY
+[pickup2] [dimissivel and smarmy] {Body-A}{DisgustA}Pussy.
+111) LEE
+[pickup2]  {body-B}{AngryB}She said she wasn't with the guys who killed Mark.   {AngryC}Why'd you call her a liar?
+112) DANNY
+[pickup2] {body-A}{AngryA}Because they're all in it together!  {AngryB}There's THEM... {ThinkingB}and there's US.  {DisgustA}Ain't no fucking Switzerland.
+113) LEE
+[pickup2]  {body-B}{AngryB}You straight up murdered that woman!
+114) DANNY
+[pickup3]  [excited]{body-A}{AngryA}She had a crossbow pointed at my forehead!
+115) LEE
+[pickup2] {Body-B}{AngryC}What did she mean about Clementine?  {ThinkingB}Why did she say "Tell him, boy!"
+116) DANNY
+[pickup2] [mocking Lee's line] {Body-A}{HappyA}Well, you're welcome... I guess.
+117) LEE
+[pickup2]{Body-B}{DisgustA}Well.  Thanks, {DisgustB}I guess.
+118) LEE
+[pickup2]{Body-B}{ThinkingB}She said she brought you meat.
+119) DANNY
+[pickup2] {Body-A}{NormalC}She did?
+120) LEE
+[pickup2] Yeah, {AngryB}and you got pissed.
+121) DANNY
+[pickup2] {ThinkingA}Oh.
+122) LEE
+[pickup2] Why?
+123) DANNY
+[pickup2] {DisgustA}We do our own hunting.
+124) DANNY
+[pickup2][flat]{HappyB}Once they see this ... {AngryB}they'll get the message.
+125) LEE
+[pickup2] {Body-B}{SadA}So that's it?  {ThinkingB}We going back?
+126) DANNY
+[pickup2]{Body-A}{AngryA}If they ain't here, I don't know where they are.  {ThinkingA}And it ain't a good idea to go tromping through the woods looking for them.  {HappyA}So, yeah, we head back.
+127) DANNY
+[pickup2] [flat]{NormalC}C'mon.
+128) 
+She said she brought you meat?
+129) 
+I was going to shoot her myself.
+130) DANNY
+[pickup3][Follows-310399178 - "I was five seconds away from shooting her myself."]{Body-A}{HappyB}Well, maybe you shoulda!
+131) LEE
+[pickup2] {Body-B}{SurpriseA}I was five seconds away from shooting her myself.
+132) 
+Justice.
+133) 
+�Estuvo a punto de disparar!
+134) LEE
+[pickup2] {Body-B}{AngryB}You heard her:  {surpriseA}"I need my crossbow to kill you fuckers"?!
+135) DANNY
+[pickup2] [settle down, Beavis] {Body-A}{SurprisedA}All right, all right...
+136) 
+She had Clementine's hat!
+137) LEE
+[pickup2]{AngryA}I just couldn't take a chance on that happening again.
+138) LEE
+[pickup2]{Body-B}{AngryB}She stole Clementine's hat.  {ThinkingB}Somehow, she got past us.   {FearA}Crazy fucking woman must have been... {FearB}inches away from that child.
+139) DANNY
+[pickup2][shrugs]{Body-A}{HappyB}I ain't crying about it.
+140) LEE
+[pickup2]{ThinkingA}...That sound cold to you?
+141) 
+She was too far gone.
+142) 
+Lawn Chair
+143) DANNY
+[pickup2] {Body-A}{DisgustA}I don't have no idea.
+144) DANNY
+[pickup2] [inconclusive] {HappyB}Mmm...
+145) LEE
+[pickup2] [warning] {AngryD}You touch one hair on her head...
+146) DANNY
+[pickup2]We had a deal with them...
+147) 
+Thanks, I guess.
+154) LEE
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Nothing. [Inside these boxes]
+155) LEE
+[to himself; quiet but somewhat urgent]{Body-B}{AngryA}Empty.
+156) DANNY
+[pickup3][snooping] {ThinkingA}Or still here.
+157) LEE
+[pickup3][snooping]{ThinkingA}There's smoke from a fire.  {ThinkingB}Someone was here recently.
+158) DANNY
+[pickup3][admiring]{Body-A}{ThinkingA}It's a clean shot though... {HappyA}right through the forehead.  {HappyB}That's good shootin' right there.  {SadA}Still, what a waste.
+159) DANNY
+[pickup3]{Body-A}{HappyA}I see you handle that gun I lent ya pretty well.  {ThinkingA}You a hunter?
+160) LEE
+[pickup3]{Body-B}{ThinkingA}No, but Lilly keeps us all on a regular training schedule.
+161) DANNY
+[pickup3]{Body-A}{ThinkingA}Lilly, right.  You did say she was running things for ya.  {HappyA}Sounds like you picked a good leader.
+162) LEE
+[pickup3][caught lying]{Body-B}{ThinkingB}Yeah, {SurpriseA}but, uh, she's {ThinkingA}got the combat training.
+164) LEE
+[pickup3][caught lying]{Body-B}{ThinkingB}Yeah, {SurpriseA}but, uh, she's {ThinkingA}got the combat training.
+163) DANNY
+[pickup3]{Body-A}{ThinkingA}Lilly?  {ThinkingB}I thought you were running things back there?
+165) DANNY
+[pickup3]{Body-A}{ThinkingA}Lilly?  I thought you said..{ThinkingB}uh... Kenny ...was running things back there?
+166) DANNY
+[pickup3]{Body-A}{ThinkingA}Lilly, huh?  {HappyA}Sounds like SHE'S running this "democracy" of yours.
+167) JOLENE
+[pickup3][Follows  310534159 &310534164]It's the living you gotta be afraid of... the people I used to call friends... The people who took... [Starts to break up]
+168) JOLENE
+[pickup3]Don't worry, little girl.  Bandits got their eye on that dairy.  As long as they keep getting food from them, you'll be safe.  I promise.
+169) JOLENE
+[pickup3][alt]Don't worry, little girl.  Them people got their eye on that dairy.  As long as they keep getting food from them, you'll be safe.  I promise.
+170) 
+Box
+171) 
+Crate
+172) JOLENE
+[pickup3] [addressing Danny, and a little wild laughter]{body-Crossbow}{CrazyB}Go on, tell him, boy!  {CrazyD}Tell him what you got in mind for --[Gets shot]
+173) 
+She was about to shoot!
+174) 
+You murdered that woman!

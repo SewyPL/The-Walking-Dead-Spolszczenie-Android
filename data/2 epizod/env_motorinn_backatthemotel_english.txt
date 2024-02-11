@@ -1,0 +1,1210 @@
+1) LARRY
+{angryC} Yeah, yeah.  We're not stupid.
+2) KATJAA
+[calling, sadly] {sadA} Ken! Lee! Come here, please.
+3) KENNY
+{angryD} God dammit, Lee! What the fuck?!
+4) BEN
+{disgustA}It's not the bite that does it! {fearA}Yeah, the bite will kill you, but...
+5) KENNY
+[furious] {angryC}You said he wasn't bitten!
+6) BEN
+{disgustA}You come back no matter how you die.  {sadB}If you don't destroy the brain, {disgustA}that's just what happens.  {sadC}That's what's gonna to happen to ALL of us.
+7) LILLY
+{normalB}These boys came by to trade for some gasoline.
+8) ANDY
+[to Lee] {happyB}Howdy. I'm Andrew St. John; this is my brother, Dan.
+9) LEE
+[to himself about the couch]{normalD}It's seen better days.
+10) LEE
+[to himself]{normalD}We need to find food. Soon.
+11) LEE
+[to himself]{normalD}Sturdy, but it's not gonna hold up forever, just like the rest of this place.
+12) LEE
+[to himself]{normalD}As much as I hate to admit it, Larry was right; these make a pretty good front gate.
+13) LEE
+[to himself]Nothing useful left up there.  I'd better stay with the group.
+14) LEE
+[to himself]{happyA}At least the kids have something to keep 'em occupied.
+15) LEE
+{happyA}Leave it to Doug to rig up a warning system out of garbage.
+16) LEE
+{fearB}Is he going to be okay?
+17) KATJAA
+[frustrated, terse] {fearA}I don't know. {thinkingA}Can you give me a hand real quick?
+18) KATJAA
+[frustrated, terse] {angryA}I need space, Lee.
+19) KATJAA
+{fearA} Ken, come back, there's nothing... [gives up halfway through the thought]
+20) KENNY
+[frustrated]{angryB} I'm getting sick of this shit.
+21) KATJAA
+[sadly, somewhat quietly] {sadB} He... lost too much blood.
+22) KENNY
+[frustrated/hushed][Tired of trying to save people and they still die]{angryC} God dammit!
+23) KATJAA
+HELP! LEE, HELP ME!
+24) KATJAA
+[attacked 3] AAAAHHHHHHHHH!!!!!
+25) KATJAA
+[attacked] AAAAHHHH!!!!!
+26) KATJAA
+[attacked]Somebody!!!
+27) KATJAA
+[attacked ] HELP!!
+28) KATJAA
+[attacked]Get it off!!
+29) KATJAA
+[attacked 2] AAAAAAHHHH!!!!!
+30) KATJAA
+[attacked ] LEE!!!
+31) LEE
+[alt][panicked] {fearD} Shit!!  Katjaa!!
+412) LEE
+[alt][panicked] {fearD} Shit!!  Katjaa!!
+32) 
+Lilly wants him gone.
+33) 
+I don't know.
+34) 
+Maybe he can stay for a while...
+35) KATJAA
+[being attacked by zombie] {fearC} AHHHH!
+36) LARRY
+[stern] God Damnit Lee, get outta the way!
+413) LARRY
+[stern] God Damnit Lee, get outta the way!
+37) DUCK
+{happyA}Okay.  Me and Clementine are coloring.
+38) LEE
+{happyA}The wall's looking good, Doug.
+39) DOUG
+{happyA}Thanks. {normalA}I also worked up a little "early warning system" for outside.
+40) LEE
+{thinkingA}Early warning system?
+41) DOUG
+{thinkingA}Well... it's just string with some cans attached, buy hey, it works.
+42) CLEMENTINE
+[to ben; quizzing him about her drawing] {normalC}Guess what it is?
+43) BEN
+[still a little out of sorts; guessing what clems picture is of]{sadA} I don't know... a dog?
+44) CLEMENTINE
+{happyB}Nope.
+45) DUCK
+{happyB}Oh, I know!  It's a goat, right?
+46) LEE
+{normalD}Thanks for keeping the kids over here.
+47) CARLEY
+{happyB}Yeah, well, my instinct was to run over and get the story.  But ... {sadA}yeah... the kids didn't need to see that.
+48) CARLEY
+{thinkingA}Oh, and do me a favor and talk to Lilly about getting some rest.  {angryA}You and I are supposed to be on watch together tonight.  I need you sharp.
+49) DOUG
+{sadA}Hey, I owe you a lot more than a half eaten candy bar.  Take it.
+50) LEE
+{sadA}Thanks. {thinkingA}I appreciate it.
+51) LEE
+{sadB}Keep it.
+52) DOUG
+{fearA}You look like crap, Lee. When was the last time you ate?
+53) CARLEY
+{disgustA}I want you to have this, okay? In case you or Clementine starts feeling weak.
+54) LEE
+{sadA}You don't owe me anything, Carley.
+55) KATJAA
+[Sensing Lee's reluctance] {angryA}It's okay, I'll handle it.  Just give me some space, okay?
+56) LEE
+[reluctant to help katjaa with the "surgery"]{disgustB}I.. better not...
+57) KATJAA
+{thinkingA}Just apply some pressure here while I try to close this up...
+459) KATJAA
+{thinkingA}Just apply some pressure here while I try to close this up...
+58) KATJAA
+{sadB}You know, I thought I was starting to get used to this... sewing up people's injuries...
+59) KATJAA
+{angryA}What were you thinking in bringing him here? Even if he lives, we aren't going to be able to take care of him...
+578) KATJAA
+{angryA}What were you thinking in bringing him here? Even if he lives, we aren't going to be able to take care of him...
+60) KATJAA
+{thinkingA}But, I mean, cuts and bruises are one thing, but Lee, {disgustA}this man has no leg!
+61) LEE
+{normalD}Sure.  What do you need?
+418) 
+Sure. What do you need?
+458) LEE
+{normalD}Sure.  What do you need?
+62) LEE
+{normalD}I did the right thing.
+420) 
+I did the right thing.
+63) LEE
+{normalD}It's what your husband wanted.
+421) 
+It's what your husband wanted.
+422) LEE
+{normalD}It's what your husband wanted.
+64) KATJAA
+{fearA}The right thing is just scary sometimes I guess.
+65) KATJAA
+{sadA}Yeah.. I know ya did...
+66) KATJAA
+{thinkingB}Go ahead and check in on the others.  I need a little space here anyway.
+67) KATJAA
+[changing the subject] {normalA}Well, you've done all you can, Lee.  Thanks for the help.
+68) LILLY
+{angryA}Lee, get up.  We need your help out here.
+69) DOUG
+{sadA}Why'd you do it, Lee?
+84) CARLEY
+{happyB}Why'd you do it, Lee?
+70) LEE
+[context: "is that you?"] {surpriseB}D... Doug?
+71) DOUG
+{sadB}Why'd you kill me?
+85) CARLEY
+{thinkingA}Why'd you kill me?
+72) DOUG
+{angryA}Careful, Lee. You could grow to enjoy being a killer.
+73) LEE
+[hoarse whisper, unintelligible words, werid and creepy] I...ahh....
+88) LEE
+[hoarse whisper, unintelligible words, dreaming, weird] I...ahh....
+74) DOUG
+{normalC}You think you're this group's savior, Lee? {angryA}You can't save anyone. {happyA}Especially not that little girl who relies on you. {angryB}She's as good as dead. {happyA}Dead girl walking.
+75) DOUG
+{sadA}I'll give you a second chance, Lee. {fearA}Can you save me?
+76) DOUG
+{thinkingA}That's not what you said at the trial, Lee. {disgustA}Story changing?
+77) LEE
+{fearC}I didn't kill you!
+91) LEE
+{fearB}I didn't kill you.
+78) LEE
+{fearB}I had to make a choice, {sadC}I couldn't save you both.
+79) DOUG
+{thinkingB}You decide who lives and who dies? {disgustA}Did you choose to kill Sam?
+80) DOUG
+{angryA}Is it harder to kill an old friend than to kill a stranger?
+81) LEE
+{fearC}I barely knew you.
+95) LEE
+{sadC}I barely knew you.
+82) DOUG
+{disgustA}Is that it? {happyB}Maybe you like to kill. {angryA}Maybe you like the control you get to take. {happyC}Is that what happened with Sam?
+83) LEE
+{thinkingA}You're better off, not having to starve to death with the rest of us.
+98) LEE
+You're better off not having to starve to death with the rest of us.
+86) LEE
+[context: "is that you?"]{fearA}C... Carley?
+87) CARLEY
+{thinkingB}Maybe I just reminded you too much of her. {angryB}She never loved you, you know.
+89) CARLEY
+{normalB}You can't save anyone. {HappyB}Especially not that little girl who relies on you. {AngryB}She's as good as dead. {HappyB}Dead girl walking. {AngryD}What are you looking for, Lee?  Second chances?
+90) CARLEY
+{thinkingB}I'll give you a another chance... {disgustB}Can you save me this time?
+92) CARLEY
+{happyC}I suppose you didn't kill Sam, either?
+93) LEE
+{fearB}I had to make a choice, {fearC}I couldn't save you both.
+94) CARLEY
+{happyC}You decide who lives and who dies? {angryB}Is that why you killed Sam?
+96) CARLEY
+{happyC}Is it easier to kill a stranger? {angryD}Easier than killing your old friend?
+97) CARLEY
+{disgustB}Fine, if that makes you feel better, Lee. {angryC}Is Sam better off now, too?
+99) CARLEY
+{angryB}Better question - {angryD}why did you kill Sam?
+100) LILLY
+{angryB}Company.
+101) LEE
+[slightly disoriented  from just waking up]{sadC}What is it?
+102) KATJAA
+[alt]Figures.  I love that man to death, but I swear sometimes he's dumber than a bag of hammers.
+103) KATJAA
+{thinkingA}Why don't you help Mark and Larry with the wall.  It's good to stay busy.
+104) KATJAA
+{fearA}Why don't you go check up on the boy.  This can't be easy for him.
+105) KENNY
+[fearing the worst/ hushed] {angryA} He didn't make it, did he?
+106) MARK
+[pickup2][just slightly irritated - at Motel Fence]Come on, Larry, give it a rest, man. Things are different -- being a racist is outdated.
+107) MARK
+[pickup2][slightly irritated - at Motel fence]Come on, Larry, give it a rest. I'm sure Lee is getting pretty sick of you thinking he's a danger to the group.
+108) MARK
+[pickup2][slightly irritated - at motel fence]Come on, Larry. What is it between you two?  Why do you have a personal grudge against Lee?
+109) LARRY
+[pickup2][slightly annoyed that Lee is talking about him behind his back- At motel fence] {angryA} Is that what you told him?
+110) LEE
+[pickup 2][ defensive when Larry accusing him of talking behind his back - at motel fence]Yeah, that's right.
+111) LEE
+[pickup 2][slightly backtracking when Larry accusing him of talking behind his back - at motel fence]That's not what I meant...
+112) LEE
+[pickup 2][slightly backing down when Larry accusing him of talking behind his back - at motel fence]No, that's not what I said.
+113) LARRY
+[pickup2][annoyed-  at motel fence]The only thing I "have" to do is protect my daughter.
+114) MARK
+[pickup2][trying to get Lee & Larry to stop arguing]Look, I don't care what it is, but you two have got to start trying to get along.
+115) LARRY
+[pickup2][finding out that Lee's been talking behind his back - quietly threatening]No?  Then what did you mean?
+116) MARK
+[pickup2][stopping an argument between Lee & Larry]All right, let's take a step back. Maybe you two SHOULD keep your distance.
+117) LARRY
+[pickup2][irritated] Fine with me.
+118) LARRY
+[pickup2][Not sure if lee's lying , but giving him the benefit of the doubt - Motel Fence]Whatever, I've got work to do.
+119) LARRY
+[pickup2][annoyed-  at motel fence - Cont.]And right now, that means getting this damn wall fixed so I'd appreciate it if you two would shut up and let me get back to work.
+120) LARRY
+[pickup2][Responding to lee's silence]Whatever, I've got work to do.
+121) 
+Bookcase
+122) 
+Dumpsters
+123) 
+Fence
+124) 
+Soccer Ball
+125) 
+Table
+126) MARK
+[pickup2][trying to stop an argument between Lee & larry at the motel]Come on, Larry.  Cut Lee some slack.  He knows you're just out to protect Lilly, he told me so.  Just like he's trying to protect Clementine.
+127) LARRY
+[pickup2][About to go off on a tangent about Lee, but then thinks better of it, ]HE- ...  I just need some food.  Going this long without a proper meal will make anybody cranky.
+128) LARRY
+[pickup2][sneering at Lee during Motel Fence argument]He knows why.
+129) LARRY
+[pickup2][getting all up in Lee's face]And what are you gonna do about it?
+130) LEE
+[pickup2][to Kat after Kenny storms off following Davids death]Let him go, Katjaa.
+131) LEE
+[pickup2][to Kat after Kenny storms off following Davids death. Genuine question.]What's his problem?
+132) LEE
+[pickup2][to Kat after Davids death]He just needs time.  It's been a rough morning.
+133) KATJAA
+[pickup2][talking to Lee at the Trck after David dies.  Follows "Let Kenny go, Kat"] But...
+134) KATJAA
+[pickup2][Slightly annoyed at Lee's reaction to Kenny storming off after Davids death]Don't be like that, Lee. I know we've all seen death.  But that doesn't make it any easier.
+135) LEE
+[pickup2][looking at the ice machine.  To himself]Ugh.  I hope Glenn didn't have to hide in here for very long.  It smells terrible.
+136) LARRY
+[pickup2] Oh, that's what you think this is?
+137) KATJAA
+[pickup1][sean edit][frustrated in the midst of a surgery, talking to herself as Lee walks up] {angryA}I could go for one of your "barbecues" or a beer with good friends right about now.
+138) KATJAA
+[pickup1][sean edit] [frustrated, in the midst of performing a surgery]{angryA}Providence, you said. I'm not so sure lately.
+139) KATJAA
+[pickup1][sean edit] [frustrated, in the midst of performing a surgery]{sadB}"Was bad before, is bad now," is that right Lee?
+140) KATJAA
+[pickup1][sean edit] [frustrated, in the midst of performing a surgery] [Sigh] {sadB}There's a reason I chose dogs and not people.
+141) 
+Let him go.
+142) 
+What's his problem?
+143) 
+I'm sick of this shit, too.
+144) LEE
+[pickup2][Mirroring Kennys frustration over people alyways dying] I'm sick of this shit, too.
+145) KATJAA
+[pickup2][Responding to lee saying "Im sick of people dying!"] You don't think I am? [then conflicted]I don't know... Maybe it's for the best.  We're already struggling to feed our OWN kids.
+146) KATJAA
+[pickup2][after Kenny stors off, frustrated that people keep dying ][tired] I wish he wouldn't do that.
+147) LEE
+[pickup2]Here.  This should help.  Try not to make too much noise, though.
+148) LILLY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]I can't get a clear shot!
+149) LILLY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Get out of the way!
+150) KENNY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]KATJAA!!
+151) KENNY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]I'm coming!
+152) BEN
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]No no no!!
+153) DOUG
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Holy shit!
+154) CARLEY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Everybody get back!!
+155) MARK
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Lee!
+156) MARK
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Where's that axe?!
+157) LARRY
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Lilly?!  Where's Lilly?!
+158) LILLY
+[pickup2] [Gives a quick wistle waring everyone in the motor inn that something is coming!]
+159) LILLY
+[pickup2][Ambient - as Lee arrives with strangers - Stern, shes annoyed, Trying to get Lee's attention] Lee!   Lee!
+160) LEE
+[pickup2- Calling out to people in the motor inn as they arrive with a wounded person]Get the gates open!  We've got wounded.
+161) KATJAA
+[pickup2][Ambient - as Lee arrives with strangers]Oh my God!
+162) LILLY
+[pickup2][to her self, irritated that Lee & Kenny are bringing in new people when there is obviously not enough food for the group they already have!]Shit.  What the hell are they doing?
+163) KENNY
+[pickup2][with some urgency as they bring a wounded person into the motor inn]Come on, come on!
+164) LARRY
+[pickup2][Ambient - as Lee arrives with strangers] Who the hell are THESE people?
+165) DOUG
+[pickup2][ambient - when Lee arives with an injured guy and a new person] Holy shit.
+166) CARLEY
+[pickup2][ambient - uncomfortable & suspicious when Lee arives with an injured guy and a new person]What's going on?
+167) KATJAA
+[pickup2][urgent - flustered, being asked to medically attent to a man with a missing leg] {angryD}Jesus, Ken!  I... I don't know!
+168) BEN
+[pickup2][urgent - not wanting his friend to die] {fearC}Are you a doctor?  {fearC}You have to save him!  Please!
+169) KATJAA
+[pickup2][urgent - flustered, being asked to medically attend to a man with a missing leg - Put on the spot]{fearA}Get him into the truck, I'll see what I can do.
+170) KATJAA
+[pickup2][shocked as Lee & her husband arrive carring an injured stranger.  This line is directed specifically toward Lee. Stern but concerned] What happened!?
+171) KENNY
+[pickup2][Calling out for his wife as he helps bring in an injured person into the motor inn for her help]KAT!
+172) LEE
+[pickup2][urgent - bringing in an injured man for help - Response to "What happened"]{angryC}I don't have time to explain.
+173) LEE
+[pickup2][urgent - bring in an injured man for help - Response to "What happened"]{fearA}Can you fix him?
+174) LEE
+[pickup2][urgent - bring in an injured man for help - Response to "What happened"]{disgustB}He was caught in a bear trap.
+175) LEE
+[pickup2][urgent - bring in an injured man for help - Response to "What happened"]{sadC}There was an accident.
+176) KATJAA
+[pickup2][When Lee & kenny are silent when asked "What happened" as they bring her a legless man, she starts to suspect his guilt]{angryB}What did you do?
+177) KATJAA
+[pickup2][annoyed that lee isnt explaining himself for bringing a critically injured man to her to fix]{angryC}What the hell? Don't give me that!
+178) KENNY
+[pickup2][urgent - bringing a critally injured man for his wife to fix] Kat, can you fix him?
+179) KATJAA
+[pickup2][shocked to find out the injured man lost his leg in a bear trap!]{disgustA}A bear trap?!
+180) KATJAA
+[pickup2][realizing that someone in thier group has accidentally shot a teenager while out hunting] {disgustA}Oh, God.
+181) KENNY
+[pickup2][a bit defensive and a bit guilty when Katjaa askes what they did to the injured person they are brining to her for help]It doesn't matter.
+182) LILLY
+[pickup2][angry with lee, kenny and mark for bringing strangers to the motel knowing there isnt enough food as it is, and extremely frustrated since she is the person in charge of rations for eveyone] {angryC}What the hell?!  You can't just be bringing new people here!  {angryB}What are you thinking?!
+183) LILLY
+[pickup2][angry with Lee and frustrated with her position as Leader, she challenges Lee to walk in her shoes]{angryB}You know what?  If you think I'm doing such a shitty job, then you do it!
+184) LEE
+[pickup2][When Lilly tells he that HE is in charge of the rations, Lee thinks she's overreacting.]{disgustA}Lilly [come on!]-
+185) LILLY
+[pickup2][angry and serious- laying it on the line that Lee now has to suffer the tough decisions she makes every day]{angryA}No, I'm serious. {angryB}Pick up that food, and start handing it out.  You see how it feels to not have enough food for eveyone.
+186) LILLY
+[pickup2][Lilly angrily motions to the only food they have left and puts Lee in charge of it]{angryC}That's ALL the food we have for today.  {thinkingA}YOU decide who gets to eat!
+187) KENNY
+[pickup2][defensive; irritated that Lilly is once again trying to bully people in the name of "leadership"]Hey, you wanna calm down for a fucking  minute?
+188) LILLY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryC}No, I don't!  I want to know why you thought bringing more mouths to feed was a good idea?!
+189) MARK
+[pickup2][to himself, annoyed that Lilly and Kenny are fighting where there are bigger things to worry about]{thinkingB}Jesus Christ.
+190) LEE
+[pickup2][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{angryB}He would have died, if we left him!
+191) LEE
+[pickup2][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{sadB}We're the ones that shot him.
+192) LEE
+[pickup2][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{angryA}We left the other one behind.
+193) LEE
+[pickup3][TENSE! - Lilly is angry that you brought strangers into the camp! says"What were you thinking?!"]{angryB}I thought we could save his life! {angryC}I'm the one who took his leg, that makes me responsible.
+194) LILLY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}We are NOT responsible for every struggling survivor we come across! {angryC}WE have to focus on OUR group!  Right here. Right now.
+199) LILLY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}We are NOT responsible for every struggling survivor we come across! {angryC}WE have to focus on OUR group!  Right here. Right now.
+195) LILLY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{thinkingA}Other one?!  {angryA}Jesus, Lee!  What if there are more of them?!  {angryB}What if they followed you here?!
+196) LARRY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}Then you should have done the right thing and finished him off.
+197) KENNY
+[pickup2][TENSE! - Responing to Lilly saying they should have killed the kid instead of bringing him back to camp]What the hell is wrong with you!?
+198) LARRY
+[pickup3][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}Well that was a stupid thing to do!
+200) LARRY
+[pickup2][Really annoyed that Lee & Kenny have brought new people to the camp while everyone is starving]{angryC}How do you know he's not lying?!
+201) BEN
+[pickup2][TENSE! - Trying to fend of suspicion durring the arguement by insisting that there were no more of them]{sadB}There wasn't anybody else. Just us!
+202) KENNY
+[pickup2][Bringing down the intensity a bit, through grittet teeth.  Getting really fed up with Lilly trying to bully people with her leadership - ]You know, you like to think you are the leader of this little group, but we can make our own goddamn decisions!  This isn't your own personal dictatorship!
+203) MARK
+[pickup2][getting sucked into the argument, defending the position that bringing the injured people was the right thing to do] {angryB}Come on, Lilly.  These are people!  People trying to survive just like us.  We've gotta stick together to survive!
+204) MARK
+[pickup2][realizing that Lilly doesnt really consider him one of the group, mark exits the argument kowing his opinion isnt going to matter to her]{thinkingA}Fine.  You guys fight it out, then.  [turns to Ben, Sarcastic] {disgustA}Welcome to the family, Kid.
+205) LILLY
+[pickup2][Really annoyed that Lee & Kenny have brought new people to the camp while everyone is starving]{angryB}The only reason you're here is because you had food.  {angryC}Enough for ALL of us.  {angryA}But that food is almost gone, we've got maybe a week's worth left, [turns to Ben]and {thinkingB}I don't suppose you guys are carrying any groceries, are you?!
+206) LILLY
+[pickup2][Really annoyed that Lee & Kenny have brought new people to the camp while everyone is starving]{angryB}Hey, I didn't ask to lead this group!
+207) LEE
+[pickup2][difusing the tense argument by taking side]{sadA}Lilly's right.  This group needs someone to be a leader or we're all going to fall apart. {angryA}We can't keep fighting amongst ourselves.
+208) LEE
+[pickup2][difusing the tense argument by taking sides]{angryB}Kenny's right. Yeah, you're in charge of the food, and the schedules, but you're NOT in charge of people's lives.
+209) KENNY
+[pickup2][sarcastic, highy irritated tha Lee has taken Lilly's side in the agrugment about leadership] Great. Way to take sides, Lee!
+210) LILLY
+[pickup2][taking a deep breath, makes the decision to let the Kid stay (for now) because she believes that might help difuse the tension in the group for the moment, not because it's the right thing]... {angryB}They can stay until Katjaa finishes working on that guy. Then they HAVE to go.  {angryC}I don't care what condition they are in. We just don't have enough food.
+211) LEE
+[pickup2][tense - in the argument, defenting his own decision to bring back strangers]  [Conceding that Lilly IS in charge]{sadA}Look, they're here now, we can't change that... {normalD}so what do you want to do?
+212) KENNY
+[pickup2] Whatever.
+213) LEE
+[pickup2][Still tense - difusing the tense argument by taking sides]{angryB}And for the record, Kenny wanted to leave those people behind!
+214) LEE
+[pickup2][Still tense - difusing the tense argument by taking sides]{thinkingB}Look, once Katjaa patches that guy up, you can kick them out of here... {angryA}Send 'em out on their own, I couldn't care less.  {angryB}But they at least deserve a fighting chance against the walkers.
+215) LILLY
+[pickup2][highyly annoyed tha Lee is challenging her leadership skills.] {angryA}Really?!
+216) KENNY
+[pickup2][TENSE! - Really fed up with lilly's "leadership" - REALLY driving his point home]You weren't there.  Lee made a choice.  End of story.
+217) KENNY
+[pickup2][TENSE - annoyed that Lee doesnt have his back in this arguement]No, Lee, It does matter! ONE person can't be in charge of EVERYTHING!
+218) LEE
+[pickup2][TENSE! - Trying to difuse the situation by NOT taking sides.]{thinkingB}It doesn't matter who's in charge!  Those people are here now. {normalD}I guess we just have to decide what happens next.
+219) KENNY
+[pickup2][TENSE- a beat - as Kenny works out his frustration, then accusational and a bit hurt]You know, it might feel safe for you to sit on the fence, but sooner or later you're gonna have to decide whose side you're on.
+220) KENNY
+[pickup2][Fed up with arguing with Lilly and Lee not having his back] You've got nothing to say about that Lee?
+221) LILLY
+[pickup2][Still tense - annoyed that Kenny cant see the big picture]{angryB} If Kenny would pull his head out of his ass for five seconds, he'd realize that I make these decisions to {angryD}protect HIS family!  {angryC}We simply don't have enough food!
+222) LILLY
+[pickup2][Still angry, but sick of fighting]{angryB}You think this is easy for me? Everyone's starting to hate me because I'M the one that rations the food.  But NOBODY else wants to!
+223) LILLY
+[pickup2][fed up! but VERY matter of fact.] {thinkingA}You know what?  {angryA}I'm not doing it tonight.  You do it.  There's today's food rations, but there's not enough for everyone.  {normalC}Good luck.
+224) 
+Kenny's right.
+225) 
+Lilly's right.
+226) 
+It doesn't matter who's in charge!
+227) LILLY
+[pickup2][after the argument, having spent all her energy, appealing to Lee for help.] {sadB}Look, I can't do this right now.  {disgustA}You understand what I'm dealing with. {sadA}Please do me a favor, I need you to handle the rations today.
+228) LEE
+[pickup2][after fighting, he has no enegry left... sypathizing with Lilly's job of rationing food they dont have enough of]{surpriseA}That's all you're giving out?
+229) LILLY
+[pickup3][follows: 310522313][tired, reafiriming that the food really is almost gone] {sadA}If we're gonna make what's left last the week, then this is all we can spare today.  It's not gonna be enough for everyone, but... [too worn out to even finish that thought, and just leaves it to Lee]{sadB}Just do what you think is right.
+230) LEE
+[pickup2][knowing that his next statement is going to sound shitty, right after a guy died] Well... at least he's not our problem anymore.
+231) KATJAA
+[pickup2]What about the other kid?
+232) 
+We need to get rid of him.
+233) LARRY
+[pickup3][Super angry that Lee brought an infected man into the group!!]{angryC} Why'd ya bring him here in the first place, asshole?!
+575) LARRY
+[pickup3][Super angry that Lee brought an infected man into the group!!]{angryC} Why'd ya bring him here in the first place, asshole?!
+234) LILLY
+[pickup2][firmly!  Quick, in the heat of an arguement!]Dad!  Calm down.
+576) LILLY
+[pickup2][firmly!  Quick, in the heat of an arguement!]Dad!  Calm down.
+235) KENNY
+[pickup2] [furious!!  After his wife was almost killed!!] {angryC}YOU said he wasn't bitten!
+236) BEN
+[pickup2] [defensive, but still in shock - response to "You said he wasn't bitten!"]  {fearC}He wasn't!
+237) KENNY
+[pickup2] [furious!!  After his wife was almost killed!!] {angryC}Well your "not-bitten" friend here came back to life and tried to kill my wife!
+238) BEN
+[pickup2][Super defensive!  Being yelled at!!]{fearC}What?!!   {sadA}Wait, y'all don't know?
+239) KENNY
+[pickup2] [furious!!  After his wife was almost killed!!]{angryA}What the hell are you talking about?
+240) BEN
+[pickup2][Super defensive!  Being yelled at!!]{sadA}It's not the bite that does it!
+241) BEN
+[pickup2][Super defensive!  Being yelled at!!]{sadB}You come back no matter how you die.  If you don't destroy the brain, that's just what happens.  It's gonna happen to ALL of us.
+242) LARRY
+[pickup3][calming down but still pissed.  Low and seething]You're gonna get us ALL killed!
+577) LARRY
+[pickup3][calming down but still pissed.  Low and seething]You're gonna get us ALL killed!
+243) LEE
+[pickup2][responding to the news that you dont have to be bitten to become a zombie]{disgustA}You're lying.
+244) LEE
+[pickup2][responding to the news that you dont have to be bitten to become a zombie]{fearB}We're all infected?  Everyone?
+245) LEE
+[pickup2][responding to the news that you dont have to be bitten to become a zombie]{fearC}God help us.
+246) BEN
+[pickup2][defensive - being accused of lying about not having to be bit to change]{sadB}It's true!  I swear it!
+247) KATJAA
+[pickup2][after hearing that people come back as zombies not matter what, and Lee thinking it's a lie]{sadB}Maybe he's right.  I didn't see any bites. It would explain why there's so many of em.
+248) KENNY
+[pickup2][after hearing that people come back as zombies not matter what, ]{fearA}Jesus Christ.  If you just, DIE and that's all it takes, then shit, {sadB}one fatal car wreck and a family of five turns into a family of walkers.
+249) BEN
+[pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.  Answering "we're all infected?"] {sadB}I- I guess so.  I don't know... {sadC}All I know is that I've seen people turn who I KNOW were never bitten.
+250) BEN
+[pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.] {sadA}When I first saw it happen, we were all hiding out in a gym and everybody thought we were finally safe.  {sadB}But one of the girls, Jenny Pitcher I think, I guess she couldn't take it.  She took some pills. A lot of them.
+251) BEN
+[pickup2][trying to explain that you dont have to be bitten to become a zombie, but doesnt really know the details.]{sadC}Someone went in the girls' room the next morning and...God...
+252) LILLY
+[pickup2][reflecting on the news that you dont haven to be bitten to turn zombie] {disgustA}Car accidents, suicides, everything was making more of them.
+253) MARK
+[pickup2][reflecting on the news that you dont haven to be bitten to turn zombie] {sadB}It makes sense. In those first few days it spread so fast.
+254) 
+You're lying.
+255) 
+We're all infected?
+256) 
+God help us.
+257) KENNY
+[pickup2] [furious!!  After his wife was almost killed!!] {angryD}Why didn't you tell us he was bitten?!
+258) BEN
+[pickup2][scared. confused, getting yelled at!! "Why didn't you tell us he was bitten?!"]{fearC}What?
+259) KENNY
+[pickup2][furious!!  After his wife was almost killed!!] {angryD}He was bitten and you didn't say a goddamn word!!
+260) KENNY
+[pickup2] [furious!!  After his wife was almost killed!!]{angryC}We asked you, point blank, "Was he bitten?" and you said "No."
+261) BEN
+[pickup2] [defensive, but still in shock - response to "You said he wasn't bitten!"]  {fearC}But he wasn't bitten!  I swear!
+262) ANDY
+[pickup2][process-in the distance][casual - looking for gas, ]{angryA}Watch where you're walking, man.
+263) DANNY
+[pickup2][process-in the distance][casual - out looking for gas]{thinkingA}Shit.  Where'd this string come from?
+264) LILLY
+[pickup2][whispered, but angry, interrogating Ben about the people coming down the road]{angryA}Who are those people?!
+265) BEN
+[pickup2][scared and being interrogated.  Asked "who are those people?!"][whispered]{fearA}I- I don't know!
+266) LEE
+[pickup2][interrogating Ben about the people coming down the road][quiet]{thinkingB}If they're friendly, we don't want to hurt them.  They're not part of your group, are they?!
+267) BEN
+[pickup2][scared and being interrogated.  ][quiet][taking in the tragedy]{sadA}...The last ones.
+268) BEN
+[pickup2][scared and being interrogated.  ][quiet]{fearA}No.  Mr. Parker, Travis and I were the last- [interupts himself. ]
+269) LEE
+[pickup2][interrogating Ben about the people coming down the road - quiet]{thinkingB}Are they the people that raided your camp?
+270) BEN
+[pickup2][scared and being interrogated.  ][quiet]{fearA}I don't think so.  But they all had their faces covered, so I don't know.
+271) BEN
+[pickup2][scared and being interrogated.  ][quiet]{fearB}I don't know ANYBODY in this town, I swear!
+272) LEE
+[pickup2][interrogating Ben about the people coming down the road - quiet]{angryA}I think you know who they are.
+273) BEN
+[pickup2][scared and being interrogated.  Asked "who are those people?!"][quiet]{fearA}I'm telling the truth!  {angryA}I've never seen them before!
+274) DANNY
+[pickup2][process-in the distance][causal-  still messing with string around his shoe]{angryA}Yeah, just gettin' untangled...
+275) ANDY
+[pickup2][process-in the distance][causal- his brother is still messing with string around his shoe]{thinkingA}You all right?
+276) ANDY
+[pickup2][process-in the distance][casual, looking for gas, joking with his brother.] I don't know how you're still alive, man.
+277) LILLY
+[pickup2][the pressure is on lilly to make a decision.  Zombies come and go, but they havent dealt with people before][whispered]{angryA}No. We have a routine. We don't confront them if we don't have to.
+278) DUCK
+[pickup2][straining to see who the injured person is that Lee and Kenny are bringing in to the motel] Who's that?
+279) CLEMENTINE
+[pickup2][Trying to get to lee as people crowd around him.  He's bringing in a critically injured person.  - She's getting lost ion the shuffle]Lee, are you okay?
+280) KATJAA
+[pickup2][urgent - flustered, being asked to medically attent to a man with a missing leg] {fearB}Fix him?! Are you serious?!
+281) KENNY
+[pickup2][pushing people back so katjaa can operate on the injured man]All right, back up, give her some space!
+282) CLEMENTINE
+[pickup2][very concerned.  Lee's been out hunting and just came back with a critically injured person]{sadB}I'm glad that's not you.
+283) MARK
+[pickup2][whispering- impressed that Dougs alarm system worked]{happyA}Doug!  It works!
+284) DOUG
+[pickup2][whispering - proiud that his alarm system works]Of course it works!  I told you!
+285) LEE
+[pickup2][calling out - confronting strangers as they arrive at the motel.  Stern]{thinkingB}We don't want any trouble.
+286) LEE
+[pickup2][calling out - confronting strangers as they arrive at the motel.  Stern]{angryA}You're outnumbered here, just turn around and go back.
+287) ANDY
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint]{SurprisedA}Of course.  Neither do we. [trying to ease the tension of the situation] {happyA}I'm Andy St. John.  This here's my brother Dan.  We're just out looking for gasoline.
+288) ANDY
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint]{happyA}Okay that's fine.  {thinkingA}But you'd really be helping out a fellow survivor if you could part with some extra gas before we leave...
+289) ANDY
+[pickup2][cautious - being confronted by Lilly, (Carkey) & Lee at gunpoint]{thinkingA}Looks like you folks got the motel locked down, which is fine, but if you could spare any gas we'd be much obliged.
+597) ANDY
+[pickup2][cautious - being confronted by Lilly, (Carkey) & Lee at gunpoint]{thinkingA}Looks like you folks got the motel locked down, which is fine, but if you could spare any gas we'd be much obliged.
+290) LEE
+[pickup2][calling out - confronting strangers as they arrive at the motel.  Stern]{angryA}Are you armed?!
+291) DANNY
+[pickup3][cautious - being confronted by Lilly & Lee at gunpoint]Yeah... for protection... Dead could be anywhere.
+292) ANDY
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint, but attempting to be friendly]{happyA}But, uh, I think you've got the upper hand here.
+293) CARLEY
+[pickup2][forceful.  Confronting stranges who have arrived at the motel]{angryA}Why do you need gas?
+294) LILLY
+[pickup2][forceful.  Confronting stranges who have arrived at the motel]{thinkingA}What do you need gas for?
+295) ANDY
+[pickup2][cautious - being confronted by Lilly & Lee at gunpoint] {happyA}Our generators run on gas.
+296) KENNY
+[pickup2][forceful, confronting the borthers before they get too close]{angryA}That's far enough.
+297) KENNY
+[pickup2][taking charge against Lilly's wishes to confront the strangers] [whispered]{angryB}Sorry Lilly, we gotta do this.
+298) KENNY
+[pickup2][trying to figure out what to do about the new strangers walking toward their camp][whispered]{angryB}There's just two of 'em.  We need to make a stand.
+299) ANDY
+[pickup2][suprised at gunpoint, Andy tries to show that they are friendly]{surprisedA}Woah shit! {thinkingA}Okay, okay... No problem.
+300) ANDY
+[pickup2][trying to be friendly while suddenly being held at gunpoint]{SurprisedA}Woah, lady, relax!  Me and my brother, we... we just want to know if ya'll can help us out.
+301) CARLEY
+[pickup2][forceful, confronting strangers that have suddenly showed up at your front gate]{angryB} I said back off!
+302) CARLEY
+[pickup2][forceful, confronting strangers that have suddenly showed up at your front gate] {angryB}Back off!
+303) LILLY
+[pickup2][backing Carley up as she confronts the strangers, but coaxing her not to take it too far]{angryA}...Carley...
+304) ANDY
+[pickup2][careful - trying to establing themselfs as useful and not a threat] {happyB}Look, we own a dairy farm a few miles up the road.  If ya'll be willing to lower your guns, {thinkingA}we can talk about some kind of trade.
+305) LEE
+[pickup2][barganing with the strangers for gas] {thinkingA}What are you offering?
+306) LEE
+[pickup2][barganing with the stranges for gas. Blunt] {thinkingA}We need food.
+307) LEE
+[pickup2][barganing with the stranges for gas] {angryA}We don't need to make any deals with you.
+308) LILLY
+[pickup2][barganing with the brother over gas]{thinkingA}You need gas, we need food.  Let's talk.
+309) DANNY
+[pickup3][barganing with the strangers for gas]{thinkingA}How are ya'll doing on food?  We got plenty at the dairy.
+310) ANDY
+[pickup2][brightening up, friendly] {happyB}Well hell, we got food! {happyA}Let's talk about the gas.
+311) ANDY
+[pickup2] [bargaining with lee & groups for gas.  Lee doesnt want to make any deals]{thinkingA}That's true, you don't.  {happyA}But a group your size, you gotta be runnin' low on food by now.  I think that might be a fair trade.
+312) KENNY
+[pickup2][still arguing that keeping the gas is more important that trusting strangers] {angryB}We don't even know if those guys are telling the truth!
+313) LILLY
+[pickup2][making her point and ending the argument] Then let's find out. [-if the brother are telling the truth about having food] {thinkingA} Lee, why don't you and Mark and check the place out, see if it's legit.
+314) LILLY
+[pickup2][stern - barganing with the brothers] {angryA}Show us the food and we'll talk.
+315) KENNY
+[pickup2][truns to confront lilly about giving away their gas.  It's a personal confrontation, but still in front of the brothers.  Should be treated as a bit on an aside. slightly hushed]{angryA}Now hold on, Lilly, we're gonna need all the gas we can get for the RV.
+316) MARK
+[pickup2][arguing with Kenny that food is more important than gas]{angryA}The RV's not even working, Kenny!  {sadA}We need the food.
+317) CARLEY
+[pickup2][volunteering to go to the dairy with Lee]{angryA}I'm going with you.  I got your back if anything seems fishy.
+318) DOUG
+[pickup2][volunteering to go to the dairy with Lee]I'll go too, improve the numbers, in case we run into anything dead
+319) KENNY
+[pickup2][unhappy with Lilly's plan]{angryA}Hell no, find out if they got enough food to make it worth our while!  THEN we can think about bargaining.
+320) LILLY
+[pickup2][making a plan for checking out the dairy]{thinkingA}You should take SOME gas with you.  As a sign of good faith.  And something to bargain with when you get there.
+321) ANDY
+[pickup2][trying to get lee & Group to make a decision, knowing that it's leaning in thier favor] {happyA}So what are ya'll thinking?
+544) ANDY
+[pickup2][trying to get lee & Group to make a decision, knowing that it's leaning in thier favor] {happyA}So what are ya'll thinking?
+322) LEE
+[pickup2][making his final offer]{angryB}No gas until we check out your dairy.
+323) LEE
+[pickup2][making his final offer]{thinkingA}We'll bring SOME gas to your dairy.  In exchange, you give us some food to bring back.  {thinkingB}We'll see how it goes from there.
+324) ANDY
+[pickup2][andy gives in and gives the okay for Lee & compnay to follow them to the dairy]{happyB}All right. That's it then.  Let's get movin'.
+325) LEE
+[pickup2][insisting on the food first]{angryA}It can wait.  We need to see the food first.
+326) DANNY
+[pickup2][still arguing for the gas]{thinkingA}But if ya'll got the gas right here--
+327) ANDY
+[pickup2][agreeing to Lee's terms for the traid]{happyA}Sounds fair.  A couple of gallons should power one of our generators for a while.
+328) DANNY
+[pickup3]Our place is protected by an electric fence.  Generators provide the electricity...
+329) 
+He would have died if we left him!
+330) 
+We left the other one behind.
+331) 
+We're the ones that shot him.
+332) 
+I thought we could save his life!
+333) 
+We don't want to hurt your friends.
+334) 
+Are they the people that raided your camp?
+335) 
+I think you know who they are.
+336) 
+We don't want any trouble.
+337) 
+Are you armed?
+338) 
+You're outnumbered here.
+339) LARRY
+[pickup2][yelling, defending his daughter]{angryC}Hey, watch your mouth!
+340) LARRY
+[pickup2][arguing that letting a stranger die is fine] {angryB}So what?
+341) LILLY
+[pickup2][really doesnt need her dad trying to defend her.  She can handle this herself] {fearA}Dad, please. {sadA}Why don't you go help Mark with the wall?
+342) LARRY
+[pickup2][defending Lilly in the arguement]{angryC}I don't see any of you stepping up to make the hard decisions!  {angryB}My girl's got more balls than all of you combined!
+343) MARK
+[pickup2][Urgent!: while Katjaa is attacked by David Zombie!]Don't shoot!  It'll attract more walkers!
+344) BEN
+[pickup2][scared and being interrogated.  ][quiet]{sadB}No one still alive, anyway.
+345) CLEMENTINE
+[pickup2]{thinkingA}I had it a couple days ago.
+346) LEE
+[pickup2] {happyA}Sure. {thinkingA}When did you lose it?
+347) LEE
+[pickup2][tired & Hungry]{thinkingB}Do you really need it?
+348) CLEMENTINE
+[pickup2][sad that Lee wont help find her hat] {sadC}That was my favorite hat.
+349) LEE
+[pickup2]{sadB}Sorry, hon, I don't have time.
+350) CLEMENTINE
+[pickup2][annoyed that lee isnt answering her question] {angryA}Lee!
+351) CLEMENTINE
+[pickup2][meekly] {sadA}Thank you.
+352) LEE
+[pickup2][tired]{thinkingB}How ya doing, Clementine?
+353) CLEMENTINE
+[pickup2][tired and hungry]{fearA}I'm really hungry, Lee.
+354) LEE
+[pickup2][tired][that you're hungry, clem][ Changing the subject.]{normalA}Where's your hat?
+355) CLEMENTINE
+[pickup2][tired and hungry]{sadB} I don't know.  {fearA}Can you help me find it?
+356) 
+Sure.
+357) 
+I don't have time.
+358) 
+Do you really need it?
+359) CLEMENTINE
+[pickup2][tired & Hungry -"Do you really need your hat?"]{sadC}My dad gave it to me for my birthday.
+360) CLEMENTINE
+[pickup2][tired and hungry, but happy] {normalA}Okay.
+361) LEE
+[pickup2][tired & Hungr]{happyA}Okay, Clem. {normalA}I've got to take care of some things.  {normalC}Why don't you go back to playing with Duck for a while.
+362) LEE
+[pickup2][tired and hungry]{thinkingA}I promise if I find it, I'll let you know.
+363) LEE
+[pickup2] We dug through those for food a long time ago.
+364) LEE
+[pickup2] It keeps the walkers out. Carley's been doing the bulk of the look-out duty.
+365) LEE
+[pickup2] Ace Ginger Cola. Been empty a long time.
+366) BEN
+[pickup2] [taken aback] What? {fearA}How could I?
+367) LEE
+[pickup2] [stern. threatening.]{angryB}They showed up right after you got here.
+368) LARRY
+[pickup2] {angryA}Shut up and give it to 'em!
+369) BEN
+[pickup2][responds to "and I don't suppose you guy are carrying any groceries, are you?!" in an arguement]{disgustA}No.
+370) BEN
+[pickup2][being pulled away from an arguement by a little kid who wants to show Ben her drawings]{thinkingA}What?  {sadA}No, I -
+371) CLEMENTINE
+[pickup2][wanting to get Ben away from the arguement]{thinkingA}Come over here and see what I drew.
+372) CLEMENTINE
+[pickup2][insistant, knowing Ben is better off not in the middle of this argument] {sadA}Just come on, okay?
+373) LILLY
+[pickup2][frustrated as hell! makes her point] {angryA}Everyone was happy to have me distributing the food when there was enough to go around, but now that it's running out, {angryD}suddenly I'm a goddamn Nazi!
+374) MARK
+[pickup2][irritated, trying to hold a board while Larry hammers it with another board]{sadA}I'm trying. I didn't realize I was getting this weak already.
+375) LARRY
+[pickup2][trying to hammer a board with another board] {angryA}Will you hold the damned boards steady?!
+376) LEE
+[pickup2] {angryA}Fine, we go. {happyA}Clementine, what do you think?
+377) LARRY
+[pickup2] {thinkingA}You're not even going to ask Clementine, then? {normalC}She's a big girl, {happyA}aren't you, hon?
+378) LEE
+[pickup2] {angryB}No. We stay. I am firm on this, regardless of any vote.
+379) LARRY
+[pickup2] {normalC}Well, if you can't be troubled to vote, {happyA}let's ask the girl.
+380) CLEMENTINE
+[pickup2] [small, with the eyes of the group on her] {fearA}Lee...I'm very hungry.
+381) KENNY
+[pickup2] {thinkingA}They got protection? {normalC}Could be a better spot to stage our move...
+432) KENNY
+[pickup2] {thinkingA}They got protection? {normalC}Could be a better spot to stage our move...
+382) MARK
+[pickup2] {angryA}Yeah, well, Lee didn't think so.
+433) MARK
+[pickup2] {angryA}Yeah, well, Lee didn't think so.
+383) KATJAA
+[pickup2] {sadA}I'm sure he had his reasons...
+434) KATJAA
+[pickup2] {sadA}I'm sure he had his reasons...
+384) LARRY
+[pickup2] {normalC}What do you mean? What type'a setup do they got?
+430) LARRY
+[pickup2] {normalC}What do you mean? What type'a setup do they got?
+385) MARK
+[pickup2] {happyB}You wouldn't believe it, they've got a dairy cow, and this FENCE, oh man, this fence.
+431) MARK
+[pickup2] {happyB}You wouldn't believe it, they've got a dairy cow, and this FENCE, oh man, this fence.
+386) MARK
+[pickup2] {thinkingA}We need to think like a GROUP, Lee. This affects everyone.
+435) MARK
+[pickup2] {thinkingA}We need to think like a GROUP, Lee. This affects everyone.
+387) DOUG
+[pickup2] I say we do it. But I'll hang back to keep tabs on the motor inn, at least 'til after dinner tonight.
+388) LILLY
+[pickup2] {thinkingA}Doug?
+389) KENNY
+[pickup2] {thinkingA}We go.
+441) KENNY
+[pickup2] {thinkingA}We go.
+390) LILLY
+[pickup2] {happyA}We know Mark's vote. {thinkingA}Lee?
+444) LILLY
+[pickup2] {happyA}We know Mark's vote. {thinkingA}Lee?
+391) LILLY
+[pickup2] {angryB}Then we'll stay in this wretched roach motel with your recreational paper-weight over there. {happyA}Plus we stay close to Macon where we have access to the pharmacy, for Dad.
+438) LILLY
+[pickup2] {angryB}Then we'll stay in this wretched roach motel with your recreational paper-weight over there. {happyA}Plus we stay close to Macon where we have access to the pharmacy, for Dad.
+392) LILLY
+[pickup2] {thinkingA}Kenny, Katjaa?
+440) LILLY
+[pickup2] {thinkingA}Kenny, Katjaa?
+393) LARRY
+[pickup2] {happyB}You betcha, punkin.
+443) LARRY
+[pickup2] {happyB}You betcha, punkin.
+394) LILLY
+[pickup2] {happyA}Dad?
+442) LILLY
+[pickup2] {happyA}Dad?
+395) BEN
+[pickup2] {sadA}I'd like to stay too, if that's okay. I haven't had too much luck with strangers.
+439) BEN
+[pickup2] {sadA}I'd like to stay too, if that's okay. I haven't had too much luck with strangers.
+396) KENNY
+[pickup2] {angryA}And if we don't?
+437) KENNY
+[pickup2] {angryA}And if we don't?
+397) LILLY
+[pickup2] {angryA}Then we vote to go back. If the majority agrees, Lee and Mark, you head back and tell them we changed our minds while we load up and meet you there.
+436) LILLY
+[pickup2] {angryA}Then we vote to go back. If the majority agrees, Lee and Mark, you head back and tell them we changed our minds while we load up and meet you there.
+398) LARRY
+[pickup2] {angryC}Good VIBE? Well, {disgustA}Christ daddy-o, I'm sorry the folks with a food supply and DEFENSES didn't {angryD}tickle your pretty pink ass.
+424) LARRY
+[pickup2] {angryC}Good VIBE? Well, {disgustA}Christ daddy-o, I'm sorry the folks with a food supply and DEFENSES didn't {angryD}tickle your pretty pink ass.
+399) LEE
+[pickup2] {thinkingA}It wasn't right for us. {thinkingB}I didn't get a good vibe there.
+423) LEE
+[pickup2] {thinkingA}It wasn't right for us. {thinkingB}I didn't get a good vibe there.
+400) LILLY
+[pickup2] {angryA}By right for US do you mean us or you and Clementine?
+425) LILLY
+[pickup2] {angryA}By right for US do you mean us or you and Clementine?
+401) LEE
+[pickup2] {disgustA}We can't trust strangers, not with kids in our group.
+426) LEE
+[pickup2] {disgustA}We can't trust strangers, not with kids in our group.
+402) LARRY
+[pickup2] {angryA}You'd rather let 'em starve?!
+427) LARRY
+[pickup2] {angryA}You'd rather let 'em starve?!
+403) LARRY
+[pickup2] {angryA}Did you think about the REST of us? {angryB}We got, what, one basket of bread here? {angryC}Jesus, Lee.
+429) LARRY
+[pickup2] {angryA}Did you think about the REST of us? {angryB}We got, what, one basket of bread here? {angryC}Jesus, Lee.
+404) LEE
+[pickup2] {angryA}It wouldn't be safe for Clementine. {angryB}That fence is overkill and {disgustA}I didn't like the look of those guys.
+428) LEE
+[pickup2] {angryA}It wouldn't be safe for Clementine. {angryB}That fence is overkill and {disgustA}I didn't like the look of those guys.
+405) LILLY
+[pickup2] {thinkingA}Carley?
+406) CARLEY
+[pickup2] I say we go. They have lots of supplies. But I'll hang back until after dinner tonight.
+407) LILLY
+[pickup2] [to the group]{happyA}They're back!
+408) DOUG
+[pickup2] And we've got food!
+411) CARLEY
+[pickup2] {happyA}And we've got food!
+409) MARK
+[pickup2] {happyA}And there would've been a lot more where this came from if Lee here had taken that sweet family up on their offer to STAY. {happyB}They even offered us DINNER.
+410) LILLY
+[pickup2] {normalC}What?!
+414) LARRY
+[pickup2]{angryA}What do you want? A hand out?  I've got 60 cents in my pocket if you'll shut up and quit being such a pansy.
+415) 
+Yeah, that's right!
+416) 
+That's not what I meant...
+417) 
+I never said that.
+419) 
+I'd better not.
+445) LILLY
+[pickup2] {thinkingA} Lee, why don't you and Mark and check the place out, see if it's legit.
+446) LEE
+[pickup2]Need any help with the wall?
+447) LARRY
+[pickup2][flat] Nope.
+448) MARK
+Actually, we could use your axe.  You mind if we take it?
+449) 
+Talk To
+450) 
+Give Food To
+451) LEE
+[pickup 2]  Here, eat something.
+452) KATJAA
+[pickup3][flustered while operating on the injured man, and a bit annoyed at Lee]Why don't you give it to Duck.  I'm a little busy with your mess right now.
+453) 
+Shove
+454) 
+Kick
+455) LEE
+[pickup3][casual, looking as some stuff doug is messing with]What's that for?
+456) DOUG
+[pickup3][explaining the cans hanging from the sign, embarased]Oh, that was my first attempt at making an alarm system.  The new version is much more sophisticated!
+457) CLEMENTINE
+[pickup3][ambient]Don't press so hard, you'll break 'em.
+460) LEE
+[pickup3][giving the axe to mark to fix the fence]Here Mark.  This should help.
+461) LARRY
+[pickup3][annoyed at lee]Hey, I'm the one doing all the work over here.  You didn't think to give me the axe?
+462) MARK
+[pickup3][taki9ng the axe from lee to fix the fence] Thanks.
+463) LEE
+[Shouting] The Axe!  Hurry!!
+464) LEE
+[Shouting] The Axe!  Hurry!!
+465) LARRY
+[pickup3][frantic!  Swinging an axe at a zombie!][exertion]
+468) MARK
+[pickup3][frantic!  Swinging an axe at a zombie!][exertion]
+466) LARRY
+[pickup3][frantic!  Swinging an axe at a zombie and missing!  Now the axe is stuck]Dammit!  I had it!!
+467) MARK
+[pickup3][frantic!  Swinging an axe at a zombie and missing!  Now the axe is stuck]SHIT!!  It's stuck!!
+469) LARRY
+[pickup3][frantic!  Swinging an axe at a zombie!]GET OUT OF THE DAMN WAY!!
+470) MARK
+[pickup3][frantic!  Swinging an axe at a zombie!]MOVE!! MOVE!!
+471) LEE
+[a bit out of breath]{normalD} Thanks.
+472) MARK
+[pickup3][a bit out of breath having just chopped a combie to save Lee]No problem.  We gotta watch each others backs, right?
+473) MARK
+[pickup3][Shouting at Lee to get clear of the zombie so he can chop it!] Push it off!! I don't want to hit you!!
+474) MARK
+[pickup3][Shouting at Lee to get clear of the zombie so he can chop it!] Push it off!! I don't want to hit you!!
+475) MARK
+[pickup3][exertion, axing a zombie in the head!]
+476) MARK
+[pickup3][exertion, axing a zombie in the head!]
+477) LARRY
+[pickup3][exertion, axing a zombie in the head!]
+478) LARRY
+[pickup3][exertion, axing a zombie in the head!]
+479) KENNY
+[pickup3][waliking over and scolding Lee for giving the limited amount of food to the new stranger (Keeping the conversatin between Lee & Kenny)]{angryb}Are you out of your mind?  We needed that food for us!  For our kids!
+480) KENNY
+[pickup3]{angrya}That little girl is counting on you. Just keep that in mind.
+481) KENNY
+[pickup3][scolding Lee]{disgusta}Jesus Lee, I didn't think you were that stupid.
+482) CARLEY
+[pickup3] [Lee has given food to the New guy over his established friends]{thinkingA}Lee, I think that's... sweet... but, we don't have food to spare like that.  You need to be thinking about us first.
+483) KENNY
+[pickup3][kenny walks over when he sees that Lee is handing out the food]{thinkinga}Oh, I see Lilly couldn't handle her own job.
+484) BEN
+[pickup3][seeing how little food there is to go around]At least you guys still HAVE  food.
+485) LEE
+[pickup3][bummed abount amount of food to go around.]Yeah.  This is it.
+486) CLEMENTINE
+[pickup3][about giving out the food]Lee will be fair about it, right Lee?
+487) KENNY
+[pickup3][convering the little amount of food to go around]Well, I'm sure you'll be smarter about giving it out than Lilly has.
+488) LEE
+[pickup3]Not yet.  I'll just play it by ear and see how it goes.
+489) CARLEY
+[pickup3]You got a plan Lee?
+490) LEE
+[pickup3][hopeful]I'll do my best.
+491) CARLEY
+[pickup3][seeing that Lee is handing out the food]{feara}Oh man.  Is that all the food to go around today?
+492) CLEMENTINE
+[pickup3][seeing how little food lee has to give out] {sada}Is that food for everyone to share?
+493) LARRY
+[pickup3][pissed that he didnt get food]You keep treating people like this and your days in this group are numbered!
+603) LARRY
+[pickup3][pissed that he didnt get food]You keep treating people like this and your days in this group are numbered!
+494) DOUG
+[pickup3][disapointed that he didnt get food - To himself] Dude, that's bullshit.  I was ON the food list for today!
+495) CLEMENTINE
+[pickup3][having not been fed]I hope I get to eat next time.
+496) CARLEY
+[pickup3][if didnt get fed]It's okay.  I know you're still watching out for me.
+497) KENNY
+[pickup3][disapointed that Lee didnt give food to the kids]What exactly is your problem?!
+498) KENNY
+[pickup3][gettin pissed off] You had the food in your hands and you didn't offer any of it to me OR the kids?  What kind of man are you?
+499) LEE
+[pickup3][Kenny is berating him] Excuse me?
+500) LEE
+[pickup3][defending himself] It's not like that...
+501) KENNY
+[pickup3][angry that lee didnt give him food]So, me and my family don't matter you you anymore?
+502) KENNY
+[pickup3][Assuring Lee it's okay that he didnt get food]Hey, it was a tough choice, but you took care of the kids.  That's what a real man does.
+503) LEE
+[pickup3][pre-emptively defending himself] Kenny, I know I ran out of food before-
+593) LEE
+[pickup3][pre-emptively defending himself] Kenny, I know I ran out of food before-
+504) KENNY
+[pickup3][Lee fed both kids, but not Kenny] Lee-
+592) KENNY
+[pickup3][Lee fed both kids, but not Kenny] Lee-
+505) KENNY
+[pickup3][hearing that the food is all gone]Still,  I guess some people aren't gonna be happy with your choices.
+527) KENNY
+[pickup3][hearing that the food is all gone]Still,  I guess some people aren't gonna be happy with your choices.
+506) LARRY
+[pickup3]He knows I get food!  [This line can be ambiguous meaning Larry already got food or Lee BETTER know!]
+507) MARK
+[pickup3][defending lee]Hey, the guy was a college professor, I think he can figure this out.
+508) DOUG
+[pickup3][skeptical]Well, Lilly's system was tough, but at least it made sense.
+509) LEE
+[pickup3][exaperated sigh, knowing the job of handing out food isnt gonna be easy]This is gonna be tough.
+510) DOUG
+[pickup3]Then how do you know who gets food?
+511) LEE
+[pickup3][giving out the food]{normalb}I'm not working from Lilly's list.
+512) MARK
+[pickup3][seeing Lee give food to Larry] {normalA}Trying to be the bigger man, huh?
+513) DOUG
+[pickup3][walking over after seeing Lee with the food]{normalA}So you're giving out  the food today?  What about Lilly's list?
+514) LARRY
+[pickup3][seeing that Lee is handing out food] {angrya}Hey, I saw Lilly's food list for today and I know I'm on it.  Just dont go trying to pawn off the junk food on me.
+515) LEE
+[pickup3][to himself, bummed that he's out of food]Well, that's it.
+596) LEE
+[pickup3][to himself, bummed that he's out of food]Well, that's it.
+516) LEE
+[pickup3][annoyed, seeing Kenny walking up to him] Great, now what?
+517) LEE
+[pickup3][bummed, to himself] God I hope we find food soon.
+518) CLEMENTINE
+[pickup3][seeing that lee is out of food] Is the food all gone now?
+519) LEE
+[pickup3][bummed that the food is all gone]Yeah.
+520) KENNY
+[pickup3][Pulling Lee aside ambigously] Hey, Let's talk for a second...
+521) LEE
+[pickup3][seeing Kenny marching over] Great. [What does HE want?]
+560) LEE
+[pickup3][seeing Kenny marching over] Great. [What does HE want?]
+522) KENNY
+[pickup3]This is exactly why I don't want you on the RV.
+523) KENNY
+[pickup3]Don't make me regret asking you to come along on the RV.
+524) KENNY
+[pickup3]You might earn yourself a place on the RV after all.
+525) KENNY
+[pickup3]Hey, thanks for looking out for me and my family...
+526) KENNY
+[pickup3]I'm serious about that offer to come with us.  You've more than earned a ride on the RV with me.
+528) LEE
+[pickup3][a bit out of breath after being attacked by a zombie]Yeah.  Thanks.
+529) CARLEY
+[pickup3][a bit out of breath after saving Lee from a zombie in a truck]You okay?
+530) DOUG
+[pickup3][exertion, smashing a zombie with a board]
+532) DOUG
+[pickup3][exertion, smashing a zombie with a board]
+531) DOUG
+[pickup3][attacking a zombie & helping Lee]I GOT 'EM!!
+533) DOUG
+[pickup3][attacking a zombie & helping Lee]I GOT 'EM!!
+534) LEE
+[pickup3][panicking!  Being attacekd by a zombie and seeing Carley run over with her gun] SHOOT IT!!
+535) LEE
+[pickup3][panicking!  Being attacekd by a zombie and seeing Carley run over with her gun] SHOOT IT!!
+536) CARLEY
+[pickup3][chiming in on the argument about bringing new poeple.  It's pretty heated]Well, hang on!  We haven't even talked to these people yet!  Maybe they CAN be helpful!
+537) CARLEY
+[pickup3][in the middle of an argument follows Kenny saying "This isn't your own personal dictatorship!"]Oh come on.  You're being dramatic!
+538) CARLEY
+[pickup3][bowing out of the arguement]Everything always turns into a power struggle between you two. I'm not gonna be a part of that.
+539) LARRY
+[pickup3]{after Lee gives Larry food] He knows who he needs to keep happy.
+540) MARK
+[pickup3]Well, I'd be careful not to seem like I'm playing favorites.  I wouldn't want to be in your shoes right now.
+541) LARRY
+[pickup3]Well, now you know what she's dealing with.
+542) MARK
+[pickup3]Wow.  It's getting bad.
+543) LEE
+[pickup3][on the task of haning out food] Lilly only gave me food enough for four people.
+545) LEE
+[pickup3][preceeds - 310522451]You've got a deal.
+546) LEE
+[pickup3][slightly projected - talking over the fence]I think we'll stay here.
+547) 
+Okay, we'll go to the dairy.
+548) 
+No deal, we'll just stay here.
+549) LEE
+[pickup3][justifying to the group]We're starting to develop a good vibe here at the motel.
+550) LILLY
+[pickup3] [preceeds #310522558]{angryA}Then we vote. If everyone agrees then we'll send you guys with some gas to check the place out.
+551) DOUG
+[pickup3] I say we do it.
+552) CARLEY
+[pickup3] I say we go.
+553) MARK
+[pickup3][voting on whether to stay or go]I'm in. If they are offering food, we gotta at least check it out.
+554) LEE
+[pickup3][being outvoted] Clementine, what do you think?
+555) LEE
+[pickup3]All right.  Looks like we're going to a dairy.
+556) KENNY
+[pickup4]You're one to talk, old man.
+557) LARRY
+[pickup3]Yeah, well I don't see you working on that wall!
+558) LARRY
+[pickup3]You're out?! What happened to my food?!
+602) LARRY
+[pickup3]You're out?! What happened to my food?!
+559) LEE
+[pickup3][defensive] There's none left.
+601) LEE
+[pickup3][defensive] There's none left.
+561) MARK
+[pickup3][urgent, ariving with a wounded man]Where should I put him?
+562) KENNY
+[pickup3][urgent, ariving with a wounded man]	Come on, move it!
+563) KATJAA
+[pickup3][urgent, ariving with a wounded man]	Lee?!
+564) LARRY
+[pickup3][urgent, ariving with a wounded man]	What the hell happened out there?!
+565) LARRY
+[pickup3]Yeah, give us that thing for a bit.
+566) KATJAA
+[pickup3]Listen, next time I ask you "what happened," I'd appreciate you taking the time to answer, okay?
+567) LEE
+[pickup3]Yeah.  Sorry.
+568) KATJAA
+[pickup3]When you first brought him here you asked if I could fix him.  I'm not a doctor, Lee, I'm a vet.  You can't go putting people in danger and expect me to fix them.
+569) KATJAA
+[pickup3]That man you brought... I tried, but he was never going to survive.
+570) KATJAA
+[pickup3]You didn't answer me when I fisrt asked what happened out there.  Kenny said it didn't matter, but it does.  You can't let Kenny get into these messes.  I NEED him to come back, and not like this guy.
+571) LILLY
+[pickup3][Seeing Lee give Kenny food]How's it going Lee?  From up here it looks like you're playing favorites.
+572) 
+[GIVE AXE TO MARK]
+573) 
+[GIVE AXE TO LARRY]
+598) KENNY
+[sighs heavily]
+574) CLEMENTINE
+Okay.
+579) LILLY
+[pickup2]I don't have a choice.
+580) LEE
+[pickup2]I don't envy you.  I don't know how you have the strength to do this every day.
+581) LILLY
+[pickup2][neutral]Not such an easy job, is it?
+582) LEE
+[pickup2]Never said it was.
+583) 
+Yo no te mat�
+587) 
+Yo no te mat�
+584) 
+Tuve que tomar una decisi�n
+588) 
+Tuve que tomar una decisi�n
+585) 
+Apenas te conoc�a
+589) 
+Apenas te conoc�a
+586) 
+Est�s mejor as�.
+590) 
+Est�s mejor as�.
+591) KENNY
+[pickup 2] Hey, you took care of my boy. As far as I'm concerned you did right by me.
+594) 
+Cans
+595) 
+Alarm
+599) LEE
+Thanks, Kenny.
+600) LEE
+Yeah, of course.
+604) 
+Walker
+605) LILLY
+[pickup2][Really annoyed that Lee & Kenny have brough new people to the camp while everyone is starving]{angryB}On n'est PAS responsables pour tous les survivants qu'on croise. {angryC}L'important, c'est NOTRE groupe ! Ici et maintenant.

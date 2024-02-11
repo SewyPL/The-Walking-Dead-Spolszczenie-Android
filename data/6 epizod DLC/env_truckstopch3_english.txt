@@ -1,0 +1,332 @@
+1) NATE
+{normala}Let's look for some supplies in here and see if we can fill up while we're at it.
+2) NATE
+{disgusta}Don't be mad.
+3) NATE
+{thinkinga} Gimme that.
+4) NATE
+{disgusta}Fine, be mad, just stop being a pussy.
+5) 
+I'm outta here.
+6) 
+I'm sorry; I don't like being scared.
+7) 
+I'm not mad.
+8) RUSSELL
+I--
+9) NATE
+WHOA SHIT! GO, GET OUT!
+10) NATE
+{feara}RUSS! Get the fuck down, man!
+11) NATE
+{normala}You don't want to be there! Get to the truck! I'll cover you!
+12) RUSSELL
+{angrya}[sliding into cover] Oof!
+86) RUSSELL
+[getting shot] OOF!
+13) 
+I'll get shot!
+14) RUSSELL
+{feara}I'll get fucking shot!
+15) NATE
+{feara}No, you won't! {angrya}I'll cover you, and this guy can't hit the broad side of a barn! Just move your ass!
+16) 
+Okay! Get ready!
+17) RUSSELL
+{feara}Okay! Get ready!
+18) NATE
+{normalb}Don't stop runnin' and keep your head down!
+19) 
+You got bullets now?!
+20) RUSSELL
+{angrya}You got bullets this time?!
+21) NATE
+{angrya}Don't think about it, just run! {normala}I'll keep his fucking head down!
+166) NATE
+{angrya}Don't think about it, just run! {normala}I'll keep his fucking head down!
+22) NATE
+You crazy son of a bitch!
+23) RUSSELL
+[running from a gunman 1]
+97) RUSSELL
+{feara}[wind knocked out of him]
+104) 
+[Aim at sniper]
+107) 
+[Shoot him.]
+111) 
+[Draw on Nate]
+130) 
+[Look at him]
+131) 
+[Turn away]
+24) NATE
+{happya}Look how good you did!
+25) RUSSELL
+{feara}[in a little bit of a panic] God. God.
+26) NATE
+Russell. RUSS. You're not gonna die. We've got this. I'm sorry I didn't cover you.
+27) RUSSELL
+{angrya}What happened to I'LL COVER YOU?!?
+28) 
+What are we going to do?
+29) 
+We're screwed.
+30) 
+I shouldn't have come with you.
+35) RUSSELL
+I shouldn't have come with you.
+31) RUSSELL
+[gathering himself] All right. What are we gonna do?
+32) RUSSELL
+[upset] I dunno, man, fuck, we're screwed.
+33) NATE
+You haven't been shot at in three months? Come on, kid. Look at me.
+34) NATE
+Come on, kid. Look at me.
+36) NATE
+Well, it's too fucking late now. You need to relax, Russell.
+37) NATE
+{normalb}This is no big deal. We got this, okay?
+38) RUSSELL
+{normalb}Okay.
+41) RUSSELL
+{normalb} Okay.
+53) RUSSELL
+[under duress] Okay.
+39) NATE
+{angrya}[forceful] RUSSELL. Get your shit together. There is no getting out of this right now. Okay?
+40) NATE
+Now help me out here.
+42) NATE
+{angrya}First, we're gonna figure out exactly where this asshole is.
+43) NATE
+Just get a quick glance!
+44) NATE
+Come on, just a peek.
+45) NATE
+He won't hit us. Come on. I'm not fucking with you this time.
+46) NATE
+RUSSELL. COME ON.
+47) NATE
+Let's do this.
+48) NATE
+{happya}Asswipe can move!
+49) NATE
+{happya}Good hustle!
+50) NATE
+Down!
+51) NATE
+Dammit! What did I say?!? This is your own damn fault.
+52) NATE
+That's the spirit. Let's push this truck for cover.
+54) NATE
+{normala}See, easy. Now we know where he is and we can fucking get him.
+55) RUSSELL
+All right, yeah.
+56) NATE
+It's in neutral, just keep your head down.
+57) NATE
+[running out of energy] Ugh!
+63) RUSSELL
+[running out of energy] Ugh!
+96) RUSSELL
+{angrya}[falling, hard] UGH!
+58) RUSSELL
+[exertion] ARRG....
+59) NATE
+We're gonna get around the side of the building. We gotta go from cover to cover.
+60) NATE
+Seriously this time. I'm not fucking around.
+61) RUSSELL
+[exertion] What now?!
+62) NATE
+[exertion] End of the road!
+64) NATE
+[exertion] Shit! PUSH!
+65) NATE
+If we get to that car, we'll be out of the line of fire.
+66) 
+You gonna COVER ME?
+69) RUSSELL
+You gonna COVER ME?
+67) 
+We won't make it.
+68) 
+Yeah, no problem.
+70) RUSSELL
+We won't make it. No way.
+71) NATE
+Yes, we will. We cover each other -- toss the gun back and forth.
+72) NATE
+Just don't get shot.
+73) RUSSELL
+[sarc] Yeah, no problem. Easy as pie.
+74) NATE
+{normala}Here.
+78) NATE
+Here.
+75) NATE
+{normala}You can cover me first. I'm not fucking around. You cover me, then I'll cover you, or if you want to go first, that's fine, too.
+76) 
+I'll cover you.
+77) 
+Cover me. I'll go first.
+79) RUSSELL
+Yeah.
+80) NATE
+Ready?
+81) NATE
+[pickup1]Just shoot at the window and keep that fucker's head down 'til I get where I'm going, then throw me the gun and I'll do the same.
+82) NATE
+Fire.
+83) NATE
+Atta boy, Russ. Haul ass.
+84) RUSSELL
+[pickup1]I'll go first.
+85) NATE
+[getting shot in the side] GAHHHH! COME ON!
+87) NATE
+[exertion] All right! Throw me the gun and I'll cover you!
+88) NATE
+Go!
+89) RUSSELL
+{happya}A'ight! I'm good!
+165) RUSSELL
+{happya}A'ight! I'm good!
+90) NATE
+{normala}Heads up!
+91) NATE
+NICE.
+92) NATE
+{happya}Good job.
+93) NATE
+As soon as you start shootin', I'm comin'.
+94) RUSSELL
+{feara}Now what?
+95) NATE
+{normala}We get over there and we should be good. GO!
+98) 
+Thanks.
+112) RUSSELL
+{surprisea}Thanks.
+99) 
+You saved my life.
+114) RUSSELL
+{surprisea}You saved my life.
+100) 
+You're crazy.
+101) NATE
+{normala}Follow me.
+102) NATE
+You ready, Russ?
+103) NATE
+Cover my ass, now.
+105) 
+Fine. I'm sorry.
+106) 
+This is crazy. I'm out.
+108) 
+Yeah, I guess.
+127) RUSSELL
+Yeah, I guess.
+109) 
+I'm not your "boy."
+145) RUSSELL
+I'm not your "boy."
+110) 
+Fuck you.
+113) NATE
+{normalb}We're not done yet.
+115) NATE
+{normalb}Whatever, we got more work to do.
+116) RUSSELL
+{surprisea}You're crazy, man.
+117) NATE
+Look, I need you right now, all right, Russ? This ain't the time to fuck around! Okay, yeah, I was an asshole before, but you know I was just trying to loosen you up. You're my boy, right?
+118) NATE
+Oh come on, RUSSELL, cut the shit.
+119) NATE
+{happya}Great! Now let's do this, Asswipe.
+120) RUSSELL
+{angrya}Fine. [awk]I'm sorry. Just... don't fuck with me again, okay?
+121) RUSSELL
+Fuck you, Nate.
+122) NATE
+{happya}GREAT. Good. That's what I like to hear. And no apology needed for pointing the gun at me; I can see that you're under some stress.
+123) NATE
+{happya}All right, Russ, you caught me with my balls out. That's good. Good one, kid.
+124) NATE
+{angrya}Dammit, Russ, what's the goddamn hold up--
+125) NATE
+This is your MOMENT, Russell! BIG RUSS!
+126) NATE
+Come on, Russ! We gotta move, man!
+128) NATE
+Shoot, kid!
+129) 
+Door
+132) 
+Window
+133) NATE
+{thinkinga}Russell, you still breathing?
+134) NATE
+Fuck it, I'll do it myself.
+135) 
+Throw Gun To
+136) 
+Pistol
+137) NATE
+{angryb}OH COME ON. Are you serious?
+138) RUSSELL
+{sada}[sigh]God, you're the fucking worst.
+139) NATE
+{happya}[with a wink]Yeah, I know.
+140) NATE
+{happya}I can't promise that, but I see that you're upset.
+141) RUSSELL
+{angryb}I'm fucking out. You hear me? I'm leaving your ass.
+142) NATE
+Let's get these fucks!
+143) NATE
+You and I both know you're not going to shoot me.
+144) NATE
+Now let's do this.
+149) NATE
+Now let's do this.
+153) NATE
+Now let's do this.
+157) NATE
+Now let's do this.
+146) NATE
+Look, I like to fuck around. I do, OK? But we're in a fucking pickle here and I'm telling you, we get through this and... well, I'll work on that first impression you got'a me, OK?
+155) NATE
+Look, I like to fuck around. I do, OK? But we're in a fucking pickle here and I'm telling you, we get through this and... well, I'll work on that first impression you got'a me, OK?
+158) NATE
+Look, I like to fuck around. I do, OK? But we're in a fucking pickle here and I'm telling you, we get through this and... well, I'll work on that first impression you got'a me, OK?
+147) NATE
+Well maybe not right now--
+148) RUSSELL
+Not no time.
+150) NATE
+I'm gonna give you this gun back now and you're gonna shoot at this guy.
+154) NATE
+I'm gonna give you this gun back now and you're gonna shoot at this guy.
+156) NATE
+I'm gonna give you this gun back now and you're gonna shoot at this guy.
+151) RUSSELL
+You didn't save shit; you're gonna get me killed.
+152) NATE
+Fuck ME? I saved your ass!
+159) NATE
+{thinkinga}Let's see if we can get in around back... sneak up on this asshole...
+160) NATE
+[pickup1][responding to silence.  Follows ""stop being a pussy""]{disgusta}...Or keep being a pussy.
+161) RUSSELL
+[pickup1][as the tire gets shot out] SHIT!
+162) NATE
+[pickup1][as the tire gets shot out] Just keep pushing!
+163) NATE
+[pickup1]Remember, DON'T stop shooting!
+164) RUSSELL
+[pickup1][nervously]I'll cover you. You go first.

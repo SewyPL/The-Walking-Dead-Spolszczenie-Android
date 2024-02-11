@@ -1,0 +1,628 @@
+1) CLEMENTINE
+[excited] {HappyB}Katjaa says Maybelle could have her baby tonight!
+2) KATJAA
+{HappyC}We'll see, Clementine.
+3) LEE
+{body-B}{FearA}I...I'm sorry.
+4) ANDY
+[annoyed/frustrated] {body-A}{AngryA}*sigh*
+5) LEE
+{body-B}{FearA}Katjaa needed water. I... {HappyA}thought there might be some back here.
+6) ANDY
+[annoyed]{body-A}{ThinkingA}Well next time just ask one of us.
+7) LEE
+{body-B}{ThinkingA}You guys seem to have a lot of medicine back there.
+8) ANDY
+[with a creepy smile] {body-A}{HappyA}Sign o' the times, I guess.  {HappyB}You gotta stock up when you get the opportunity.
+9) ANDY
+[Trying hard to keep his cool]{body-A}{ThinkingA}Look. Y'all seem like nice people, {HappyA}and God knows we appreciate your help.
+10) ANDY
+[Trying hard to keep his cool]{NormalC}But you can't just go wandering around into {HappyA}locked places if you want us to trust you.
+11) ANDY
+[frustrated]{AngryA}All right...listen, {HappyA}dinner will be ready soon.  Why don't ya head on out, {HappyB}get the rest of your group and come back.
+12) DUCK
+{body-A}{ThinkingA}Dad couldn't get it open.
+13) KATJAA
+[scolding/hushed] {body-Sit}{DisgustA}Ah, you're just like Kenny! {AngryA}Put that axe away, or you'll get us {AngryB}all thrown out.
+14) KATJAA
+{body-Sit}{AngryB}No, you'll destroy the door!
+15) LEE
+[reading; quietly to himself] {Body-B}{SadA}Morphine?
+16) LEE
+{body-B}{ThinkingA}How's she doing?
+17) LEE
+{body-B}{ThinkingA}Nothing up there I need.
+18) LEE
+[to himself; quiet but somewhat urgent][It's] {body-B}{AngryA}Clean.
+19) LEE
+[to himself; quiet but somewhat urgent] {body-B}{ThinkingA}I guess it's broken.
+20) LEE
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingB}It's pretty scratched up.
+21) LEE
+[to himself; quiet but somewhat urgent/shocked...looking at chains with meat hooks]{body-B}{DisgustA}What those are for?
+22) LEE
+[to himself; quiet but somewhat urgent]{Body-B}{NormalC}Nothing useful.
+23) LEE
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Looks old. I wonder if it still works?
+24) LEE
+[to himself; quiet but somewhat urgent]{Body-B}{AngryA}Empty.
+316) LEE
+[to himself; quiet but somewhat urgent]{Body-B}{AngryA}Empty.
+25) LEE
+[to himself; quiet but somewhat urgent]{Body-B}{ThinkingA}Nothing. [Inside these boxes]
+26) KATJAA
+{body-Sit}{HappyA}If she goes into labor soon, she should be fine.  {SadA}But the calf... {NormalC}we'll see.
+27) DUCK
+[defensive] {body-A}{HappyB}I'm helping!
+28) ANDY
+{body-A}{ThinkingA}What is it?
+29) KATJAA
+{HappyB}Yes, baby. {HappyA}I need grown-up help.
+30) ANDY
+{NormalC}Okay, {ThinkingA}I'll be right back.
+31) KATJAA
+[Calling Out] {body-Sit}{HappyA}Hey, Andrew... {NormalC}I need help in here.
+32) KATJAA
+{body-Sit}{HappyA}She's fine. {NormalB}I'm trying to prepare her for labor. {ThinkingA}Could you get me some towels? From the house?
+33) ANDY
+{HappyA}All right.  Well, {HappyB}give me a holler if ya need anything.  {NormalC}I'm right outside.
+34) KATJAA
+{body-Sit}{HappyA}She's all right for now.
+35) ANDY
+{body-A}{NormalC}How's she doin'?
+36) LEE
+{body-B}{ThinkingA}Yeah.
+37) KATJAA
+{body-Sit}{ThinkingA}Did Kenny tell you? {FearA}About the room?
+38) KATJAA
+I hate to say it, but he's right.  {ThinkingA}We need to know what's back there.{AngryA} I tried to look myself, {ThinkingA}but Andrew keeps poking his head in here...
+39) LEE
+{body-B}{NormalC}Katjaa...
+40) KATJAA
+{body-Sit}{FearA}Andy will be back any minute. {FearB}Please hurry.
+41) LEE
+{body-B}{HappyB}How do ya like that cow, Clem?
+42) CLEMENTINE
+{body-Stand}{HappyA}She's pretty.
+43) LEE
+{body-B}{HappyB}You guys having fun?
+44) DUCK
+{body-A}{HappyB}Uh huh!
+45) KATJAA
+{body-Sit}{FearA}Lee, hurry.
+46) KATJAA
+[a little annoyed] {body-Sit}{AngryA}Lee, please!
+47) LEE
+{body-B}{SadA}She looks skinny.
+48) KATJAA
+{FearB}Yeah... {HappyA}I guess we're lucky.
+49) LEE
+{body-B}{FearA}It's okay. {ThinkingA}I thought he'd be furious...
+50) LEE
+[puzzled]{ThinkingA}Yeah.  {NormalC}Guess so.
+51) KATJAA
+{body-Sit}{SadA}Sorry, Lee.  {SadB}I didn't hear him coming...
+52) KATJAA
+{body-Sit}{ThinkingA}Lee, are you {SadA}headed back for Lilly and everyone else?
+53) LEE
+{HappyA}I will.
+54) LEE
+{body-B}{NormalB}Yeah.
+55) KATJAA
+{NormalB}Okay.  {HappyA}We'll see you at dinner, then.  {SadA}Be careful out there.
+56) DUCK
+[disapointed] {SadA}Okay.
+57) LEE
+{body-B}{HappyA}Just stay close to your mom for now.
+58) DUCK
+{body-A}{HappyB}I wanna play on the hay!
+59) KATJAA
+{body-Sit}{AngryA}Lee, not up there.  {FearB}Check out the BACK room.
+60) KATJAA
+{body-Sit}{FearA}He'll be gone for a few minutes, {ThinkingA}but we don't have any time to waste. {FearB} Hurry up.
+61) LEE
+{body-B}{ThinkingA}Call him.  {NormalC}I'll see what I can do.
+62) LEE
+{body-B}{NormalC}It's the cow...
+63) LEE
+{body-B}{FearA}It's my wrist...
+64) LEE
+{body-B}{HappyA}The kids are thirsty...
+65) ANDY
+{body-A}{FearA}Is Maybelle okay?
+66) LEE
+{SadA}I think I twisted it when we were fixing the fence.  {NormalC}Can ya get me some ice?
+67) ANDY
+{body-A}{ThinkingA}I'll go check up at the house.
+68) ANDY
+{body-A}{HappyA}Yeah, I'll check with Momma.
+69) LEE
+{HappyB}Think you could bring 'em somethin'?
+70) KATJAA
+{body-Sit}{ThinkingA}That should buy you a few minutes...
+71) DUCK
+{body-A}{ThinkingA}Daddy says it's called a salt lick.
+72) CLEMENTINE
+{body-Stand}{ThinkingA}Yeah, but don't lick it.  {DisgustA}It's gross.
+73) LEE
+{body-B}{ThinkingA}What's this thing?
+74) CLEMENTINE
+[bashful] {HappyB}I don't know...
+75) LEE
+{HappyA}Did you lick it?
+76) LEE
+[hushed] {body-B}{DisgustA}This room looks like a slaughter house...
+77) LEE
+[hushed] {ThinkingA}Yeah, that was my thought, too.
+78) KATJAA
+[hushed]{body-Sit}{ThinkingB}In a dairy?
+79) KATJAA
+{body-Sit}{HappyA}What do you see? {ThinkingA}Any food?
+80) ANDY
+[stern] {body-A}{ThinkingA}Lookin' for something, Lee?
+81) ANDY
+[with undertones of accusation]{body-A}{ThinkingA}Looks like Maybelle is doing better, {HappyA}huh?
+82) ANDY
+[with undertones of accusation]{body-A}{ThinkingA}Glad to see your wrist seems to be feeling better.
+83) ANDY
+[with undertones of accusation]{body-A}{AngryA}Momma says the kids are welcome to come up to the{ThinkingA} house for drinks.
+84) KATJAA
+{body-A}{HappyA}It's okay, Clementine, you can pet her.
+85) LEE
+{HappyB}It's okay, go ahead.
+86) CLEMENTINE
+[amazed by the cow]{body-Stand}{HappyC}Woah...
+87) CLEMENTINE
+[ambient]{HappyB}There's a baby in there?
+279) CLEMENTINE
+[ambient]{HappyB}There's a baby in there?
+88) KATJAA
+[ambient]{ThinkingA}Careful, don't spook her.
+280) KATJAA
+[ambient]{ThinkingA}Careful, don't spook her.
+89) LEE
+[pickup3][slightly hushed, general worry about the kids]{body-B}{ThinkingA}How are the kids?
+90) KATJAA
+{body-Sit}{HappyA}I never did thank you for saving Duck from the walkers {SadA}back at Hershel's farm.[Recorded during 101 pickups]
+91) KATJAA
+[Ya know what, despite it all-]{body-Sit}{HappyA}They're doing okay.[Recorded during 101 pickups]
+92) LEE
+{body-B}{ThinkingA}What do you think of the Dairy?
+93) KATJAA
+{body-Sit}{HappyA}It's nice... {ThinkingA}But I don't think we should get to comfortable.  {NormalC}We don't really know these people yet, {ThinkingA}ya know?
+94) KATJAA
+{body-Sit}{HappyA}The St. John's have been very friendly to them. {ThinkingA}But...[Recorded during 101 pickups]
+95) KATJAA
+If something happens and you've gotta choose between the kids or them, {AngryA}don't repeat what happened with the walkers at Hershel's farm.[Recorded during 101 pickups]
+96) KATJAA
+[cont.]{ThinkingA}You choose the kids this time.[Recorded during 101 pickups]
+97) KATJAA
+[pickup1][Asking Lee to check out the back room, but thinking he might chicken out][Follows: 310411407] {body-Sit}{AngryA}I'm not asking you to help out with surgery or anything...
+98) LEE
+[pickup1][awkward, having been called out for not helping Katjaa with surgery earlier in the day]{body-B}{SadA}Listen, I -
+99) KATJAA
+[pickup1][Assuring Lee an apology isn't neccessary, just do this thing instead]{NormalC}You don't need to say anything.  {SadA}Just please, {ThinkingA}get rid of Andrew for a minute so we can get a look back there.
+100) LEE
+[pickup1][responding to katjaa asking for help distracting Danny in the barn]{body-B}{ThinkingA}I'll do whatever I can. [Remembering how his help didnt save David]{SadA}Maybe this time I can actually help.
+101) KATJAA
+[pickup1][Lee offers help with the Barn, but regrets that his help earlier didnt save david]{body-Sit}{SadA}Lee... {SadB}you did your best with David.  So did I.  {ThinkingA}But if you want to help the rest of us, {NormalC}you need to distract Andrew and see what's in that back room.
+102) 
+Dairy Box
+103) 
+Cow
+104) 
+Door
+105) 
+Barn Door
+106) 
+Hay Bale
+107) 
+Lock
+108) 
+Fence Posts
+109) 
+Look At
+228) 
+Look At
+110) 
+Stall Door
+111) 
+Feeding Trough
+112) 
+Wheelbarrow
+113) TEMP
+Lee looks into the boxes.  They are empty.
+114) LEE
+[pickup1]{body-B}{ThinkingA}[talking to katjaa about the back room after searching it (And getting caught)]I don't know what that room is for, but if they are stockpiling food somewhere, it's not back there.
+115) KENNY
+[pickup2] {Body-D}{ThinkingA}You found it too, eh?
+116) LEE
+[pickup2][trying to calm Kenny down]{Body-B}{ThinkingA}Don't get paranoid.
+117) KENNY
+[pickup2][whisper]  {Body-HandsHips}{AngryA}Lee, they're hiding something.  Behind this door.
+118) KENNY
+[pickup2]{Body-D}{AngryA}It's my JOB to be paranoid, Lee.  {AngryB}I got my whole family on this farm right now.  {ThinkingA}How about you?  What about Clem?
+119) LEE
+[pickup2]I'll protect her, no matter what.
+249) 
+I'll protect her, no matter what.
+120) LEE
+[pickup2]{Body-B}{SadB}She's not actually family...
+121) LEE
+[pickup2]{Body-B}{AngryA}You're being stupid, Kenny.
+122) KENNY
+[pickup2]{Body-D}I know you will.
+123) KENNY
+[pickup2]{Body-D}{SadA}Pfft.  May as well be now, man.  {ThinkingA}That girl needs you.
+124) KENNY
+[pickup2][hurt] {Body-D}{AngryA}Stupid?  {AngryB}Stupid?!  {DisgustA}Nice one, Lee.
+125) KENNY
+[pickup2]{Body-D}{SadB}You gotta think about that little girl now, Lee.
+126) KENNY
+[pickup2]{ThinkingA}So go find a hammer, and I'll have this thing off in a second.  {AngryA}You back me up in case them farmers come running.
+127) LEE
+[pickup2]{ThinkingB}Hang on, man.  Think this through.  {AngryA}You smash the lock.  {ThinkingA}Then what if it turns out you're wrong?   {ThinkingB}You just fucked your chance to get a good meal in those kids you're trying to protect.  {SurpriseA}Use your head, Kenny.
+128) LEE
+[pickup2]{Body-B}{ThinkingA}What?
+129) KENNY
+[pickup2]{Body-D}{AngryA}Look, {ThinkingA}that guy with Katjaa...  What's-his-name.  {DisgustA}He locked it up real TIGHT the second we came in.  [conspiratorially closer]I definitely heard a noise back there, Lee.
+130) KENNY
+[pickup2]{Body-D}{AngryB}My point is, we gotta know for sure.
+131) KENNY
+[pickup2][friendly joshing] {Body-D}{HappyA}All right, professor.  {ThinkingA}What do you have in mind?
+132) LEE
+[pickup2]{Body-B}{ThinkingB}Let me have a look at what we're dealing with first.
+133) KENNY
+[pickup2][sardonic] {AngryA}What's YOUR genius idea, {Body-D}professor?
+134) KENNY
+[pickup2]{Body-D}{AngryB}That's the second time {Body-HandsHips}you called me stupid, Lee.  {DisgustA}I'm gettin' kind sick of it.
+135) KENNY
+[pickup2]{SadB} Jesus, man!  I'm from Florida!  {DisgustA}Crazy shit just comes out of my mouth sometimes.  {SurprisedA}Sorry.
+136) LEE
+[pickup2] {Body-B}{SurpriseA}No. [beat while he considers the implication] No!  {ThinkingB}Why would you say that?
+137) LEE
+[pickup2] {AngryA}Oh, you are NOT saying what I {ThinkingA}think you're saying.
+138) KENNY
+[pickup2] [anxious] {Body-D}{NormalC}Hey.  Lee.  {ThinkingA}You know how to pick a lock, right?
+139) KENNY
+[pickup2] {FearA}Well.  You're... {SadB}you know... {ThinkingA}urban?
+140) LEE
+[pickup2] [subsequent inspections]  {Body-B}{AngryA}Pretty sturdy.
+141) LEE
+[pickup2][just had a breakthrough thought] {Body-B}{ThinkingA}Hm!
+142) KENNY
+[pickup2]{Body-D}{SurprisedA}What?
+143) LEE
+[pickup2]{ThinkingB}See those screws?  {HappyA}Instead of breaking the padlock, we can just take off the assembly, have a peek inside, {ThinkingA}and then replace it all again, like nothing ever happened.
+144) KENNY
+[pickup2]{HappyB}All right.  Sounds like you got a plan.  {ThinkingA}I'll hang around and keep an eye on that guy with the cow.
+145) LEE
+[pickup2]{NormalD}Andy.
+146) KENNY
+[pickup2]{DisgustA}Shit.  {FearB}I thought that {SurprisedA}was Danny.  {AngryA}Whatever.
+147) LEE
+[pickup2][subsequent inspections] [looking at the lock assembly] {Body-B}{ThinkingB}Screws holding it to the door.  {ThinkingA}If I can remove 'em, I don't even need to deal with the lock.
+148) LEE
+[pickup2]{Body-B}{ThinkingA}Kenny thought he heard a noise
+149) LEE
+[pickup2]{Body-B}{HappyA}Just checking out the barn here.  {HappyB}Never been to a dairy farm before.
+150) LEE
+[pickup2]{Body-B}{ThinkingA}What's behind this door, Andy?
+151) ANDY
+[pickup2]Just tools.  We keep it locked so the people in the woods don't try and grab 'em.  We'd be dead without our tools.
+152) ANDY
+[pickup2]{HappyA}Well, we're all sure glad his wife is here.  {NormalC}She's a lifesaver-- {HappyB}you got no idea.
+153) ANDY
+[pickup2]{Body-A}{ThinkingA}He's a little jumpy, eh?
+154) ANDY
+[pickup2]{Body-A}{HappyA}Okay.  Well, don't just roam around without me or Danny.  {NormalC}The farm can be a dangerous place.
+155) ANDY
+[pickup2]{ThinkingA}You know, the bandits and all.  {NormalB}Sorry about your friend.
+156) ANDY
+[pickup2]Hey, uh...  do me a favor.  Don't fuck around with this door.  Just, you know, Mama gets nervous.
+157) ANDY
+[pickup2]{NormalC}No problem!  {HappyB}Right away, doc!
+158) KATJAA
+[pickup2][calling across the barn] {Body-Sit}{FearA}Andrew!  I need your help again.
+159) ANDY
+[pickup2] {Body-A}{NormalC}Yeah?
+160) LEE
+[pickup2] {Body-B}{HappyB}Hey there, Andy.
+161) ANDY
+[pickup2] {Body-A}{HappyA}Well, better now we got {HappyB}Doc on the case.
+162) ANDY
+[pickup2][laughs]{Body-A}{HappyA}Hungry, huh?  {HappyB}Don't worry.  {HappyC}Mama's cooking up some good grub.
+163) LEE
+[pickup2] {Body-B}{ThinkingA}How's the cow?
+164) LEE
+[pickup2]{Body-B}{FearA}Uh... [hems a bit] {ThinkingA}when do you think, {FearA}uh, {SadA}we might eat?
+165) ANDY
+[pickup2][reluctant]{Body-A}{SurprisedA}Yeah.  {ThinkingA}He, uh, {HappyA}probably talks a little more than he oughta.
+166) LEE
+[pickup2]{Body-B}{SadA}We met this woman up in the woods.  {ThinkingA}She seemed to know your brother.
+167) ANDY
+[pickup2]{Body-A}{NormalC}Yup.
+168) LEE
+[pickup2]{Body-B}{HappyA}Thanks.
+169) LEE
+[pickup2]{Body-B}{ThinkingA}You got a screwdriver?
+170) ANDY
+[pickup2]{Body-A}{ThinkingA}For what?
+171) LEE
+[pickup2]{SadA}Uhh... {FearA}never mind.
+172) LEE
+[pickup2]{Body-B}{ThinkingB}Why do you lock that door?
+173) ANDY
+[pickup2]Cuz we can't afford to lose our shit to the people In the woods.  They come down here every once in a while, raid our stuff.  Even with the fence.
+174) ANDY
+[pickup2]{Body-A}{NormalC}All righty, then.
+175) ANDY
+[pickup2]  {Body-A}{HappyA}No problem.
+176) LEE
+[pickup2]It's a small tool box.
+177) LEE
+[pickup2]Brenda must use this thing for household repairs.
+178) LEE
+[pickup2]I wonder if they keep a screwdriver in there.
+179) LEE
+[pickup2]Multi-tool.  That should be handy.
+180) LEE
+[pickup_2]Just gonna borrow this for a second.
+181) KENNY
+[pickup2]I got a quick look.  {FearA}They got boxes of stuff.  {FearB}And something metal and sharp.
+182) ANDY
+[pickup_2]{Body-A}{ThinkingA}Did he say what?
+183) LEE
+[pickup_2]{Body-B}{ThinkingA}Danny mentioned he needed something.
+184) LEE
+[pickup_2]{FearA}Shit, I can't remember now.  Sorry.
+185) LEE
+[pickup_2]{Body-B}{ThinkingA}Danny needs something again.
+186) ANDY
+[pickup_2][huge sigh]{Body-A}{HappyA}...  All right, all right.  {NormalB}Be right back, doc.
+187) LEE
+[pickup_2]{NormalB}Naw, {NormalA}not that important.
+188) ANDY
+[pickup_2]{Body-A}{ThinkingA}If you need something, {HappyA}tell me what it is, {HappyB}and I can get it for ya.
+189) LEE
+[pickup_2]{Body-B}{ThinkingA}So... {HappyA}Where do you keep the rest of the tools?
+190) LEE
+[pickup_2]{Body-B}{ThinkingB}I'm not gonna take the lock apart.
+191) ANDY
+[pickup_2][alt] C'mon.  Enough already.
+192) ANDY
+[pickup_2][calling out, serious]  {Body-A}{ThinkingA}Guys.  Seriously.  {AngryA}Don't fuck around with that.
+193) LEE
+[pickup_2]{Body-B}{ThinkingA}Okay, let's do this...
+194) ANDY
+[pickup_2]{Body-A}{NormalB}False alarm.  {HappyA}I'm back.
+195) DUCK
+[pickup_2]{Body-A}{HappyA}Mom!  Dad!  {HappyB}Dinner time!   {SurprisedA}Dinner time!!!
+196) KATJAA
+[pickup_2]{Body-Sit}{HappyC}Okay, honey.  {Body-A}Let's get Dad.
+197) DUCK
+[pickup_2]{HappyA}Dad!  Dad!  {SadB}C'mon, {HappyB}let's EEAAAAAT!!!
+198) KATJAA
+[pickup_2]{ThinkingA}Kenny?  Come {HappyA}along, honey.
+199) KATJAA
+[pickup_2]Kenny, c'mon, {NormalA}don't make the children wait.
+200) KENNY
+[pickup_2][whispered]  {Body-D}{ThinkingA}I'll make an excuse for you...
+201) KENNY
+[pickup_2][intense whisper] {Body-A}{DisgustA}Get that thing off!
+202) ANDY
+[pickup_2][flat but strong] {HappyA}Dinner time.
+215) ANDY
+[pickup_2][flat but strong] {DisgustA}Dinner time.
+203) ANDY
+[pickup_2][flat but strong] {Body-A}{AngryA}Boy.  {AngryB}Didn't you hear the bell?
+204) LEE
+[pickup_2]{Body-B}{SurpriseB}Andy, what the hell is in that back room?!
+205) LEE
+[pickup_2]{Body-B}{ThinkingB}Why was there so much blood in there?
+206) LEE
+[pickup_2]{Body-B}{ThinkingA}Look.  {SurpriseA}I just came in and found the door open like that.
+207) ANDY
+[pickup_2] {Body-A}{ThinkingA}Look.  We have food here, but {HappyB}Danny and I still gotta do a lot of hunting to keep everyone fed.  {NormalA}When we catch something in the woods, we skin it and dress it back there.  {ThinkingA}Mama doesn't like us to make a mess in the house.  {NormalB}So you see?  {HappyA}Nothin' to worry about.
+208) LEE
+[pickup_2]{ThinkingA}No. She went in the house.
+209) ANDY
+[pickup_2]{NormalC}Oh, good...  {HappyA}Yeah.  {HappyB}Good.
+210) ANDY
+[pickup_2]{Body-A}{ThinkingA}Huh... probably my idiot brother.  Hey, {HappyA}was anyone with you just now?
+211) ANDY
+[pickup_2]{ThinkingA}Not the doc?
+212) LEE
+[pickup_2]{NormalD}No.
+213) ANDY
+[pickup_2]{NormalC}Well, anyway.  {ThinkingA}We best get going.  [pause] I'll fix that door later.
+214) ANDY
+[pickup_2][laughs]{Body-A}{HappyB}You know... You're a strange guy, Lee.
+216) ANDY
+[pickup_2][flat but strong] [alt version] Supper's ready.
+217) LEE
+[pickup_2]{Body-B}{AngryB}Shit!
+218) ANDY
+[pickup_2][flat but strong] {Body-A}{AngryB}Boy. Didn't you hear the bell?
+221) LEE
+[pickup2]{Body-B}{ThinkingB}I picked up something I think could help with the lock.
+222) KENNY
+[pickup2]{Body-D}{HappyA}All right.  {HappyB}Good to hear.
+223) KENNY
+{Body-D}{HappyA}Good.  {ThinkingA}Now we just gotta keep that guy busy.
+224) LEE
+{Body-B}{ThinkingA}Andy.
+225) KENNY
+{NormalC}Yeah.  {AngryA}He's been... watching.
+226) KENNY
+{Body-D}{AngryB}I wish that guy would just leave...
+227) KENNY
+[pickup_2]{Body-D}{ThinkingA}Nothin' to stop you now.
+229) 
+Use Multi-Tool On
+230) LEE
+[friendly, talking to Duck]{normalD}Have I missed anything?
+231) DUCK
+No, not really.
+232) CLEMENTINE
+[pickup1][giggles at the word "doo-dee"]
+235) DUCK
+[pickup1][giggles at the word "doo-dee"]
+241) CLEMENTINE
+[pickup1][giggles at the word "doo-dee"]
+242) DUCK
+[pickup1][giggles at the word "doo-dee"]
+233) KATJAA
+[pickup1]Kids! [dont be rude!...and stop giggling over the word Doo-Dee!]
+244) KATJAA
+[pickup1]Kids! [dont be rude!...and stop giggling over the word Doo-Dee!]
+234) CLEMENTINE
+[pickup1][whispered] Doo-dee!
+236) DUCK
+[pickup1][confused]What's "manure"?
+237) CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn][proud that she learned a new word]...Like manure!
+238) CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]Like... shit, right Lee?
+239) CLEMENTINE
+[pickup1][sad and embarased after being scolded about using swear words]Okay....
+240) LEE
+[pickup3][after Clem says something smells like "shit"] Hey, don't use swear words, okay?
+243) CLEMENTINE
+[pickup1][When duck says Lee smells funny, Clem remembers what Lee said at Hershel's Barn]...Like doo-dee!
+245) 
+Screw
+246) LEE
+[pickup3] It's a feeding trough.
+247) LEE
+[pickup3] Just some fence posts.
+248) DUCK
+[pickup2][sniffing the air] {DisgustA}It smells funny in here.
+250) 
+She's not actually family...
+251) 
+You're being stupid.
+252) 
+Kenny heard a noise.
+253) 
+Just checking out the barn.
+254) 
+What's behind the door?
+255) 
+What the hell is this?!
+256) 
+Why is there so much blood in there?
+257) 
+I  found the door open like that.
+258) 
+How's the cow?
+259) 
+When do you think we might eat?
+260) 
+You got a screwdriver?
+261) 
+Danny and I met a woman in the woods...
+262) 
+Where do you keep your tools?
+263) 
+Danny necesita algo.
+264) 
+Danny necesita algo de nuevo.
+265) 
+Why do you lock that door?
+266) LEE
+[pickup2][to himself]Looks like a bunch of old, dirty clothes.
+267) LEE
+[pickup2][to himself]Smells pretty foul.
+268) ANDY
+[pickup3][returning to the barn after Lee sent him away for the 2nd time - Annoyed, but still friendly]Hey Lee, I know we all gotta have a little fun from time to time, but I got work to do.  Enough with the games, okay?
+269) 
+I can't get that lock off the door.
+270) 
+I found a Multitool.
+271) LEE
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]I tried distracting Andy, but he keeps coming back.
+272) KENNY
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]There's gotta be something out there you can mess with to keep him busy for a while...
+273) KENNY
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave][continuing his thought]What about thoses generators?
+274) 
+Andy keeps coming back.
+275) 
+How do I distract Andy?
+276) LEE
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]Any thoughts on how do to distract Andy?
+277) KENNY
+[pickup3][hushed - In the barn making a plan with Kenny to get Andy to leave]I don't know, man.  Just look for something outside of the barn, we need him out of here.
+278) LEE
+[pickup3][giving Clem her hat back, but he's cautious about it having found it in a crazy womans camp]Here Clementine.
+281) LEE
+[pickup3][giving clementine back her hat, but cautious considering he found it at a crazy womans camp]Hey, Clementine...
+282) CLEMENTINE
+[pickup3]{HappyA}Okay, I will.
+283) LEE
+[pickup3][cautiously questing clem about her lost hat]{HappyA}It's probably nothing.  {ThinkingA}Just let me know if you ever see anything like that.
+284) CLEMENTINE
+[pickup3][responding to "did you give your hat to anyone]{body-Stand}{SadA}No.
+285) LEE
+[pickup3][cautiously questing clem about her lost hat]{ThinkingA}Did you see any strangers around the motor inn who might have taken it?
+286) CLEMENTINE
+[pickup3][starting to worry about Lee's line of questioning] {NormalB}No.  {ThinkingA}Why?
+287) LEE
+[pickup3][cautiously questing clem about her lost hat] {body-B}{HappyA}Listen, did you... {ThinkingA}give your hat to anyone?
+288) CLEMENTINE
+[pickup3][excited that Lee foud her hat!] My hat!  You found it!!
+289) 
+Danny mentioned he needed something.
+290) 
+Danny needs something again.
+291) 
+Talk to
+292) 
+Give Hat To
+293) LEE
+[pickup3][explaining why he stinks]Well, we are in a barn.  Ya get used to it after a while.
+294) ANDY
+[pickup3][alt][when Andy appears while Lee & Kenny are planning to get into the back room - Flat, but not menancing]Can I help you boys find something?
+295) CLEMENTINE
+[pickup3]{body-HandsOpen}{HappyC}I knew you'd find it!  {HappyB}You said you would!
+296) CLEMENTINE
+[pickup3]{body-Stand}{ThinkingA}I thought you didn't have time.
+297) CLEMENTINE
+[pickup3]{body-Stand}You knew I needed it!
+298) CLEMENTINE
+[pickup3]{body-Stand}{HappyB}Thanks Lee.
+299) LEE
+[pickup3][about your hat]{body-B}{HappyA}I came across it {ThinkingA}by accident.
+300) LEE
+[pickup3]{body-B}{HappyA}Well, you did tell me it was a {HappyB}birthday present from your dad.
+301) CLEMENTINE
+[pickup3]Hey, Lee.  {HappyB}Do you think you'll ever have kids?
+302) 
+I'd like to, someday.
+303) 
+I don't think so.
+304) 
+I haven't thought bout it in a while.
+305) LEE
+[pickup3]{body-B}{HappyA}I'd like to someday.  {HappyB}Maybe a little girl, like you.
+306) CLEMENTINE
+[pickup3]{body-Stand}{HappyA}That's nice.  {body-HandOnWrist}You'd be a good daddy.
+307) LEE
+[pickup3]{body-B}{SadA}I don't think so, Clem. {ThinkingA} Not the way the world is now.  {NormalC}I just... {SadA}I don't think I could do that.
+308) CLEMENTINE
+[pickup3]{body-Stand}{SadA}Oh.  {HappyA}{body-HandOnWrist}Maybe when the world gets better then.
+309) LEE
+[pickup3][sad]{SadA} Maybe.
+310) LEE
+[pickup3]{body-B}{ThinkingA}I don't know.  {SadA}I haven't thought about having kids in a long time...
+311) LEE
+[pickup3]{HappyA}Nah, but {HappyB}you go on ahead.
+312) LEE
+[pickup3]{body-B}{HappyA}You're welcome Clem.
+313) CLEMENTINE
+[pickup3][personal]{body-HandOnWrist}{HappyA}Well, {HappyB}thanks for finding my hat.
+314) CLEMENTINE
+[pickup3]{body-Stand}{HappyC}Do you want to pet the cow with me?
+315) KENNY
+[pickup3]Ah, no.  We're fine.  Just looking around...

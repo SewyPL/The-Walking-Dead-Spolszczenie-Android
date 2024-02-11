@@ -1,0 +1,214 @@
+1) 
+Mark will remember that.
+2) 
+He noticed your silence.
+3) 
+She noticed your silence.
+4) 
+Elegiste no ayudar.
+5) 
+Tomaste una decisi�n dif�cil y rescataste a David.
+6) 
+You weren't able to free David.
+72) 
+You weren't able to free David.
+7) 
+Kenny noticed your loyalty
+8) 
+Lilly noticed your loyalty.
+9) 
+Kenny was frustrated by your silence.
+10) 
+You tried to stay neutral.
+11) 
+Katjaa didn't appreciate that.
+12) 
+They all noticed you side with Kenny.
+13) 
+They all noticed you side with Lilly.
+14) 
+Giving food to Ben may prove an unpopular choice.
+15) 
+Duck and his family appreciate that.
+16) 
+You chose to feed Carley.
+17) 
+You chose to take care of Clementine.
+18) 
+You chose to keep food for yourself.
+19) 
+You gave Doug an apple.
+20) 
+The others noticed you fed Kenny.
+21) 
+You made a tough choice.
+22) 
+You gave food to Lilly.
+23) 
+Lilly is still angry.
+24) 
+You fed Mark.
+25) 
+Dejaste que Danny le disparara a Jolene.
+26) 
+You chose to shoot Jolene.
+27) 
+Danny noticed what you found.
+28) 
+You found nitro-glycerin pills.  Lilly might want those.
+29) 
+You voted against going to the dairy.
+30) 
+She will remember that.
+31) 
+You decided everyone should go.
+32) 
+There are three pieces of food left.
+33) 
+There are two pieces of food left.
+34) 
+There is one piece of food left.
+35) 
+There is no food left for today.
+36) 
+Mark noted your worry.
+37) 
+Mark picked up on your doubt.
+38) 
+He noticed your ambivalence.
+39) 
+He will remember that.
+40) 
+You learned they have several guns.
+41) 
+Andy appreciates your offer of help.
+42) 
+You found out that other survivors have stayed at the farm.
+43) 
+Kenny didn't like that.
+44) 
+You tried to stop her!
+45) 
+You stopped her from eating!
+46) 
+You stopped Clementine from eating!
+47) 
+You couldn't stop Clem from eating!
+48) 
+You let Larry eat human flesh.
+49) 
+Brenda noticed you've been silent.
+50) 
+You sided with Lilly.
+51) 
+Kenny will remember your loyalty.
+52) 
+Clementine witnessed what you did.
+53) 
+You chose to kill Andy.
+54) 
+You spared Andy's life.
+55) 
+Clementine will remember you spared his life.
+56) 
+You chose to take food from the car anyway.
+57) 
+You and Clementine chose not to steal food.
+58) 
+You tried to give Doug food, but he declined.
+59) 
+You cut David free.
+60) 
+You told Kenny leaving for the coast was a good idea.
+61) 
+You tried to convince Kenny to stay.
+62) 
+Mark lo not�.
+63) 
+Revelaste tus pensamientos sobre el plan de Kenny.
+64) 
+Est�s confiado de que Kenny se quedar�.
+65) 
+Entiendes el dilema de Kenny.
+66) 
+Defendiste a Kenny.
+67) 
+Mark not� tus comentarios.
+68) 
+You gave your opinion about Kenny.
+69) 
+You only have four food items for ten hungry people.
+70) 
+Kenny doesn't think you were looking out for Duck in the last episode.
+71) 
+�Danny le dispar� a Jolene!
+73) 
+Andy will remember that.
+74) 
+The St. John brothers noticed your silence.
+75) 
+The St.John brothers think you are in charge of the group.
+76) 
+The St. John brothers took note of that.
+77) 
+You answered honestly.
+78) 
+You let them know you are prepared to defend yourselves.
+79) 
+You avoided answering the question.
+80) 
+You chose to help Lilly save her dad.
+81) 
+You chose to help Kenny keep Larry from turning.
+82) 
+You chose not to shoot Jolene.
+83) 
+Danny noticed your suspicion.
+84) 
+Brenda saw through your lie.
+85) 
+You frightened Brenda.
+86) 
+You alerted Brenda to your presence.
+87) 
+Brenda was frightened by the lack of response.
+88) 
+You made Clementine feel safe.
+89) 
+You shared hope with Clementine.
+90) 
+You didn't hide the truth from Clementine.
+91) 
+Danny will remember that.
+92) 
+You chose to be direct!
+93) 
+Brenda didn't like being judged.
+94) 
+You chose to plead with them.
+95) 
+You chose to threaten them!
+96) 
+You made an excuse.
+97) 
+You questioned Andy directly.
+98) 
+You lied to Andy.
+99) 
+Kenny covered for you.
+100) 
+Kenny will remember your words.
+101) 
+You made Clementine take the hoodie.
+102) 
+You convinced Clementine to take to hoodie for a while.
+103) 
+You convinced Clementine that it's okay to take the hoodie.
+104) 
+You were direct with Clementine.
+105) 
+You gave Clementine a reassuring answer.
+106) 
+Clementine noted your silence.
+107) 
+You revealed your guilt to Clementine.

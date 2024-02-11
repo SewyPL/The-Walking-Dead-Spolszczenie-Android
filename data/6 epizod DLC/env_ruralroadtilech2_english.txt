@@ -1,0 +1,942 @@
+1) EDDIE
+{DisgustB} Christ, I can taste blood in my mouth.
+2) EDDIE
+{FearC} I can't see a damn thing out here.
+3) EDDIE
+{ThinkingB} Man. I'm just... {FearC}man. This is so fucked.
+4) WYATT
+{BODY-SitA}{AngryA}How much stupid can you pull off tonight, man?!? Turn the fucking lights on!
+5) WYATT
+{BODY-SitA}{ThinkingB}Crashing into a cow ain't gonna help anything, man!
+6) EDDIE
+[super sarcastic]{SurpriseA}Oh, SHIT. {AngryB}I SHOULD watch out for COWS! {SurpriseB}COWS! {ThinkingB}Why didn't I think of that?
+7) EDDIE
+[panicked, angry] {AngryB}Stupid? What?!? {ThinkingB}This is SMART, Wyatt! {NormalA}Those guys won't find us with the lights off!
+8) EDDIE
+[panicky, defensive]{Body-Drive}{ThinkingB}I feel that look on me, man. {FearB}I'm not being an asshole, {AngryA}I'm being smart.
+9) EDDIE
+[unsure] {FearB}Don't barf just yet, okay? Please? {NormalA}This road is really straight, we'll be fine.
+10) WYATT
+[annoyed]{AngryA}What if there's something in the road?
+255) 
+What if there's something in the road?
+11) EDDIE
+{FearB}Doesn't matter, we gotta get the FUCK away from those guys. They are A-grade {SurpriseA}fucking mental.
+12) WYATT
+{AngryA}At least slow down!
+13) EDDIE
+{DisgustA} What?!? {AngryD}FUCK, no. {FearB}Did you see that one guy's eyes, man? {ThinkingB}He is fucking GORKED. {FearB}I don't want that guy in my LIFE, Wyatt.
+14) EDDIE
+{FearB} I don't think it's mine.
+15) WYATT
+[genuinely angry]{AngryB} God, I can't BELIEVE we're in this shit.
+16) WYATT
+{DisgustA}Dude, you are COVERED in that guy's blood.
+17) EDDIE
+[sarcastic]{AngryD}I KNOW, Wyatt. My shirt is soaked.
+18) EDDIE
+[struggling to explain]{Body-Drive}{ThinkingB}It's like I just....
+19) EDDIE
+{Body-Drive}{FearB}I don't know. I was so keyed up... {SadA}I just... damn it.
+20) WYATT
+{Body-SitA}{FearA}Did you mean to pull the trigger?
+21) WYATT
+{NormalC} I'm sure it was an accident.
+257) 
+I'm sure it was an accident.
+22) EDDIE
+{SadA} I'm not. I wish I was, {AngryD}but....
+23) WYATT
+{NormalB}I told you not to keep that gun on you.
+24) EDDIE
+[indignant]{ThinkingB}Fuck right off, Wyatt. {AngryC}Those guys were going to kill us and take all our shit.
+25) EDDIE
+[serious]{SadA}Look, Wyatt... all I know is those guys had me all... {ThinkingB}jacked up like I was on speed or something. {SadA}I was just on edge, you know?
+26) WYATT
+{ThinkingA}God, how did that go so wrong?
+254) 
+God, how did that go so wrong?
+27) EDDIE
+[angry] {AngryC}Is that some kind of dig at me?
+28) EDDIE
+[defensive]{AngryB}"Guy's taking a shit over there." {FearB}That's all they had to say!
+29) EDDIE
+{SadA}Why didn't they SAY anything?
+30) WYATT
+{ThinkingA}You don't know that.
+31) EDDIE
+[indignant]{AngryD}Yes, I DO. {ThinkingB}That gun saved your chubby ass.
+32) EDDIE
+{SadA} I'm sorry, man. I....
+33) EDDIE
+{ThinkingB}S'bullshit.
+34) EDDIE
+{FearB}Man, don't sit there and judge me, all right? {ThinkingB}I don't need that shit right now.
+35) WYATT
+{NormalC}About time.
+36) EDDIE
+{NormalA}See? It's fine. {HappyA}Road's straight as my dick.
+37) EDDIE
+{FearB}You think we're in the clear?
+38) EDDIE
+[deadpan]{SadA}Ow.
+39) EDDIE
+[chuckles]
+42) WYATT
+{HappyC}[tension-breaking laugh]
+45) EDDIE
+{HappyB}[laughs]
+46) WYATT
+{HappyC}[laughs]
+54) EDDIE
+{HappyA}[small laugh]
+55) WYATT
+{HappyC}[small laugh]
+244) WYATT
+[grunting as you punch]
+245) WYATT
+[grunting as you punch]
+246) WYATT
+[grunting as you punch]
+300) 
+[Play]
+301) 
+[Refuse.]
+369) EDDIE
+{HappyB}[short laugh because you made someone laugh]
+378) EDDIE
+[heavy sigh, breathing out to psyche yourself up]{SadA}
+464) 
+[Help him]
+465) 
+[Leave him]
+40) WYATT
+{ThinkingB}Don't talk about your dick.
+258) 
+Don't talk about your dick.
+41) EDDIE
+{HappyA}Why not?
+43) EDDIE
+{DisgustA}Was that a pun?
+44) WYATT
+{ThinkingA}Not till we get out of this fog.
+259) 
+Not till we get out of this fog.
+47) WYATT
+{ThinkingA}We're probably fine. {FearE}WE don't even know where we are.
+48) EDDIE
+{NormalA}Yes, we do. We're in the {FearA}middle of The Hills Have Eyes.
+49) EDDIE
+[trying things out]{ThinkingB}The Hills Have Lips? {HappyA}The Hills Have Balls. {ThinkingB}The Balls Have Eyes? The--
+50) WYATT
+[laughing a little]{HappyC}What the fuck are you talking about?
+51) EDDIE
+{NormalA} Dude, leave me alone. {FearB}It's been a long night.
+52) EDDIE
+{HappyB}Are you still thinking about my dick?
+53) EDDIE
+{NormalA}All right, let's Tom Cruise outta here.
+56) EDDIE
+{NormalA}See if there's still any sticky in the glove box.
+57) WYATT
+{NormalB} {BODY-SitA}I guess that makes sense.
+58) EDDIE
+[a little shitty] {AngryA}Yeah, it makes sense, Wyatt.
+59) EDDIE
+{AngryB}Dude, stop with the eyeballs!
+60) EDDIE
+[previous line "Dude, stop with the eyeballs!"]{AngryD}On my face!
+61) WYATT
+{Body-SitA} {ThinkingA}I don't see anything.
+62) EDDIE
+{NormalA} {Body-Drive}Dude, it's in there. Look harder.
+63) EDDIE
+{Body-Drive}{NormalA} You know, one time I was going out with this girl, right -- Abigail, you remember her -- and she told me that -- when she was five I think -- {HappyA} her dad took her to this circus sideshow.
+64) WYATT
+{NormalC}I think loading the gun is probably more important right this second, thanks.
+65) WYATT
+[under his breath]{NormalC}I don't care about this story.
+66) WYATT
+[under his breath]{NormalB}At all.
+67) WYATT
+[under his breath]{ThinkingA}Stop talking now.
+68) WYATT
+{ThinkingA}Man, just shut up.
+148) WYATT
+[feeling sorry for Eddie]{SadA}Man, just shut up.
+69) EDDIE
+{AngryB}Are you even listening to me?
+70) WYATT
+{ThinkingA}There's noth--
+71) EDDIE
+[almost about to crash the car]Shit!
+175) EDDIE
+[as if it's the end of the world] {FearB} Shit.
+237) WYATT
+{AngryA}Shit.
+72) EDDIE
+{HappyB}The guy peed on her dad.
+73) WYATT
+{FearC}[inside out of control car]Ahhhhhhhh!
+74) EDDIE
+[freaking out, breathing heavy]Holy shit, dude. Holy SHIT.
+75) EDDIE
+[freaking out, breathing heavy]Did you get a look? I think that was a GUY.
+76) EDDIE
+[freaking out, breathing heavy]{Body-Sit}What the -- this fucking fog... this night is so fucked, man!
+77) WYATT
+{Body-SitA}{FearA}It didn't LOOk human. {ThinkingA}Alive. {FearA}Whatever.
+78) WYATT
+[did we just hit a human being or a zombie?]{FearA}  I... I don't know. {ThinkingA}It was too fast, man.
+79) WYATT
+{ThinkingA}I think it... {FearA}I think he was alive.
+80) EDDIE
+[hearing bad news]{AngryC}Ffffffuuuuuuu... {FearC}God DAMN it!
+81) EDDIE
+{FearD}Man, don't say that! {FearC}You have to know. Dude, you HAVE to.
+82) EDDIE
+[scared]{Body-Sit}{FearB}Really? Seriously? {FearC}I mean, SERIOUSLY. {FearB}Look me in the eyes and say that.
+83) EDDIE
+TALK, Wyatt! Do you HAVE to be so damn thoughtful all the time? Have an opinion!
+84) WYATT
+{SadA}...I can't, man.
+85) WYATT
+{FearA}I could be wrong! I'm just saying it didn't {ThinkingA}look human to ME.
+86) EDDIE
+{FearD}You ARE wrong.
+87) WYATT
+[stern] {ThinkingA}You heard me, Eddie.
+270) 
+You heard me, Eddie.
+88) WYATT
+[hearing some heavy news]Jesus. So what do we do?
+89) EDDIE
+What do you mean, "what do we do?" We go out there.
+90) WYATT
+How sure?
+91) EDDIE
+[really sure]Yes.
+92) WYATT
+Are you sure?
+93) EDDIE
+Pretty fucking sure. "Don't pay for sex drunk" sure.
+94) EDDIE
+[calming himself, getting serious and REALLY sure]Look, Wyatt... it was a guy.
+95) WYATT
+Go out there and what?
+271) 
+Go out there and what?
+96) WYATT
+What about the guys in the truck?
+272) 
+What about the guys in the truck?
+97) EDDIE
+Man, fuck those guys! If that guy back there is alive we HAVE to help him, Wyatt. There ain't a lot of live dudes left these days.
+98) WYATT
+What if this "guy" is like the guys in the truck?
+99) EDDIE
+He ain't gonna be much of a threat after we bounced him off the hood!
+100) WYATT
+We can't just hang out here all night.
+274) 
+We can't just hang out here all night.
+101) EDDIE
+Out and back in, that's all I'm talking about!
+102) WYATT
+Why don't we just drive back?
+275) 
+Why don't we just drive back?
+103) EDDIE
+And maybe run him over again in the fog? He can't be that far back, man.
+104) EDDIE
+Find the guy and help him. Who the hell ARE you tonight?
+105) WYATT
+IF it's a guy.
+106) EDDIE
+[indignant] It's a guy. I saw him.
+107) EDDIE
+What else are we supposed to do, man? We can't just leave him.
+108) WYATT
+There's no way I'm getting out of this car. Forget it.
+109) EDDIE
+[angry] What if that was you, man?!? After all the shit that's happened in the past couple months? Where's your compassion, motherfucker?
+110) EDDIE
+We lost 'em, dude. We did the thing with the fucking headlights.
+111) WYATT
+{Body-SitA}{ThinkingA} That's part of a shirt, I think.
+112) EDDIE
+[pressing the issue]{NormalA}Come on, man. {ThinkingB}This is stupid. {NormalA}We go out there, we check it out, we get moving.
+113) EDDIE
+[pickup2] {Body-Sit}{ThinkingA} Dude, what's that on the broken side mirror?
+114) EDDIE
+[pickup2] {ThinkingA} You think that blood on the windshield is fresh or rotten?
+115) WYATT
+{FearB}{Body-SitA} You see anything?
+116) EDDIE
+[pickup2] Dude I JUST said there was a thing on the broken mirror.
+117) EDDIE
+{FearA} [pickup2] What's that way out in the road?
+118) EDDIE
+[pickup2] We should keep looking.
+119) WYATT
+[pickup2] I'm not seeing much, here.
+120) WYATT
+[pickup2] Anything out the driver's side?
+121) EDDIE
+[pickup2] Just...fog.
+122) EDDIE
+[pickup2] {SadA}  Man, I'm really not seeing anything.
+123) WYATT
+[pickup2] I wish there was some way to tell.
+124) WYATT
+[pickup2][during In car investigation] {ThinkingA} {Body-SitB} Is that the mirror from the car?
+125) WYATT
+{FearE} Both of us?
+291) 
+Both of us?
+126) WYATT
+[a little annoyed]{ThinkingA}You go if you want.
+292) 
+You go if you want.
+127) WYATT
+[making a hard choice]{SadA} Fine. I'll go. {ThinkingA}Give me the gun.
+128) EDDIE
+{NormalA}Dude, I'm the one who got us into this. I'm the one who hit him. {AngryA}Should be me going.
+129) EDDIE
+{DisgustA}Want? {AngryA}Why would I want to? {FearB} I just... WE just have to. {ThinkingB}That's all there is to it.
+130) EDDIE
+{ThinkingB}I mean, I don't know... {SadA}Me? I hit the fucking guy. {FearB}One of us should stay here, though. In case.
+131) EDDIE
+{FearB}I'm not gonna sleep at night unless we do this, dude. {ThinkingB}That's a fucking FACT.
+132) EDDIE
+{AngryC} MAN. This is... {SadC}man! Why did this shit have to happen?
+133) EDDIE
+{THinkingB}Okay. Well. Shit, okay. {NormalA}Here, we'll rock paper scissors for it.
+134) WYATT
+{AngryA}Are you fucking serious?
+294) 
+Are you fucking serious?
+135) EDDIE
+[really sarcastic]{SurpriseA}No.
+314) WYATT
+[thinks]{NormalC}No.
+412) EDDIE
+[wistful]{HappyB} No....
+136) EDDIE
+{FearB}Come on, sitting here's making me nervous.
+137) WYATT
+{ThinkingA}No way, man. You're nuts.
+295) 
+No way, man. You're nuts.
+138) EDDIE
+{ThinkingB}I'm clear as shit, Wyatt. This is the only way it's fair.
+139) WYATT
+{AngryA}Fair? How is this fair? YOU shot that guy back there. YOU hit that thing in the road. {AngryB}None of that shit is my fault!
+140) EDDIE
+Wyatt, come on, man. If we can do it[rock/paper/scissors] over a girl, we can do it over this.
+141) WYATT
+[unsure, but doesn't see an alternative]{DisgustA}... Fine.
+142) EDDIE
+{NormalA}Okay, cool. Good. This is good. We need to hurry up.
+143) EDDIE
+{FearB}You ready?
+144) EDDIE
+[asking if he's ready]Wyatt?
+350) EDDIE
+[freaking out, breathing heavy]Wyatt?
+435) EDDIE
+[insisting]{ThinkingA} Wyatt.
+145) EDDIE
+{AngryA}All right. I'll go, {ThinkingB}that's okay. That makes sense.
+146) EDDIE
+[trying to convince himself]{Body-Sit}{FearB}Okay.[sighs a long, nervous breath]
+147) EDDIE
+[trying to convince himself][nervous sigh]{FearB}Where's the gun again?
+149) WYATT
+{ThinkingA}Let's do this.
+297) 
+Let's do this.
+150) WYATT
+{ThinkingA}Sitting here stalling isn't gonna help you feel any better.
+151) WYATT
+{AngryA}You're the one that wanted to do this.
+152) WYATT
+{ThinkingA}I'll go, you pussy. {AngryA}Give me the gun.
+153) EDDIE
+{ThinkingB}No, man. Not fair.
+154) EDDIE
+{SadA}Come on, man. Please. {NormalA}I'll go if I lose, I swear.
+155) EDDIE
+{FearC}I'm scared, Wyatt.
+156) EDDIE
+{ThinkingB}Loser goes?
+157) WYATT
+{NormalC}Sounds good.
+158) EDDIE
+Okay. Weird, but okay.
+159) WYATT
+Man, I can't believe I'm doing this shit.
+160) WYATT
+Forget it. You wanna go out there, that's your business. I'll wait right here where it's safe.
+161) EDDIE
+Dude. Two seconds, it's over.
+162) EDDIE
+[playing rock/paper/scissors] {ThinkingB} Rock, paper, scissors, match.
+173) EDDIE
+[playing rock/paper/scissors, a little nervous] Rock, paper, scissors, match.
+177) EDDIE
+[playing rock/paper/scissors, very nervous] Rock, paper, scissors, match.
+163) EDDIE
+[playing rock/paper/scissors] [alt] {ThinkingB} One, two, three, go.
+174) EDDIE
+[playing rock/paper/scissors, a little nervous] [alt] One, two, three, go.
+178) EDDIE
+[playing rock/paper/scissors, very nervous] [alt] One, two, three, go.
+164) EDDIE
+{AngryA} What the fuck, dude? Play the game, come on!
+165) EDDIE
+[resigned] {ThinkingB}Looks like it's me.
+166) WYATT
+[just found out he's got to do something he doesn't want to do] {FearB} Son of a bitch.
+167) EDDIE
+{FearB} Be careful, dude.
+168) EDDIE
+[about rock/paper/scissors game] {NormalA} {Body-Sit}All right, two out of three, right?
+169) WYATT
+{NormalC} {Body-SitA}Sure.
+170) EDDIE
+[just lost one roshambo] {AngryA} Shit, {NormalA} all right. All right.
+181) EDDIE
+[just lost one roshambo] {AngryA} Shit, {NormalA} all right. All right.
+171) EDDIE
+{SurpriseA} Man. [this is crazy]
+172) EDDIE
+[annoyed]{AngryB}Wyatt, are you gonna play this game or not?
+176) EDDIE
+{FearA} All right, dude. This is it.
+179) EDDIE
+[nervous] {ThinkingB} Okay. All right.
+180) EDDIE
+{AngryC} Goddamn it, Wyatt! If you didn't want to do this, you just should have said!{SadA}  Christ.
+182) EDDIE
+[just lost a roshambo to rock] {AngryA}Shit. Stupid rock.
+183) EDDIE
+[breaking the tension, laughing a little]{ThinkingB}Shit, man.{HappyA} Ha ha. Insane. {NormalA}Okay, again.
+184) EDDIE
+{SurpriseA} Fuck! What are the chances of that? {NormalA} Okay. [let's go again]
+185) EDDIE
+{HappyA}I knew you'd pick rock. You always pick rock, dude. It's stupid.
+186) EDDIE
+{AngryA}Balls. {AngryC}Balls balls BALLS! [taking a breath]{NormalA}Okay. [almost mumbling]{ThinkingA}You and your damn rock.
+187) EDDIE
+[just lost a roshambo to paper]{AngryC}Argh! Paper. {ThinkingA}I should've known you'd pick paper.
+188) EDDIE
+[just lost a roshambo to scissors] {AngryB} Scissors? Who fucking picks scissors?
+189) WYATT
+[just lost a roshambo] {ThinkingA}Awww...
+190) EDDIE
+{HappyA} Paper never wins, dude.
+191) WYATT
+[just lost a roshambo] [noncommital noise] {ThinkingA} Erg.
+192) EDDIE
+{HappyA}Always with the rock. {HappyB}Too much rock, Wyatt.
+193) WYATT
+{ThinkingA} Tell me about it.
+194) EDDIE
+{SurpriseA} Jesus H! How many times is this gonna happen?
+195) EDDIE
+{AngryC} Damn it! {SadA} I almost picked scissors, but I changed it at the last fucking second.
+196) EDDIE
+{HappyB} Rocked your scissors, dude.
+197) EDDIE
+{AngryA} Just poke me in the eyes while your fingers are like that, huh?
+198) WYATT
+[whisper-yelling to Eddie] {ThinkingA} Thing is jacked. Should I take it?
+199) EDDIE
+[whisper-yelling to Wyatt, as if it's obvious] {AngryA} No, man!
+200) WYATT
+[to self] {SurprisedA} Holy SHIT that's a fuckton of blood.
+201) WYATT
+[following blood trail, to self] {ThinkingA} Why the hell am I following this thing? Nothing good's at the end of it.
+202) WYATT
+{NormalA} It'd be great, backpack, {FearA} if you could tell me if your owner was alive or not.
+203) WYATT
+[ironic]{ThinkingA}All right, I'll just keep talking to myself out here, because that makes sense.
+204) WYATT
+[calling out to possible zombie] {FearA} Hey man, you okay?
+205) WYATT
+{FearB}Fella? {ThinkingB}You need to answer me, man. {FearA}If you're a dude I don't want to shoot you!
+206) WYATT
+{FearB} Not sure if you're deaf, dead, or just an asshole, man.
+207) WYATT
+{FearB} Please just say something, mister.
+208) WYATT
+[getting grabbed] {FearD}Shit! Ahhhh!
+209) WYATT
+{ThinkingB} I don't think that's helping, Eddie.
+210) EDDIE
+{ThinkingB} It's helping ME.
+211) EDDIE
+[whisper-yelling] You gotta hurry up, dude.
+212) EDDIE
+[whisper-yelling] What the fuck is taking so long, hurry up!
+213) EDDIE
+[whisper-yelling] Wyatt, do you see anything?
+214) EDDIE
+[whisper-yelling] MAN I wish I was high right now.
+215) EDDIE
+[distant] [screaming] Get... the fuck... off!
+216) WYATT
+[whisper-yelling to get Eddie's attention] {ThinkingA} Eddie.
+217) WYATT
+[whisper-yelling to get Eddie's attention] {ThinkingB} Eddie.
+218) WYATT
+[whisper-yelling to get Eddie's attention] {ThinkingB} Eddie.
+391) WYATT
+{ThinkingB} Eddie.[this is serious]
+219) EDDIE
+[whisper-yelling, nervous] {AngryB}What, Wyatt?
+220) EDDIE
+[whisper-yelling, nervous] {FearB}You see something?
+221) EDDIE
+[whisper-yelling, nervous] {FearB} What's happening?
+222) WYATT
+[whisper-yelling]{ThinkingB} You should get back in the car.
+223) EDDIE
+[whisper-yelling]{AngryB}No fucking way, man. {FearB}What if it was you?
+224) EDDIE
+[whisper-yelling]{AngryB}Stop harping on me to fucking leave. {NormalB}We're not going anywhere until I see what's up with this guy, okay?
+225) WYATT
+[whisper-yelling]{ThinkingB}Do you see anything out there?
+226) EDDIE
+[whisper-yelling]{FearB} I can't see a goddamn thing.
+227) WYATT
+[whisper-yelling] {ThinkingB}Hurry up, man.
+383) 
+Hurry up, man!
+228) EDDIE
+[whisper-yelling] {AngryB} Dude, leave me the fuck alone, all right? {NormalA}This is my speed.
+229) EDDIE
+[whisper-yelling]{NormalB}Here.[are the keys] {FearA}In case we need to get out of here quick.
+230) WYATT
+[whisper-yelling] {AngryB} {Body-SitA}Way to go, idiot.
+231) WYATT
+[to self]{ThinkingB}Shit, where the hell did they[those keys] GO? {AngryA}This is the smallest hooptie in the world.
+232) WYATT
+[imitating Eddie] {SurprisedA}"Hey Wyatt, I ate paint when I was a kid, doi!"
+233) WYATT
+[whisper-yelling] {FearB} Eddie? EDDIE.
+234) WYATT
+[Axl Rose impression] {ThinkingB} It's getting dark, too dark to see...
+235) WYATT
+{HappyB} There you are, you fuckers. [keys]
+236) WYATT
+[talking to guy who's out of it] {FearE} Are you okay? Uh, sir? Can you hear me?
+238) CLYDE
+[out of it] Unnnnnngh.
+239) WYATT
+[pickup1][scared, nervous]{FearB}Damn it, man, are you gonna be all right? Fucking help me out!
+240) WYATT
+[scared, nervous] {FearB} Don't die, man. We'll... me and Eddie we'll... we'll do SOMEthing....
+241) WYATT
+[grunting with exertion] {AngryB}Errgh!
+242) WYATT
+[grunting with exertion] {ThinkingA} Mmmph!
+243) WYATT
+[grunting with exertion] {AngryB}Grrrrk!
+247) EDDIE
+[sarcastic]{AngryC}Oh, sorry; next time I get into this exact{FearB} crazy fucking situation{ThinkingB}, I'll figure out how I feel {AngryD}BEFORE I talk!
+248) WYATT
+[annoyed]{ThinkingB}Then why did you ask which one of us should go?!?
+249) WYATT
+[about a field] {ThinkingA} Man. It'd be easy as shit to get lost out there.
+250) 
+I guess that makes sense.
+251) 
+How stupid are you?
+252) 
+Crashing won't help anything right now!
+253) 
+You are COVERED in that guy's blood.
+256) 
+Did you mean to pull the trigger?
+260) 
+We're probably fine.
+261) 
+I told you not to keep that gun.
+262) 
+I'd rather load the gun.
+263) 
+I don't care.
+264) 
+Just shut up.
+265) 
+That couldn't have been human.
+266) 
+I... I don't know.
+267) 
+I think it was.
+268) 
+...I can't.
+269) 
+I could be wrong.
+273) 
+There's no way.
+276) 
+What if he's like the guys in the truck?
+277) WYATT
+[grunts as you struggle with dragging a man] {ThinkingA}Hrrrk!
+278) EDDIE
+[freaking out, breathing heavy]Wyatt, come on man, say something!
+279) 
+Glove Box
+280) EDDIE
+{NormalA} The point is she saw there was a guy standing in there, {HappyB} buck naked and {ThinkingB} singing this weird--
+281) 
+Piece of Glass
+282) 
+Cloth
+283) 
+Light
+284) EDDIE
+[seeing gun]{ThinkingB}Oh, okay. There.
+285) EDDIE
+[trying to convince himself]{SadA}Just go out there, take a look....
+286) 
+Look At
+287) 
+Turn On
+288) 
+Rock.
+289) 
+Paper.
+290) 
+Scissors.
+293) 
+I'll go. Give me the gun.
+296) 
+Okay, that's fair.
+298) 
+Stalling won't make you feel better.
+299) 
+I'll go, you pussy.
+302) 
+Abstain.
+303) EDDIE
+[calling out into the fog for your friend] {FearD} Wyatt! Wyatt! [something happens to you] {AngryD} Shit!
+304) EDDIE
+[panicked, yelling out into the fog]  {FearD} Shit! Wyatt, hurry up, man! Wyatt!
+305) WYATT
+[a little out of breath] {FearB} Eddie, come help me, man!
+306) WYATT
+[a little out of breath] {FearB} Eddie, it was a GUY! I'm in trouble, come help me out!
+307) WYATT
+[a little out of breath] {FearB} Eddie, come on! I'm too fat for this!
+308) WYATT
+[a little out of breath] {FearC} Eddie! Help me the fuck out!
+309) EDDIE
+[struggling with an attacker] Mrrgh!
+310) EDDIE
+[struggling with an attacker] Rrrrrrk!
+311) EDDIE
+[struggling with an attacker] Nnnnnnkk!
+312) WYATT
+{HappyA}Let there be light, huh?
+313) EDDIE
+{DisgustA}Dude, shut up.
+315) EDDIE
+{HappyA}When did you start making puns?
+316) WYATT
+{AngryA}I said "no," idiot.
+317) EDDIE
+[pretending he wasn't wrong]{HappyA}I know.
+318) WYATT
+{HappyA}Okay.
+319) EDDIE
+[not at all meaning it]{HappyA}I hate you.
+320) WYATT
+{AngryA}Why'd you even ask me if you're not gonna listen?
+321) WYATT
+[angry]{AngryA}Well I don't, Eddie, okay?
+322) EDDIE
+{FearC}Obviously because I thought you'd agree with me!
+323) EDDIE
+[reminiscing]{FearB}For some reason I just thought of Donna Clarke.
+324) EDDIE
+[bittersweet]{ThinkingB}I wish I'd asked her out.
+325) WYATT
+{ThinkingA} Shoe. Can't tell if it belonged to our guy or not.
+326) NATE
+[getting punched] Ungh!
+327) NATE
+[getting punched] Nnnr!
+328) NATE
+[getting punched] Hckg!
+329) NATE
+[getting punched] Ack!
+330) 
+Blood
+331) 
+Backpack
+332) 
+Wound
+333) WYATT
+{NormalC}I don't see it. {ThinkingB}What I DO see is that ammo that you "lost" last week.
+334) 
+Shoe
+335) 
+Help
+336) WYATT
+{SadA}No, man, I'm just saying.
+337) EDDIE
+[like a serious threat] {AngryC}I will punch your eyes.
+338) WYATT
+{NormalC}Really?
+342) 
+Really?
+339) WYATT
+{NormalC}Please never talk again.
+343) 
+Please never talk again.
+340) WYATT
+{HappyA}Why is it that you never had a girlfriend again?
+341) EDDIE
+{HappyA}What?
+344) 
+Why didn't you have a girlfriend?
+345) NATE
+[getting his fingers slammed in a door] Fuck! Ah, son of a bitch!
+346) WYATT
+{AngryA}Okay, bad example, {NormalB}but you could still hit something, man.
+347) EDDIE
+{ThinkingB}When's the last time you SAW a cow, {AngryA}dude?
+348) WYATT
+{AngryB}We can't see a damn thing!
+349) EDDIE
+{SurpriseA}I can see all the damn things! {ThinkingB}It's fine!
+351) EDDIE
+[freaking out, breathing heavy]Was that a dude or not?
+352) EDDIE
+{FearB}Come on, man. You usually win anyway.
+353) EDDIE
+[option 3] {HappyB} Paper is like a child fighting a bear.
+354) EDDIE
+[option1] {HappyB} Paper is the Germany of hand gestures.
+355) EDDIE
+[option 2] {HappyB} Paper is the Martin Scorsese of hand gestures.
+356) EDDIE
+[option 4] {HappyB} Paper is a loser.
+357) WYATT
+[psyching himself up]{ThinkingA} All right, I got this.
+358) WYATT
+[not sure what to do]{FearA}Okay, uh....
+359) EDDIE
+[panicky, defensive, thinking he's saying a well-known phrase, but faltering]{ThinkingB}No lights, no... {FearB}uh... you know. {ThinkingB}They can't see us.
+360) EDDIE
+[quiet, sad]{SurpriseA}Then I was like, watching that guy's brains come out the back of his head.
+361) WYATT
+[serious, doesn't know what to say ]{FearA}Don't sweat it, man.
+362) WYATT
+{FearA}Well, thanks for getting us out, anyway.
+363) EDDIE
+{SadA}Well, anyway. Sorry.
+364) 
+Thanks for getting us out of there.
+365) 
+Don't sweat it.
+366) EDDIE
+{ThinkingB}No, I get that. {SadC}I don't need that, just... {ThinkingB}whatever, dude. It's fine.
+367) WYATT
+{ThinkingA}I still can't forgive you, exactly.
+368) 
+I can't exactly forgive you.
+370) WYATT
+{DisgustA}Oh, right. Forgot there was more than one reason.
+371) EDDIE
+[pretending genuine surprise]{SurpriseA}OH, MY GOD, REALLY? [beat]{AngryA}BUT IS THERE ANY WEED?
+372) EDDIE
+{NormalA} They walked around for a while, saw the chick with two heads, saw a dude with lobster hands, {ThinkingB} some kind of monkey human with a dick for a face, {HappyA} I don't know.
+373) EDDIE
+{SurpriseA}She ALSO said there was a little girl in there the size of an apple, {ThinkingB}but I called bullshit on that one.
+374) EDDIE
+[alt] Pretty fucking sure. "Don't eat a burrito and get on a rollercoaster" sure.
+375) EDDIE
+[alt] Pretty fucking sure. "Don't fuck with Tiny Carlos" sure.
+376) EDDIE
+[alt] Pretty fucking sure. "Don't take ecstasy with a prostitute" sure.
+377) NATE
+[yelling after a car as you shoot] {AngryC} Come on, man, we was just gettin' started!
+379) WYATT
+[scared, nervous] {FearB}Whatever happens, I won't let you turn into one of them things, man. Trust me, I'll...[trails off]
+380) WYATT
+[pickup1][scared, nervous] {ThinkingB} Yeah, that's probably not helping. Sorry.
+381) 
+Get back in the car!
+382) 
+You see anything out there?
+384) WYATT
+[to self] {ThinkingA} Hey, maybe I could see better with that guy on.
+385) WYATT
+[alt] Dark as a carload of assholes down there.
+386) WYATT
+[alt] Too dark to see.
+387) WYATT
+[alt] {HappyB} There you are, you piece a shits. [keys]
+388) WYATT
+[to self] {AngryA} Why didn't he just leave them in the ignition?
+389) EDDIE
+[alt] {AngryC} Scissors blow.
+390) EDDIE
+{HappyA} Damn, man. Killed those scissors.
+392) EDDIE
+{SadA} Yeah, sorry. Got caught up.
+393) EDDIE
+{ThinkingA}I don't think we EVER tied this much. {FearB}That guy's dying out there while we do this shit.
+394) WYATT
+{ThinkingA} This was YOUR idea!
+395) EDDIE
+{AngryB} This is a two way street, tubby.
+396) WYATT
+[seeing a zombie coming near][alt]{AngryA}Son of a...!
+397) EDDIE
+[resigned] Shit, all right.
+398) NATE
+[struggling to pull a guy out of a car]{AngryC} I'mma getcha out, chubbo!
+399) NATE
+[struggling to pull a guy out of a car] {AngryC}C'mere, you little bastard!
+400) NATE
+[struggling to pull a guy out of a car] {AngryB} I ain't never yanked on a dude this much before!
+401) NATE
+[struggling to pull a guy out of a car] {AngryC} Can't say I'm having too much fun over here!
+402) NATE
+[struggling to pull a guy out of a car] {AngryD}You're a strong one! Whoo!
+403) NATE
+[struggling to pull a guy out of a car] {AngryC} Feels like I'm trying to land a shark here!
+404) 
+Button
+405) WYATT
+[grunt as you're yanked out of the car]{FearC}Rrrrgh!
+406) WYATT
+[grunt as you hit the ground]{DisgustA}Oof!
+407) 
+Fog
+408) 
+Field
+409) 
+Seat Handle
+410) 
+Keys
+411) WYATT
+[forlorn, about radio] {HappyB}Remember when TJ got high and tried to put a pancake in the CD player?
+413) WYATT
+{NormalB} Foggy.
+414) EDDIE
+[sarcastic] {SurpriseA} Oh, my god! WHAT?!?
+415) WYATT
+[wry] {ThinkingA}Shut up.
+416) EDDIE
+[unsure] {ThinkingB} What did you say?
+417) EDDIE
+{ThinkingB} Who are you talking to?
+418) WYATT
+[off line "who are you talking to?"] {HappyB} You?
+419) WYATT
+{ThinkingB} Can't see anything out there.
+420) EDDIE
+{ThinkingB} Oh.
+421) 
+Gear Shift
+422) 
+Floorboard
+423) 
+Door
+424) 
+Car
+425) 
+Attacker
+426) 
+Radio
+427) 
+Rearview Mirror
+428) 
+Windshield
+429) WYATT
+[alt] Why did he have to throw the damn keys?
+430) WYATT
+[alt] {HappyB} There you are, little fellas.
+431) WYATT
+[to self] {NormalB} Bet Eddie's upset about that. He loves this car.
+432) WYATT
+{NormalA}{Body-SitA}I'm staying right here.
+433) EDDIE
+{AngryA}I WOULD LIKE TO SMOKE A WEED AT THE MOMENT. {HappyB}PLEASE FIND ONE FOR ME.
+434) EDDIE
+{ThinkingB} Wyatt, come on, man, check the glovebox.
+436) EDDIE
+{HappyB} Man, you are a knucklehead.
+437) EDDIE
+{NormalA} AND you have man boobs.
+438) EDDIE
+{HappyB} AND you're not my friend. That's over now.
+439) 
+Talk To
+440) 
+Examine
+441) WYATT
+[pickup1]{ThinkingB} Man, this guy's a COP?
+442) WYATT
+[pickup1][talking to an unconscious dude] {FearA}COP, PLEASE BE OKAY.
+443) WYATT
+[pickup1][examining wound] {FearA} Jesus. This is BAD.
+444) WYATT
+[pickup1] {FearA} Looks like he's pretty out of it.
+445) 
+Cracked Windshield
+446) 
+Uniform
+447) 
+Victim
+448) EDDIE
+[pickup2] Seriously, you think some piece of that guy made it into the glove box?
+449) EDDIE
+[pickup2][While Wyatt is searching the RADIO for clues, annoyed] Stop messing around! We need to KNOW what's going on, okay? That's not gonna help.
+450) EDDIE
+[pickup2][during In car investigation while Wyatt looks at the broken car mirror]{Body-Sit}{ThinkingA} Can't tell from here.
+451) EDDIE
+[pickup2]{Body-Sit}{FearA}Let's see if there's anything around the car. {NormalA}You know, anything that'll like, tell us one way or the other. {SadA}That way we can just book. {AngryA}But I'm not leaving if we hit a human being, man. {FearA}I'm just... not.
+452) EDDIE
+[pickup2] We're gonna have to go out there.
+453) WYATT
+[pickup2] [pointing at windshield]{Body-SitA} {ThinkingA} Does that blood look fresh to you?
+454) EDDIE
+[pickup2] [Looking at blood on cracked windishield] {Body-Sit} {FearA} Yeah, but it's kind of dark.
+455) WYATT
+[pickup2] [unsure] {FearA}...Yeah. {AngryA}Damn.
+456) EDDIE
+[pickup2][about his car window]Man, don't roll it down broken!
+457) WYATT
+[pickup2] I can't see through the cracks. Look, it's fine, see?
+458) EDDIE
+[pickup2] [talking about a scrap of cloth] {Body-Sit} {ThinkingA}Yeah, but plenty of dead guys have shirts on. Keep looking.
+459) EDDIE
+[pickup2] [slightly miffed] {Body-Sit}{ThinkingA}Man, don't look at yourself, this is serious.
+460) EDDIE
+[pickup2] {NormalA} Whatever, man. Keep looking.
+461) WYATT
+[pickup2] {Body-SitA}{ThinkingA} I wasn't.
+462) WYATT
+[pickup2] [frustrated] Man, I don't know.
+463) WYATT
+[pickup2] Okay, okay. Jeez.
+466) WYATT
+[pickup2]{ThinkingA} Ah, fuck it. {FearA}All right, let's get your ass to the car.
+467) WYATT
+[pickup2]{FearA}Sorry, dude, gotta split.
+468) NATE
+[struggling to pull a guy out of a car][Process 20 feet away] {AngryC}C'mere, you little bastard!
+469) NATE
+[struggling to pull a guy out of a car][Process 10 feet away] {AngryD}You're a strong one! Whoo!
+470) WYATT
+SHIT! FUCK!
+471) NATE
+Well, shit!
