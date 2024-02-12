@@ -266,32 +266,32 @@ Clementine will remember that.
 132) 
 You showed an interest in his family.
 133) 
-You learned about Kenny's boat.
+Odkryles informacje na temat lodzi Kennyego.
 134) 
-You learned Katjaa is a veterinarian.
+Dowiedziales sie ,ze Katjaa jest weterynarzem.
 135) 
-Katjaa learned you were fired.
+Katjaa dowiedziala sie ,ze zostales zwolniony.
 136) 
-Katjaa will remember that.
+Katjaa powinna to pamietac.
 137) 
-You learned Clementine is a first grader.
+Dowiedziales sie o tym ,ze Clementine jest uczennica pierwszej klasy.
 138) 
-Shawn disagrees.
+Shawn nie zgadza sie.
 139) 
-Shawn noticed your silence.
+Shawn zauwazyl twoje milczenie.
 140) 
-Shawn won't forget that.
+Shawn nie zapomni tego.
 141) 
-You said nothing.
+Nic nie powiedziales.
 142) 
-You didn't side with Kenny.
+Nie stanoles po stronie Kennyego.
 143) 
-You made a difficult choice.
+Dokonales trudnego wyboru.
 144) 
-Kenny will remember that.
+Kenny powinnien to pamietac.
 145) 
-Kenny will remember that.
+Kenny powinnien to pamietac.
 146) 
-Kenny will remember that.
+Kenny powinnien to pamietac.
 147) 
-You did nothing.
+Nic nie zrobiles.
