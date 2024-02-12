@@ -25,9 +25,9 @@ WYBOR:  Zastepca uwaza,ze jestes grzeczny.
 13) 
 WYBOR:  Fajnie to rozgrywasz.
 14) 
-Nie zwracasz uagi na niego.
+Nie zwracasz uwagi na niego.
 15) 
-CHOICE:  Nie przejmujesz się nim ,masz go gdzies.
+CHOICE:  Nie przejmujesz się nim ,masz go w dupie.
 16) 
 WYBOR:  Zastepca cie nie lubi
 17) 
@@ -49,9 +49,9 @@ WYBOR:  Clementine jest troche toba przestraszona.
 25) 
 WYBOR:  Ukazujesz wspolczucie Clementine.
 26) 
-WYBOR:  You chose something.
+WYBOR:  Coś wybierasz.
 27) 
-WYBOR:  Wybierasz bezpieczenstwo przed swiatlem.
+WYBOR:  Wybierasz bezpieczenstwo za dnia.
 28) 
 WYBOR:  Wybierasz zaczekanie do zmroku.
 29) 
@@ -251,7 +251,7 @@ Clementine wydaje sie zmartwiona.
 124) 
 Sprawiles,ze Clementine poczula sie lepiej.
 125) 
-Wybrales bezpieczenstwo swiatla dziennego.
+Wybierasz bezpieczenstwo za dnia.
 126) 
 Wybrales,aby zaczekac do zmroku.
 128) 
