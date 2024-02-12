@@ -1,45 +1,45 @@
 1) 
-Christa noticed that.
+Christa zauwazyla to.
 2) 
-Christa appreciated that.
+Christa docenila to.
 10) 
-Christa appreciated that.
+Christa docenila to.
 3) 
-Kenny is irritated with you.
+Kenny jest na ciebie wkurzony.
 4) 
-You broke up the argument.
+Przerwales klotnie
 5) 
-Clementine feels unsafe.
+Clementine nie czuje sie bezpiecznie.
 6) 
-Clementine feels unsafe.
+Clementine nie czuje sie bezpieznie.
 7) 
-Clementine is afraid.
+Clementine boi sie.
 8) 
-Christa is now more worried.
+Christa jest teraz bardziej zmartwiona.
 9) 
-Omid appreciated that.
+Omid docenil to.
 11) 
-Clementine feels hurt.
+Clementine czuje sie zraniona
 12) 
-Kenny is frozen.
+Kenny jest zamarzniety
 13) 
-Kenny is frozen.
+Kenny jest zamarzniety
 14) 
-Kenny is unresponsive.
+Kenny nie odpowiada.
 15) 
-You chose to give Kenny a gun.
+Zdecydowales sie dac Kenny'emu bron.
 16) 
-You chose to do it yourself.
+Zdecydowales sie sam to zrobic.
 17) 
-You helped Kenny.
+Pomogles Kenny'emu.
 18) 
-You chose to leave him.
+Zdecydowales sie go opuscic
 19) 
-You chose to leave him.
+Zdecydowales sie go opuscic
 20) 
-You told Ben to take care of it.
+Powiedziales Benowi zeby sie tym zajal.
 21) 
-Christa is skeptical.
+Christa jest sceptyczna.
 22) 
 The group is now more paranoid.
 23) 
@@ -47,135 +47,135 @@ The group is now more paranoid.
 75) 
 The group is now more paranoid.
 24) 
-Kenny thinks you didn't support him.
+Kenny mysli ze go nie wspierasz.
 25) 
-Kenny thinks you didn't support him.
+Kenny mysli ze go nie wspierasz.
 26) 
-Kenny appreciates your support.
+Kenny docenia twoje wsparcie.
 27) 
-Kenny appreciates your support.
+Kenny docenia twoje wsparcie.
 28) 
-Clementine will remember your promise.
+Clementine zapamieta twoja obietnice.
 29) 
-Clementine will remember your promise.
+Clementine zapamieta twoja obietnice
 30) 
-Clementine feels neglected.
+Clementine czuje sie zaniedbana.
 31) 
-You put Ben on notice.
+Zwrociles Benowi uwage.
 32) 
-You trusted Ben to look after Clementine.
+Powierzyles Benowi opieke nad Clementine.
 33) 
-Molly will remember that.
+Molly zapamieta to.
 34) 
-You chose to threaten the man.
+Zdecydowales sie mu grozic.
 35) 
-You chose to threaten the man.
+Zdecydowales sie mu grozic.
 42) 
-You chose to threaten the man.
+Zdecydowales sie mu grozic.
 36) 
-You chose to reason with the group.
+Wybrales argumentacje z grupa.
 37) 
-You were silent.
+Byles cicho.
 142) 
-You were silent.
+Byles cicho.
 38) 
-Vernon will remember that.
+Vernon zapamieta to.
 39) 
-Vernon will remember that.
+Vernon zapamieta to.
 44) 
-Vernon will remember that.
+Vernon zapamieta to.
 135) 
-Vernon will remember that.
+Vernon zapamieta to.
 136) 
-Vernon will remember that.
+Vernon zapamieta to.
 40) 
-They don't trust you.
+Oni ci nie wierza.
 41) 
-They didn't believe you.
+Oni ci nie wierza.
 43) 
-You threatened Vernon.
+Zagroziles Vernonowi.
 45) 
-Ben feels guilty.
+Ben czuje sie winny.
 46) 
-Christa appreciates your concern.
+Christa docenia twoja troske.
 47) 
-You've chosen your strategy.
+Wybrales swoja strategie.
 48) 
-You suggested a strategy.
+Zaproponowales strategie.
 49) 
-Your group is ready.
+Twoja grupa jest gotowa.
 50) 
-Clementine does not find that comforting.
+Clementine nie uwaza tego za pocieszajace.
 51) 
-Clementine understands.
+Clementine rozumie.
 52) 
 Clementine feels slightly encouraged.
 53) 
-You chose to leave Clementine at the house.
+Postanowiles zostawic Clementine w domu.
 54) 
-You chose to bring Clementine with you.
+Postanowiles zabrac ze soba Clementine.
 55) 
-You chose to conceal your bite.
+Postanowiles ukryc ugryzienie.
 56) 
-You chose not to conceal your bite.
+Postanowiles nie ukrywac ugryzienia.
 57) 
-You chose to tell the truth about your bite.
+Postanowiles powiedziec prawde.
 58) 
-Christa and Omid chose to come with you.
+Christa i Omid postanowili pojsc z toba.
 59) 
-Christa and Omid chose to come with you.
+Christa i Omid postanowili z toba pojsc.
 60) 
-Christa and Omid chose not to go with you.
+Christa i Omid postanowili z toba nie isc.
 61) 
-You told Kenny off.
+Powiedziales Kenny'emu.
 62) 
-Kenny chose to go with you.
+Kenny postanowil z toba isc.
 63) 
-Kenny chose not to join you.
+Kenny postanowil z toba nie isc.
 64) 
-Kenny chose not to join you.
+Kenny postanowil z toba nie isc.
 65) 
-Kenny has reconsidered. He will not come with you.
+Kenny sie rozmyslil. Nie pojdzie z toba.
 66) 
-You chose not to bring Ben.
+Postanowiles nie zabierac ze soba Bena.
 67) 
-Ben chose to stay behind.
+Ben postanowil zostac z tylu.
 68) 
-Ben chose to go with you.
+Ben postanowil z toba isc.
 69) 
 You encouraged Ben to come with you.
 70) 
-You chose to have Ben stay behind.
+Postanowiles zeby Ben zostal z tylu.
 71) 
-Ben chose to help you.
+Ben postanowil tobie pomoc.
 72) 
-Christa now trusts you less.
+Christa mniej tobie wierzy.
 73) 
-Christa now trusts you less.
+Christa mniej tobie wierzy.
 74) 
-You chose to lie to Christa.
+Postanowiles oklamac Christe.
 76) 
-Clementine feels better.
+Clementine czuje sie lepiej.
 77) 
-Clementine feels better.
+Clementine czuje sie lepiej.
 78) 
-Clementine feels scorned.
+Clementine czuje sie lekcewazona.
 79) 
 You made Clementine nervous.
 80) 
 You made Clementine nervous.
 81) 
-Ben will remember that.
+Ben zapamieta to.
 82) 
 You voted to give Ben a seat on the boat.
 83) 
-You voted for Ben.
+Zaglosowales za pozostawieniem Bena.
 84) 
-You voted against Ben.
+Zaglosowales przeciwko Benowi.
 85) 
 You abstained from voting.
 86) 
-Kenny didn't like that.
+Kenny nie lubi tego.
 87) 
 You chose to keep moving.
 88) 
