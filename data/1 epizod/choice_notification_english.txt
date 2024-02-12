@@ -1,270 +1,269 @@
 1) 
-A man can't be too careful in the choice of his enemies.
+Czlowiek nie moze byc zbyt ostroznym przy wyborze wrogow.
 2) 
-Happiness is a choice that requires effort at times.
+Szczesciem jest wybor,ktory czasem wymaga wysilku
 3) 
-Given a choice between grief and nothing, I'd choose grief.
+Gdybym mial do wyboru smutek i nic to wybralbym smutek.
 4) 
-Where there is no choice, we do well to make no difficulty.
+Gdy nie ma wyboru,lepiej nie sprawiac trudnosci.
 5) 
-The hardest hit, as everywhere, are those who have no choice.
+Najbardziej dotyka to tych ktorzy,nie moga podjac zadnego wyboru.
 6) 
-You seem a little paranoid
+Widac po tobie lekka paranoje
 7) 
-You seem a little down
+Wygladasz troche na przygnębionego
 8) 
-The officer doesn't like you very much
+Oficer nie jest zbytnio przekonany do ciebie
 9) 
-Guess you have nothing to say
+Chyba nie masz nic do powiedzenia
 10) 
-You were polite to the deputy.
+Jestes uprzejmy dla zastepcy.
 11) 
-CHOICE:  The deputy thinks you're being defensive.
+WYBOR:  Zastepca stwierdza ,ze sie bronisz.
 12) 
-CHOICE:  The deputy thought you were polite.
+WYBOR:  Zastepca uwaza,ze jestes grzeczny.
 13) 
-CHOICE:  You played it cool.
+WYBOR:  Fajnie to rozgrywasz.
 14) 
-You blew him off.
+Nie zwracasz uagi na niego.
 15) 
-CHOICE:  You blew him off.
+CHOICE:  Nie przejmujesz się nim ,masz go gdzies.
 16) 
-CHOICE:  The deputy doesn't like you much.
+WYBOR:  Zastepca cie nie lubi
 17) 
-CHOICE:  You blew him off again.
+WYBOR:  Znowu go olewasz.
 18) 
-CHOICE:  You chose silence.
+WYBOR:  Wybierasz milczenie
 19) 
-She noticed you were concerned.
+Ona zauwazyla ,ze sie zamartwiasz.
 20) 
-CHOICE:  You showed a little suspicion.
+WYBOR:  Wykazujesz się odrobiną podejrzliwosci.
 21) 
-CHOICE:  You chose to reassure her.
+WYBOR:  Postanawiasz ja uspokoic.
 22) 
-CHOICE:  You snooped around a little.
+WYBOR:  Troche poszperales.
 23) 
-CHOICE:  You found out a bit more about the family who lived here.
+WYBOR:  Szukasz informacji na temat rodziny ktora tutaj mieszkala.
 24) 
-CHOICE:  Clementine is a little afraid of you.
+WYBOR:  Clementine jest troche toba przestraszona.
 25) 
-CHOICE:  You showed 
-compassion for Clementine.
+WYBOR:  Ukazujesz wspolczucie Clementine.
 26) 
-CHOICE:  You chose something.
+WYBOR:  You chose something.
 27) 
-CHOICE:  You chose the safety of daylight.
+WYBOR:  Wybierasz bezpieczenstwo przed swiatlem.
 28) 
-CHOICE:  You chose to wait until dark.
+WYBOR:  Wybierasz zaczekanie do zmroku.
 29) 
-You lied to Shawn.
+Oklamujesz Shawn.
 127) 
-You lied to Shawn.
+Oklamujesz Shawn.
 30) 
-You told a white lie to make things easier.
+Specjalnie mowisz klamstwo,aby bylo latwiej.
 31) 
-CHOICE:  You were truthful.
+WYBOR:  Powiesz prawde.
 32) 
-Shawn drew his own conclusion.
+Shawn wyciaga wlasne wnioski.
 33) 
-CHOICE: You told a white lie.
+WYBOR: Mowisz swiadomie nie prawde.
 34) 
-CHOICE:  You lied to Shawn.
+WYBOR:  Oklamujesz Shawn.
 35) 
-CHOICE:  You were friendly to Hershel.
+WYBOR:  Bedziesz przyjacielski wobec Hershel.
 36) 
-CHOICE:  You were surly.
+WYBOR:  Bedziesz naburmuszony.
 37) 
-CHOICE:  You ignored Hershel.
+WYBOR:  Ignorujesz Hershel.
 38) 
-CHOICE:  You told the truth.
+WYBOR:  Mowisz prawde.
 39) 
-CHOICE:  Hershel doubts your honesty.
+WYBOR:  Hershel nie wierzy w twoja uczciwosc.
 40) 
-CHOICE:  You lied to Hershel.
+WYBOR:  Oklamujesz Hershel.
 41) 
-CHOICE:  You dodged the question.
+WYBOR:  Unikasz pytania.
 42) 
-CHOICE: You chose to save Duck.
+WYBOR:  Wybierasz uratowanie Ducka.
 43) 
-CHOICE: You stood there, frozen in fear.
+WYBOR:  Stoisz wryty w ziemie ,ze strachu.
 44) 
-CHOICE: You tried to blame Kenny.
+WYBOR:  Wkopujesz Kenny'ego i go obwiniasz .
 45) 
-CHOICE: You tried to shield Kenny from blame.
+WYBOR:  Probowales ochronic Kenny'ego przed wina.
 46) 
-CHOICE: You took the blame on yourself.
+WYBOR:  Bierzesz wine na siebie.
 47) 
-CHOICE: Hershel doesn't blame you anyway.
+WYBOR:  Hershel nawet cie nie obwinia.
 48) 
-CHOICE: You chose to save Shawn.
+WYBOR:  Zdecydowales uratowac Shawna.
 49) 
-CHOICE: You chose to be curious.
+WYBOR:  Postanowiles byc ciekawskim.
 50) 
-CHOICE: You chose to blow off the question.
+WYBOR:  Postanowiles nie odpowiadac na to pytanie.
 51) 
-CHOICE: You chose to joke about it.
+WYBOR:  Wybierasz zazartowanie z sytuacji.
 52) 
-CHOICE: You chose to be silent.
+WYBOR:  Wybierasz milczenie.
 53) 
-Hershel knows your name.
+Hershel zna twoje imie.
 54) 
-Hershel will remember that.
+Hershel zapamieta to.
 56) 
-Hershel will remember that.
+Hershel zapamieta to.
 55) 
-Hershel believes you.
+Hershel wierzy tobie.
 57) 
-Hershel made note of that.
+Hershel zauwazył to.
 58) 
-Hershel doubts you.
+Hershel nie wierzy w ciebie.
 59) 
-You didn't answer his question.
+Nie odpowiedziales na pytanie.
 60) 
-He noticed what you said.
+On zapamieta to co powiedziales.
 61) 
-Lilly will remember what you called her.
+Lilly zapamieta to co jej powiedziales.
 62) 
-Lilly noticed what you said.
+Lilly zapamieta to co mowiles.
 63) 
-Kenny will remember your loyalty.
+Kenny zapamieta twoja lojalnosc.
 64) 
-Kenny noticed that.
+Kenny zapamieta to.
 65) 
-Kenny noticed you didn't have his back.
+Kenny zobaczyl ze nie masz go za plecami.
 66) 
-You drew Larry's attention to Clementine.
+Zwrociles uwage Larrego na Clementine.
 67) 
-Clementine was hurt by that.
+To uraziło Clementine.
 68) 
-Clementine understood.
+Clementine zrozumiala.
 69) 
-Clementine noticed you ignored her.
+Clementine zapamieta to ,ze ja zignorowales.
 70) 
-TEST 5 SECOND DELAY
+TEST 5 SEKUND OPOZNIENIA
 71) 
-Hershel will definitely remember that.
+Hershel na pewno to zapamieta.
 72) 
-Shawn thinks you're the babysitter now.
+Shawn mysli ,ze teraz jestes opiekunka dla dziecka.
 73) 
-Shawn noticed what you said.
+Shawn uslyszal to co powiedziales.
 74) 
-Clementine is really upset now.
+Clementine jest teraz naprawde zmartwiona.
 75) 
-You helped Clementine calm down a little.
+Pomogles Clementine w drobnym uspokojeniu sie.
 76) 
-The trooper heard that.
+Zolnierz uslyszal to.
 77) 
-The trooper picked up on that.
+Zolnierz podjal sie tego.
 78) 
-Clem will remember you protected her.
+Clem zapamieta,ze ochroniles ja.
 79) 
-Clementine will remember you didn't save her.
+Clementine zapamieta ,ze jej nie pomogles.
 80) 
-Hi.  There's a logic thingie here that gets set to Clem Is Good.  Does that mean anything?
+Hej.  Jest tu cos co potwierdzi ,ze Clem jest dobry.  Czy to coś znaczy?
 81) 
-You checked on Clementine.
+Sprawdziles Clementine.
 82) 
-You took care of Clementine.
+Zaopiekujesz sie Clementine.
 83) 
-Kenny appreciates your concern for Duck.
+Kenny docenia twoja troske o Ducku.
 84) 
-Carley will remember you said that.
+Carley powinna zapamietac to co powiedziales.
 85) 
-Carley noticed your concern.
+Carley zauwazyl twoja obawe.
 86) 
-Kenny learned something about you.
+Kenny dowiedzial sie czegos o tobie.
 87) 
-Kenny noticed your silence.
+Kenny zauwazyl twoje milczenie.
 88) 
-You yelled at Carley.
+Krzyknales na Carley.
 89) 
-Carley accepts your decision.
+Carley zakceptowala twoja decyzje.
 90) 
-You helped the girl.
+Pomogles dziewczynie.
 91) 
-You refused the girl's request.
+Odrzuciles prosbe dziewczyny.
 92) 
-You chose to save Doug
+Podjales decyzje o uratowaniu Douga.
 93) 
-You chose to save Carley.
+Podjales decyzje o uratowaniu Carley.
 94) 
-The officer picked up on that.
+Oficer podjal sie tego.
 95) 
-The deputy picked up on that.
+Zastepca zajal sie tym.
 96) 
-The officer tried to fill in the silence.
+Oficer probuje przerwac milczenie.
 97) 
-Carley will remember you trusted her.
+Carley zapamieta ,ze zaufales jej.
 98) 
-Carley will remember you didn't trust her.
+Carley zapmieta ,ze nie zaufales jej.
 99) 
-Clem feels hopeful about seeing her parents.
+Clem jest pelna nadzieji,ze zobaczy swych rodzicow.
 100) 
-Clementine is hopeful.
+Clementine jest pelna nadzieji.
 101) 
-Clementine is worried.
+Clementine jest zmartwiona.
 102) 
-She wonders why you're not talking.
+Ona mysli,dlaczego nie wdajesz sie w rozmowe.
 103) 
-She'll remember you were nice to her.
+Ona zapamieta twoja grzecznosc do niej.
 104) 
-You chose to save Shawn.
+Wybrales ratunek Shawna.
 105) 
-You chose to save Duck.
+Wybrales ratunek Ducka.
 106) 
-You made no choice.
+Nie podjales decyzji.
 148) 
-You made no choice.
+Nie podjales decyzji.
 107) 
-You took the blame on yourself.
+Wziales wine na siebie.
 108) 
-You defended Kenny.
+Obroniles Kenny.
 109) 
-You blamed Kenny.
+Obwniles Kenny.
 110) 
-Hershel doesn't blame you anyway.
+Hershel nawet cie nie obwinia.
 111) 
-Clementine is okay.
+Z Clementine wszystko jest dobrze.
 112) 
-You chose something.
+Wybrales cos.
 113) 
-The officer thinks you're being defensive.
+Oficer mysli ,ze sie bronisz.
 114) 
-You blew him off again.
+Znowu go splawiles.
 115) 
-The officer thought you were polite.
+Oficer stwierdzil ,ze jestes grzeczny.
 116) 
-The officer noticed your silence.
+Oficer zobaczyl twoje milczenie.
 117) 
-You played it cool.
+Dobrze to rozegrales.
 118) 
-The deputy doesn't like you much.
+Zastepca ciebie nie lubi.
 119) 
-You chose to be curious.
+Wybrales bycie dociekliwym.
 120) 
-You chose to blow off the question.
+Postanowiles nie odpowiadac na pytanie.
 121) 
-You chose to joke about it.
+Zdecydowales sie,zartowac z tej sytuacji.
 122) 
-You chose to be silent.
+Wybrales milczenie.
 123) 
-Clementine seems afraid.
+Clementine wydaje sie zmartwiona.
 124) 
-You made Clementine feel better.
+Sprawiles,ze Clementine poczula sie lepiej.
 125) 
-You chose the safety of daylight.
+Wybrales bezpieczenstwo swiatla dziennego.
 126) 
-You chose to wait until dark.
+Wybrales,aby zaczekac do zmroku.
 128) 
-You were truthful.
+Mowiles prawde.
 129) 
-He picked up on that.
+Podjal sie tego.
 130) 
-He picked up on that.
+Podjal sie tego.
 131) 
-Clementine will remember that.
+Clementine powinna to pamietac.
 132) 
-You showed an interest in his family.
+Wykazujesz zainteresowanie jego rodzina.
 133) 
 Odkryles informacje na temat lodzi Kennyego.
 134) 
