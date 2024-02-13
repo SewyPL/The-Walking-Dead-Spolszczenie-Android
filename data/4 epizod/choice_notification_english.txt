@@ -143,7 +143,7 @@ Ben postanowil zostac z tylu.
 68) 
 Ben postanowil z toba isc.
 69) 
-You encouraged Ben to come with you.
+Postanowiles zabrac ze soba Bena.
 70) 
 Postanowiles zeby Ben zostal z tylu.
 71) 
@@ -161,200 +161,200 @@ Clementine czuje sie lepiej.
 78) 
 Clementine czuje sie lekcewazona.
 79) 
-You made Clementine nervous.
+Zdenerwowales Clementine.
 80) 
-You made Clementine nervous.
+Zdenerwowales Clementine.
 81) 
 Ben zapamieta to.
 82) 
-You voted to give Ben a seat on the boat.
+Głosowales za przyznaniem Benowi miejsca na lodzi.
 83) 
 Zaglosowales za pozostawieniem Bena.
 84) 
 Zaglosowales przeciwko Benowi.
 85) 
-You abstained from voting.
+Wstrzymales sie od glosowania.
 86) 
 Kenny nie lubi tego.
 87) 
-You chose to keep moving.
+Zdecydowales sie ruszyc dalej.
 88) 
-Christa noticed your silence.
+Christa zwrocila uwage na twoje milczenie.
 89) 
-You asked Kenny to wait for Omid.
+Poprosiles Kenny'ego, zeby poczekal na Omida.
 90) 
-You praised Clementine.
+Pochwaliles Clementine.
 91) 
-You reassured them.
+Uspokoiles ich.
 92) 
-You were honest with Omid.
+Byles szczery z Omidem.
 93) 
-You reassured Omid.
+Uspokoiles Omida.
 94) 
-You chose not to answer her.
+Zdecydowales sie jej nie odpowiadac.
 95) 
-You tried to reassure Christa.
+Starales sie uspokoic Christe.
 96) 
-You were honest with Christa.
+Byles szczery z Christa.
 97) 
-Christa is not reassured.
+Christa nie jest spokojna.
 98) 
-You chose to lie.
+Postanowiles sklamac.
 99) 
-You told the truth.
+Powiedziales prawde.
 144) 
-You told the truth.
+Powiedziales prawde.
 100) 
-You chose not to answer Christa.
+Postanowiles nie odpowiadac Chriscie.
 101) 
-You said nothing.
+Nic nie powiedziales.
 102) 
-You told Clementine no.
+Powiedziales Clementine nie.
 103) 
-You asked Clementine to stay and help the others.
+Poprosiles Clementine, by zostala i pomogla innym.
 104) 
-You asked Clementine to wait a little longer.
+Poprosiles Clementine, by troche poczekala.
 105) 
-You chose not to answer Clementine.
+Postanowiles nie odpowiadac Clementine.
 106) 
-You were totally honest with them.
+Byles z nimi calkowicie szczery.
 107) 
-You suggested a negotiation.
+Zasugerowales negocjacje.
 108) 
-You suggested an attack.
+Zasugerowales zaatakowanie.
 109) 
-You suggested sneaking in.
+Zasugerowales zakradniecie sie.
 110) 
-You chose to keep quiet.
+Postanowiles byc cicho.
 111) 
-You were honest with Clementine.
+Byles szczery z Clementine.
 152) 
-You were honest with Clementine.
+Byles szczery z Clementine.
 112) 
-You asked Clementine not to worry.
+Poprosiles Clementine, by sie nie martwila.
 113) 
-You trusted Clementine with the gun.
+Powierzyles Clementine bron.
 114) 
-You decided to keep the gun.
+Postanowiles zachowac bron.
 115) 
-The group noticed your silence.
+Grupa zauwazyla twoje milczenie.
 116) 
-Kenny noticed your silence.
+Kenny zauwazyl twoje milczenie.
 117) 
-Your answer freaked Ben out.
+Twoja odpowiedz przerazila Bena.
 118) 
-Your answer scared Clementine a little.
+Twoja odpowiedz przestraszyla troche Clementine.
 119) 
-Brie still doesn't trust you.
+Brie wciaz ci nie ufa.
 120) 
-Molly appreciates your sympathy.
+Molly docenia twoje wspolczucie.
 121) 
-You blew Molly off.
+Olales Molly.
 122) 
-You saved Molly's life.
+Uratowales zycie Molly.
 123) 
-You did not save Molly.
+Nie ocaliles Molly.
 124) 
-You shot Molly!
+Postrzeliles Molly!
 125) 
-You let Ben die.
+Pozwolies Benowi umrzec.
 126) 
-You saved Ben's life.
+Uratowales zycie Benowi.
 127) 
-You let Ben go.
+Pozwoliles Benowi odejsc.
 128) 
-You left Molly behind.
+Zostawiles Molly w tyle.
 129) 
-You were honest about Molly.
+Byles szczery co do Molly.
 130) 
-You lied to Clementine about Molly.
+Oklamales Clementine co do Molly.
 131) 
-Clementine noticed you didn't answer.
+Clementine zauwazyla ze nie odpowiedziales.
 132) 
-Clementine heard what Kenny said.
+Clementine uslyszala co powiedzial Kenny.
 133) 
-You lied to Vernon about having meds.
+Oklamales Vernona, ze masz leki.
 134) 
-You lied about Clementine.
+Sklamales co do Clementine.
 137) 
-You chose to threaten them.
+Postanowiles im grozic.
 138) 
-You told Kenny to stay.
+Powiedziales Kenny'emu zeby zostal.
 139) 
-You gave Ben a chance to prove himself.
+Dales Benowi szanse, by sie wykazal.
 140) 
-Vernon didn't appreciate what you said.
+Vernon nie docenil tego, co powiedziales.
 141) 
-Brie appreciates your support.
+Brie docenia twoje wsparcie.
 143) 
-You trusted Ben to watch Omid.
+Zaufales Benowi, ze przypilnuje Omida.
 145) 
-You were honest.
+Byles szczery.
 146) 
-You chose to avoid the question.
+Zdecydowales sie uniknac pytania.
 147) 
-You tried to calm things down.
+Probowales uspokoic sytuacje.
 148) 
 Your silence unsettled the group.
 149) 
-You asked for help.
+Poprosiles o pomoc.
 150) 
-You chose to go alone.
+Postanowiles pojsc sam.
 151) 
-You lied to Clementine.
+Oklamales Clementine.
 153) 
-You avoided her question.
+Uniknales jej pytania.
 154) 
-You agreed with Vernon.
+Przyznales racje Vernonowi.
 155) 
-You told Vernon off.
+Powiedziales Vernonowi zeby odszedl.
 156) 
-You chose not to give him an answer.
+Zdecydowales sie nie udzielic mu odpowiedzi.
 157) 
-The group does not agree with your plan.
+Grupa nie zgadza sie z twoim planem.
 158) 
-You suggested staying put, but the group disagrees.
+Zasugerowales pozostanie na miejscu, ale grupa sie nie zgadza.
 159) 
-The group supports your plan.
+Grupa popiera twoj plan.
 160) 
-You suggested a search, but the group disagrees.
+Zasugerowales przeszukanie, ale grupa sie nie zgadza.
 161) 
-You suggested a search, but the group disagrees..
+Zasugerowales przeszukanie, ale grupa sie nie zgadza.
 162) 
-Christa supports your plan.
+Christa popiera twoj plan.
 163) 
-You gently warned Clementine.
+Zwrociles uwage Clementine.
 164) 
-You confronted Molly about her lie.
+Powiedziales ze Molly klamie.
 165) 
-You let it go.
+Pozwoliles mu odejsc.
 166) 
-You dropped the subject.
+Porzuciles temat.
 167) 
-You gently changed the subject.
+Delikatnie zmieniles temat.
 168) 
-You said nothing to Molly about her story.
+Nic nie powiedziales Molly o jej historii.
 169) 
-You told Ben to confess.
+Powiedziales Benowi, zeby sie przyznal.
 170) 
-You tried to stop Ben.
+Probowales powstrzymac Bena.
 171) 
-You let Ben keep talking.
+Pozwoliles Benowi mowic dalej.
 172) 
-You sided with Kenny.
+Stanales po stronie Kenny'ego.
 173) 
-You defended Ben.
+Stanales w obronie Bena.
 174) 
-You tried to calm Kenny.
+Probowales uspokoic Kenny'ego.
 175) 
-You answered Molly truthfully.
+Odpowiedziales Molly zgodnie z prawda.
 176) 
-You avoided Molly's question.
+Uniknales pytania Molly.
 177) 
-You questioned Molly right back.
+Przesluchales Molly.
 178) 
-You tried to reason with him.
+Probowales z nim dyskutowac.
 179) 
-Ben defended himself.
+Ben sie bronil.
 180) 
-The sound alerted the walkers.
+Dzwiek zwrocil uwage szwendaczy.
