@@ -1,8 +1,8 @@
 1) 
-Main Menu
+Menu Glowne
 2) 
-Episode 1:
-A New Day
+Epizod 1:
+Nowy Dzien
 3) 
 Episode 2:
 Starved For Help
@@ -11,7 +11,7 @@ Episode 3:
 Long Road Ahead
 5) 
 Episode 4:
-Around Every Corner
+Za kazdym rogiem
 6) 
 Episode 5:
 No Time Left
