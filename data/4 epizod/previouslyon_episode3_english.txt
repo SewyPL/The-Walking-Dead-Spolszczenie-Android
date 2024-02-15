@@ -1,55 +1,55 @@
 1) LEE
-Previously on The Walking Dead...
+Poprzednio w Zywych Trupach...
 2) LILLY
-I've heard enough out of you, okay, Doug?
+Dosc juz o tobie slyszalam, Doug?
 27) LILLY
-I've heard enough out of you, okay, Doug?
+Dosc juz o tobie slyszalam, Doug?
 3) KENNY
-Now what the fuck's the problem?
+W czym, do kurwy nedzy, macie problem?
 25) KENNY
-Now what the fuck's the problem?
+W czym, do kurwy nedzy, macie problem?
 29) KENNY
-Now what the fuck's the problem?
+W czym, do kurwy nedzy, macie problem?
 4) CLEMENTINE
 Ben!
 26) CLEMENTINE
 Ben!
 5) DOUG
-NO!
+NIE!
 24) DOUG
-NO!
+NIE!
 6) LEE
-You're not coming with us.
+Nie jedziesz z nami.
 7) CHUCK
 I don't know much about you folks, but I can tell you, sure as the sun's gon' come up tomorrow, that ya'll keep going on like this and that girl ain't gonna make it.
 8) KENNY
-What do we do.
+Co teraz zrobimy.
 9) LEE
-Give me the gun, Ken. I'll do it.
+Daj mi bron, Ken. Ja to zrobie.
 10) LEE
 We need to help find a boat. It's our best bet at safety.
 11) CLEMENTINE
-Okay, but, we'll be IN Savannah and my parents were in Savannah.
+Dobrze, ale jak bedziemy w Savannie to bedziemy mogli poszukac moich rodzicow?
 12) LEE
 Okay. We'll look for them but THEN a boat.
 13) BEN
-I was the one giving the bandits supplies.
+Podrzucalem bandytom zapasy.
 14) LEE
-WHAT?
+Co?
 15) BEN
-It's all my fault.
+To wszystko moja wina.
 16) LEE
-We gotta jump.
+Musimy skakac.
 40) LEE
-We gotta jump
+Musimy skakac
 17) OMID
-WHAT?! No way!
+CO?! Nie ma mowy?
 18) OMID
-You son of a--!
+Ty skur-!
 19) OMID
 AHH!
 20) CHRISTA
-Shit!
+Cholera!
 21) RADIO VOICE
 Can't wait for you to get to Savannah, Clementine. I got your parents right here. And you be sure to find me whether Lee wants you to or not. Now what I need--[radio cuts out]
 22) LEE
@@ -71,15 +71,15 @@ Holy shit she's stealing the RV!
 34) LEE
 Let's go.
 35) LEE
-I think we should look for your parents.
+Mysle ze musimy poszukac twoich rodzicow.
 36) CLEMENTINE
-Really?
+Naprawde?
 37) LEE
 Yeah. You need to know if they're okay. And, well, if they're not, what happened to them.
 38) LEE
 We should go our own way when we get there. Our crew is falling apart. You and I are stronger alone.
 39) LEE
-Jump, DAMMIT
+Skacz do cholery
 41) LEE
 Fine, you stay here and we'll go with your lady!
 42) OMID
