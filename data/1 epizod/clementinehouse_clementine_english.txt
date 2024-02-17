@@ -1,89 +1,89 @@
 1) LEE
-[gathering himself] {fearA} Man...
+[gathering himself] {fearA} Cholera...
 2) CLEMENTINE
-{fearA} Did you kill it?
+{fearA} Zabiles to?
 3) 
-Yes.
+Tak.
 4) 
-I don't know. I think so.
+Nie wiem. Tak mysle.
 5) 
-Something else did.
+Cos innego to zrobilo
 7) LEE
-{normalD}{body-c2}Yes.
+{normalD}{body-c2}Tak.
 8) LEE
-{normalB} I think so too.
+{normalB} Tak mysle
 9) CLEMENTINE
-{sadA} {body-handsopen} It's okay. I think she was a monster.
+{sadA} {body-handsopen} Juz dobrze. Ona chyba byla juz potworem.
 10) CLEMENTINE
-{fearB} {body-handonwrist} Sometimes they come back.
+{fearB} {body-handonwrist} Czasami sie tu przedostaja.
 11) LEE
-[disbelief] {surpriseA} Have you killed one?
+[disbelief] {surpriseA} Zabilas jakiegos?
 12) LEE
-{thinkingB} {body-c2} I don't know. {sadA} I think so.
+{thinkingB} {body-c2} Nie wiem. {sadA} Tak mysle.
 13) LEE
-{thinkingB} {body-c2}I think something else did. {normalD} Before me, {sadA} I think.
+{thinkingB} {body-c2}Chyba cos innego to juz zrobilo {normalD} Przede mna, {sadA} Tak mysle.
 14) CLEMENTINE
-{sadC} {body-handonwrist}I heard her scream two nights ago. {fearA} Maybe one of the monsters got her.
+{sadC} {body-handonwrist}Dwa dni temu slyszalam jej krzyk {fearA} Chyba jeden z potworow ja dopadl.
 15) LEE
-[delicately, talking to a little girl about how she heard someone get eaten by a zombie, she says maybe that person is dead.] {surpriseB} Two nights ago? {sadB} Yeah, that's probably what happened.
+[delicately, talking to a little girl about how she heard someone get eaten by a zombie, she says maybe that person is dead.] {surpriseB} Dwa dni temu? {sadB} Tak, tak pewnie bylo.
 16) LEE
-There's someone outside.
+Ktos jest na zewnatrz
 17) CLEMENTINE
 {cryingA} Oh.
 18) CLEMENTINE
-{sadA} {body-handsopen}Yeah.{sadC} I want my parents to come home now.
+{sadA} {body-handsopen}Ta.{sadC} Chce zeby moi rodzice juz wrocili.
 19) CLEMENTINE
-Someone alive!
+Ktos zywy!
 20) LEE
-Yeah, let's go check it out.
+Chodz sprawdzimy okolice.
 21) LEE
-{sadC} I think that might be a little while, {normalD} you know?
+{sadC} To moze troche potrwac {normalD} wiesz?
 22) LEE
-{sadA} {body-c2}You've been all by yourself through this?
+{sadA} {body-c2}Przez ten caly czas bylas sama?
 23) CLEMENTINE
-[No] {sadB}{body-fists} No. {fearA} But they get shot a lot.
+[No] {sadB}{body-fists} Nie. {fearA} Ale czesto sie do nich strzela.
 24) LEE
-{disgustA} But I gotta sit down for a minute and just, you know, gather myself.
+{disgustA} Musze usiasc na chwile, wiesz, zeby sie ogarnac.
 25) LEE
-{normalC} Look, I don't know what happened. {thinkingA} But I'll look after you until then.
+{normalC} Nie wiem co sie stalo. {thinkingA} Ale musze sie toba zaopiekowac.
 26) CLEMENTINE
-{fearB}No! Here's not good, {fearA}especially not when it's dark.
+{fearB}Nie! Tutaj nie jest dobrze, {fearA}zwlaszcza jesli jest ciemno.
 27) CLEMENTINE
-[tentative] {sadB} Ok... I guess that's ok.
+[tentative] {sadB} Ok... chyba jest w porzadku.
 28) LEE
 {surpriseA} Where then?
 29) LEE
-{normalD} Hi there.
+{normalD} Czesc.
 30) 
-Look for help, before it gets dark.
+Poszukajmy pomocy, zanim sie sciemni.
 31) CLEMENTINE
-[pickup1] [nervous, scared] What should we do now?
+[pickup1] [nervous, scared] Co teraz zrobimy?
 32) 
-Get out of here once the sun goes down.
+Poszukaj pomocy po zachodzie slonca.
 33) LEE
-[pickup3] We should look for help... [follows up with "now" or "later"]
+[pickup3] Musimy poszukac pomocy... [follows up with "now" or "later"]
 34) CLEMENTINE
-[pickup1] Yeah, it's not safe at night.
+[pickup1] Ta, w nocy nie jest bezpiecznie.
 45) CLEMENTINE
-[pickup1] Yeah, it's not safe at night.
+[pickup1] Ta, w nocy nie jest bezpiecznie.
 35) LEE
-[pickup3] Let's go. Stay close to me.
+[pickup3] Chodzmy. Trzymaj sie blisko.
 41) LEE
-[pickup3] Let's go. Stay close to me.
+[pickup3] Chodzmy. Trzymaj sie blisko.
 44) LEE
-[pickup3] Let's go. Stay close to me.
+[pickup3] Chodzmy. Trzymaj sie blisko.
 50) LEE
-[pickup3] Let's go. Stay close to me.
+[pickup3] Chodzmy. Trzymaj sie blisko.
 36) LEE
-[pickup3] We need to find help before it gets dark.
+[pickup3] Musimy poszukac pomocy zanim sie sciemni.
 43) LEE
-[pickup3] We need to find help before it gets dark.
+[pickup3] Musimy poszukac pomocy zanim sie sciemni.
 37) CLEMENTINE
-[pickup1] That sounds good.  We can hide in my treehouse until then.
+[pickup1] Brzmi swietnie. W miedzyczasie mozemy schowac sie w moim domku na drzewie.
 49) CLEMENTINE
-[pickup1] That sounds good.  We can hide in my treehouse until then.
+[pickup1] Brzmi swietnie. W miedzyczasie mozemy schowac sie w domku na drzewie.
 38) LEE
-[pickup3] We need to get out of this neighborhood; it's not safe. We're less likely to be seen if we move at night.
+[pickup3] Musimy opuscic te okolice nie jest tu bezpiecznie. Mniej prawdopodobne jest, ze zostaniemy zauwazeni, jesli bedziemy poruszac sie w nocy.
 48) LEE
 [pickup3] We need to get out of this neighborhood; it's not safe. We're less likely to be seen if we move at night.
 39) CLEMENTINE
